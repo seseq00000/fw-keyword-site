@@ -1,0 +1,26 @@
+{
+  "slug": "sports-kbo",
+  "category": "sports",
+  "order": 1,
+  "featured": true,
+  "feat_order": 1.5,
+  "title": "KBO 프로야구 팀 순위",
+  "card_desc": "2026 시즌 KBO 리그 팀 순위 (승률순)",
+  "intro": "2026 신한 SOL KBO 리그 팀 순위입니다. 승률 기준이며, 오늘 경기 결과에 따라 변동됩니다.",
+  "value_label": "승률 · 2026-07-28 기준",
+  "source": "다음스포츠 (KBO 리그)",
+  "source_url": "https://sports.daum.net/record/kbo",
+  "collected_date": "2026-07-28",
+  "items": [
+    { "name": "삼성 라이온즈", "sub": "58승 2무 35패 · 게임차 0.0", "value": ".624" },
+    { "name": "KT 위즈", "sub": "54승 2무 36패 · 게임차 2.5", "value": ".600" },
+    { "name": "LG 트윈스", "sub": "54승 41패 · 게임차 5.0", "value": ".568" },
+    { "name": "두산 베어스", "sub": "49승 3무 44패 · 게임차 9.0", "value": ".527" },
+    { "name": "KIA 타이거즈", "sub": "50승 2무 45패 · 게임차 9.0", "value": ".526" },
+    { "name": "한화 이글스", "sub": "44승 3무 45패 · 게임차 12.0", "value": ".494" },
+    { "name": "NC 다이노스", "sub": "42승 2무 48패 · 게임차 14.5", "value": ".467" },
+    { "name": "롯데 자이언츠", "sub": "41승 2무 51패 · 게임차 16.5", "value": ".446" },
+    { "name": "SSG 랜더스", "sub": "36승 4무 57패 · 게임차 22.0", "value": ".387" },
+    { "name": "키움 히어로즈", "sub": "35승 2무 61패 · 게임차 24.5", "value": ".365" }
+  ]
+}

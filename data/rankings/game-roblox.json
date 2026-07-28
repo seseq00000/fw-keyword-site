@@ -1,0 +1,26 @@
+{
+  "slug": "game-roblox",
+  "category": "game",
+  "order": 3,
+  "featured": true,
+  "feat_order": 1.7,
+  "title": "로블록스 인기 게임 순위 (동시접속자순)",
+  "card_desc": "지금 로블록스에서 가장 많이 플레이 중인 게임",
+  "intro": "로블록스 공식 차트에서 지금 이 순간 가장 많은 사람이 동시에 접속해 플레이 중인 게임 순위입니다. 전 세계·전체 기기 기준입니다.",
+  "value_label": "실시간 동시 접속자 · Roblox 공식 차트 기준",
+  "source": "Roblox 공식 차트 (roblox.com/charts)",
+  "source_url": "https://www.roblox.com/charts",
+  "collected_date": "2026-07-28",
+  "items": [
+    { "name": "Murder Mystery 2", "sub": "살인 미스터리 · 추리 액션", "value": "71.2만", "value_sub": "동시접속" },
+    { "name": "Grow a Garden 2", "sub": "농장 키우기 시뮬레이터", "value": "48.5만", "value_sub": "동시접속" },
+    { "name": "Animal Hospital (Anomaly)", "sub": "동물병원 롤플레이", "value": "41.5만", "value_sub": "동시접속" },
+    { "name": "99 Nights in the Forest", "sub": "숲 생존 협동", "value": "37.0만", "value_sub": "동시접속" },
+    { "name": "+1 Speed Keyboard Escape", "sub": "탈출 오비 · Candy & Chocolate", "value": "36.3만", "value_sub": "동시접속" },
+    { "name": "Blox Fruits", "sub": "해적 액션 RPG", "value": "31.6만", "value_sub": "동시접속" },
+    { "name": "Anime Expeditions", "sub": "애니메이션 RPG", "value": "25.5만", "value_sub": "동시접속" },
+    { "name": "RIVALS", "sub": "1인칭 슈팅(FPS)", "value": "24.8만", "value_sub": "동시접속" },
+    { "name": "Steal a Brainrot", "sub": "브레인롯 수집 경쟁", "value": "19.6만", "value_sub": "동시접속" },
+    { "name": "Adopt Me!", "sub": "펫 입양 롤플레이", "value": "18.5만", "value_sub": "동시접속" }
+  ]
+}

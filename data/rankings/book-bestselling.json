@@ -1,0 +1,26 @@
+{
+  "slug": "book-bestselling",
+  "category": "book",
+  "order": 1,
+  "featured": true,
+  "feat_order": 6,
+  "title": "역대 가장 많이 팔린 책 TOP 10",
+  "card_desc": "전 세계에서 가장 많이 판매된 단행본 순위",
+  "intro": "전 세계에서 역대 가장 많이 팔린 단행본(시리즈 제외) 순위입니다. 소설과 고전이 상위권을 차지하고 있습니다.",
+  "value_label": "누적 판매 부수",
+  "source": "Wikipedia — List of best-selling books",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_best-selling_books",
+  "collected_date": "2026-07-28",
+  "items": [
+    { "name": "두 도시 이야기", "sub": "찰스 디킨스 · 1859", "value": "2억+ 부" },
+    { "name": "어린 왕자", "sub": "생텍쥐페리 · 1943", "value": "2억 부" },
+    { "name": "연금술사", "sub": "파울로 코엘료 · 1988", "value": "1.5억 부" },
+    { "name": "해리 포터와 마법사의 돌", "sub": "J.K. 롤링 · 1997", "value": "1.2억 부" },
+    { "name": "그리고 아무도 없었다", "sub": "애거사 크리스티 · 1939", "value": "1억 부" },
+    { "name": "홍루몽", "sub": "조설근 · 1791", "value": "1억 부" },
+    { "name": "호빗", "sub": "J.R.R. 톨킨 · 1937", "value": "1억 부" },
+    { "name": "이상한 나라의 앨리스", "sub": "루이스 캐럴 · 1865", "value": "1억 부" },
+    { "name": "그녀(She)", "sub": "H. 라이더 해거드 · 1887", "value": "8,300만 부" },
+    { "name": "다빈치 코드", "sub": "댄 브라운 · 2003", "value": "8,000만 부" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "movie-korea-alltime",
+  "category": "movie",
+  "order": 2,
+  "title": "역대 한국 영화관 최다 관객 영화 TOP 10",
+  "card_desc": "국내 개봉 영화 중 역대 관객수가 가장 많았던 작품",
+  "intro": "영화진흥위원회(KOFIC) 통합전산망 집계 기준, 국내에서 역대 가장 많은 관객을 모은 영화 순위입니다. 한국 영화가 상위권을 휩쓸고 있습니다.",
+  "value_label": "누적 관객수 (KOFIC)",
+  "source": "영화진흥위원회(KOBIS) · Wikipedia 정리",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films_in_South_Korea",
+  "collected_date": "2026-04-12",
+  "items": [
+    { "name": "명량", "sub": "2014", "value": "1,762만 명" },
+    { "name": "왕과 사는 남자", "sub": "2026", "value": "1,688만 명" },
+    { "name": "극한직업", "sub": "2019", "value": "1,627만 명" },
+    { "name": "신과함께-죄와 벌", "sub": "2017", "value": "1,441만 명" },
+    { "name": "국제시장", "sub": "2014", "value": "1,427만 명" },
+    { "name": "베테랑", "sub": "2015", "value": "1,341만 명" },
+    { "name": "서울의 봄", "sub": "2023", "value": "1,313만 명" },
+    { "name": "괴물", "sub": "2006", "value": "1,302만 명" },
+    { "name": "도둑들", "sub": "2012", "value": "1,298만 명" },
+    { "name": "7번방의 선물", "sub": "2013", "value": "1,281만 명" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "game-bestselling",
+  "category": "game",
+  "order": 2,
+  "title": "역대 가장 많이 팔린 비디오 게임 TOP 10",
+  "card_desc": "전 세계에서 가장 많이 판매된 게임 순위 (전 기종 합산)",
+  "intro": "출시 이후 전 세계 누적 판매량 기준, 역대 가장 많이 팔린 비디오 게임 순위입니다. 플랫폼을 모두 합산한 수치입니다.",
+  "value_label": "누적 판매량",
+  "source": "Wikipedia — List of best-selling video games",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+  "collected_date": "2026-07-28",
+  "items": [
+    { "name": "테트리스 (Tetris)", "sub": "멀티플랫폼 · 1988", "value": "5.2억 장" },
+    { "name": "마인크래프트 (Minecraft)", "sub": "멀티플랫폼 · 2011", "value": "4.0억 장" },
+    { "name": "GTA 5", "sub": "멀티플랫폼 · 2013", "value": "2.3억 장" },
+    { "name": "Wii 스포츠", "sub": "Wii · 2006", "value": "8,290만 장" },
+    { "name": "마리오카트 8", "sub": "Wii U/스위치 · 2014", "value": "7,954만 장" },
+    { "name": "배틀그라운드 (PUBG)", "sub": "멀티플랫폼 · 2017", "value": "7,500만 장" },
+    { "name": "테라리아 (Terraria)", "sub": "멀티플랫폼 · 2011", "value": "7,000만 장" },
+    { "name": "엘더스크롤 5: 스카이림", "sub": "멀티플랫폼 · 2011", "value": "6,500만 장" },
+    { "name": "더 위쳐 3", "sub": "멀티플랫폼 · 2015", "value": "6,500만 장" },
+    { "name": "슈퍼 마리오브라더스", "sub": "멀티플랫폼 · 1985", "value": "5,800만 장" }
+  ]
+}

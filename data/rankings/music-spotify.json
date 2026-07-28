@@ -1,0 +1,26 @@
+{
+  "slug": "music-spotify",
+  "category": "music",
+  "order": 1,
+  "featured": true,
+  "feat_order": 3,
+  "title": "스포티파이 역대 최다 스트리밍 곡 TOP 10",
+  "card_desc": "전 세계 스포티파이에서 가장 많이 재생된 노래 순위",
+  "intro": "세계 최대 음원 스트리밍 플랫폼 스포티파이에서 역대 가장 많이 재생된 곡 순위입니다. 누적 스트리밍 수 기준입니다.",
+  "value_label": "누적 스트리밍 수",
+  "source": "Wikipedia — Most-streamed songs on Spotify",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most-streamed_songs_on_Spotify",
+  "collected_date": "2026-07-27",
+  "items": [
+    { "name": "Blinding Lights", "sub": "The Weeknd", "value": "55.2억 회" },
+    { "name": "Shape of You", "sub": "Ed Sheeran", "value": "50.3억 회" },
+    { "name": "Sweater Weather", "sub": "The Neighbourhood", "value": "47.6억 회" },
+    { "name": "Starboy", "sub": "The Weeknd ft. Daft Punk", "value": "46.6억 회" },
+    { "name": "As It Was", "sub": "Harry Styles", "value": "45.4억 회" },
+    { "name": "Someone You Loved", "sub": "Lewis Capaldi", "value": "43.9억 회" },
+    { "name": "One Dance", "sub": "Drake ft. Wizkid & Kyla", "value": "43.8억 회" },
+    { "name": "Sunflower", "sub": "Post Malone & Swae Lee", "value": "43.4억 회" },
+    { "name": "Perfect", "sub": "Ed Sheeran", "value": "40.5억 회" },
+    { "name": "Stay", "sub": "The Kid LAROI & Justin Bieber", "value": "40.1억 회" }
+  ]
+}

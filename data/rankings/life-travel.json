@@ -1,0 +1,26 @@
+{
+  "slug": "life-travel",
+  "category": "life",
+  "order": 1,
+  "featured": true,
+  "feat_order": 5,
+  "title": "한국인이 많이 가는 해외여행지 TOP 10",
+  "card_desc": "한국인이 가장 많이 찾은 해외 여행 도시 순위",
+  "intro": "여행 플랫폼 아고다가 한국인 이용자의 숙소 검색 데이터를 분석한 인기 해외여행 도시 순위입니다. 일본과 동남아 도시가 상위권을 차지했습니다.",
+  "value_label": "아고다 숙소 검색량 기준 (2025년)",
+  "source": "아고다(Agoda) · 여행톡톡 정리",
+  "source_url": "https://www.tourtoctoc.com/news/articleView.html?idxno=11309",
+  "collected_date": "2025-12-18",
+  "items": [
+    { "name": "도쿄", "sub": "일본" },
+    { "name": "후쿠오카", "sub": "일본" },
+    { "name": "오사카", "sub": "일본" },
+    { "name": "나트랑", "sub": "베트남" },
+    { "name": "발리", "sub": "인도네시아" },
+    { "name": "다낭", "sub": "베트남" },
+    { "name": "방콕", "sub": "태국" },
+    { "name": "삿포로", "sub": "일본" },
+    { "name": "타이베이", "sub": "대만" },
+    { "name": "푸꾸옥", "sub": "베트남" }
+  ]
+}

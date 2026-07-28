@@ -1,0 +1,19 @@
+{
+  "slug": "app-smartphone",
+  "category": "app",
+  "order": 2,
+  "title": "전 세계 스마트폰 제조사 점유율 순위",
+  "card_desc": "실사용 기준 글로벌 스마트폰 브랜드 점유율",
+  "intro": "스탯카운터(StatCounter)가 실제 웹 접속 기기를 기준으로 집계한 전 세계 스마트폰 제조사 점유율입니다. 애플이 삼성을 앞서 1위를 유지하고 있습니다.",
+  "value_label": "글로벌 점유율 (2026년 6월, 미상 제외)",
+  "source": "StatCounter Global Stats",
+  "source_url": "https://gs.statcounter.com/vendor-market-share/mobile",
+  "collected_date": "2026-06-30",
+  "items": [
+    { "name": "애플 (Apple)", "sub": "아이폰", "value": "30.8%" },
+    { "name": "삼성 (Samsung)", "sub": "갤럭시", "value": "19.1%" },
+    { "name": "샤오미 (Xiaomi)", "sub": "중국", "value": "9.4%" },
+    { "name": "오포 (Oppo)", "sub": "중국", "value": "5.8%" },
+    { "name": "비보 (Vivo)", "sub": "중국", "value": "5.7%" }
+  ]
+}

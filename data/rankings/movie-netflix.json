@@ -1,0 +1,21 @@
+{
+  "slug": "movie-netflix",
+  "category": "movie",
+  "order": 1,
+  "featured": true,
+  "feat_order": 2,
+  "title": "넷플릭스 글로벌 TOP 10 속 한국 드라마",
+  "card_desc": "넷플릭스 주간 비영어 시리즈 TOP10에 오른 한국 드라마",
+  "intro": "넷플릭스 공식 주간 차트(글로벌 비영어 시리즈, 7월 13~19일) TOP 10 중 무려 5편이 한국 드라마였습니다. 왼쪽 숫자는 글로벌 차트에서의 실제 순위입니다.",
+  "value_label": "주간 시청자 수 · 글로벌 비영어 시리즈 차트 (2026.07.13~07.19)",
+  "source": "넷플릭스 공식 Top 10 (스타뉴스 집계)",
+  "source_url": "https://www.starnewskorea.com/broadcast-drama/2026/07/27/2026072717412141711",
+  "collected_date": "2026-07-27",
+  "items": [
+    { "rank": 1, "name": "김부장", "sub": "소지섭 주연 · 4주 연속 1위", "value": "820만 명", "value_sub": "7,200만 시간" },
+    { "rank": 2, "name": "동궁", "sub": "남주혁·노윤서·조승우 · 신규 진입", "value": "490만 명", "value_sub": "3,290만 시간" },
+    { "rank": 5, "name": "아파트", "sub": "지성 주연 · JTBC·넷플릭스", "value": "330만 명" },
+    { "rank": 6, "name": "참교육", "sub": "7주 연속 TOP10 롱런", "value": "290만 명" },
+    { "rank": 8, "name": "오싹한 연애", "sub": "박은빈·양세종·옹성우 · 호러 로맨스", "value": "신규 진입" }
+  ]
+}

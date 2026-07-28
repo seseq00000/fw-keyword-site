@@ -1,0 +1,14 @@
+{
+  "domain": "moduranking.com",
+  "tagline": "세상 궁금한 모든 랭킹",
+  "tagline_full": "세상 궁금한 모든 랭킹을 공식·집계 데이터로 검증해 한곳에 모은 종합 랭킹 사이트",
+  "contact_email": "seseq00000@gmail.com",
+  "categories": [
+    { "slug": "game", "name": "게임", "icon": "🎮", "desc": "PC방 점유율, 로블록스 인기 게임, 스팀 동시접속 등 데이터로 보는 게임 랭킹" },
+    { "slug": "music", "name": "음악", "icon": "🎵", "desc": "멜론·빌보드·스포티파이 등 국내외 음원 차트 랭킹" },
+    { "slug": "movie", "name": "영화·OTT", "icon": "🎬", "desc": "주간 박스오피스와 넷플릭스 TOP10 등 영화·OTT 랭킹" },
+    { "slug": "app", "name": "앱·IT", "icon": "📱", "desc": "앱 다운로드 순위, 유튜버 구독자, 스마트폰 점유율 등 IT 랭킹" },
+    { "slug": "book", "name": "도서·웹툰", "icon": "📚", "desc": "베스트셀러와 인기 웹툰 등 읽을거리 랭킹" },
+    { "slug": "life", "name": "쇼핑·음식", "icon": "🛍️", "desc": "편의점 인기상품, 배달 인기메뉴, 인기 여행지 등 생활 랭킹" }
+  ]
+}

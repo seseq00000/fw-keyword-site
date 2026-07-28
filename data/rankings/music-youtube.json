@@ -1,0 +1,24 @@
+{
+  "slug": "music-youtube",
+  "category": "music",
+  "order": 2,
+  "title": "유튜브 역대 최다 조회 영상 TOP 10",
+  "card_desc": "전 세계 유튜브에서 가장 많이 본 영상 순위",
+  "intro": "전 세계 유튜브에서 역대 가장 많이 재생된 영상 순위입니다. 동요·뮤직비디오가 상위권을 차지하고 있으며, 한국의 '강남스타일'도 이름을 올렸습니다.",
+  "value_label": "누적 조회수",
+  "source": "Wikipedia — Most-viewed YouTube videos",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos",
+  "collected_date": "2026-06-10",
+  "items": [
+    { "name": "Baby Shark Dance", "sub": "Pinkfong · 동요", "value": "170.6억 회" },
+    { "name": "Wheels on the Bus", "sub": "Cocomelon · 동요", "value": "90.6억 회" },
+    { "name": "Despacito", "sub": "Luis Fonsi · 뮤직비디오", "value": "90.6억 회" },
+    { "name": "Bath Song", "sub": "Cocomelon · 동요", "value": "75.0억 회" },
+    { "name": "Johny Johny Yes Papa", "sub": "LooLoo Kids · 동요", "value": "72.0억 회" },
+    { "name": "See You Again", "sub": "Wiz Khalifa ft. Charlie Puth", "value": "70.1억 회" },
+    { "name": "Phonics Song with Two Words", "sub": "ChuChu TV · 동요", "value": "69.9억 회" },
+    { "name": "Shape of You", "sub": "Ed Sheeran · 뮤직비디오", "value": "67.4억 회" },
+    { "name": "강남스타일", "sub": "싸이(PSY) · 뮤직비디오", "value": "60.4억 회" },
+    { "name": "Axel F", "sub": "Crazy Frog", "value": "59.6억 회" }
+  ]
+}

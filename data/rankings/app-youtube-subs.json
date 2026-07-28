@@ -1,0 +1,26 @@
+{
+  "slug": "app-youtube-subs",
+  "category": "app",
+  "order": 1,
+  "featured": true,
+  "feat_order": 4,
+  "title": "전 세계 유튜브 구독자 순위 TOP 10",
+  "card_desc": "가장 많은 구독자를 보유한 유튜브 채널",
+  "intro": "전 세계에서 가장 많은 구독자를 보유한 유튜브 채널 순위입니다. 한국 채널 '김프로KIMPRO'도 8위에 이름을 올렸습니다.",
+  "value_label": "구독자 수",
+  "source": "Wikipedia — Most-subscribed YouTube channels",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels",
+  "collected_date": "2026-06-30",
+  "items": [
+    { "name": "MrBeast", "sub": "미국 · 엔터테인먼트", "value": "5.09억 명" },
+    { "name": "T-Series", "sub": "인도 · 음악", "value": "3.14억 명" },
+    { "name": "Cocomelon", "sub": "미국 · 교육/동요", "value": "2.02억 명" },
+    { "name": "SET India", "sub": "인도 · 방송", "value": "1.89억 명" },
+    { "name": "Vlad and Niki", "sub": "러시아 · 키즈", "value": "1.50억 명" },
+    { "name": "Stokes Twins", "sub": "미국 · 엔터", "value": "1.43억 명" },
+    { "name": "Kids Diana Show", "sub": "우크라이나 · 키즈", "value": "1.38억 명" },
+    { "name": "김프로KIMPRO", "sub": "대한민국 · 인물", "value": "1.34억 명" },
+    { "name": "Like Nastya", "sub": "러시아 · 키즈", "value": "1.33억 명" },
+    { "name": "Zee Music Company", "sub": "인도 · 음악", "value": "1.22억 명" }
+  ]
+}

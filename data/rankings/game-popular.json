@@ -1,0 +1,26 @@
+{
+  "slug": "game-popular",
+  "category": "game",
+  "order": 1,
+  "featured": true,
+  "feat_order": 1,
+  "title": "인기 게임 순위 TOP 10",
+  "card_desc": "PC방 접속·방송 시청·유저 투표를 종합한 국내 인기 게임 순위",
+  "intro": "게임메카가 PC방 접속량, 포털 트렌드, 게임방송 시청자, 유저 투표 등을 종합해 집계한 국내 인기 게임 순위입니다. 요즘 사람들이 가장 많이 하고, 가장 많이 보는 게임을 보여줍니다.",
+  "value_label": "게임메카 종합 인기지수 (2026.07.15~07.21)",
+  "source": "게임메카 인기 게임 순위",
+  "source_url": "https://www.gamemeca.com/ranking.php",
+  "collected_date": "2026-07-28",
+  "items": [
+    { "name": "리그 오브 레전드", "sub": "라이엇게임즈 · AOS. PC방 점유율 32%대로 압도적 1위" },
+    { "name": "발로란트", "sub": "라이엇게임즈 · FPS. VCT 시즌·신규 업데이트로 상승" },
+    { "name": "FC 온라인", "sub": "넥슨 · 축구 스포츠" },
+    { "name": "메이플스토리", "sub": "넥슨 · MMORPG. PC방 점유율 8%대" },
+    { "name": "배틀그라운드", "sub": "크래프톤 · 배틀로얄" },
+    { "name": "리니지", "sub": "엔씨소프트 · MMORPG" },
+    { "name": "서든어택", "sub": "넥슨 · FPS" },
+    { "name": "로스트아크", "sub": "스마일게이트 · MMORPG" },
+    { "name": "로블록스", "sub": "로블록스 · 샌드박스. 여름방학 트래픽으로 TOP10 진입" },
+    { "name": "아이온2", "sub": "엔씨소프트 · MMORPG" }
+  ]
+}

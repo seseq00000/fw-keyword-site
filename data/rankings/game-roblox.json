@@ -11,6 +11,11 @@
   "source": "Roblox 공식 차트 (roblox.com/charts)",
   "source_url": "https://www.roblox.com/charts",
   "collected_date": "2026-07-28",
+  "analysis": [
+    "로블록스 순위는 '누적 방문자'가 아니라 '지금 이 순간 동시 접속자'로 매겨집니다. 그래서 하루 안에도 순위가 바뀌며, 신작이나 대형 업데이트가 나오면 수십만 명이 순식간에 몰리기도 합니다.",
+    "상위권을 보면 Murder Mystery 2·Adopt Me!처럼 수년간 사랑받는 스테디셀러와, Grow a Garden·Steal a Brainrot처럼 최근 밈을 타고 급부상한 게임이 공존합니다. 오래된 명작과 빠른 유행이 한 화면에 담기는 것이 로블록스 생태계의 특징입니다.",
+    "게임 이름 앞뒤에 붙은 이모지나 대괄호 표기는 개발사가 업데이트를 알리려고 수시로 바꾸는 부분이라, 핵심 게임명만 기억하면 됩니다."
+  ],
   "items": [
     { "name": "Murder Mystery 2", "sub": "살인 미스터리 · 추리 액션", "value": "71.2만", "value_sub": "동시접속" },
     { "name": "Grow a Garden 2", "sub": "농장 키우기 시뮬레이터", "value": "48.5만", "value_sub": "동시접속" },

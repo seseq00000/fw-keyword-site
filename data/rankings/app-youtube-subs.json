@@ -11,6 +11,11 @@
   "source": "Wikipedia — Most-subscribed YouTube channels",
   "source_url": "https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels",
   "collected_date": "2026-06-30",
+  "analysis": [
+    "1위 MrBeast는 5억 명을 넘겨, 기업형 채널(T-Series)이 아닌 개인 크리에이터로는 압도적 1위입니다. 대규모 이벤트성 콘텐츠가 글로벌 구독을 얼마나 빠르게 끌어모으는지 보여줍니다.",
+    "한국 채널 '김프로KIMPRO'가 8위(1.34억)에 올라 있는 점이 눈에 띕니다. 언어 장벽이 적은 숏폼·비언어 콘텐츠가 국적을 넘어 통한다는 사실을 잘 보여줍니다.",
+    "상위권에는 인도(T-Series·SET India)와 키즈 채널이 다수인데, 인구가 많은 시장과 반복 시청이 강한 장르가 구독자 확보에 유리합니다."
+  ],
   "items": [
     { "name": "MrBeast", "sub": "미국 · 엔터테인먼트", "value": "5.09억 명" },
     { "name": "T-Series", "sub": "인도 · 음악", "value": "3.14억 명" },

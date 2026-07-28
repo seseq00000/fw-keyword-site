@@ -3,6 +3,9 @@
   "tagline": "세상 궁금한 모든 랭킹",
   "tagline_full": "세상 궁금한 모든 랭킹을 공식·집계 데이터로 검증해 한곳에 모은 종합 랭킹 사이트",
   "contact_email": "seseq00000@gmail.com",
+  "adsense_pub_id": "",
+  "ga4_id": "",
+  "coupang_partners": false,
   "categories": [
     { "slug": "game", "name": "게임", "icon": "🎮", "desc": "PC방 점유율, 로블록스 인기 게임, 스팀 동시접속 등 데이터로 보는 게임 랭킹" },
     { "slug": "music", "name": "음악", "icon": "🎵", "desc": "멜론·빌보드·스포티파이 등 국내외 음원 차트 랭킹" },

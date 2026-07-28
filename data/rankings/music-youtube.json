@@ -9,6 +9,11 @@
   "source": "Wikipedia — Most-viewed YouTube videos",
   "source_url": "https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos",
   "collected_date": "2026-06-10",
+  "analysis": [
+    "1위 Baby Shark Dance는 170억 회를 넘겨 유튜브 역사상 가장 많이 재생된 영상입니다. 상위권 대부분이 동요라는 점이 흥미로운데, 아이들이 같은 영상을 반복 재생하는 시청 습관이 조회수를 폭발적으로 끌어올립니다.",
+    "싸이의 '강남스타일'은 2012년 최초로 유튜브 조회수 카운터의 한계를 넘겨버린 화제의 영상으로, 지금도 한국 콘텐츠의 글로벌 영향력을 상징하며 상위권을 지키고 있습니다.",
+    "유튜브 조회수 역시 누적치라 순위 변화가 느립니다. 다만 동요·뮤직비디오처럼 반복 시청이 많은 장르가 절대적으로 유리합니다."
+  ],
   "items": [
     { "name": "Baby Shark Dance", "sub": "Pinkfong · 동요", "value": "170.6억 회" },
     { "name": "Wheels on the Bus", "sub": "Cocomelon · 동요", "value": "90.6억 회" },

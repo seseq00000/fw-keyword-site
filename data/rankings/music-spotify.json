@@ -11,6 +11,11 @@
   "source": "Wikipedia — Most-streamed songs on Spotify",
   "source_url": "https://en.wikipedia.org/wiki/List_of_most-streamed_songs_on_Spotify",
   "collected_date": "2026-07-27",
+  "analysis": [
+    "1위 Blinding Lights를 부른 The Weeknd는 이 목록에 두 곡(Blinding Lights·Starboy)을 올린 유일한 아티스트입니다. 스트리밍 시대에 특정 아티스트의 '롱런 파워'가 얼마나 중요한지 보여줍니다.",
+    "상위권 곡들의 공통점은 발매 직후 반짝 인기가 아니라 몇 년에 걸쳐 꾸준히 재생됐다는 점입니다. 스포티파이 누적 스트리밍은 '지금 유행하는 곡'보다 '오래 사랑받은 곡'을 가려내는 지표에 가깝습니다.",
+    "누적 수치는 계속 쌓이기만 하므로 순위는 천천히 바뀝니다. 새로운 곡이 이 목록에 진입하려면 최소 수년간의 스트리밍이 필요합니다."
+  ],
   "items": [
     { "name": "Blinding Lights", "sub": "The Weeknd", "value": "55.2억 회" },
     { "name": "Shape of You", "sub": "Ed Sheeran", "value": "50.3억 회" },

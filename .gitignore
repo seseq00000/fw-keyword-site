@@ -1,2 +1,5 @@
 .dev-serve.mjs
 node_modules/
+.notion-token
+.notion.json
+.secrets/

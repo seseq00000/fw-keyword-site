@@ -1,0 +1,34 @@
+{
+  "slug": "app-youtuber-kr",
+  "category": "app",
+  "order": 2,
+  "title": "한국 유튜브 채널 구독자 순위 TOP 15",
+  "card_desc": "국내 채널 중 구독자가 가장 많은 유튜브 채널",
+  "intro": "유튜브 채널 통계 서비스 플레이보드(Playboard)가 집계한, 한국에 등록된 유튜브 채널의 구독자 순위입니다. 전 세계 채널을 함께 본 순위는 '전 세계 유튜브 구독자 순위'에서 확인할 수 있습니다.",
+  "value_label": "구독자 수",
+  "source": "플레이보드(Playboard) — 한국 채널 구독자 순위",
+  "source_url": "https://playboard.co/en/youtube-ranking/most-subscribed-all-channels-in-south-korea-total",
+  "collected_date": "2026-07-29",
+  "analysis": [
+    "1위 김프로KIMPRO(1.34억)는 전 세계 순위에서도 8위에 오른 채널로, 말이 거의 없는 비언어 숏폼 콘텐츠를 만듭니다. 2위 BLACKPINK 공식 채널(1.01억)과 함께, 한국에서 구독자 1억을 넘긴 채널이 두 곳이라는 뜻입니다. 언어 장벽이 없는 콘텐츠와 글로벌 팬덤, 두 가지가 한국 채널을 억 단위로 끌어올린 경로입니다.",
+    "상위 10위 안에 BLACKPINK·BANGTANTV·HYBE LABELS·SMTOWN·JYP Entertainment까지 K-POP 관련 채널이 다섯 개입니다. 개인 크리에이터 중심인 다른 나라 순위와 달리, 한국은 기획사가 운영하는 공식 채널이 최상위권을 크게 차지하는 구조입니다. 아티스트가 여러 명 소속된 레이블 채널일수록 구독자가 누적되기 쉽기 때문입니다.",
+    "나머지 자리는 CuRe 구래(5위), 승비니 Seungbini(8위), 계향쓰 GH'S(9위), ToyPuddingTV(10위), 유백합 kkubi99(13위)처럼 숏폼·키즈·게임 콘텐츠 채널이 채우고 있습니다. 이들 역시 대사 비중이 낮거나 영상만으로 이해되는 형식이라 해외 시청자 유입이 많습니다. 한국 채널의 구독자 상위권은 사실상 '국내용'이 아니라 '수출형' 콘텐츠가 만들어낸 순위에 가깝습니다."
+  ],
+  "items": [
+    { "name": "김프로KIMPRO", "sub": "숏폼 · 비언어 콘텐츠", "value": "1.34억 명" },
+    { "name": "BLACKPINK", "sub": "K-POP · YG엔터테인먼트", "value": "1.01억 명" },
+    { "name": "BANGTANTV", "sub": "K-POP · 방탄소년단 공식", "value": "8540만 명" },
+    { "name": "HYBE LABELS", "sub": "K-POP · 하이브 레이블", "value": "8210만 명" },
+    { "name": "CuRe 구래", "sub": "숏폼", "value": "3440만 명" },
+    { "name": "SMTOWN", "sub": "K-POP · SM엔터테인먼트", "value": "3380만 명" },
+    { "name": "JYP Entertainment", "sub": "K-POP · JYP엔터테인먼트", "value": "3210만 명" },
+    { "name": "승비니 Seungbini", "sub": "숏폼", "value": "3080만 명" },
+    { "name": "계향쓰 GH'S", "sub": "게임 · 애니메이션", "value": "2790만 명" },
+    { "name": "ToyPuddingTV", "sub": "키즈 · 장난감", "value": "2750만 명" },
+    { "name": "1MILLION Dance Studio", "sub": "댄스", "value": "2640만 명" },
+    { "name": "1theK (원더케이)", "sub": "음악 · 뮤직비디오", "value": "2510만 명" },
+    { "name": "유백합 kkubi99", "sub": "게임 · 숏폼", "value": "2370만 명" },
+    { "name": "KBS WORLD TV", "sub": "방송 · KBS", "value": "2050만 명" },
+    { "name": "officialpsy", "sub": "음악 · 싸이", "value": "2050만 명" }
+  ]
+}

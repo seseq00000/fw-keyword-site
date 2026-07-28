@@ -1,0 +1,41 @@
+{
+  "slug": "app-appstore-kr",
+  "category": "app",
+  "order": 1,
+  "featured": true,
+  "feat_order": 1.8,
+  "title": "한국 앱스토어 인기 무료 앱 TOP 20",
+  "card_desc": "국내 아이폰 사용자가 지금 가장 많이 내려받는 무료 앱",
+  "intro": "애플이 공개하는 대한민국 앱스토어 '무료 앱 순위' 공식 피드를 정리한 순위입니다. 최근 다운로드 실적을 기준으로 애플이 매일 갱신하며, 국내 아이폰 사용자가 지금 무엇을 내려받고 있는지 그대로 보여줍니다.",
+  "value_label": "앱스토어 무료 앱 다운로드 순위",
+  "source": "Apple App Store 공식 차트 — 무료 앱 순위(대한민국)",
+  "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-free/20/apps.json",
+  "collected_date": "2026-07-29",
+  "analysis": [
+    "상위권을 은행·카드·보험 앱이 폭넓게 차지한 점이 눈에 띕니다. 1위 하나은행을 비롯해 신한 슈퍼SOL(11위), 모니모(14위), 실손24(19위)까지 금융 앱만 네 개입니다. 금융 앱은 앱 개편이나 이벤트가 있을 때 기존 고객이 한꺼번에 재설치하기 때문에 짧은 기간에 순위가 크게 뛰는 특징이 있습니다.",
+    "숏폼 드라마 앱 세 개가 동시에 순위권에 있습니다. DramaBox(5위), ReelShort(8위), NetShort(12위)는 모두 1~2분짜리 세로형 드라마를 유료 회차로 파는 해외 앱인데, 국내 앱스토어 상위 20위 안에 나란히 들어왔습니다. 웹툰·숏폼에 익숙한 국내 이용자층에 이 형식이 자리를 잡았다는 신호로 볼 수 있습니다.",
+    "생성형 AI 앱도 확실히 대중 앱 영역으로 넘어왔습니다. Google Gemini가 4위, Claude가 9위로 은행·공공 앱과 같은 구간에서 경쟁하고 있습니다. 여기에 K-패스(6위), 대한민국 모바일 신분증(15위), 정부24(16위) 같은 공공 앱이 꾸준히 상위권을 지키는 것도 한국 앱스토어 순위의 특징입니다. 해외 차트에서는 보기 어려운, 생활 행정이 모바일로 넘어온 결과입니다."
+  ],
+  "items": [
+    { "name": "하나은행, 새로워진 하나원큐를 경험해 보세요", "sub": "Hana Bank", "url": "https://apps.apple.com/kr/app/id6743190232" },
+    { "name": "CGV", "sub": "CJ CGV Co.ltd", "url": "https://apps.apple.com/kr/app/id6738896323" },
+    { "name": "애슐리 멤버스", "sub": "이랜드이츠", "url": "https://apps.apple.com/kr/app/id6742396381" },
+    { "name": "Google Gemini", "sub": "Google", "url": "https://apps.apple.com/kr/app/id6477489729" },
+    { "name": "DramaBox - 영화와 숏폼 드라마", "sub": "STORYMATRIX PTE. LTD.", "url": "https://apps.apple.com/kr/app/id6445905219" },
+    { "name": "K-패스", "sub": "교통안전공단", "url": "https://apps.apple.com/kr/app/id1538531939" },
+    { "name": "Trip.com 트립닷컴 - 여행 할인 예약", "sub": "Trip.com Travel Singapore Pte. Ltd.", "url": "https://apps.apple.com/kr/app/id681752345" },
+    { "name": "ReelShort - 드라마 & TV 실시간", "sub": "NewLeaf Publishing", "url": "https://apps.apple.com/kr/app/id1636235979" },
+    { "name": "Claude by Anthropic", "sub": "Anthropic PBC", "url": "https://apps.apple.com/kr/app/id6473753684" },
+    { "name": "네이버플러스 스토어", "sub": "NAVER Corp.", "url": "https://apps.apple.com/kr/app/id6738063154" },
+    { "name": "신한 슈퍼SOL - 신한 유니버셜 금융 앱", "sub": "SHINHAN BANK · 금융", "url": "https://apps.apple.com/kr/app/id357484932" },
+    { "name": "NetShort - 인기 드라마 및 TV 프로그램", "sub": "NETSTORY PTE. LTD. · 엔터테인먼트", "url": "https://apps.apple.com/kr/app/id6504849169" },
+    { "name": "Threads", "sub": "Instagram, Inc. · 소셜 네트워킹", "url": "https://apps.apple.com/kr/app/id6446901002" },
+    { "name": "모니모(삼성금융통합앱) 생명 화재 카드 증권", "sub": "Samsungcard Co., Ltd. · 금융", "url": "https://apps.apple.com/kr/app/id379577046" },
+    { "name": "대한민국 모바일 신분증", "sub": "행정안전부 · 유틸리티", "url": "https://apps.apple.com/kr/app/id1599450372" },
+    { "name": "정부24(구 민원24)", "sub": "행정안전부 · 라이프스타일", "url": "https://apps.apple.com/kr/app/id586454505" },
+    { "name": "듀오링고(Duolingo): 언어 학습", "sub": "Duolingo · 교육", "url": "https://apps.apple.com/kr/app/id570060128" },
+    { "name": "NOL(야놀자)", "sub": "YANOLJA CO.,LTD · 여행", "url": "https://apps.apple.com/kr/app/id436731843" },
+    { "name": "실손24", "sub": "Korean Insurance Development Institute Inc. · 금융", "url": "https://apps.apple.com/kr/app/id6553966660" },
+    { "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간", "sub": "FLEXTECH INC. · 생산성", "url": "https://apps.apple.com/kr/app/id1509453185" }
+  ]
+}

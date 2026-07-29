@@ -6,6 +6,7 @@
   "feat_order": 6,
   "title": "역대 가장 많이 팔린 책 TOP 10",
   "card_desc": "전 세계에서 가장 많이 판매된 단행본 순위",
+  "hook": "역대 가장 많이 팔린 책 1위, 해리포터가 아니다",
   "intro": "전 세계에서 역대 가장 많이 팔린 단행본(시리즈 제외) 순위입니다. 소설과 고전이 상위권을 차지하고 있습니다.",
   "value_label": "누적 판매 부수",
   "source": "Wikipedia — List of best-selling books",

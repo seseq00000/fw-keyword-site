@@ -38,7 +38,25 @@ function navHtml(active) {
       `<a href="${c.slug}.html"${active === c.slug ? ' class="active"' : ""}>${esc(c.name)}</a>`
     );
   }
+  links.push(`<a href="all.html"${active === "all" ? ' class="active"' : ""}>전체</a>`);
   return links.join("\n");
+}
+
+// Every ranking in a single stable order: category order from site.json,
+// then `order` within each category. Used for the "next ranking" cycle.
+const allOrdered = site.categories.flatMap((c) => byCat(c.slug));
+
+// Freshest first. Deterministic — ties break on slug so builds are reproducible.
+const byFreshest = (a, b) =>
+  String(b.collected_date).localeCompare(String(a.collected_date)) ||
+  a.slug.localeCompare(b.slug);
+
+// "1위 OOO" teaser used on every recommendation surface.
+function topTeaser(r, withValue = true) {
+  const top = r.items?.[0];
+  if (!top) return "";
+  const val = withValue && top.value ? ` <i>${esc(top.value)}</i>` : "";
+  return `<span class="teaser"><b>1위</b> ${esc(top.name)}${val}</span>`;
 }
 
 // --- analytics / ads head snippets (only emitted when IDs are configured) ---
@@ -194,7 +212,8 @@ ${items}
 ${r.closing ? `<p class="closing">${esc(r.closing)}</p>` : ""}
 ${analysisHtml(r)}
 ${relatedHtml(r)}
-<p class="disclaimer">* 위 랭킹은 ${esc(r.collected_date)} 기준 ${esc(r.source)} 데이터를 정리한 것으로, 집계 시점과 방식에 따라 실제 순위가 달라질 수 있습니다.</p>`;
+<p class="disclaimer">* 위 랭킹은 ${esc(r.collected_date)} 기준 ${esc(r.source)} 데이터를 정리한 것으로, 집계 시점과 방식에 따라 실제 순위가 달라질 수 있습니다.</p>
+${nextRankingHtml(r)}`;
   return layout({
     title: `${r.title} (${r.collected_date} 기준) | 모두랭킹`,
     description: `${r.intro}`.slice(0, 150),
@@ -205,17 +224,75 @@ ${relatedHtml(r)}
   });
 }
 
-// related rankings in same category (internal linking for SEO)
+// Picks what to recommend at the bottom of a ranking page.
+// Priority: manual `related` slugs, then same-category (capped so cross-category
+// always gets room — a reader who exhausted one category needs somewhere to go),
+// then other categories with featured first and freshest next.
+function pickRelated(r, n = 6, sameCatMax = 3) {
+  const seen = new Set([r.slug]);
+  const out = [];
+  const push = (x) => {
+    if (!x || seen.has(x.slug) || out.length >= n) return false;
+    seen.add(x.slug);
+    out.push(x);
+    return true;
+  };
+
+  for (const slug of r.related ?? []) push(rankings.find((x) => x.slug === slug));
+
+  let same = 0;
+  for (const x of byCat(r.category)) {
+    if (same >= sameCatMax) break;
+    if (push(x)) same++;
+  }
+
+  const cross = rankings
+    .filter((x) => x.category !== r.category)
+    .sort((a, b) => (b.featured ? 1 : 0) - (a.featured ? 1 : 0) || byFreshest(a, b));
+  for (const x of cross) push(x);
+
+  // Only reached on a site small enough that the caps left slots empty.
+  for (const x of byCat(r.category)) push(x);
+  return out;
+}
+
+function relCard(s) {
+  const cat = catBySlug[s.category];
+  return `<a class="rel-card" href="${s.slug}.html">
+  <span class="rel-cat">${esc(cat.name)}</span>
+  <span class="rel-hook">${esc(s.hook || s.title)}</span>
+  <span class="rel-title">${esc(s.title)}</span>
+  ${topTeaser(s)}
+</a>`;
+}
+
+// related rankings (internal linking for SEO + session depth)
 function relatedHtml(r) {
-  const sibs = byCat(r.category).filter((x) => x.slug !== r.slug).slice(0, 4);
-  if (!sibs.length) return "";
-  const cards = sibs
-    .map((s) => `<a class="rel-card" href="${s.slug}.html">${esc(s.title)}</a>`)
-    .join("\n");
+  const picks = pickRelated(r);
+  if (!picks.length) return "";
   return `<section class="related">
-  <h2>같은 카테고리 랭킹</h2>
-  <div class="rel-grid">${cards}</div>
+  <h2>이런 랭킹도 궁금하지 않나요?</h2>
+  <div class="rel-grid">
+${picks.map(relCard).join("\n")}
+  </div>
 </section>`;
+}
+
+// Big end-of-page banner onto the next ranking. Walks `allOrdered` and wraps,
+// so every page has a next and the whole site forms one loop.
+function nextRankingHtml(r) {
+  if (allOrdered.length < 2) return "";
+  const i = allOrdered.findIndex((x) => x.slug === r.slug);
+  if (i < 0) return "";
+  const nx = allOrdered[(i + 1) % allOrdered.length];
+  const cat = catBySlug[nx.category];
+  return `<a class="next-ranking" href="${nx.slug}.html">
+  <span class="next-label">다음 랭킹</span>
+  <span class="next-hook">${esc(nx.hook || nx.title)}</span>
+  <span class="next-title">${esc(cat.name)} · ${esc(nx.title)}</span>
+  ${topTeaser(nx, false)}
+  <span class="next-cta">보러 가기 →</span>
+</a>`;
 }
 
 // ---------- category hub ----------
@@ -269,6 +346,23 @@ function renderHome() {
     })
     .join("\n");
 
+  // Freshest rankings — gives a repeat visitor something new on the home page,
+  // which the fixed `featured` list never does.
+  const recentCards = [...rankings]
+    .sort(byFreshest)
+    .slice(0, 6)
+    .map((r) => {
+      const cat = catBySlug[r.category];
+      return `<a class="card recent-card" href="${r.slug}.html">
+  <span class="badge-cat">${esc(cat.name)}</span>
+  <h3>${esc(r.hook || r.title)}</h3>
+  <p>${esc(r.title)}</p>
+  ${topTeaser(r)}
+  <span class="card-src">수집일 ${esc(r.collected_date)}</span>
+</a>`;
+    })
+    .join("\n");
+
   const catCards = site.categories
     .map((c) => {
       const cnt = byCat(c.slug).length;
@@ -292,6 +386,11 @@ function renderHome() {
 ${featCards}
 </div>
 
+<div class="section-head"><h2>최근 업데이트</h2><a class="more" href="all.html">전체 랭킹 ${rankings.length}개 →</a></div>
+<div class="card-grid">
+${recentCards}
+</div>
+
 <div class="section-head"><h2>카테고리</h2></div>
 <div class="card-grid">
 ${catCards}
@@ -301,6 +400,47 @@ ${catCards}
     description: "PC방 게임 순위, 실시간 음원차트, 박스오피스, 앱 다운로드 순위 등 공식·집계 데이터 기반 랭킹 모음. 모두랭킹.",
     active: "home",
     canonical: "",
+    body,
+  });
+}
+
+// ---------- all rankings index ----------
+// Serves the role a search box would, but as a crawlable page: one hub that
+// links every ranking, grouped by category.
+function renderAll() {
+  const sections = site.categories
+    .map((c) => {
+      const rs = byCat(c.slug);
+      if (!rs.length) return "";
+      const cards = rs
+        .map(
+          (r) => `<a class="card" href="${r.slug}.html">
+  <h3>${esc(r.title)}</h3>
+  <p>${esc(r.hook || r.card_desc || r.intro)}</p>
+  ${topTeaser(r)}
+  <span class="card-src">출처 · ${esc(r.source)} · ${esc(r.collected_date)}</span>
+</a>`
+        )
+        .join("\n");
+      return `<div class="section-head"><h2>${c.icon} ${esc(c.name)} ${rs.length}</h2><a class="more" href="${c.slug}.html">카테고리 보기 →</a></div>
+<div class="card-grid two">
+${cards}
+</div>`;
+    })
+    .filter(Boolean)
+    .join("\n\n");
+
+  const body = `<nav class="breadcrumb"><a href="index.html">홈</a> › 전체 랭킹</nav>
+<span class="eyebrow">All Rankings</span>
+<h1 class="page-title">전체 랭킹 ${rankings.length}개</h1>
+<p class="lead">모두랭킹의 모든 랭킹을 카테고리별로 모았습니다. 전부 공식·집계 출처에서 수집한 데이터이며, 각 페이지에 출처와 수집일을 표기합니다.</p>
+${sections}`;
+
+  return layout({
+    title: `전체 랭킹 ${rankings.length}개 모아보기 | 모두랭킹`,
+    description: `모두랭킹의 전체 랭킹 ${rankings.length}개를 게임·음악·영화·앱·도서·쇼핑·스포츠 카테고리별로 모아봅니다. 모두 공식·집계 데이터 기반입니다.`,
+    active: "all",
+    canonical: "all.html",
     body,
   });
 }
@@ -319,6 +459,7 @@ function renderProse(slug, title, inner) {
 // ---------- write everything ----------
 const out = {};
 out["index.html"] = renderHome();
+out["all.html"] = renderAll();
 for (const c of site.categories) out[`${c.slug}.html`] = renderCategory(c);
 for (const r of rankings) out[`${r.slug}.html`] = renderRanking(r);
 
@@ -385,7 +526,7 @@ ${site.categories.map((c) => `<a class="card" href="${c.slug}.html"><span class=
 });
 
 // sitemap + robots
-const urls = ["", ...site.categories.map((c) => `${c.slug}.html`), ...rankings.map((r) => `${r.slug}.html`), "about.html", "privacy.html", "contact.html"];
+const urls = ["", "all.html", ...site.categories.map((c) => `${c.slug}.html`), ...rankings.map((r) => `${r.slug}.html`), "about.html", "privacy.html", "contact.html"];
 out["sitemap.xml"] = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((u) => `  <url><loc>https://www.${site.domain}/${u}</loc></url>`).join("\n")}

@@ -6,6 +6,7 @@
   "feat_order": 3,
   "title": "스포티파이 역대 최다 스트리밍 곡 TOP 10",
   "card_desc": "전 세계 스포티파이에서 가장 많이 재생된 노래 순위",
+  "hook": "이 노래 한 곡만 55억 번 재생됐다",
   "intro": "세계 최대 음원 스트리밍 플랫폼 스포티파이에서 역대 가장 많이 재생된 곡 순위입니다. 누적 스트리밍 수 기준입니다.",
   "value_label": "누적 스트리밍 수",
   "source": "Wikipedia — Most-streamed songs on Spotify",

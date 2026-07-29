@@ -1,0 +1,30 @@
+{
+  "slug": "music-billboard",
+  "category": "music",
+  "order": 2,
+  "title": "빌보드 HOT 100 TOP 10",
+  "card_desc": "미국 빌보드 메인 싱글 차트 상위 10곡",
+  "hook": "빌보드 TOP 10에 한 가수가 세 곡을 올렸다",
+  "intro": "미국 빌보드의 메인 싱글 차트인 HOT 100 상위 10곡입니다. 스트리밍·라디오 방송량·음원 판매량을 합산해 매주 집계하며, 아래는 2026년 8월 1일자 차트 기준입니다.",
+  "value_label": "빌보드 HOT 100 순위 (2026년 8월 1일자)",
+  "source": "Billboard HOT 100 공식 차트",
+  "source_url": "https://www.billboard.com/charts/hot-100/",
+  "collected_date": "2026-07-29",
+  "analysis": [
+    "엘라 랭글리가 1위 Choosin' Texas, 4위 I Can't Love You Anymore, 8위 Be Her까지 TOP 10에 세 곡을 올렸습니다. 한 아티스트가 상위 10위 안에 세 곡을 동시에 배치하는 것은 드문 일이며, 셋 다 컨트리 계열이라는 점에서 최근 미국 주류 차트에서 컨트리의 영향력이 커졌음을 보여줍니다. 올리비아 딘도 7위와 9위로 두 곡을 올렸습니다.",
+    "1위 곡은 차트에 40주째 머물러 있습니다. 6위 Dracula와 7위 So Easy는 43주, 9위 Man I Need는 48주로 1년 가까이 버티고 있습니다. 스트리밍이 집계의 큰 축이 되면서 한번 자리를 잡은 곡이 오래 남는 구조가 굳어졌고, 그만큼 신곡이 상위권을 뚫기는 어려워졌습니다.",
+    "한국 관련 곡도 차트에 있습니다. 6위 Dracula는 호주 밴드 테임 임팔라와 블랙핑크 제니가 함께한 곡이고, 방탄소년단의 Swim은 85위에 자리했습니다. Swim은 직전 주 100위에서 15계단 올랐습니다. K-POP 아티스트가 단독 곡보다 해외 아티스트와의 협업으로 빌보드 상위권에 접근하는 경향을 확인할 수 있습니다."
+  ],
+  "items": [
+    { "name": "Choosin' Texas", "sub": "Ella Langley · 40주 연속 차트인", "value": "1위" },
+    { "name": "I Knew It, I Knew You", "sub": "Taylor Swift · 최고 1위", "value": "2위" },
+    { "name": "Boston", "sub": "Stella Lefty · 지난주 6위", "value": "3위" },
+    { "name": "I Can't Love You Anymore", "sub": "Ella Langley & Morgan Wallen", "value": "4위" },
+    { "name": "Hate That I Made You Love Me", "sub": "Ariana Grande · 최고 1위", "value": "5위" },
+    { "name": "Dracula", "sub": "Tame Impala & JENNIE · 43주 차트인", "value": "6위" },
+    { "name": "So Easy (To Fall In Love)", "sub": "Olivia Dean · 43주 차트인", "value": "7위" },
+    { "name": "Be Her", "sub": "Ella Langley · 최고 2위", "value": "8위" },
+    { "name": "Man I Need", "sub": "Olivia Dean · 48주 차트인", "value": "9위" },
+    { "name": "I Just Might", "sub": "Bruno Mars · 최고 1위", "value": "10위" }
+  ]
+}

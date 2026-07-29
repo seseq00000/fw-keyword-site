@@ -1,0 +1,36 @@
+{
+  "slug": "app-appstore-paid",
+  "category": "app",
+  "order": 2,
+  "title": "한국 앱스토어 인기 유료 앱 TOP 15",
+  "card_desc": "국내 아이폰 사용자가 돈 주고 사는 앱",
+  "hook": "한국인이 돈 주고 사는 앱 15개 중 6개가 같은 종류였다",
+  "intro": "애플이 공개하는 대한민국 앱스토어 '유료 앱 순위' 공식 피드입니다. 무료 앱 순위와 달리 실제로 돈을 내고 구매한 앱만 집계되기 때문에, 국내 이용자가 지갑을 여는 분야가 어디인지 뚜렷하게 드러납니다.",
+  "value_label": "앱스토어 유료 앱 구매 순위",
+  "source": "Apple App Store 공식 차트 — 유료 앱 순위(대한민국)",
+  "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-paid/20/apps.json",
+  "collected_date": "2026-07-29",
+  "related": ["app-appstore-kr"],
+  "analysis": [
+    "15개 중 6개가 필름·아날로그 감성 카메라 앱입니다. 1위 올디(Oldi)를 비롯해 GIKA(2위), 베리필름(3위), filmhwa(4위), 영뽀또(9위), 네거티브(11위)까지 모두 같은 계열입니다. 상위 4위를 전부 이 장르가 차지했다는 점이 특히 눈에 띕니다. 스마트폰 기본 카메라 성능이 이미 충분한 상황에서, 이용자들이 '더 잘 찍히는 카메라'가 아니라 '특정한 느낌으로 찍히는 카메라'에 돈을 쓰고 있다는 뜻입니다.",
+    "무료 앱 순위와 비교하면 성격이 완전히 다릅니다. 무료 순위 상위권은 은행·공공·쇼핑처럼 대기업과 기관이 만든 앱이 차지하는 반면, 유료 순위는 개인 개발자나 소규모 스튜디오 이름이 대부분입니다. 대형 서비스는 앱을 무료로 뿌리고 다른 곳에서 수익을 내기 때문에, 유료 차트에는 앱 판매 자체가 수익 모델인 소규모 개발자만 남습니다.",
+    "카메라 앱을 제외하면 학습·생산성 도구가 자리를 채웁니다. 한국사 능력(5위), DayGrid 시간표(6위), AnkiMobile 암기카드(13위), 위플 가계부(15위)처럼 시험 준비나 일정·지출 관리를 돕는 앱들입니다. 재미를 위한 앱보다 '해야 할 일을 돕는 앱'에 결제가 몰리는 구조로, 광고 없이 쓰려는 수요가 유료 구매로 이어지는 전형적인 사례입니다."
+  ],
+  "items": [
+    { "name": "올디 Oldi - Phone Camera", "sub": "Sean Cho" },
+    { "name": "GIKA 기카 - 독보적인 올드폰 감성 카메라", "sub": "Noahproject Inc." },
+    { "name": "베리필름 Berryfilm - 60만 팬이 사랑한 필터", "sub": "Seungyun Kim" },
+    { "name": "filmhwa (필름화) - 화민 필터", "sub": "ARTTIC CO., LTD." },
+    { "name": "한국사 능력", "sub": "별책" },
+    { "name": "DayGrid: 하루 계획표, 데일리스케줄, 시간표", "sub": "ho young moon" },
+    { "name": "Analog Wedding", "sub": "ordinaryfactory Inc." },
+    { "name": "RPGPlayer - An RPGMaker Player", "sub": "Emir Han Temur" },
+    { "name": "영뽀또 - 감성 구도 카메라", "sub": "Seungyun Kim" },
+    { "name": "CHAKK - 인스타 스토리 꾸미는 재미, 챡!", "sub": "Gaeun Lee" },
+    { "name": "네거티브 - 필름 룩 필터.", "sub": "스몰캐머러" },
+    { "name": "无锐化相机", "sub": "北北 宋" },
+    { "name": "AnkiMobile Flashcards", "sub": "Anki Software, LLC" },
+    { "name": "유니콘:Safari 광고 차단", "sub": "OH NAM KWON" },
+    { "name": "위플 가계부 Pro", "sub": "bumblebee" }
+  ]
+}

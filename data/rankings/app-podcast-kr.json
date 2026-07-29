@@ -1,0 +1,35 @@
+{
+  "slug": "app-podcast-kr",
+  "category": "app",
+  "order": 7,
+  "title": "한국 팟캐스트 인기 프로그램 TOP 15",
+  "card_desc": "국내에서 가장 많이 듣는 팟캐스트",
+  "hook": "한국인이 가장 많이 듣는 팟캐스트 1위는 경제 방송이다",
+  "intro": "애플이 공개하는 대한민국 애플 팟캐스트 '인기 프로그램' 공식 차트입니다. 최근 청취 실적을 기준으로 애플이 매일 갱신합니다.",
+  "value_label": "애플 팟캐스트 인기 순위 (대한민국)",
+  "source": "Apple Podcasts 공식 차트 — 인기 프로그램(대한민국)",
+  "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/podcasts/top/15/podcasts.json",
+  "collected_date": "2026-07-29",
+  "analysis": [
+    "1위는 MBC 라디오의 경제 방송 '손에 잡히는 경제'입니다. 11위 '[쓸공언니] 경제 뉴스와 책 읽기'까지 더하면 비즈니스로 분류된 방송이 상위권에 둘 있습니다. 팟캐스트는 출퇴근처럼 손을 쓸 수 없는 시간에 듣는 매체라, 화면 없이도 따라갈 수 있는 뉴스·해설 형식이 특히 잘 맞습니다.",
+    "영어 학습 방송이 세 개나 순위에 있습니다. BBC의 6 Minute English(4위), All Ears English(5위), Culips Everyday English(12위)로 모두 해외에서 제작한 영어 콘텐츠입니다. 국내 팟캐스트 차트에서 외국어 방송이 이 정도 비중을 차지하는 것은, 팟캐스트가 한국에서 오락 매체이기 전에 학습 도구로 쓰이고 있다는 뜻입니다.",
+    "나머지는 대화형 코미디·교양이 채웁니다. Hey Tablo(2위), 송은이 김숙의 비밀보장(3위), 여둘톡(6위), 컬투쇼 레전드 사연(9위), 영혼의 노숙자(15위)처럼 진행자의 입담에 기대는 형식입니다. 방송사가 만든 프로그램(MBC·SBS)과 개인·소규모 제작사가 만든 프로그램이 순위에서 뒤섞여 있다는 점도 특징입니다."
+  ],
+  "items": [
+    { "name": "손에 잡히는 경제", "sub": "MBC · 비즈니스" },
+    { "name": "Hey Tablo", "sub": "Team Epikase · 사회 및 문화" },
+    { "name": "송은이 김숙의 비밀보장", "sub": "컨텐츠랩비보 · 코미디" },
+    { "name": "6 Minute English", "sub": "BBC Radio · 교육" },
+    { "name": "All Ears English Podcast", "sub": "Lindsay McMahon and Michelle Kaplan · 교육" },
+    { "name": "여둘톡", "sub": "여자 둘이 토크하고 있습니다 · 사회 및 문화" },
+    { "name": "No Stupid Questions", "sub": "Freakonomics Radio + Stitcher · 사회 및 문화" },
+    { "name": "Smosh Reads Reddit Stories", "sub": "Smosh · 코미디" },
+    { "name": "컬투쇼 레전드 사연", "sub": "SBS · 코미디" },
+    { "name": "anything goes with emma chamberlain", "sub": "emma chamberlain · 교육" },
+    { "name": "[쓸공언니] 경제 뉴스와 책 읽기", "sub": "정관리, 최열정 · 비즈니스" },
+    { "name": "Culips Everyday English Podcast", "sub": "Culips English Podcast · 교육" },
+    { "name": "리딩 케미스트리", "sub": "이다혜, 밀리의 서재 · 예술" },
+    { "name": "TED Talks Daily", "sub": "TED · 사회 및 문화" },
+    { "name": "영혼의 노숙자", "sub": "셀럽 맷 · 코미디" }
+  ]
+}

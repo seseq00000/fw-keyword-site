@@ -121,6 +121,49 @@ const FETCHERS = {
     };
   },
 
+  // GitHub search, sorted by stars. One request per run stays well inside the
+  // unauthenticated search limit.
+  async github({ minStars = 100000, count = 10 }) {
+    const d = await getJson(
+      `https://api.github.com/search/repositories?q=stars:%3E${minStars}&sort=stars&order=desc&per_page=${count}`
+    );
+    if (!d?.items?.length) throw new Error("github: no items");
+    // Cut descriptions at a word boundary — slicing mid-word ("the system design in")
+    // reads like a bug.
+    const short = (s = "", max = 72) => {
+      const t = s.replace(/\s+/g, " ").trim();
+      if (t.length <= max) return t;
+      const cut = t.slice(0, max);
+      return cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:.]$/, "") + "…";
+    };
+    return d.items.map((r) => ({
+      name: r.full_name,
+      sub: [r.language, short(r.description)].filter(Boolean).join(" · "),
+      value: "★ " + r.stargazers_count.toLocaleString("ko-KR"),
+      url: r.html_url,
+    }));
+  },
+
+  // Steam Korean storefront best-sellers. Editions are separate SKUs, so a
+  // popular game legitimately appears more than once — that's the chart, not a bug.
+  async steamstore({ count = 10 }) {
+    const d = await getJson("https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean");
+    const items = (d?.top_sellers?.items || []).slice(0, count);
+    if (!items.length) throw new Error("steamstore: no top_sellers");
+    return items.map((x) => {
+      const won = (n) => (n / 100).toLocaleString("ko-KR") + "원";
+      const bits = [];
+      if (x.discount_percent) bits.push(`${x.discount_percent}% 할인 (정가 ${won(x.original_price)})`);
+      else if (x.final_price === 0) bits.push("무료");
+      return {
+        name: x.name,
+        sub: bits.join(" · "),
+        value: x.final_price === 0 ? "무료" : won(x.final_price),
+        url: `https://store.steampowered.com/app/${x.id}/`,
+      };
+    });
+  },
+
   // Valve weekly most-played. Ranked by total playtime; peak concurrency is
   // shown in `sub` so the value column never looks out of order.
   async steam({ count = 10 }) {

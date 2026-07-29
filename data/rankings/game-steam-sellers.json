@@ -1,0 +1,90 @@
+{
+  "slug": "game-steam-sellers",
+  "category": "game",
+  "order": 7,
+  "featured": true,
+  "feat_order": 1.9,
+  "title": "스팀 한국 인기 판매 게임 TOP 10",
+  "card_desc": "지금 국내 스팀에서 가장 많이 팔리는 게임",
+  "hook": "스팀 인기 판매 순위는 할인 여부에 따라 매일 뒤집힌다",
+  "intro": "밸브가 공개하는 스팀 한국 스토어의 인기 판매 순위입니다. 가격은 한국 스토어 기준이며, 스팀이 갱신하는 데 맞춰 이 페이지도 매일 자동으로 최신 순위를 반영합니다.",
+  "value_label": "스팀 한국 스토어 판매가",
+  "source": "Steam 스토어 공식 API — 인기 판매(한국)",
+  "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
+  "collected_date": "2026-07-29",
+  "related": [
+    "game-steam",
+    "game-popular"
+  ],
+  "analysis": [
+    "인기 판매 순위는 동시접속자 순위와 완전히 다르게 움직입니다. 동시접속 순위는 몇 년째 같은 대형 온라인 게임들이 지키고 있지만, 판매 순위는 그날 무엇이 새로 나왔고 무엇이 할인 중인지에 따라 매일 바뀝니다. 이미 산 게임은 다시 사지 않기 때문에, 이 표는 '많이 하는 게임'이 아니라 '지금 사고 있는 게임'을 보여줍니다.",
+    "같은 게임이 여러 번 등장하는 것은 오류가 아닙니다. 스팀은 기본판·디럭스판·확장팩·얼티밋 에디션을 각각 별개의 상품으로 취급하기 때문에, 인기가 높은 게임일수록 여러 판본이 동시에 순위에 오릅니다. 한 게임이 표에 두세 번 보인다면 그만큼 잘 팔리고 있다는 신호로 읽으면 됩니다.",
+    "할인율은 순위를 끌어올리는 가장 강력한 변수입니다. 출시된 지 몇 년 지난 게임이 상위권에 있다면 대개 큰 폭의 할인이 걸려 있고, 반대로 정가 그대로인 게임이 1위에 있다면 신작이라는 뜻입니다. 가격 옆의 할인 표시를 함께 보면 그 게임이 왜 지금 팔리는지 대체로 설명이 됩니다."
+  ],
+  "items": [
+    {
+      "name": "드래곤소드 : 어웨이크닝",
+      "sub": "",
+      "value": "33,000원",
+      "url": "https://store.steampowered.com/app/4570720/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "",
+      "value": "32,000원",
+      "url": "https://store.steampowered.com/app/1623730/"
+    },
+    {
+      "name": "MECCHA CHAMELEON",
+      "sub": "15% 할인 (정가 6,550원)",
+      "value": "5,570원",
+      "url": "https://store.steampowered.com/app/4704690/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "드래곤소드 : 어웨이크닝 - 디럭스 에디션",
+      "sub": "",
+      "value": "49,500원",
+      "url": "https://store.steampowered.com/app/77856/"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "사이버펑크 2077: 얼티밋 에디션",
+      "sub": "60% 할인 (정가 100,900원)",
+      "value": "37,480원",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "사이버펑크 2077: 팬텀 리버티",
+      "sub": "40% 할인 (정가 34,900원)",
+      "value": "20,940원",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Gamble With Your Friends",
+      "sub": "38% 할인 (정가 8,900원)",
+      "value": "5,520원",
+      "url": "https://store.steampowered.com/app/3892270/"
+    },
+    {
+      "name": "Halo: Campaign Evolved",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/2806050/"
+    }
+  ],
+  "refresh": {
+    "type": "steamstore",
+    "count": 10
+  }
+}

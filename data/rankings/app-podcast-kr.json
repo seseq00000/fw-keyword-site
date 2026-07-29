@@ -47,14 +47,14 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EC%97%AC%EB%91%98%ED%86%A1/id1617974770"
     },
     {
-      "name": "No Stupid Questions",
-      "sub": "Freakonomics Radio + Stitcher · 사회 및 문화",
-      "url": "https://podcasts.apple.com/kr/podcast/no-stupid-questions/id1510056899"
-    },
-    {
       "name": "Smosh Reads Reddit Stories",
       "sub": "Smosh · 코미디",
       "url": "https://podcasts.apple.com/kr/podcast/smosh-reads-reddit-stories/id1697425543"
+    },
+    {
+      "name": "No Stupid Questions",
+      "sub": "Freakonomics Radio + Stitcher · 사회 및 문화",
+      "url": "https://podcasts.apple.com/kr/podcast/no-stupid-questions/id1510056899"
     },
     {
       "name": "컬투쇼 레전드 사연",
@@ -77,9 +77,9 @@
       "url": "https://podcasts.apple.com/kr/podcast/culips-everyday-english-podcast/id279999557"
     },
     {
-      "name": "리딩 케미스트리",
-      "sub": "이다혜,밀리의 서재 · 예술",
-      "url": "https://podcasts.apple.com/kr/podcast/%EB%A6%AC%EB%94%A9-%EC%BC%80%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC/id1773898138"
+      "name": "CBS 박성태의 뉴스쇼",
+      "sub": "CBS · 뉴스",
+      "url": "https://podcasts.apple.com/kr/podcast/cbs-%EB%B0%95%EC%84%B1%ED%83%9C%EC%9D%98-%EB%89%B4%EC%8A%A4%EC%87%BC/id401814716"
     },
     {
       "name": "TED Talks Daily",
@@ -87,9 +87,9 @@
       "url": "https://podcasts.apple.com/kr/podcast/ted-talks-daily/id160904630"
     },
     {
-      "name": "영혼의 노숙자",
-      "sub": "셀럽 맷 · 코미디",
-      "url": "https://podcasts.apple.com/kr/podcast/%EC%98%81%ED%98%BC%EC%9D%98-%EB%85%B8%EC%88%99%EC%9E%90/id1271031489"
+      "name": "리딩 케미스트리",
+      "sub": "이다혜,밀리의 서재 · 예술",
+      "url": "https://podcasts.apple.com/kr/podcast/%EB%A6%AC%EB%94%A9-%EC%BC%80%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC/id1773898138"
     }
   ],
   "refresh": {

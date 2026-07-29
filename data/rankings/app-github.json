@@ -1,7 +1,7 @@
 {
   "slug": "app-github",
   "category": "app",
-  "order": 9,
+  "order": 7,
   "title": "GitHub 최다 스타 오픈소스 TOP 10",
   "card_desc": "전 세계 개발자가 가장 많이 즐겨찾기한 저장소",
   "hook": "개발자들이 가장 많이 별을 준 저장소는 코드가 아니다",

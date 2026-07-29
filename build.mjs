@@ -67,13 +67,10 @@ const byFreshest = (a, b) =>
   String(b.collected_date).localeCompare(String(a.collected_date)) ||
   a.slug.localeCompare(b.slug);
 
-// "1위 OOO" teaser used on every recommendation surface.
-function topTeaser(r, withValue = true) {
-  const top = r.items?.[0];
-  if (!top) return "";
-  const val = withValue && top.value ? ` <i>${esc(top.value)}</i>` : "";
-  return `<span class="teaser"><b>1위</b> ${esc(top.name)}${val}</span>`;
-}
+// Call to action for cards that lead with a hook. The hook's whole job is to
+// make the reader want the answer, so printing "1위 OOO" underneath it hands
+// the answer over and removes the reason to click.
+const cta = (label = "확인하러 가기") => `<span class="cta">${label} →</span>`;
 
 // --- analytics / ads head snippets (only emitted when IDs are configured) ---
 function headExtras() {
@@ -279,7 +276,7 @@ function relCard(s) {
   <span class="rel-cat">${esc(cat.name)}</span>
   <span class="rel-hook">${esc(s.hook || s.title)}</span>
   <span class="rel-title">${esc(s.title)}</span>
-  ${topTeaser(s)}
+  ${cta()}
 </a>`;
 }
 
@@ -370,8 +367,7 @@ function nextRankingHtml(r) {
   <span class="next-label">다음 랭킹</span>
   <span class="next-hook">${esc(nx.hook || nx.title)}</span>
   <span class="next-title">${esc(cat.name)} · ${esc(nx.title)}</span>
-  ${topTeaser(nx, false)}
-  <span class="next-cta">보러 가기 →</span>
+  <span class="next-cta">확인하러 가기 →</span>
 </a>`;
 }
 
@@ -437,7 +433,7 @@ function renderHome() {
   <span class="badge-cat">${esc(cat.name)}</span>
   <h3>${esc(r.hook || r.title)}</h3>
   <p>${esc(r.title)}</p>
-  ${topTeaser(r)}
+  ${cta()}
   <span class="card-src">수집일 ${esc(r.collected_date)}</span>
 </a>`;
     })
@@ -497,7 +493,7 @@ function renderAll() {
           (r) => `<a class="card" href="${r.slug}.html">
   <h3>${esc(r.title)}</h3>
   <p>${esc(r.hook || r.card_desc || r.intro)}</p>
-  ${topTeaser(r)}
+  ${cta()}
   <span class="card-src">출처 · ${esc(r.source)} · ${esc(r.collected_date)}</span>
 </a>`
         )

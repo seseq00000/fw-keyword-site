@@ -249,21 +249,13 @@ h1.page-title {
 .analysis p { margin: 0 0 12px; color: var(--text-soft); }
 .analysis p:last-child { margin-bottom: 0; }
 
-/* ---------- "1위 OOO" teaser (shared by every recommendation surface) ---------- */
-.teaser {
-  display: inline-flex; align-items: baseline; gap: 6px; flex-wrap: wrap;
-  font-size: .84rem; color: var(--text-soft); font-weight: 600;
-  min-width: 0; overflow: hidden;
+/* ---------- Card CTA (shared by every hook-led card) ---------- */
+.cta {
+  display: inline-block; align-self: flex-start;
+  font-size: .82rem; font-weight: 800; color: var(--brand);
+  transition: transform .12s;
 }
-.teaser b {
-  color: var(--accent); font-weight: 800; font-size: .72rem;
-  background: color-mix(in srgb, var(--accent) 12%, transparent);
-  padding: 2px 7px; border-radius: 999px; flex: none;
-}
-.teaser i {
-  font-style: normal; color: var(--text-mute); font-weight: 700;
-  font-variant-numeric: tabular-nums;
-}
+.card:hover .cta, .rel-card:hover .cta { transform: translateX(3px); }
 
 /* ---------- Related rankings (internal links) ---------- */
 .related { margin-top: 40px; }
@@ -287,7 +279,7 @@ h1.page-title {
   font-size: .82rem; color: var(--text-mute); font-weight: 600;
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
-.rel-card .teaser { margin-top: 2px; }
+.rel-card .cta { margin-top: 2px; }
 
 /* ---------- Next ranking banner (end-of-page continuation) ---------- */
 .next-ranking {

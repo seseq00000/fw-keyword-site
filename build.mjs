@@ -23,6 +23,22 @@ const byCat = (slug) =>
 
 const catBySlug = Object.fromEntries(site.categories.map((c) => [c.slug, c]));
 
+// Weekly frozen snapshots written by refresh.mjs. Each becomes its own page so
+// past weeks stay readable and searchable instead of being overwritten.
+const ARCHIVE_DIR = join(DATA, "archive");
+const archives = {}; // slug -> [{week_id, year, week, period, collected_date, items, changes}], newest first
+if (existsSync(ARCHIVE_DIR)) {
+  for (const slug of readdirSync(ARCHIVE_DIR)) {
+    const dir = join(ARCHIVE_DIR, slug);
+    const snaps = readdirSync(dir)
+      .filter((f) => f.endsWith(".json"))
+      .map((f) => JSON.parse(readFileSync(join(dir, f), "utf8")))
+      .sort((a, b) => b.week_id.localeCompare(a.week_id));
+    if (snaps.length) archives[slug] = snaps;
+  }
+}
+const archiveSlug = (slug, weekId) => `${slug}-${weekId.toLowerCase()}`;
+
 // ---------- helpers ----------
 const esc = (s = "") =>
   String(s)
@@ -211,6 +227,7 @@ ${items}
 </ol>
 ${r.closing ? `<p class="closing">${esc(r.closing)}</p>` : ""}
 ${analysisHtml(r)}
+${archiveListHtml(r)}
 ${relatedHtml(r)}
 <p class="disclaimer">* 위 랭킹은 ${esc(r.collected_date)} 기준 ${esc(r.source)} 데이터를 정리한 것으로, 집계 시점과 방식에 따라 실제 순위가 달라질 수 있습니다.</p>
 ${nextRankingHtml(r)}`;
@@ -276,6 +293,69 @@ function relatedHtml(r) {
 ${picks.map(relCard).join("\n")}
   </div>
 </section>`;
+}
+
+// "지난 기록" — links from a live ranking to its frozen weekly snapshots.
+function archiveListHtml(r, limit = 8) {
+  const snaps = archives[r.slug];
+  if (!snaps?.length) return "";
+  const links = snaps
+    .slice(0, limit)
+    .map(
+      (s) =>
+        `<a class="arch-chip" href="${archiveSlug(r.slug, s.week_id)}.html">${s.year}년 ${s.week}주차<small>${esc(s.collected_date)}</small></a>`
+    )
+    .join("\n");
+  return `<section class="archive-list">
+  <h2>지난 기록</h2>
+  <p class="arch-note">이 랭킹은 매주 그 시점의 순위를 그대로 보관합니다. 아래에서 지난 주차의 순위를 확인할 수 있습니다.</p>
+  <div class="arch-grid">
+${links}
+  </div>
+</section>`;
+}
+
+// A frozen weekly snapshot page. The data never changes, so its commentary —
+// the computed change summary — stays true permanently.
+function renderArchive(r, snap, idx, all) {
+  const cat = catBySlug[r.category];
+  const label = `${snap.year}년 ${snap.week}주차`;
+  const items = snap.items.map(rankItemHtml).join("\n");
+  const newer = idx > 0 ? all[idx - 1] : null;
+  const older = idx < all.length - 1 ? all[idx + 1] : null;
+  const changes = (snap.changes || []).map((c) => `<li>${esc(c)}</li>`).join("\n");
+
+  const body = `<nav class="breadcrumb"><a href="index.html">홈</a> › <a href="${cat.slug}.html">${esc(cat.name)}</a> › <a href="${r.slug}.html">${esc(r.title)}</a> › ${esc(label)}</nav>
+<span class="eyebrow">${esc(cat.name)} · 주간 기록</span>
+<h1 class="page-title">${esc(r.title)} <span class="week-tag">${esc(label)}</span></h1>
+<p class="lead">${esc(snap.collected_date)}에 수집한 ${esc(label)} 순위를 그대로 보관한 기록입니다. 최신 순위는 <a href="${r.slug}.html">${esc(r.title)}</a>에서 확인하세요.</p>
+<div class="source-bar">
+  <span><span class="k">출처</span> ${r.source_url ? `<a href="${esc(r.source_url)}" target="_blank" rel="noopener">${esc(r.source)}</a>` : esc(r.source)}</span>
+  <span class="sep">|</span>
+  <span><span class="k">수집일</span> ${esc(snap.collected_date)}</span>
+  ${snap.period ? `<span class="sep">|</span><span><span class="k">집계</span> ${esc(snap.period)}</span>` : ""}
+</div>
+${changes ? `<section class="changes">
+  <h2>이 주의 변화</h2>
+  <ul>${changes}</ul>
+</section>` : ""}
+<ol class="rank-list">
+${items}
+</ol>
+<div class="arch-nav">
+  ${older ? `<a href="${archiveSlug(r.slug, older.week_id)}.html">← ${older.year}년 ${older.week}주차</a>` : "<span></span>"}
+  <a class="cur" href="${r.slug}.html">최신 순위 보기</a>
+  ${newer ? `<a href="${archiveSlug(r.slug, newer.week_id)}.html">${newer.year}년 ${newer.week}주차 →</a>` : "<span></span>"}
+</div>
+<p class="disclaimer">* 이 페이지는 ${esc(snap.collected_date)} 시점의 ${esc(r.source)} 데이터를 보관한 기록으로, 이후 순위와 다를 수 있습니다.</p>`;
+
+  return layout({
+    title: `${r.title} — ${label} | 모두랭킹`,
+    description: `${label} 기준 ${r.title}. ${snap.collected_date} 수집, ${r.source} 출처.`.slice(0, 150),
+    active: r.category,
+    canonical: `${archiveSlug(r.slug, snap.week_id)}.html`,
+    body,
+  });
 }
 
 // Big end-of-page banner onto the next ranking. Walks `allOrdered` and wraps,
@@ -463,6 +543,18 @@ out["all.html"] = renderAll();
 for (const c of site.categories) out[`${c.slug}.html`] = renderCategory(c);
 for (const r of rankings) out[`${r.slug}.html`] = renderRanking(r);
 
+// weekly archive snapshots
+const archivePages = [];
+for (const r of rankings) {
+  const snaps = archives[r.slug];
+  if (!snaps) continue;
+  snaps.forEach((s, i) => {
+    const name = `${archiveSlug(r.slug, s.week_id)}.html`;
+    out[name] = renderArchive(r, s, i, snaps);
+    archivePages.push(name);
+  });
+}
+
 out["about.html"] = renderProse(
   "about",
   "사이트 소개",
@@ -526,7 +618,7 @@ ${site.categories.map((c) => `<a class="card" href="${c.slug}.html"><span class=
 });
 
 // sitemap + robots
-const urls = ["", "all.html", ...site.categories.map((c) => `${c.slug}.html`), ...rankings.map((r) => `${r.slug}.html`), "about.html", "privacy.html", "contact.html"];
+const urls = ["", "all.html", ...site.categories.map((c) => `${c.slug}.html`), ...rankings.map((r) => `${r.slug}.html`), ...archivePages, "about.html", "privacy.html", "contact.html"];
 out["sitemap.xml"] = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((u) => `  <url><loc>https://www.${site.domain}/${u}</loc></url>`).join("\n")}

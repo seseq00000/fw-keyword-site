@@ -4,33 +4,99 @@
   "order": 2,
   "title": "애플 뮤직 한국 인기 앨범 TOP 15",
   "card_desc": "지금 국내에서 가장 많이 듣는 앨범",
-  "hook": "싱글 차트는 아이돌이 잡았는데, 앨범 차트는 힙합이 3분의 1이다",
-  "intro": "애플이 공개하는 대한민국 애플 뮤직 '인기 앨범' 공식 차트입니다. 곡 단위가 아닌 앨범 단위 재생량을 기준으로 애플이 매일 갱신하며, 같은 서비스의 인기곡 차트와 나란히 보면 소비 방식의 차이가 드러납니다.",
+  "hook": "싱글 차트와 앨범 차트는 순위 지형이 다르다",
+  "intro": "애플이 공개하는 대한민국 애플 뮤직 '인기 앨범' 공식 차트입니다. 곡 단위가 아닌 앨범 단위 재생량을 기준으로 애플이 매일 갱신하며, 이 페이지도 자동으로 최신 순위를 반영합니다.",
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
   "collected_date": "2026-07-29",
-  "related": ["music-applemusic-kr"],
+  "related": [
+    "music-applemusic-kr"
+  ],
   "analysis": [
-    "15장 중 다섯 장이 힙합 아티스트의 앨범입니다. 2000 TAPE(6위, 김하온·나우아임영 외), Coogie의 HBK(8위), 씨잼의 킁(10위), 양홍원의 오보에(11위), 비와이의 POP IS CRYIN'(15위)입니다. 같은 서비스의 인기곡 차트가 K-POP 아이돌 곡으로 거의 채워지는 것과 대조적입니다. 아이돌 팬덤은 타이틀곡을 반복 재생하는 반면 힙합 청취자는 앨범을 통째로 듣는 경향이 있어, 집계 단위가 바뀌면 순위 지형도 함께 바뀝니다.",
-    "1위는 그룹 데이식스의 영케이가 낸 솔로 앨범 YOUNGEST입니다. 상위권에 EP(미니 앨범)가 많다는 점도 눈에 띄는데, 도모(2위), GREENGREEN(3위), Lemon Tang(7위), KISS N TELL(13위)이 모두 EP입니다. 정규 앨범보다 짧은 주기로 발매되는 EP가 앨범 차트의 회전을 빠르게 만들고 있습니다.",
-    "에스파는 LEMONADE(9위)와 KISS N TELL(13위) 두 장을 동시에 올렸습니다. 이 목록에서 두 장을 올린 유일한 팀입니다. 12위 찰리 XCX의 Music, Fashion, Film은 15장 중 유일한 해외 아티스트 앨범으로, 한국 앨범 차트가 국내 음악에 얼마나 집중돼 있는지도 함께 보여줍니다."
+    "집계 단위가 곡에서 앨범으로 바뀌면 순위 지형이 함께 바뀝니다. 인기곡 차트는 타이틀곡을 반복 재생하는 아이돌 팬덤의 영향이 크지만, 앨범 차트에서는 앨범을 처음부터 끝까지 듣는 청취 습관이 더 크게 반영됩니다. 힙합이나 밴드 음악처럼 앨범 단위로 소비되는 장르가 앨범 차트에서 상대적으로 강하게 나타나는 이유입니다.",
+    "EP(미니 앨범)의 비중이 높다는 점도 이 차트의 특징입니다. 정규 앨범보다 짧은 주기로 낼 수 있어 발매가 잦고, 그만큼 차트 회전도 빠릅니다. 한 아티스트가 여러 장을 동시에 올리는 경우도 있는데, 신보 발매가 구보 재생까지 함께 끌어올릴 때 나타나는 현상입니다.",
+    "앨범 차트는 인기곡 차트보다 변동이 느린 편입니다. 곡 하나를 듣는 것보다 앨범을 듣는 데 시간이 더 들기 때문에 순위가 하루 만에 뒤집히는 일은 상대적으로 적습니다. 두 차트를 함께 보면 '지금 뜨는 곡'과 '지금 오래 듣는 음악'을 나눠서 읽을 수 있습니다."
   ],
   "items": [
-    { "name": "YOUNGEST", "sub": "Young K" },
-    { "name": "도모 - EP", "sub": "희대의" },
-    { "name": "GREENGREEN - EP", "sub": "코르티스" },
-    { "name": "SS-POP 3", "sub": "SYSTEM SEOUL" },
-    { "name": "Glow ME", "sub": "fromis_9" },
-    { "name": "2000 TAPE", "sub": "김하온, 나우아임영, JMIN & KC" },
-    { "name": "Lemon Tang - The 2nd Mini Album - EP", "sub": "Hearts2Hearts" },
-    { "name": "HBK", "sub": "Coogie" },
-    { "name": "LEMONADE - The 2nd Album", "sub": "aespa" },
-    { "name": "킁", "sub": "씨잼" },
-    { "name": "오보에", "sub": "양홍원" },
-    { "name": "Music, Fashion, Film", "sub": "Charli xcx" },
-    { "name": "KISS N TELL - EP", "sub": "aespa" },
-    { "name": "TEAM BABY", "sub": "검정치마" },
-    { "name": "POP IS CRYIN'", "sub": "비와이" }
-  ]
+    {
+      "name": "YOUNGEST",
+      "sub": "Young K",
+      "url": "https://music.apple.com/kr/album/youngest/6786563428"
+    },
+    {
+      "name": "도모 - EP",
+      "sub": "희대의",
+      "url": "https://music.apple.com/kr/album/domo-ep/6791085675"
+    },
+    {
+      "name": "GREENGREEN - EP",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
+    },
+    {
+      "name": "SS-POP 3",
+      "sub": "SYSTEM SEOUL",
+      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
+    },
+    {
+      "name": "Glow ME",
+      "sub": "fromis_9",
+      "url": "https://music.apple.com/kr/album/glow-me/6791520495"
+    },
+    {
+      "name": "2000 TAPE",
+      "sub": "김하온, 나우아임영, JMIN & KC",
+      "url": "https://music.apple.com/kr/album/2000-tape/6791522915"
+    },
+    {
+      "name": "Lemon Tang - The 2nd Mini Album - EP",
+      "sub": "Hearts2Hearts",
+      "url": "https://music.apple.com/kr/album/lemon-tang-the-2nd-mini-album-ep/6779521284"
+    },
+    {
+      "name": "HBK",
+      "sub": "Coogie",
+      "url": "https://music.apple.com/kr/album/hbk/6791397609"
+    },
+    {
+      "name": "LEMONADE - The 2nd Album",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
+    },
+    {
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
+      "name": "Music, Fashion, Film",
+      "sub": "Charli xcx",
+      "url": "https://music.apple.com/kr/album/music-fashion-film/6774745611"
+    },
+    {
+      "name": "KISS N TELL - EP",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/kiss-n-tell-ep/6790439170"
+    },
+    {
+      "name": "TEAM BABY",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "POP IS CRYIN'",
+      "sub": "비와이",
+      "url": "https://music.apple.com/kr/album/pop-is-cryin/6774531876"
+    }
+  ],
+  "refresh": {
+    "type": "apple",
+    "url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json"
+  }
 }

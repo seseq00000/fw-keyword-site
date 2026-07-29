@@ -1,0 +1,88 @@
+{
+  "slug": "app-podcast-kr",
+  "week_id": "2026-W31",
+  "year": 2026,
+  "week": 31,
+  "period": null,
+  "collected_date": "2026-07-29",
+  "items": [
+    {
+      "name": "손에 잡히는 경제",
+      "sub": "MBC · 비즈니스",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%86%90%EC%97%90-%EC%9E%A1%ED%9E%88%EB%8A%94-%EA%B2%BD%EC%A0%9C/id437788220"
+    },
+    {
+      "name": "Hey Tablo",
+      "sub": "Team Epikase · 사회 및 문화",
+      "url": "https://podcasts.apple.com/kr/podcast/hey-tablo/id1866347260"
+    },
+    {
+      "name": "송은이 김숙의 비밀보장",
+      "sub": "컨텐츠랩비보 · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%86%A1%EC%9D%80%EC%9D%B4-%EA%B9%80%EC%88%99%EC%9D%98-%EB%B9%84%EB%B0%80%EB%B3%B4%EC%9E%A5/id1171603832"
+    },
+    {
+      "name": "6 Minute English",
+      "sub": "BBC Radio · 교육",
+      "url": "https://podcasts.apple.com/kr/podcast/6-minute-english/id262026947"
+    },
+    {
+      "name": "All Ears English Podcast",
+      "sub": "Lindsay McMahon and Michelle Kaplan · 교육",
+      "url": "https://podcasts.apple.com/kr/podcast/all-ears-english-podcast/id751574016"
+    },
+    {
+      "name": "여둘톡",
+      "sub": "여자 둘이 토크하고 있습니다 · 사회 및 문화",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%97%AC%EB%91%98%ED%86%A1/id1617974770"
+    },
+    {
+      "name": "No Stupid Questions",
+      "sub": "Freakonomics Radio + Stitcher · 사회 및 문화",
+      "url": "https://podcasts.apple.com/kr/podcast/no-stupid-questions/id1510056899"
+    },
+    {
+      "name": "Smosh Reads Reddit Stories",
+      "sub": "Smosh · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/smosh-reads-reddit-stories/id1697425543"
+    },
+    {
+      "name": "컬투쇼 레전드 사연",
+      "sub": "SBS · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%BB%AC%ED%88%AC%EC%87%BC-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%82%AC%EC%97%B0/id526278703"
+    },
+    {
+      "name": "anything goes with emma chamberlain",
+      "sub": "emma chamberlain · 교육",
+      "url": "https://podcasts.apple.com/kr/podcast/anything-goes-with-emma-chamberlain/id1458568923"
+    },
+    {
+      "name": "[쓸공언니] 경제 뉴스와 책 읽기",
+      "sub": "정관리, 최열정 · 비즈니스",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%93%B8%EA%B3%B5%EC%96%B8%EB%8B%88-%EA%B2%BD%EC%A0%9C-%EB%89%B4%EC%8A%A4%EC%99%80-%EC%B1%85-%EC%9D%BD%EA%B8%B0/id1650713547"
+    },
+    {
+      "name": "Culips Everyday English Podcast",
+      "sub": "Culips English Podcast · 교육",
+      "url": "https://podcasts.apple.com/kr/podcast/culips-everyday-english-podcast/id279999557"
+    },
+    {
+      "name": "리딩 케미스트리",
+      "sub": "이다혜,밀리의 서재 · 예술",
+      "url": "https://podcasts.apple.com/kr/podcast/%EB%A6%AC%EB%94%A9-%EC%BC%80%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC/id1773898138"
+    },
+    {
+      "name": "TED Talks Daily",
+      "sub": "TED · 사회 및 문화",
+      "url": "https://podcasts.apple.com/kr/podcast/ted-talks-daily/id160904630"
+    },
+    {
+      "name": "영혼의 노숙자",
+      "sub": "셀럽 맷 · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%98%81%ED%98%BC%EC%9D%98-%EB%85%B8%EC%88%99%EC%9E%90/id1271031489"
+    }
+  ],
+  "changes": [
+    "첫 기록입니다."
+  ]
+}

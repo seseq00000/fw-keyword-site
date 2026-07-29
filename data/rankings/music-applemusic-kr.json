@@ -6,37 +6,121 @@
   "feat_order": 2.5,
   "title": "애플 뮤직 한국 인기곡 TOP 20",
   "card_desc": "지금 국내에서 가장 많이 재생되는 노래",
-  "hook": "지금 한국에서 가장 많이 듣는 노래 TOP 20, 절반이 단 네 팀의 곡이다",
-  "intro": "애플이 공개하는 대한민국 애플 뮤직 '인기곡' 공식 차트입니다. 최근 재생량을 기준으로 애플이 매일 갱신하며, 지금 국내에서 실제로 가장 많이 재생되는 곡이 무엇인지 보여줍니다.",
+  "hook": "지금 한국에서 가장 많이 재생되는 노래는 무엇일까",
+  "intro": "애플이 공개하는 대한민국 애플 뮤직 '인기곡' 공식 차트입니다. 최근 재생량을 기준으로 애플이 매일 갱신하며, 이 페이지도 그에 맞춰 자동으로 최신 순위를 반영합니다. 주차별 기록은 아래 '지난 기록'에서 확인할 수 있습니다.",
   "value_label": "애플 뮤직 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기곡(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json",
   "collected_date": "2026-07-29",
   "analysis": [
-    "20곡 가운데 절반이 네 팀에 몰려 있습니다. 리센느가 LOVE ATTACK(5위)·Pretty Girl(6위)·Deja Vu(8위)로 세 곡, 코르티스가 REDRED(2위)·ACAI(11위)·YOUNGCREATORCREW(19위)로 세 곡, Hearts2Hearts가 Lemon Tang(3위)·RUDE!(10위)로 두 곡, 한로로가 0+0(13위)·사랑하게 될 거야(15위)로 두 곡입니다. 한 팀의 곡이 여러 개 동시에 차트에 오르는 것은 팬덤이 앨범 전체를 반복 재생할 때 나타나는 전형적인 패턴입니다.",
-    "1위는 그룹이 아닌 솔로곡입니다. 제니의 Less than a Lover가 정상에 있고, 태연의 만찬가(14위)까지 더하면 상위권에서 솔로 아티스트도 자리를 지키고 있습니다. 다만 전체적으로는 그룹 곡이 압도적으로 많습니다.",
-    "장르 태그를 보면 20곡 중 대부분이 K-Pop으로 분류됩니다. 록으로도 분류되는 한로로의 두 곡과 힙합/랩으로 분류된 20위 KISS KISS KISS 정도가 예외입니다. 애플 뮤직 한국 차트는 스포티파이 같은 글로벌 차트와 달리 국내 이용자의 취향이 거의 그대로 반영되는데, 그 결과가 이 정도로 K-Pop에 쏠려 있다는 점이 특징입니다."
+    "애플 뮤직 한국 차트는 국내 이용자의 재생량만 집계하기 때문에, 스포티파이 같은 글로벌 차트와 달리 한국 청취 취향이 거의 그대로 드러납니다. 실제로 이 차트는 대부분 K-POP으로 채워지며, 해외 곡이 상위권에 오르는 경우는 드뭅니다.",
+    "한 팀의 곡이 여러 개 동시에 차트에 오르는 장면이 자주 나타납니다. 이는 팬덤이 타이틀곡만이 아니라 앨범 수록곡까지 반복 재생할 때 생기는 패턴으로, 컴백 직후 특히 두드러집니다. 같은 서비스의 앨범 차트와 나란히 놓고 보면 소비 방식의 차이가 더 분명해집니다.",
+    "재생량 기준 차트는 발매 시점의 영향을 크게 받습니다. 신곡은 공개 직후 며칠간 집중적으로 재생되며 순위가 치솟았다가 서서히 내려오고, 반대로 오래된 곡이 드라마나 광고에 쓰이면서 갑자기 되살아나기도 합니다. 순위 변화의 이유를 알고 싶다면 그 주에 무슨 일이 있었는지를 함께 보는 편이 좋습니다."
   ],
   "items": [
-    { "name": "Less than a Lover", "sub": "제니" },
-    { "name": "REDRED", "sub": "코르티스" },
-    { "name": "Lemon Tang", "sub": "Hearts2Hearts" },
-    { "name": "LEMONADE", "sub": "aespa" },
-    { "name": "LOVE ATTACK", "sub": "리센느" },
-    { "name": "Pretty Girl", "sub": "리센느" },
-    { "name": "It's Me", "sub": "아일릿" },
-    { "name": "Deja Vu", "sub": "리센느" },
-    { "name": "BAD", "sub": "에이티즈" },
-    { "name": "RUDE!", "sub": "Hearts2Hearts" },
-    { "name": "ACAI", "sub": "코르티스" },
-    { "name": "404 (New Era)", "sub": "키키" },
-    { "name": "0+0", "sub": "한로로" },
-    { "name": "만찬가", "sub": "태연" },
-    { "name": "사랑하게 될 거야", "sub": "한로로" },
-    { "name": "How Sweet", "sub": "뉴진스" },
-    { "name": "Heavy Serenade", "sub": "NMIXX" },
-    { "name": "갑자기", "sub": "아이오아이" },
-    { "name": "YOUNGCREATORCREW", "sub": "코르티스" },
-    { "name": "KISS KISS KISS (Prod. by Hukky Shibaseki) [feat. SUNWOO]", "sub": "나우아임영 & Royal 44" }
-  ]
+    {
+      "name": "Less than a Lover",
+      "sub": "제니",
+      "url": "https://music.apple.com/kr/album/less-than-a-lover/6792226269"
+    },
+    {
+      "name": "REDRED",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/redred/1887671065"
+    },
+    {
+      "name": "Lemon Tang",
+      "sub": "Hearts2Hearts",
+      "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
+    },
+    {
+      "name": "LEMONADE",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/lemonade/1893599771"
+    },
+    {
+      "name": "LOVE ATTACK",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/love-attack/1764485168"
+    },
+    {
+      "name": "Pretty Girl",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/pretty-girl/6786111944"
+    },
+    {
+      "name": "It's Me",
+      "sub": "아일릿",
+      "url": "https://music.apple.com/kr/album/its-me/1887194024"
+    },
+    {
+      "name": "Deja Vu",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/deja-vu/1822439985"
+    },
+    {
+      "name": "BAD",
+      "sub": "에이티즈",
+      "url": "https://music.apple.com/kr/album/bad/6770401924"
+    },
+    {
+      "name": "RUDE!",
+      "sub": "Hearts2Hearts",
+      "url": "https://music.apple.com/kr/album/rude/1875146814"
+    },
+    {
+      "name": "ACAI",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/acai/1887671065"
+    },
+    {
+      "name": "404 (New Era)",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/404-new-era/1868617345"
+    },
+    {
+      "name": "0+0",
+      "sub": "한로로",
+      "url": "https://music.apple.com/kr/album/0-0/1828393588"
+    },
+    {
+      "name": "만찬가",
+      "sub": "태연",
+      "url": "https://music.apple.com/kr/album/%EB%A7%8C%EC%B0%AC%EA%B0%80/6783734895"
+    },
+    {
+      "name": "사랑하게 될 거야",
+      "sub": "한로로",
+      "url": "https://music.apple.com/kr/album/%EC%82%AC%EB%9E%91%ED%95%98%EA%B2%8C-%EB%90%A0-%EA%B1%B0%EC%95%BC/1703196819"
+    },
+    {
+      "name": "갑자기",
+      "sub": "아이오아이",
+      "url": "https://music.apple.com/kr/album/%EA%B0%91%EC%9E%90%EA%B8%B0/6769328211"
+    },
+    {
+      "name": "Heavy Serenade",
+      "sub": "NMIXX",
+      "url": "https://music.apple.com/kr/album/heavy-serenade/1892954835"
+    },
+    {
+      "name": "How Sweet",
+      "sub": "뉴진스",
+      "url": "https://music.apple.com/kr/album/how-sweet/1744448415"
+    },
+    {
+      "name": "YOUNGCREATORCREW",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/youngcreatorcrew/1887671065"
+    },
+    {
+      "name": "여름아 부탁해",
+      "sub": "볼빨간사춘기",
+      "url": "https://music.apple.com/kr/album/%EC%97%AC%EB%A6%84%EC%95%84-%EB%B6%80%ED%83%81%ED%95%B4/6792700625"
+    }
+  ],
+  "refresh": {
+    "type": "apple",
+    "url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json"
+  }
 }

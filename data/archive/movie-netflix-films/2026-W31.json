@@ -1,0 +1,63 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W31",
+  "year": 2026,
+  "week": 31,
+  "period": "2026-07-26 주간",
+  "collected_date": "2026-07-29",
+  "items": [
+    {
+      "name": "72 HOURS",
+      "sub": "차트 1주차",
+      "value": "2,210만 회"
+    },
+    {
+      "name": "A Toxic Love Story",
+      "sub": "차트 1주차",
+      "value": "1,800만 회"
+    },
+    {
+      "name": "Sniper: No Nation",
+      "sub": "차트 2주차",
+      "value": "530만 회"
+    },
+    {
+      "name": "Voicemails for Isabelle",
+      "sub": "차트 6주차",
+      "value": "460만 회"
+    },
+    {
+      "name": "Quarantine 2: Terminal",
+      "sub": "차트 1주차",
+      "value": "420만 회"
+    },
+    {
+      "name": "Ordinary Angels",
+      "sub": "차트 1주차",
+      "value": "410만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 58주차",
+      "value": "370만 회"
+    },
+    {
+      "name": "Swapped",
+      "sub": "차트 11주차",
+      "value": "340만 회"
+    },
+    {
+      "name": "War Machine",
+      "sub": "차트 9주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "Monsters vs. Aliens",
+      "sub": "차트 1주차",
+      "value": "300만 회"
+    }
+  ],
+  "changes": [
+    "첫 기록입니다."
+  ]
+}

@@ -321,6 +321,50 @@ h1.page-title {
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 
+/* ---------- Weekly archive ---------- */
+.archive-list { margin-top: 40px; }
+.archive-list h2 { font-size: 1.15rem; letter-spacing: -0.02em; margin: 0 0 6px; }
+.arch-note { font-size: .88rem; color: var(--text-mute); margin: 0 0 14px; }
+.arch-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+.arch-chip {
+  display: flex; flex-direction: column; gap: 2px; min-width: 0;
+  padding: 10px 14px; border: 1px solid var(--border); border-radius: 12px;
+  background: var(--surface); color: var(--text); text-decoration: none;
+  font-size: .9rem; font-weight: 700; white-space: nowrap;
+  transition: border-color .15s, box-shadow .15s;
+}
+.arch-chip small { font-size: .72rem; font-weight: 600; color: var(--text-mute); }
+.arch-chip:hover { border-color: var(--brand); color: var(--brand); box-shadow: var(--shadow); }
+
+.week-tag {
+  display: inline-block; vertical-align: middle;
+  font-size: .5em; font-weight: 800; letter-spacing: -0.01em;
+  color: var(--brand); background: color-mix(in srgb, var(--brand) 12%, transparent);
+  padding: 5px 12px; border-radius: 999px; margin-left: 6px;
+}
+
+.changes {
+  margin: 22px 0 26px; padding: 20px 24px;
+  background: var(--bg-soft); border: 1px solid var(--border); border-radius: 16px;
+}
+.changes h2 { margin: 0 0 10px; font-size: 1.05rem; letter-spacing: -0.02em; }
+.changes ul { margin: 0; padding-left: 20px; }
+.changes li { color: var(--text-soft); margin-bottom: 5px; }
+.changes li:last-child { margin-bottom: 0; }
+
+.arch-nav {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border);
+  font-size: .9rem; font-weight: 700;
+}
+.arch-nav a { color: var(--text-soft); text-decoration: none; }
+.arch-nav a:hover { color: var(--brand); }
+.arch-nav a.cur { color: var(--brand); }
+@media (max-width: 560px) {
+  .arch-nav { flex-direction: column; align-items: stretch; text-align: center; gap: 8px; }
+  .arch-nav span:empty { display: none; }
+}
+
 /* ---------- Prose (about/privacy/contact) ---------- */
 .prose { max-width: 720px; }
 .prose h2 { font-size: 1.25rem; margin: 34px 0 10px; letter-spacing: -0.02em; }

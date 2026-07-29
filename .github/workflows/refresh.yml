@@ -1,0 +1,45 @@
+name: Refresh rankings
+
+# 매일 KST 06:00(UTC 21:00)에 자동 수집 → 빌드 → 변경이 있을 때만 커밋.
+# 커밋이 올라가면 GitHub Pages가 알아서 재배포한다.
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch: # Actions 탭에서 수동 실행
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # refresh.mjs는 수집 실패 시 non-zero로 종료한다. 여기서 멈추면
+      # 커밋 단계로 넘어가지 않으므로 반쪽짜리 데이터가 배포되지 않는다.
+      - name: Fetch latest source data
+        run: node refresh.mjs
+
+      - name: Rebuild site
+        run: node build.mjs
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "moduranking-bot"
+          git config user.email "seseq00000@gmail.com"
+          if git diff --quiet; then
+            echo "변경 없음 — 커밋 생략"
+            exit 0
+          fi
+          git add -A
+          git commit -m "chore: 랭킹 자동 갱신 $(date -u +'%Y-%m-%d')"
+          git push

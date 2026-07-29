@@ -1,0 +1,53 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W31",
+  "year": 2026,
+  "week": 31,
+  "period": null,
+  "collected_date": "2026-07-29",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 127.6만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 73.2만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 63.5만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 11.1만 명"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 28.4만 명 · 직전 주 6위"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "sub": "최고 동시접속 19.6만 명 · 직전 주 5위"
+    },
+    {
+      "name": "R.E.P.O.",
+      "sub": "최고 동시접속 9.5만 명 · 직전 주 29위"
+    },
+    {
+      "name": "Grand Theft Auto V 레거시",
+      "sub": "최고 동시접속 9.9만 명 · 직전 주 7위"
+    },
+    {
+      "name": "FiveM",
+      "sub": "최고 동시접속 19.2만 명 · 직전 주 8위"
+    },
+    {
+      "name": "Geometry Dash",
+      "sub": "최고 동시접속 6.8만 명 · 직전 주 9위"
+    }
+  ],
+  "changes": [
+    "첫 기록입니다."
+  ]
+}

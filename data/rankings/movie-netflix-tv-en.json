@@ -1,0 +1,78 @@
+{
+  "slug": "movie-netflix-tv-en",
+  "category": "movie",
+  "order": 5,
+  "title": "넷플릭스 주간 글로벌 시리즈 TOP 10 (영어권)",
+  "card_desc": "이번 주 전 세계에서 가장 많이 본 영어 시리즈",
+  "hook": "넷플릭스 영어권 시리즈, 매주 순위가 이렇게 바뀐다",
+  "intro": "넷플릭스가 매주 공개하는 공식 시청 데이터에서 영어권 시리즈 부문 글로벌 TOP 10을 정리했습니다. 넷플릭스가 매주 갱신하는 데 맞춰 이 페이지도 자동으로 최신 주차를 반영하며, 지난 주차 기록은 아래 '지난 기록'에서 볼 수 있습니다.",
+  "value_label": "주간 시청 수",
+  "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
+  "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
+  "collected_date": "2026-07-29",
+  "related": [
+    "movie-netflix-tv",
+    "movie-netflix-films"
+  ],
+  "analysis": [
+    "영어권 시리즈 차트는 영화 차트보다 순위 교체가 느립니다. 영화는 한 번에 다 보고 끝나지만 시리즈는 회차를 나눠 보기 때문에, 한 작품이 여러 주에 걸쳐 상위권에 머무는 일이 흔합니다. 각 항목에 표기된 '차트 N주차'를 보면 그 작품이 얼마나 오래 버티고 있는지 바로 알 수 있습니다.",
+    "이 부문에는 드라마만 오르는 것이 아닙니다. 리얼리티 예능, 프로레슬링 중계, 크리에이터가 만든 프로그램, 오래된 시트콤 리메이크가 같은 순위표에서 경쟁합니다. 넷플릭스가 언어와 형식(시리즈)만으로 부문을 나누기 때문인데, 그 결과 이 차트는 '드라마 인기 순위'가 아니라 '영어로 만들어진 연속물 시청 순위'에 가깝습니다.",
+    "비영어권 부문과 나란히 보면 더 많은 것이 보입니다. 넷플릭스는 두 부문을 따로 발표하는데, 시청 수만 놓고 보면 비영어권 1위가 영어권 1위를 앞서는 주가 드물지 않습니다. 영어 콘텐츠가 여전히 물량으로는 앞서지만 개별 화제작의 파괴력에서는 더 이상 독점적이지 않다는 뜻입니다."
+  ],
+  "items": [
+    {
+      "name": "I Will Find You",
+      "sub": "리미티드 시리즈 · 차트 6주차",
+      "value": "730만 회"
+    },
+    {
+      "name": "The Hawk",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "620만 회"
+    },
+    {
+      "name": "Ransom Canyon",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "410만 회"
+    },
+    {
+      "name": "Little House on the Prairie",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "400만 회"
+    },
+    {
+      "name": "The Ultimatum: Marry or Move On",
+      "sub": "시즌 4 · 차트 2주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Raw",
+      "sub": "July 20, 2026 · 차트 1주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Avatar: The Last Airbender",
+      "sub": "시즌 2 · 차트 5주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Salish & Jordan Matter",
+      "sub": "시즌 2 · 차트 5주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Worst Neighbor Ever",
+      "sub": "시즌 1 · 차트 4주차",
+      "value": "190만 회"
+    },
+    {
+      "name": "Stokes Twins",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "150만 회"
+    }
+  ],
+  "refresh": {
+    "type": "netflix",
+    "category": "TV (English)"
+  }
+}

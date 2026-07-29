@@ -105,7 +105,11 @@ const FETCHERS = {
     return {
       week,
       items: list.map((r) => {
-        const raw = r.season_title && r.season_title !== "N/A" ? r.season_title.replace(/^.*?: /, "") : "";
+        // season_title is "<show_title>: <label>". Strip that exact prefix —
+        // splitting on the first colon mangles shows whose own title contains
+        // one ("The Ultimatum: Marry or Move On: Season 4").
+        let raw = r.season_title && r.season_title !== "N/A" ? r.season_title : "";
+        if (raw.startsWith(r.show_title + ": ")) raw = raw.slice(r.show_title.length + 2);
         const season = raw ? koSeason(raw) : "";
         const wks = Number(r.cumulative_weeks_in_top_10);
         return {

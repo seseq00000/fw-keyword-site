@@ -112,15 +112,23 @@ a { color: inherit; }
 .theme-toggle:hover { color: var(--text); border-color: var(--brand); }
 .theme-toggle:active { transform: scale(.94); }
 
-/* On phones the brand + nav + toggle can't fit one row, which pushed the toggle
-   past the viewport and gave every page a horizontal scroll. Stack instead. */
-@media (max-width: 720px) {
+/* Category count keeps growing, so the nav can't rely on wrapping — at 12 items
+   it ate three rows of header on a phone. Below 900px it becomes a single
+   swipeable row instead, which stays one row no matter how many categories exist. */
+@media (max-width: 900px) {
   .header-inner { flex-wrap: wrap; gap: 10px; padding: 12px 16px; }
   .brand { font-size: 1.15rem; }
   .brand .sub { display: none; }
   .theme-toggle { margin-left: auto; }
-  .nav { order: 3; width: 100%; margin-left: 0; justify-content: flex-start; }
-  .nav a { padding: 6px 9px; font-size: .84rem; }
+  .nav {
+    order: 3; width: 100%; margin-left: 0;
+    flex-wrap: nowrap; overflow-x: auto; overscroll-behavior-x: contain;
+    scrollbar-width: none; -ms-overflow-style: none;
+    /* fade the right edge so it reads as "more to the side" */
+    mask-image: linear-gradient(to right, #000 0, #000 calc(100% - 24px), transparent 100%);
+  }
+  .nav::-webkit-scrollbar { display: none; }
+  .nav a { padding: 6px 10px; font-size: .86rem; flex: 0 0 auto; }
 }
 
 /* ---------- Generic layout ---------- */

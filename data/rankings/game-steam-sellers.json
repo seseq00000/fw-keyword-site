@@ -86,5 +86,6 @@
   "refresh": {
     "type": "steamstore",
     "count": 10
-  }
+  },
+  "hook_em": "매일 뒤집힌다"
 }

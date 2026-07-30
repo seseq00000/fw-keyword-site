@@ -1,57 +1,77 @@
-<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css">
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&display=swap">
 <style>
   *{box-sizing:border-box;margin:0;padding:0}
-  :root{
-    --brand:#1f3864; --accent:#e0503a; --gold:#c8a23c; --silver:#9aa4b2; --bronze:#b07a4a;
-    --ink:#17203a; --soft:#55607a; --mute:#8a92a6; --line:#e6e8ec; --bg:#fff; --bgsoft:#f6f7f9;
-  }
-  html,body{width:1080px;height:1350px}
+  :root{--accent:#ff8b6b;--gold:#e8c777}
+  html,body{width:1080px;height:1350px;overflow:hidden}
   body{
     font-family:"Pretendard Variable",Pretendard,system-ui,sans-serif;
-    background:var(--bg); color:var(--ink);
-    letter-spacing:-0.03em; -webkit-font-smoothing:antialiased;
-    display:flex; flex-direction:column;
+    color:#fff; letter-spacing:-0.035em; -webkit-font-smoothing:antialiased;
+    background:linear-gradient(160deg,#151824 0%,#0a0c13 100%);
+    /* 한글은 기본적으로 어느 글자에서나 줄이 바뀐다 — 이걸 두면 '매일'이
+       '매 / 일'로 쪼개진다. 어절 단위로만 끊기게 강제한다. */
+    word-break:keep-all;
   }
-  .card{flex:1;display:flex;flex-direction:column;padding:84px 76px}
-  .card.cover{background:linear-gradient(165deg,#1b3057 0%,#0f1c33 100%);color:#fff}
-  .card.cta{background:var(--bgsoft)}
-  .brandline{display:flex;align-items:center;gap:14px;font-size:34px;font-weight:800;letter-spacing:-0.04em}
-  .brandline .dot{color:var(--accent);font-size:40px;line-height:0.6}
-  .cover .brandline{color:#fff}
-  /* 한글은 자간을 넓히면 글자가 흩어져 보인다 — 라틴 기준 tracking을 쓰지 않는다 */
-  .eyebrow{font-size:28px;font-weight:800;letter-spacing:.02em;color:var(--accent)}
-  .hook{font-size:82px;line-height:1.22;font-weight:800;letter-spacing:-0.05em}
-  .cover .hook{color:#fff}
-  .subtitle{font-size:34px;color:var(--mute);font-weight:600;line-height:1.5}
-  .cover .subtitle{color:#9fb2d4}
-  .swipe{display:flex;align-items:center;gap:16px;font-size:30px;font-weight:700;color:#9fb2d4}
-  .title{font-size:52px;font-weight:800;line-height:1.25;letter-spacing:-0.045em}
-  .meta{font-size:26px;color:var(--mute);font-weight:600;line-height:1.5}
-  ol{list-style:none;display:flex;flex-direction:column;gap:20px}
-  li{display:grid;grid-template-columns:104px 1fr auto;align-items:center;gap:28px;
-     border:2px solid var(--line);border-radius:28px;padding:28px 32px}
-  li.top{border-color:color-mix(in srgb,var(--gold) 45%,var(--line))}
-  .badge{width:96px;height:96px;border-radius:26px;display:flex;align-items:center;justify-content:center;
-         font-size:44px;font-weight:800;background:var(--bgsoft);color:var(--soft);border:2px solid var(--line)}
-  .badge.r1{background:linear-gradient(145deg,#f4d780,var(--gold));color:#4a3a10;border:none}
-  .badge.r2{background:linear-gradient(145deg,#d7dde6,var(--silver));color:#2b3444;border:none}
-  .badge.r3{background:linear-gradient(145deg,#d9a877,var(--bronze));color:#402713;border:none}
-  .nm{font-size:40px;font-weight:700;line-height:1.25;overflow:hidden}
-  .sb{font-size:26px;color:var(--soft);font-weight:600;margin-top:6px;
-      white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:520px}
-  .val{font-size:40px;font-weight:800;color:var(--brand);text-align:right;white-space:nowrap}
+  .bg{position:absolute;inset:0;}
+  /* 사진을 전면으로 덮지 않고 아래쪽에만 스크림을 깐다 — 사진은 살고 글자는 선명해진다 */
+  .scrim{position:absolute;inset:0;
+    background:linear-gradient(180deg,
+      rgba(0,0,0,.30) 0%, rgba(0,0,0,.10) 26%,
+      rgba(0,0,0,.72) 62%, rgba(0,0,0,.92) 100%);}
+  .tint{position:absolute;inset:0;background:linear-gradient(160deg,#151824cc 0%,#0a0c13e6 100%)}
+  .card{position:absolute;inset:0;display:flex;flex-direction:column;padding:84px 76px}
+  .serif{font-family:"Noto Serif KR",serif;letter-spacing:-0.02em}
   .spacer{flex:1}
-  .foot{font-size:28px;color:var(--mute);font-weight:600}
-  .cta-big{font-size:64px;font-weight:800;line-height:1.3;letter-spacing:-0.045em}
-  .url{font-size:44px;font-weight:800;color:var(--brand)}
-  .pill{display:inline-block;background:color-mix(in srgb,var(--accent) 14%,transparent);
-        color:var(--accent);font-size:28px;font-weight:800;padding:12px 26px;border-radius:999px}
-</style></head><body><div class="card cta"><div class="brandline">모두랭킹<span class="dot">·</span></div>
+
+  .eyebrow{font-size:27px;font-weight:800;color:var(--accent);letter-spacing:.01em}
+  .hook{font-weight:900;line-height:1.18;text-wrap:balance}
+  /* 강조 구절은 통째로 유지한다 — '3분의 1'이 줄바꿈으로 갈리면 강조가 무너진다 */
+  .hook em{font-style:normal;color:var(--gold);white-space:nowrap}
+  .sub{font-size:32px;color:rgba(255,255,255,.62);font-weight:600;line-height:1.5;text-wrap:balance}
+  .swipe{font-size:29px;font-weight:700;color:rgba(255,255,255,.55)}
+
+  .title{font-size:47px;font-weight:700;line-height:1.28;text-wrap:balance}
+  .meta{font-size:25px;color:rgba(255,255,255,.45);font-weight:600}
+
+  ol{list-style:none;display:flex;flex-direction:column}
+  li{position:relative;display:grid;grid-template-columns:118px 1fr auto;align-items:center;
+     gap:24px;padding:26px 8px 30px;border-top:1px solid rgba(255,255,255,.11)}
+  li:last-child{border-bottom:1px solid rgba(255,255,255,.11)}
+  /* 값에 비례하는 막대. 1위 대비 비율이라 하위권은 실제로 짧다 —
+     행 배경을 채우면 오류처럼 보이므로, 행 아래 얇은 트랙으로 둔다.
+     트랙이 보이니 짧은 막대도 '작은 값'으로 정확히 읽힌다. */
+  .track{position:absolute;left:8px;right:8px;bottom:12px;height:5px;border-radius:3px;
+         background:rgba(255,255,255,.08)}
+  .track i{display:block;height:100%;border-radius:3px;
+           background:linear-gradient(90deg,var(--gold),rgba(232,199,119,.45))}
+  .rk{font-size:80px;font-weight:500;color:rgba(255,255,255,.42);text-align:left;line-height:1}
+  .nm{font-size:38px;font-weight:700;line-height:1.24;
+      overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+  .sb{font-size:23px;color:rgba(255,255,255,.48);font-weight:600;margin-top:5px;
+      white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:470px}
+  .val{font-size:37px;font-weight:800;text-align:right;white-space:nowrap;
+       font-variant-numeric:tabular-nums;color:#fff}
+  .foot{font-size:24px;color:rgba(255,255,255,.40);font-weight:600}
+
+  .win-lab{font-size:30px;font-weight:800;color:var(--gold);letter-spacing:.02em}
+  .win-no{font-size:300px;font-weight:900;line-height:.82;color:rgba(255,255,255,.14)}
+  .win-nm{font-size:88px;font-weight:900;line-height:1.15;text-wrap:balance}
+  .win-val{font-size:64px;font-weight:800;color:var(--gold);font-variant-numeric:tabular-nums}
+  .win-sb{font-size:29px;color:rgba(255,255,255,.58);font-weight:600}
+
+  .cta-1{font-size:88px;font-weight:900;line-height:1.2;text-wrap:balance}
+  .cta-2{font-size:52px;font-weight:800;color:var(--gold);line-height:1.3;margin-top:18px}
+  .cta-why{font-size:31px;color:rgba(255,255,255,.62);font-weight:600;line-height:1.55}
+  .cta-tr{font-size:25px;color:rgba(255,255,255,.40);font-weight:600}
+  .mark{font-size:34px;font-weight:800}
+  .url{font-size:33px;color:var(--gold);font-weight:700;margin-top:6px}
+</style></head><body>
+<div class="tint"></div>
+<div class="card"><div class="eyebrow">환율·물가</div>
      <div class="spacer"></div>
-     <span class="pill">검증된 데이터만</span>
-     <h2 class="cta-big" style="margin:28px 0 22px">해설과 지난 주차 기록까지<br>사이트에서 전부 볼 수 있어요</h2>
-     <p class="subtitle" style="margin-bottom:38px">10개 카테고리 · 랭킹 53개<br>모든 랭킹에 출처와 수집일을 표기합니다</p>
-     <p class="url">www.moduranking.com</p>
+     <div class="win-no serif">1</div>
+     <div class="win-nm serif" style="margin-top:14px">중국</div>
+     
+     <p class="win-val" style="margin-top:22px">3조 4,560억 달러</p>
      <div class="spacer"></div>
-     <p class="foot">이 랭킹 · World Bank — 총 준비자산 지표(FI.RES.TOTL.CD), 2024년 · 2026-07-30 기준</p></div></body></html>
+     <p class="foot">World Bank — 총 준비자산 지표(FI.RES.TOTL.CD), 2024년 · 2026-07-30 기준</p></div></body></html>

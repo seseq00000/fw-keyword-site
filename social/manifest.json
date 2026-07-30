@@ -6,19 +6,39 @@
       "fx-reserves-01.html",
       "fx-reserves-02.html",
       "fx-reserves-03.html",
-      "fx-reserves-04.html"
+      "fx-reserves-04.html",
+      "fx-reserves-05.html"
     ],
-    "caption": "fx-reserves.txt"
+    "caption": "fx-reserves.txt",
+    "bars": true,
+    "photo": false
   },
   {
-    "slug": "app-appstore-kr",
-    "title": "한국 앱스토어 인기 무료 앱 TOP 20",
+    "slug": "world-population",
+    "title": "세계 인구 순위 TOP 10",
     "slides": [
-      "app-appstore-kr-01.html",
-      "app-appstore-kr-02.html",
-      "app-appstore-kr-03.html",
-      "app-appstore-kr-04.html"
+      "world-population-01.html",
+      "world-population-02.html",
+      "world-population-03.html",
+      "world-population-04.html",
+      "world-population-05.html"
     ],
-    "caption": "app-appstore-kr.txt"
+    "caption": "world-population.txt",
+    "bars": true,
+    "photo": false
+  },
+  {
+    "slug": "game-steam-sellers",
+    "title": "스팀 한국 인기 판매 게임 TOP 10",
+    "slides": [
+      "game-steam-sellers-01.html",
+      "game-steam-sellers-02.html",
+      "game-steam-sellers-03.html",
+      "game-steam-sellers-04.html",
+      "game-steam-sellers-05.html"
+    ],
+    "caption": "game-steam-sellers.txt",
+    "bars": false,
+    "photo": false
   }
 ]

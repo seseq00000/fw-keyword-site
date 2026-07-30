@@ -31,6 +31,9 @@ jobs:
           node-version: 22
 
       - name: Generate slide HTML + captions
+        env:
+          # Secret이 없으면 빈 값 → 사진 없이 그라디언트로 렌더된다
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: node social.mjs ${{ github.event.inputs.slugs }}
 
       # 한글 폰트가 없으면 캡처 결과가 네모로 나온다. Pretendard는 CDN에서
@@ -69,6 +72,6 @@ jobs:
           if git diff --quiet && [ -z "$(git status --porcelain social)" ]; then
             echo "변경 없음 — 커밋 생략"; exit 0
           fi
-          git add -A social
+          git add -A social ":!social/bg"
           git commit -m "chore: 인스타 카드 생성 $(date -u +'%Y-%m-%d')"
           git push

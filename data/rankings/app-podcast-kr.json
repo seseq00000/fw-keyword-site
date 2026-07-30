@@ -9,7 +9,7 @@
   "value_label": "애플 팟캐스트 인기 순위 (대한민국)",
   "source": "Apple Podcasts 공식 차트 — 인기 프로그램(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/podcasts/top/15/podcasts.json",
-  "collected_date": "2026-07-29",
+  "collected_date": "2026-07-30",
   "analysis": [
     "한국 팟캐스트 차트에서 가장 눈에 띄는 특징은 교육 콘텐츠의 비중입니다. 영어 학습 방송이 상위권에 여러 개 올라 있는 경우가 흔한데, 국내 제작물이 아니라 해외에서 만든 영어 콘텐츠인 경우가 많습니다. 팟캐스트가 한국에서 오락 매체이기 전에 학습 도구로 자리 잡았다는 뜻입니다.",
     "경제·시사 방송의 존재감도 큽니다. 팟캐스트는 출퇴근이나 운동처럼 손과 눈을 쓸 수 없는 시간에 듣는 매체이기 때문에, 화면 없이도 따라갈 수 있는 뉴스·해설 형식이 특히 잘 맞습니다. 지상파 라디오가 만든 프로그램이 강세를 보이는 것도 같은 이유로, 이미 음성만으로 완결되는 콘텐츠를 오래 만들어 온 제작 역량이 그대로 옮겨 온 결과입니다.",
@@ -22,14 +22,14 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EC%86%90%EC%97%90-%EC%9E%A1%ED%9E%88%EB%8A%94-%EA%B2%BD%EC%A0%9C/id437788220"
     },
     {
-      "name": "Hey Tablo",
-      "sub": "Team Epikase · 사회 및 문화",
-      "url": "https://podcasts.apple.com/kr/podcast/hey-tablo/id1866347260"
-    },
-    {
       "name": "송은이 김숙의 비밀보장",
       "sub": "컨텐츠랩비보 · 코미디",
       "url": "https://podcasts.apple.com/kr/podcast/%EC%86%A1%EC%9D%80%EC%9D%B4-%EA%B9%80%EC%88%99%EC%9D%98-%EB%B9%84%EB%B0%80%EB%B3%B4%EC%9E%A5/id1171603832"
+    },
+    {
+      "name": "Hey Tablo",
+      "sub": "Team Epikase · 사회 및 문화",
+      "url": "https://podcasts.apple.com/kr/podcast/hey-tablo/id1866347260"
     },
     {
       "name": "6 Minute English",
@@ -47,11 +47,6 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EC%97%AC%EB%91%98%ED%86%A1/id1617974770"
     },
     {
-      "name": "Smosh Reads Reddit Stories",
-      "sub": "Smosh · 코미디",
-      "url": "https://podcasts.apple.com/kr/podcast/smosh-reads-reddit-stories/id1697425543"
-    },
-    {
       "name": "No Stupid Questions",
       "sub": "Freakonomics Radio + Stitcher · 사회 및 문화",
       "url": "https://podcasts.apple.com/kr/podcast/no-stupid-questions/id1510056899"
@@ -62,19 +57,14 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EC%BB%AC%ED%88%AC%EC%87%BC-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%82%AC%EC%97%B0/id526278703"
     },
     {
+      "name": "Smosh Reads Reddit Stories",
+      "sub": "Smosh · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/smosh-reads-reddit-stories/id1697425543"
+    },
+    {
       "name": "anything goes with emma chamberlain",
       "sub": "emma chamberlain · 교육",
       "url": "https://podcasts.apple.com/kr/podcast/anything-goes-with-emma-chamberlain/id1458568923"
-    },
-    {
-      "name": "[쓸공언니] 경제 뉴스와 책 읽기",
-      "sub": "정관리, 최열정 · 비즈니스",
-      "url": "https://podcasts.apple.com/kr/podcast/%EC%93%B8%EA%B3%B5%EC%96%B8%EB%8B%88-%EA%B2%BD%EC%A0%9C-%EB%89%B4%EC%8A%A4%EC%99%80-%EC%B1%85-%EC%9D%BD%EA%B8%B0/id1650713547"
-    },
-    {
-      "name": "Culips Everyday English Podcast",
-      "sub": "Culips English Podcast · 교육",
-      "url": "https://podcasts.apple.com/kr/podcast/culips-everyday-english-podcast/id279999557"
     },
     {
       "name": "CBS 박성태의 뉴스쇼",
@@ -82,9 +72,19 @@
       "url": "https://podcasts.apple.com/kr/podcast/cbs-%EB%B0%95%EC%84%B1%ED%83%9C%EC%9D%98-%EB%89%B4%EC%8A%A4%EC%87%BC/id401814716"
     },
     {
-      "name": "TED Talks Daily",
-      "sub": "TED · 사회 및 문화",
-      "url": "https://podcasts.apple.com/kr/podcast/ted-talks-daily/id160904630"
+      "name": "그것은 알기 싫다",
+      "sub": "XSFM · 뉴스",
+      "url": "https://podcasts.apple.com/kr/podcast/%EA%B7%B8%EA%B2%83%EC%9D%80-%EC%95%8C%EA%B8%B0-%EC%8B%AB%EB%8B%A4/id890330551"
+    },
+    {
+      "name": "[쓸공언니] 경제 뉴스와 책 읽기",
+      "sub": "정관리, 최열정 · 비즈니스",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%93%B8%EA%B3%B5%EC%96%B8%EB%8B%88-%EA%B2%BD%EC%A0%9C-%EB%89%B4%EC%8A%A4%EC%99%80-%EC%B1%85-%EC%9D%BD%EA%B8%B0/id1650713547"
+    },
+    {
+      "name": "영혼의 노숙자",
+      "sub": "셀럽 맷 · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%98%81%ED%98%BC%EC%9D%98-%EB%85%B8%EC%88%99%EC%9E%90/id1271031489"
     },
     {
       "name": "리딩 케미스트리",

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-07-29",
+  "collected_date": "2026-07-30",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,28 +35,16 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "MECCHA CHAMELEON",
-      "sub": "15% 할인 (정가 6,550원)",
-      "value": "5,570원",
-      "url": "https://store.steampowered.com/app/4704690/"
-    },
-    {
-      "name": "Cyberpunk 2077",
-      "sub": "70% 할인 (정가 66,000원)",
-      "value": "19,800원",
-      "url": "https://store.steampowered.com/app/1091500/"
-    },
-    {
       "name": "드래곤소드 : 어웨이크닝 - 디럭스 에디션",
       "sub": "",
       "value": "49,500원",
       "url": "https://store.steampowered.com/app/77856/"
     },
     {
-      "name": "eBaseball™: PRO SPIRIT",
+      "name": "드래곤볼 스파킹! 제로 한계 초돌파 DLC 「NEO」",
       "sub": "",
-      "value": "70,000원",
-      "url": "https://store.steampowered.com/app/4128400/"
+      "value": "44,800원",
+      "url": "https://store.steampowered.com/app/4433900/"
     },
     {
       "name": "사이버펑크 2077: 얼티밋 에디션",
@@ -65,22 +53,34 @@
       "url": "https://store.steampowered.com/app/32470/"
     },
     {
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "MECCHA CHAMELEON",
+      "sub": "15% 할인 (정가 6,550원)",
+      "value": "5,570원",
+      "url": "https://store.steampowered.com/app/4704690/"
+    },
+    {
       "name": "사이버펑크 2077: 팬텀 리버티",
       "sub": "40% 할인 (정가 34,900원)",
       "value": "20,940원",
       "url": "https://store.steampowered.com/app/2138330/"
     },
     {
-      "name": "Gamble With Your Friends",
-      "sub": "38% 할인 (정가 8,900원)",
-      "value": "5,520원",
-      "url": "https://store.steampowered.com/app/3892270/"
-    },
-    {
-      "name": "Halo: Campaign Evolved",
-      "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/2806050/"
+      "name": "Company of Heroes 3 - Final Stand Bundle ",
+      "sub": "42% 할인 (정가 92,100원)",
+      "value": "42,400원",
+      "url": "https://store.steampowered.com/app/82772/"
     }
   ],
   "refresh": {

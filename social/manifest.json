@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "fx-reserves",
+    "title": "외환보유액이 가장 많은 나라 TOP 10",
+    "slides": [
+      "fx-reserves-01.html",
+      "fx-reserves-02.html",
+      "fx-reserves-03.html",
+      "fx-reserves-04.html"
+    ],
+    "caption": "fx-reserves.txt"
+  },
+  {
+    "slug": "app-appstore-kr",
+    "title": "한국 앱스토어 인기 무료 앱 TOP 20",
+    "slides": [
+      "app-appstore-kr-01.html",
+      "app-appstore-kr-02.html",
+      "app-appstore-kr-03.html",
+      "app-appstore-kr-04.html"
+    ],
+    "caption": "app-appstore-kr.txt"
+  }
+]

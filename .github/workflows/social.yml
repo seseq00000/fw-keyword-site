@@ -1,0 +1,74 @@
+name: Build Instagram cards
+
+# 인스타 캐러셀 이미지를 자동 생성해 social/ 에 커밋한다.
+# 게시는 사람이 한다 — 공개 계정에 올리는 행위는 자동화하지 않는다.
+# refresh 워크플로가 데이터를 갱신한 뒤 돌도록 시간을 뒤로 뒀다.
+on:
+  schedule:
+    - cron: "30 22 * * *" # 매일 KST 07:30
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: "특정 랭킹만 만들기 (공백 구분, 비우면 자동 선정)"
+        required: false
+        default: ""
+
+concurrency:
+  group: social
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate slide HTML + captions
+        run: node social.mjs ${{ github.event.inputs.slugs }}
+
+      # 한글 폰트가 없으면 캡처 결과가 네모로 나온다. Pretendard는 CDN에서
+      # 받아오지만 폴백 폰트가 필요하므로 Noto CJK를 함께 설치한다.
+      - name: Install Korean fonts
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+
+      - name: Render slides to JPEG (1080x1350)
+        run: |
+          npx --yes playwright@1.49.0 install --with-deps chromium
+          node - <<'JS'
+          const { chromium } = require('playwright');
+          const fs = require('fs');
+          (async () => {
+            const files = fs.readdirSync('social').filter(f => /-\d\d\.html$/.test(f));
+            const browser = await chromium.launch();
+            const page = await browser.newPage({ viewport: { width: 1080, height: 1350 } });
+            for (const f of files) {
+              await page.goto('file://' + process.cwd() + '/social/' + f);
+              // 웹폰트가 적용된 뒤에 캡처
+              await page.evaluate(() => document.fonts.ready);
+              await page.screenshot({
+                path: 'social/' + f.replace(/\.html$/, '.jpg'),
+                type: 'jpeg', quality: 92,
+              });
+              console.log('rendered', f);
+            }
+            await browser.close();
+          })();
+          JS
+
+      - name: Commit cards
+        run: |
+          git config user.name "moduranking-bot"
+          git config user.email "seseq00000@gmail.com"
+          if git diff --quiet && [ -z "$(git status --porcelain social)" ]; then
+            echo "변경 없음 — 커밋 생략"; exit 0
+          fi
+          git add -A social
+          git commit -m "chore: 인스타 카드 생성 $(date -u +'%Y-%m-%d')"
+          git push

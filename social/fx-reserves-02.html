@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  :root{
+    --brand:#1f3864; --accent:#e0503a; --gold:#c8a23c; --silver:#9aa4b2; --bronze:#b07a4a;
+    --ink:#17203a; --soft:#55607a; --mute:#8a92a6; --line:#e6e8ec; --bg:#fff; --bgsoft:#f6f7f9;
+  }
+  html,body{width:1080px;height:1350px}
+  body{
+    font-family:"Pretendard Variable",Pretendard,system-ui,sans-serif;
+    background:var(--bg); color:var(--ink);
+    letter-spacing:-0.03em; -webkit-font-smoothing:antialiased;
+    display:flex; flex-direction:column;
+  }
+  .card{flex:1;display:flex;flex-direction:column;padding:84px 76px}
+  .card.cover{background:linear-gradient(165deg,#1b3057 0%,#0f1c33 100%);color:#fff}
+  .card.cta{background:var(--bgsoft)}
+  .brandline{display:flex;align-items:center;gap:14px;font-size:34px;font-weight:800;letter-spacing:-0.04em}
+  .brandline .dot{color:var(--accent);font-size:40px;line-height:0.6}
+  .cover .brandline{color:#fff}
+  /* 한글은 자간을 넓히면 글자가 흩어져 보인다 — 라틴 기준 tracking을 쓰지 않는다 */
+  .eyebrow{font-size:28px;font-weight:800;letter-spacing:.02em;color:var(--accent)}
+  .hook{font-size:82px;line-height:1.22;font-weight:800;letter-spacing:-0.05em}
+  .cover .hook{color:#fff}
+  .subtitle{font-size:34px;color:var(--mute);font-weight:600;line-height:1.5}
+  .cover .subtitle{color:#9fb2d4}
+  .swipe{display:flex;align-items:center;gap:16px;font-size:30px;font-weight:700;color:#9fb2d4}
+  .title{font-size:52px;font-weight:800;line-height:1.25;letter-spacing:-0.045em}
+  .meta{font-size:26px;color:var(--mute);font-weight:600;line-height:1.5}
+  ol{list-style:none;display:flex;flex-direction:column;gap:20px}
+  li{display:grid;grid-template-columns:104px 1fr auto;align-items:center;gap:28px;
+     border:2px solid var(--line);border-radius:28px;padding:28px 32px}
+  li.top{border-color:color-mix(in srgb,var(--gold) 45%,var(--line))}
+  .badge{width:96px;height:96px;border-radius:26px;display:flex;align-items:center;justify-content:center;
+         font-size:44px;font-weight:800;background:var(--bgsoft);color:var(--soft);border:2px solid var(--line)}
+  .badge.r1{background:linear-gradient(145deg,#f4d780,var(--gold));color:#4a3a10;border:none}
+  .badge.r2{background:linear-gradient(145deg,#d7dde6,var(--silver));color:#2b3444;border:none}
+  .badge.r3{background:linear-gradient(145deg,#d9a877,var(--bronze));color:#402713;border:none}
+  .nm{font-size:40px;font-weight:700;line-height:1.25;overflow:hidden}
+  .sb{font-size:26px;color:var(--soft);font-weight:600;margin-top:6px;
+      white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:520px}
+  .val{font-size:40px;font-weight:800;color:var(--brand);text-align:right;white-space:nowrap}
+  .spacer{flex:1}
+  .foot{font-size:28px;color:var(--mute);font-weight:600}
+  .cta-big{font-size:64px;font-weight:800;line-height:1.3;letter-spacing:-0.045em}
+  .url{font-size:44px;font-weight:800;color:var(--brand)}
+  .pill{display:inline-block;background:color-mix(in srgb,var(--accent) 14%,transparent);
+        color:var(--accent);font-size:28px;font-weight:800;padding:12px 26px;border-radius:999px}
+</style></head><body><div class="card "><div class="eyebrow">환율·물가 · 1–5위</div>
+     <h2 class="title" style="margin:18px 0 12px">외환보유액이 가장 많은 나라 TOP 10</h2>
+     <p class="meta" style="margin-bottom:34px">외환보유액 (2024년, 금 포함 총 준비자산)</p>
+     <ol><li class="top">
+        <span class="badge r1">1</span>
+        <div><div class="nm">중국</div></div>
+        <div class="val">3조 4,560억 달러</div>
+      </li><li class="top">
+        <span class="badge r2">2</span>
+        <div><div class="nm">일본</div></div>
+        <div class="val">1조 2,310억 달러</div>
+      </li><li class="top">
+        <span class="badge r3">3</span>
+        <div><div class="nm">미국</div></div>
+        <div class="val">9,100억 달러</div>
+      </li><li class="">
+        <span class="badge">4</span>
+        <div><div class="nm">스위스</div></div>
+        <div class="val">9,090억 달러</div>
+      </li><li class="">
+        <span class="badge">5</span>
+        <div><div class="nm">인도</div></div>
+        <div class="val">6,430억 달러</div>
+      </li></ol>
+     <div class="spacer"></div>
+     <p class="foot">출처 · World Bank — 총 준비자산 지표(FI.RES.TOTL.CD), 2024년</p></div></body></html>

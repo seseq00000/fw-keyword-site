@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-07-31",
+  "collected_date": "2026-08-01",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,16 +23,34 @@
   ],
   "items": [
     {
+      "name": "Corsair Cove 커세어 코브",
+      "sub": "25% 할인 (정가 39,900원)",
+      "value": "29,920원",
+      "url": "https://store.steampowered.com/app/1368140/"
+    },
+    {
+      "name": "세피리아",
+      "sub": "40% 할인 (정가 16,500원)",
+      "value": "9,900원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "드래곤소드 : 어웨이크닝",
+      "sub": "",
+      "value": "33,000원",
+      "url": "https://store.steampowered.com/app/4570720/"
+    },
+    {
       "name": "마블 스파이더맨 2",
       "sub": "33% 할인 (정가 62,800원)",
       "value": "42,080원",
       "url": "https://store.steampowered.com/app/2651280/"
     },
     {
-      "name": "Marvel’s Spider-Man Remastered",
-      "sub": "60% 할인 (정가 62,800원)",
-      "value": "25,120원",
-      "url": "https://store.steampowered.com/app/1817070/"
+      "name": "Baldur's Gate 3",
+      "sub": "30% 할인 (정가 66,000원)",
+      "value": "46,200원",
+      "url": "https://store.steampowered.com/app/1086940/"
     },
     {
       "name": "Palworld / 팰월드",
@@ -47,40 +65,22 @@
       "url": "https://store.steampowered.com/app/4128400/"
     },
     {
-      "name": "드래곤소드 : 어웨이크닝",
-      "sub": "",
-      "value": "33,000원",
-      "url": "https://store.steampowered.com/app/4570720/"
+      "name": "Marvel’s Spider-Man Remastered",
+      "sub": "60% 할인 (정가 62,800원)",
+      "value": "25,120원",
+      "url": "https://store.steampowered.com/app/1817070/"
     },
     {
-      "name": "Baldur's Gate 3",
-      "sub": "30% 할인 (정가 66,000원)",
-      "value": "46,200원",
-      "url": "https://store.steampowered.com/app/1086940/"
+      "name": "드래곤소드 : 어웨이크닝 - 디럭스 에디션",
+      "sub": "",
+      "value": "49,500원",
+      "url": "https://store.steampowered.com/app/77856/"
     },
     {
       "name": "MECCHA CHAMELEON",
       "sub": "15% 할인 (정가 6,550원)",
       "value": "5,570원",
       "url": "https://store.steampowered.com/app/4704690/"
-    },
-    {
-      "name": "세피리아",
-      "sub": "40% 할인 (정가 16,500원)",
-      "value": "9,900원",
-      "url": "https://store.steampowered.com/app/2436940/"
-    },
-    {
-      "name": "Cyberpunk 2077",
-      "sub": "70% 할인 (정가 66,000원)",
-      "value": "19,800원",
-      "url": "https://store.steampowered.com/app/1091500/"
-    },
-    {
-      "name": "사이버펑크 2077: 얼티밋 에디션",
-      "sub": "60% 할인 (정가 100,900원)",
-      "value": "37,480원",
-      "url": "https://store.steampowered.com/app/32470/"
     }
   ],
   "refresh": {

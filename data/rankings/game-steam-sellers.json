@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-01",
+  "collected_date": "2026-08-02",
   "related": [
     "game-steam",
     "game-popular"
@@ -47,22 +47,16 @@
       "url": "https://store.steampowered.com/app/2651280/"
     },
     {
-      "name": "Baldur's Gate 3",
-      "sub": "30% 할인 (정가 66,000원)",
-      "value": "46,200원",
-      "url": "https://store.steampowered.com/app/1086940/"
-    },
-    {
       "name": "Palworld / 팰월드",
       "sub": "",
       "value": "32,000원",
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "eBaseball™: PRO SPIRIT",
-      "sub": "",
-      "value": "70,000원",
-      "url": "https://store.steampowered.com/app/4128400/"
+      "name": "Baldur's Gate 3",
+      "sub": "30% 할인 (정가 66,000원)",
+      "value": "46,200원",
+      "url": "https://store.steampowered.com/app/1086940/"
     },
     {
       "name": "Marvel’s Spider-Man Remastered",
@@ -71,16 +65,22 @@
       "url": "https://store.steampowered.com/app/1817070/"
     },
     {
+      "name": "MECCHA CHAMELEON",
+      "sub": "15% 할인 (정가 6,550원)",
+      "value": "5,570원",
+      "url": "https://store.steampowered.com/app/4704690/"
+    },
+    {
       "name": "드래곤소드 : 어웨이크닝 - 디럭스 에디션",
       "sub": "",
       "value": "49,500원",
       "url": "https://store.steampowered.com/app/77856/"
     },
     {
-      "name": "MECCHA CHAMELEON",
-      "sub": "15% 할인 (정가 6,550원)",
-      "value": "5,570원",
-      "url": "https://store.steampowered.com/app/4704690/"
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
     }
   ],
   "refresh": {

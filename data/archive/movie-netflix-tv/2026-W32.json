@@ -1,0 +1,64 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W32",
+  "year": 2026,
+  "week": 32,
+  "period": "2026-07-26 주간",
+  "collected_date": "2026-08-03",
+  "items": [
+    {
+      "name": "Elite Force",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "1,010만 회"
+    },
+    {
+      "name": "The East Palace",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "810만 회"
+    },
+    {
+      "name": "Agent Kim Reactivated",
+      "sub": "리미티드 시리즈 · 차트 5주차",
+      "value": "730만 회"
+    },
+    {
+      "name": "My Daughter's Father",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "520만 회"
+    },
+    {
+      "name": "Spooky in Love",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "420만 회"
+    },
+    {
+      "name": "The Map of Longing",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "Teach You a Lesson",
+      "sub": "리미티드 시리즈 · 차트 8주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "The Apartment Job",
+      "sub": "리미티드 시리즈 · 차트 3주차",
+      "value": "200만 회"
+    },
+    {
+      "name": "The Polygamist",
+      "sub": "시즌 1 · 차트 7주차",
+      "value": "180만 회"
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "sub": "시즌 3 · 차트 6주차",
+      "value": "150만 회"
+    }
+  ],
+  "changes": [
+    "1위 Elite Force — 자리 유지",
+    "순위 변동이 크지 않았습니다."
+  ]
+}

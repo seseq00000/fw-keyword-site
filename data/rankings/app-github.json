@@ -9,7 +9,7 @@
   "value_label": "스타 수",
   "source": "GitHub Search API",
   "source_url": "https://api.github.com/search/repositories?q=stars:%3E100000&sort=stars&order=desc",
-  "collected_date": "2026-08-03",
+  "collected_date": "2026-08-04",
   "related": [
     "app-tech-companies"
   ],
@@ -22,61 +22,61 @@
     {
       "name": "codecrafters-io/build-your-own-x",
       "sub": "Markdown · Master programming by recreating your favorite technologies from…",
-      "value": "★ 535,320",
+      "value": "★ 535,758",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
       "name": "sindresorhus/awesome",
       "sub": "😎 Awesome lists about all kinds of interesting topics",
-      "value": "★ 491,798",
+      "value": "★ 492,175",
       "url": "https://github.com/sindresorhus/awesome"
     },
     {
       "name": "public-apis/public-apis",
       "sub": "Python · A collective list of free APIs",
-      "value": "★ 454,177",
+      "value": "★ 454,287",
       "url": "https://github.com/public-apis/public-apis"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "sub": "TypeScript · freeCodeCamp.org's open-source codebase and curriculum. Learn math…",
-      "value": "★ 453,391",
+      "value": "★ 453,441",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp"
     },
     {
       "name": "EbookFoundation/free-programming-books",
       "sub": "Python · :books: Freely available programming books",
-      "value": "★ 393,603",
+      "value": "★ 393,667",
       "url": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
       "name": "openclaw/openclaw",
       "sub": "TypeScript · Your own personal AI assistant. Any OS. Any Platform. The lobster way…",
-      "value": "★ 384,990",
+      "value": "★ 385,067",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "nilbuild/developer-roadmap",
       "sub": "TypeScript · Interactive roadmaps, guides and other educational content to help…",
-      "value": "★ 363,430",
+      "value": "★ 363,531",
       "url": "https://github.com/nilbuild/developer-roadmap"
     },
     {
       "name": "donnemartin/system-design-primer",
       "sub": "Python · Learn how to design large-scale systems. Prep for the system design…",
-      "value": "★ 360,211",
+      "value": "★ 360,706",
       "url": "https://github.com/donnemartin/system-design-primer"
     },
     {
       "name": "jwasham/coding-interview-university",
       "sub": "A complete computer science study plan to become a software engineer.",
-      "value": "★ 357,709",
+      "value": "★ 357,744",
       "url": "https://github.com/jwasham/coding-interview-university"
     },
     {
       "name": "vinta/awesome-python",
       "sub": "Python · An opinionated list of Python frameworks, libraries, tools, and…",
-      "value": "★ 311,866",
+      "value": "★ 312,051",
       "url": "https://github.com/vinta/awesome-python"
     }
   ],

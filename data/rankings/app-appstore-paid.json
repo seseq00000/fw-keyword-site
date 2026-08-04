@@ -9,7 +9,7 @@
   "value_label": "앱스토어 유료 앱 구매 순위",
   "source": "Apple App Store 공식 차트 — 유료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-paid/20/apps.json",
-  "collected_date": "2026-08-03",
+  "collected_date": "2026-08-04",
   "related": [
     "app-appstore-kr"
   ],
@@ -40,11 +40,6 @@
       "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EB%A6%AC%ED%95%84%EB%A6%84-berryfilm-60%EB%A7%8C-%ED%8C%AC%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%ED%95%84%ED%84%B0/id6741474933"
     },
     {
-      "name": "Analog Wedding",
-      "sub": "ordinaryfactory Inc.",
-      "url": "https://apps.apple.com/kr/app/analog-wedding/id992047786"
-    },
-    {
       "name": "한국사 능력",
       "sub": "별책",
       "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%82%AC-%EB%8A%A5%EB%A0%A5/id1445502301"
@@ -53,6 +48,11 @@
       "name": "DayGrid: 하루 계획표, 데일리스케줄, 시간표",
       "sub": "ho young moon",
       "url": "https://apps.apple.com/kr/app/daygrid-%ED%95%98%EB%A3%A8-%EA%B3%84%ED%9A%8D%ED%91%9C-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%8B%9C%EA%B0%84%ED%91%9C/id6762279908"
+    },
+    {
+      "name": "Analog Wedding",
+      "sub": "ordinaryfactory Inc.",
+      "url": "https://apps.apple.com/kr/app/analog-wedding/id992047786"
     },
     {
       "name": "영뽀또 - 감성 구도 카메라",
@@ -75,24 +75,24 @@
       "url": "https://apps.apple.com/kr/app/chakk-%EC%9D%B8%EC%8A%A4%ED%83%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%BE%B8%EB%AF%B8%EB%8A%94-%EC%9E%AC%EB%AF%B8-%EC%B1%A1/id6747307749"
     },
     {
-      "name": "无锐化相机",
-      "sub": "北北 宋",
-      "url": "https://apps.apple.com/kr/app/%E6%97%A0%E9%94%90%E5%8C%96%E7%9B%B8%E6%9C%BA/id6504206143"
-    },
-    {
       "name": "위플 가계부 Pro",
       "sub": "bumblebee",
       "url": "https://apps.apple.com/kr/app/%EC%9C%84%ED%94%8C-%EA%B0%80%EA%B3%84%EB%B6%80-pro/id441683476"
     },
     {
-      "name": "유니콘:Safari 광고 차단",
-      "sub": "OH NAM KWON",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%EC%BD%98-safari-%EA%B4%91%EA%B3%A0-%EC%B0%A8%EB%8B%A8/id1046714401"
+      "name": "Runa: RPG Maker & VN Player",
+      "sub": "Pham Tran Thai Bao",
+      "url": "https://apps.apple.com/kr/app/runa-rpg-maker-vn-player/id6779939767"
     },
     {
-      "name": "일본여름카메라 - 필름 감성 카메라",
-      "sub": "Jaeyong Lee",
-      "url": "https://apps.apple.com/kr/app/%EC%9D%BC%EB%B3%B8%EC%97%AC%EB%A6%84%EC%B9%B4%EB%A9%94%EB%9D%BC-%ED%95%84%EB%A6%84-%EA%B0%90%EC%84%B1-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6790067539"
+      "name": "无锐化相机",
+      "sub": "北北 宋",
+      "url": "https://apps.apple.com/kr/app/%E6%97%A0%E9%94%90%E5%8C%96%E7%9B%B8%E6%9C%BA/id6504206143"
+    },
+    {
+      "name": "회독JLPT",
+      "sub": "LEE YONGHEE",
+      "url": "https://apps.apple.com/kr/app/%ED%9A%8C%EB%8F%85jlpt/id1455054515"
     }
   ],
   "refresh": {

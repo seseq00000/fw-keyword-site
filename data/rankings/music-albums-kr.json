@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-03",
+  "collected_date": "2026-08-04",
   "related": [
     "music-applemusic-kr"
   ],
@@ -23,6 +23,11 @@
       "name": "petal",
       "sub": "Ariana Grande",
       "url": "https://music.apple.com/kr/album/petal/1895420989"
+    },
+    {
+      "name": "Velvet Summer - Summer Mini Album - EP",
+      "sub": "레드벨벳",
+      "url": "https://music.apple.com/kr/album/velvet-summer-summer-mini-album-ep/6794291724"
     },
     {
       "name": "도모 - EP",
@@ -45,19 +50,29 @@
       "url": "https://music.apple.com/kr/album/soul-baby/6795402778"
     },
     {
-      "name": "호프풀 로맨틱",
-      "sub": "BIG Naughty",
-      "url": "https://music.apple.com/kr/album/hopeful-romantic/6794237667"
-    },
-    {
       "name": "SS-POP 3",
       "sub": "SYSTEM SEOUL",
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
+      "name": "호프풀 로맨틱",
+      "sub": "BIG Naughty",
+      "url": "https://music.apple.com/kr/album/hopeful-romantic/6794237667"
+    },
+    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "LEMONADE - The 2nd Album",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
+    },
+    {
+      "name": "Oh yeah?",
+      "sub": "Steve Lacy",
+      "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
     },
     {
       "name": "Lemon Tang - The 2nd Mini Album - EP",
@@ -70,29 +85,14 @@
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "LEMONADE - The 2nd Album",
-      "sub": "aespa",
-      "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
-    },
-    {
       "name": "킁",
       "sub": "씨잼",
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
-      "name": "Oh yeah?",
-      "sub": "Steve Lacy",
-      "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
-    },
-    {
       "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
       "sub": "Various Artists",
       "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
-    },
-    {
-      "name": "HBK",
-      "sub": "Coogie",
-      "url": "https://music.apple.com/kr/album/hbk/6791397609"
     }
   ],
   "refresh": {

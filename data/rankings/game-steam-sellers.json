@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-03",
+  "collected_date": "2026-08-04",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,12 +29,6 @@
       "url": "https://store.steampowered.com/app/2436940/"
     },
     {
-      "name": "마블 스파이더맨 2",
-      "sub": "33% 할인 (정가 62,800원)",
-      "value": "42,080원",
-      "url": "https://store.steampowered.com/app/2651280/"
-    },
-    {
       "name": "Palworld / 팰월드",
       "sub": "",
       "value": "32,000원",
@@ -47,40 +41,46 @@
       "url": "https://store.steampowered.com/app/1817070/"
     },
     {
-      "name": "Corsair Cove 커세어 코브",
-      "sub": "25% 할인 (정가 39,900원)",
-      "value": "29,920원",
-      "url": "https://store.steampowered.com/app/1368140/"
-    },
-    {
-      "name": "Baldur's Gate 3",
-      "sub": "30% 할인 (정가 66,000원)",
-      "value": "46,200원",
-      "url": "https://store.steampowered.com/app/1086940/"
-    },
-    {
-      "name": "MECCHA CHAMELEON",
-      "sub": "",
-      "value": "6,550원",
-      "url": "https://store.steampowered.com/app/4704690/"
-    },
-    {
-      "name": "마블 스파이더맨 2 디지털 디럭스 에디션",
-      "sub": "33% 할인 (정가 73,800원)",
-      "value": "49,450원",
-      "url": "https://store.steampowered.com/app/45901/"
-    },
-    {
-      "name": "eBaseball™: PRO SPIRIT",
-      "sub": "",
-      "value": "70,000원",
-      "url": "https://store.steampowered.com/app/4128400/"
+      "name": "마블 스파이더맨 2",
+      "sub": "33% 할인 (정가 62,800원)",
+      "value": "42,080원",
+      "url": "https://store.steampowered.com/app/2651280/"
     },
     {
       "name": "Beast of Reincarnation",
       "sub": "",
       "value": "75,800원",
       "url": "https://store.steampowered.com/app/2001760/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "Escape from Tarkov: TarCoin Ingame Currency",
+      "sub": "",
+      "value": "7,000원",
+      "url": "https://store.steampowered.com/app/4490930/"
+    },
+    {
+      "name": "Escape from Tarkov: TarCoin Ingame Currency",
+      "sub": "",
+      "value": "7,000원",
+      "url": "https://store.steampowered.com/app/4490930/"
+    },
+    {
+      "name": "Escape from Tarkov: TarCoin Ingame Currency",
+      "sub": "",
+      "value": "7,000원",
+      "url": "https://store.steampowered.com/app/4490930/"
+    },
+    {
+      "name": "Escape from Tarkov: TarCoin Ingame Currency",
+      "sub": "",
+      "value": "7,000원",
+      "url": "https://store.steampowered.com/app/4490930/"
     }
   ],
   "refresh": {

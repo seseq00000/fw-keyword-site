@@ -11,7 +11,7 @@
   "value_label": "주간 시청 수 (2026-07-20 ~ 07-26)",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-07-29",
+  "collected_date": "2026-08-05",
   "analysis": [
     "넷플릭스 주간 영화 차트는 상위 한두 편이 그 주의 시청을 거의 독식하는 구조가 반복됩니다. 대대적으로 밀어주는 신작이 공개된 주에는 1~2위와 3위 이하의 격차가 몇 배로 벌어지고, 그런 신작이 없는 주에는 상위권이 비교적 평평해집니다. 순위 자체보다 1위와 3위의 격차를 보면 그 주에 화제작이 있었는지 바로 알 수 있습니다.",
     "신작만 오르는 것은 아닙니다. 공개된 지 한참 지난 작품이나 다른 곳에서 이미 흥행한 구작이 특정 팬층의 반복 시청으로 순위에 남는 경우가 자주 있습니다. 시리즈물과 달리 영화는 한 번에 다 보기 때문에 신작의 체류 기간이 짧고, 그 빈자리를 이런 롱테일 작품들이 채웁니다.",
@@ -20,53 +20,53 @@
   "items": [
     {
       "name": "72 HOURS",
-      "sub": "차트 1주차",
-      "value": "2,210만 회"
+      "sub": "차트 2주차",
+      "value": "2,510만 회"
     },
     {
       "name": "A Toxic Love Story",
-      "sub": "차트 1주차",
-      "value": "1,800만 회"
-    },
-    {
-      "name": "Sniper: No Nation",
       "sub": "차트 2주차",
-      "value": "530만 회"
+      "value": "1,290만 회"
     },
     {
-      "name": "Voicemails for Isabelle",
-      "sub": "차트 6주차",
-      "value": "460만 회"
-    },
-    {
-      "name": "Quarantine 2: Terminal",
-      "sub": "차트 1주차",
-      "value": "420만 회"
-    },
-    {
-      "name": "Ordinary Angels",
-      "sub": "차트 1주차",
+      "name": "Kung Fu Panda 4",
+      "sub": "차트 2주차",
       "value": "410만 회"
     },
     {
+      "name": "Voicemails for Isabelle",
+      "sub": "차트 7주차",
+      "value": "360만 회"
+    },
+    {
       "name": "KPop Demon Hunters",
-      "sub": "차트 58주차",
-      "value": "370만 회"
+      "sub": "차트 59주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Take Shelter",
+      "sub": "차트 1주차",
+      "value": "310만 회"
     },
     {
       "name": "Swapped",
-      "sub": "차트 11주차",
-      "value": "340만 회"
+      "sub": "차트 12주차",
+      "value": "300만 회"
     },
     {
       "name": "War Machine",
-      "sub": "차트 9주차",
-      "value": "320만 회"
+      "sub": "차트 10주차",
+      "value": "290만 회"
     },
     {
-      "name": "Monsters vs. Aliens",
-      "sub": "차트 1주차",
-      "value": "300만 회"
+      "name": "Spider-Man: Homecoming",
+      "sub": "차트 5주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "Ordinary Angels",
+      "sub": "차트 2주차",
+      "value": "290만 회"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-07-29",
+  "collected_date": "2026-08-05",
   "related": [
     "movie-netflix-tv",
     "movie-netflix-films"
@@ -21,54 +21,54 @@
   ],
   "items": [
     {
-      "name": "I Will Find You",
-      "sub": "리미티드 시리즈 · 차트 6주차",
-      "value": "730만 회"
-    },
-    {
-      "name": "The Hawk",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "620만 회"
+      "name": "The Idaho Murders: College Nightmare",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "1,820만 회"
     },
     {
       "name": "Ransom Canyon",
-      "sub": "시즌 2 · 차트 1주차",
-      "value": "410만 회"
+      "sub": "시즌 2 · 차트 2주차",
+      "value": "550만 회"
+    },
+    {
+      "name": "The Bombing of Pan Am 103",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "500만 회"
+    },
+    {
+      "name": "I Will Find You",
+      "sub": "리미티드 시리즈 · 차트 7주차",
+      "value": "480만 회"
+    },
+    {
+      "name": "Ransom Canyon",
+      "sub": "시즌 1 · 차트 5주차",
+      "value": "250만 회"
     },
     {
       "name": "Little House on the Prairie",
-      "sub": "시즌 1 · 차트 3주차",
-      "value": "400만 회"
-    },
-    {
-      "name": "The Ultimatum: Marry or Move On",
-      "sub": "시즌 4 · 차트 2주차",
-      "value": "260만 회"
+      "sub": "시즌 1 · 차트 4주차",
+      "value": "250만 회"
     },
     {
       "name": "Raw",
-      "sub": "July 20, 2026 · 차트 1주차",
+      "sub": "July 27, 2026 · 차트 1주차",
       "value": "240만 회"
     },
     {
-      "name": "Avatar: The Last Airbender",
-      "sub": "시즌 2 · 차트 5주차",
+      "name": "The Hawk",
+      "sub": "시즌 1 · 차트 3주차",
       "value": "230만 회"
     },
     {
       "name": "Salish & Jordan Matter",
-      "sub": "시즌 2 · 차트 5주차",
-      "value": "210만 회"
+      "sub": "시즌 2 · 차트 6주차",
+      "value": "180만 회"
     },
     {
-      "name": "Worst Neighbor Ever",
-      "sub": "시즌 1 · 차트 4주차",
-      "value": "190만 회"
-    },
-    {
-      "name": "Stokes Twins",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "150만 회"
+      "name": "Avatar: The Last Airbender",
+      "sub": "시즌 2 · 차트 6주차",
+      "value": "160만 회"
     }
   ],
   "refresh": {

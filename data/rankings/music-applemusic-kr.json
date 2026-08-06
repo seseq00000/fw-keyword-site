@@ -11,7 +11,7 @@
   "value_label": "애플 뮤직 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기곡(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json",
-  "collected_date": "2026-08-05",
+  "collected_date": "2026-08-06",
   "analysis": [
     "애플 뮤직 한국 차트는 국내 이용자의 재생량만 집계하기 때문에, 스포티파이 같은 글로벌 차트와 달리 한국 청취 취향이 거의 그대로 드러납니다. 실제로 이 차트는 대부분 K-POP으로 채워지며, 해외 곡이 상위권에 오르는 경우는 드뭅니다.",
     "한 팀의 곡이 여러 개 동시에 차트에 오르는 장면이 자주 나타납니다. 이는 팬덤이 타이틀곡만이 아니라 앨범 수록곡까지 반복 재생할 때 생기는 패턴으로, 컴백 직후 특히 두드러집니다. 같은 서비스의 앨범 차트와 나란히 놓고 보면 소비 방식의 차이가 더 분명해집니다.",
@@ -29,6 +29,11 @@
       "url": "https://music.apple.com/kr/album/less-than-a-lover/6792226269"
     },
     {
+      "name": "Surfin' Boy",
+      "sub": "레드벨벳",
+      "url": "https://music.apple.com/kr/album/surfin-boy/6794291724"
+    },
+    {
       "name": "LOVE ATTACK",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/love-attack/1764485168"
@@ -42,11 +47,6 @@
       "name": "LEMONADE",
       "sub": "aespa",
       "url": "https://music.apple.com/kr/album/lemonade/1893599771"
-    },
-    {
-      "name": "Surfin' Boy",
-      "sub": "레드벨벳",
-      "url": "https://music.apple.com/kr/album/surfin-boy/6794291724"
     },
     {
       "name": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -109,14 +109,14 @@
       "url": "https://music.apple.com/kr/album/0-0/1828393588"
     },
     {
-      "name": "만찬가",
-      "sub": "태연",
-      "url": "https://music.apple.com/kr/album/%EB%A7%8C%EC%B0%AC%EA%B0%80/6783734895"
-    },
-    {
       "name": "사랑하게 될 거야",
       "sub": "한로로",
       "url": "https://music.apple.com/kr/album/%EC%82%AC%EB%9E%91%ED%95%98%EA%B2%8C-%EB%90%A0-%EA%B1%B0%EC%95%BC/1703196819"
+    },
+    {
+      "name": "KISS KISS KISS (Prod. by Hukky Shibaseki) [feat. SUNWOO]",
+      "sub": "나우아임영 & Royal 44",
+      "url": "https://music.apple.com/kr/album/kiss-kiss-kiss-prod-by-hukky-shibaseki-feat-sunwoo/1886030533"
     }
   ],
   "refresh": {

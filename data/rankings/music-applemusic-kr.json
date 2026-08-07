@@ -29,11 +29,6 @@
       "url": "https://music.apple.com/kr/album/surfin-boy/6794291724"
     },
     {
-      "name": "Less than a Lover",
-      "sub": "제니",
-      "url": "https://music.apple.com/kr/album/less-than-a-lover/6792226269"
-    },
-    {
       "name": "Sunflower (Spider-Man: Into the Spider-Verse)",
       "sub": "Post Malone & Swae Lee",
       "url": "https://music.apple.com/kr/album/sunflower-spider-man-into-the-spider-verse/1445949265"
@@ -42,6 +37,11 @@
       "name": "LEMONADE",
       "sub": "aespa",
       "url": "https://music.apple.com/kr/album/lemonade/1893599771"
+    },
+    {
+      "name": "Less than a Lover",
+      "sub": "제니",
+      "url": "https://music.apple.com/kr/album/less-than-a-lover/6792226269"
     },
     {
       "name": "LOVE ATTACK",
@@ -64,11 +64,6 @@
       "url": "https://music.apple.com/kr/album/its-me/1887194024"
     },
     {
-      "name": "hate that i made you love me",
-      "sub": "Ariana Grande",
-      "url": "https://music.apple.com/kr/album/hate-that-i-made-you-love-me/1895420989"
-    },
-    {
       "name": "Deja Vu",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/deja-vu/1822439985"
@@ -79,14 +74,14 @@
       "url": "https://music.apple.com/kr/album/bad/6770401924"
     },
     {
+      "name": "hate that i made you love me",
+      "sub": "Ariana Grande",
+      "url": "https://music.apple.com/kr/album/hate-that-i-made-you-love-me/1895420989"
+    },
+    {
       "name": "RUDE!",
       "sub": "Hearts2Hearts",
       "url": "https://music.apple.com/kr/album/rude/1875146814"
-    },
-    {
-      "name": "ACAI",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/acai/1887671065"
     },
     {
       "name": "여름아 부탁해",
@@ -94,9 +89,9 @@
       "url": "https://music.apple.com/kr/album/%EC%97%AC%EB%A6%84%EC%95%84-%EB%B6%80%ED%83%81%ED%95%B4/6792700625"
     },
     {
-      "name": "MOTION (feat. Juicy J)",
+      "name": "ACAI",
       "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/motion-feat-juicy-j/6793946474"
+      "url": "https://music.apple.com/kr/album/acai/1887671065"
     },
     {
       "name": "404 (New Era)",
@@ -104,14 +99,19 @@
       "url": "https://music.apple.com/kr/album/404-new-era/1868617345"
     },
     {
+      "name": "KISS KISS KISS (Prod. by Hukky Shibaseki) [feat. SUNWOO]",
+      "sub": "나우아임영 & Royal 44",
+      "url": "https://music.apple.com/kr/album/kiss-kiss-kiss-prod-by-hukky-shibaseki-feat-sunwoo/1886030533"
+    },
+    {
       "name": "0+0",
       "sub": "한로로",
       "url": "https://music.apple.com/kr/album/0-0/1828393588"
     },
     {
-      "name": "KISS KISS KISS (Prod. by Hukky Shibaseki) [feat. SUNWOO]",
-      "sub": "나우아임영 & Royal 44",
-      "url": "https://music.apple.com/kr/album/kiss-kiss-kiss-prod-by-hukky-shibaseki-feat-sunwoo/1886030533"
+      "name": "MOTION (feat. Juicy J)",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/motion-feat-juicy-j/6793946474"
     },
     {
       "name": "사랑하게 될 거야",

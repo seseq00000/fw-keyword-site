@@ -20,6 +20,11 @@
   ],
   "items": [
     {
+      "name": "bad pieces",
+      "sub": "wave to earth",
+      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
+    },
+    {
       "name": "Velvet Summer - Summer Mini Album - EP",
       "sub": "레드벨벳",
       "url": "https://music.apple.com/kr/album/velvet-summer-summer-mini-album-ep/6794291724"
@@ -40,14 +45,19 @@
       "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
-      "name": "YOUNGEST",
-      "sub": "Young K",
-      "url": "https://music.apple.com/kr/album/youngest/6786563428"
+      "name": "THIS & THAT",
+      "sub": "Stray Kids",
+      "url": "https://music.apple.com/kr/album/this-that/6781751949"
     },
     {
       "name": "LEMONADE - The 2nd Album",
       "sub": "aespa",
       "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
+    },
+    {
+      "name": "YOUNGEST",
+      "sub": "Young K",
+      "url": "https://music.apple.com/kr/album/youngest/6786563428"
     },
     {
       "name": "Oh yeah?",
@@ -60,9 +70,9 @@
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
-      "name": "TEAM BABY",
-      "sub": "검정치마",
-      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
       "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
@@ -70,29 +80,19 @@
       "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
     },
     {
+      "name": "TEAM BABY",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
       "name": "Lemon Tang - The 2nd Mini Album - EP",
       "sub": "Hearts2Hearts",
       "url": "https://music.apple.com/kr/album/lemon-tang-the-2nd-mini-album-ep/6779521284"
     },
     {
-      "name": "오보에",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
-    },
-    {
       "name": "킁",
       "sub": "씨잼",
       "url": "https://music.apple.com/kr/album/keung/1463936919"
-    },
-    {
-      "name": "SCENEDROME - EP",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
-    },
-    {
-      "name": "SOUL BABY",
-      "sub": "Raf Sandou",
-      "url": "https://music.apple.com/kr/album/soul-baby/6795402778"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-06",
+  "collected_date": "2026-08-07",
   "related": [
     "music-applemusic-kr"
   ],
@@ -50,14 +50,14 @@
       "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
     },
     {
-      "name": "SS-POP 3",
-      "sub": "SYSTEM SEOUL",
-      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
-    },
-    {
       "name": "Oh yeah?",
       "sub": "Steve Lacy",
       "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
+    },
+    {
+      "name": "SS-POP 3",
+      "sub": "SYSTEM SEOUL",
+      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
       "name": "TEAM BABY",
@@ -65,14 +65,14 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
-      "name": "Lemon Tang - The 2nd Mini Album - EP",
-      "sub": "Hearts2Hearts",
-      "url": "https://music.apple.com/kr/album/lemon-tang-the-2nd-mini-album-ep/6779521284"
-    },
-    {
       "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
       "sub": "Various Artists",
       "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
+    },
+    {
+      "name": "Lemon Tang - The 2nd Mini Album - EP",
+      "sub": "Hearts2Hearts",
+      "url": "https://music.apple.com/kr/album/lemon-tang-the-2nd-mini-album-ep/6779521284"
     },
     {
       "name": "오보에",
@@ -85,14 +85,14 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
+      "name": "SCENEDROME - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+    },
+    {
       "name": "SOUL BABY",
       "sub": "Raf Sandou",
       "url": "https://music.apple.com/kr/album/soul-baby/6795402778"
-    },
-    {
-      "name": "호프풀 로맨틱",
-      "sub": "BIG Naughty",
-      "url": "https://music.apple.com/kr/album/hopeful-romantic/6794237667"
     }
   ],
   "refresh": {

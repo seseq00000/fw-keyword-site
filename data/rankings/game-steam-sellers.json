@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-07",
+  "collected_date": "2026-08-08",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,40 +35,10 @@
       "url": "https://store.steampowered.com/app/2436940/"
     },
     {
-      "name": "IRON NEST: Heavy Turret Simulator",
-      "sub": "25% 할인 (정가 19,900원)",
-      "value": "14,920원",
-      "url": "https://store.steampowered.com/app/2950790/"
-    },
-    {
-      "name": "ReStory: Chill Electronics Repairs",
-      "sub": "10% 할인 (정가 19,900원)",
-      "value": "17,910원",
-      "url": "https://store.steampowered.com/app/3812600/"
-    },
-    {
       "name": "Big Walk",
       "sub": "25% 할인 (정가 21,800원)",
       "value": "16,350원",
       "url": "https://store.steampowered.com/app/1478500/"
-    },
-    {
-      "name": "사이버펑크 2077: 얼티밋 에디션",
-      "sub": "60% 할인 (정가 100,900원)",
-      "value": "37,480원",
-      "url": "https://store.steampowered.com/app/32470/"
-    },
-    {
-      "name": "Cyberpunk 2077",
-      "sub": "70% 할인 (정가 66,000원)",
-      "value": "19,800원",
-      "url": "https://store.steampowered.com/app/1091500/"
-    },
-    {
-      "name": "Doloc Town",
-      "sub": "20% 할인 (정가 20,000원)",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/2285550/"
     },
     {
       "name": "Big Walk and PEAK\t",
@@ -77,10 +47,40 @@
       "url": "https://store.steampowered.com/app/78920/"
     },
     {
-      "name": "드래곤소드 : 어웨이크닝 - 썸머 씨 세트",
-      "sub": "10% 할인 (정가 25,800원)",
-      "value": "16,260원",
-      "url": "https://store.steampowered.com/app/83149/"
+      "name": "ReStory: Chill Electronics Repairs",
+      "sub": "10% 할인 (정가 19,900원)",
+      "value": "17,910원",
+      "url": "https://store.steampowered.com/app/3812600/"
+    },
+    {
+      "name": "MECCHA CHAMELEON",
+      "sub": "",
+      "value": "6,550원",
+      "url": "https://store.steampowered.com/app/4704690/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "sub": "25% 할인 (정가 19,900원)",
+      "value": "14,920원",
+      "url": "https://store.steampowered.com/app/2950790/"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "사이버펑크 2077: 얼티밋 에디션",
+      "sub": "60% 할인 (정가 100,900원)",
+      "value": "37,480원",
+      "url": "https://store.steampowered.com/app/32470/"
     }
   ],
   "refresh": {

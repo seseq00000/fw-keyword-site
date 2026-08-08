@@ -11,7 +11,7 @@
   "value_label": "앱스토어 무료 앱 다운로드 순위",
   "source": "Apple App Store 공식 차트 — 무료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-free/20/apps.json",
-  "collected_date": "2026-08-07",
+  "collected_date": "2026-08-08",
   "analysis": [
     "무료 앱 순위는 '많이 쓰는 앱'이 아니라 '최근에 많이 설치된 앱'을 보여줍니다. 이미 모두가 깔아 둔 메신저나 포털이 상위권에 잘 보이지 않는 이유가 여기에 있습니다. 반대로 신규 설치가 짧은 기간에 몰리면 순위가 급격히 뛰기 때문에, 이 차트는 인기의 총량보다 화제의 속도를 재는 지표에 가깝습니다.",
     "한국 차트에서 반복적으로 나타나는 특징이 몇 가지 있습니다. 첫째, 은행·카드·보험 앱이 자주 최상위권에 등장합니다. 금융 앱은 앱을 전면 개편하거나 이벤트를 열면 기존 고객이 한꺼번에 재설치하기 때문에 단기간에 순위가 크게 움직입니다. 둘째, 공공 앱의 존재감이 큽니다. 교통·신분증·민원 관련 앱이 상시로 순위권에 머무는 것은 해외 차트에서는 보기 드문 한국만의 특징으로, 생활 행정이 모바일로 옮겨 간 결과입니다.",
@@ -19,19 +19,19 @@
   ],
   "items": [
     {
-      "name": "발자취 - 세상에 나를 남기다",
-      "sub": "Dongnyeok Shin",
-      "url": "https://apps.apple.com/kr/app/%EB%B0%9C%EC%9E%90%EC%B7%A8-%EC%84%B8%EC%83%81%EC%97%90-%EB%82%98%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8B%A4/id6792431474"
-    },
-    {
       "name": "CGV",
       "sub": "CJ CGV Co.ltd",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323"
     },
     {
-      "name": "그늘로: 뚜벅의 여름길",
-      "sub": "Minjun Yoo",
-      "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669"
+      "name": "발자취 - 세상에 나를 남기다",
+      "sub": "Dongnyeok Shin",
+      "url": "https://apps.apple.com/kr/app/%EB%B0%9C%EC%9E%90%EC%B7%A8-%EC%84%B8%EC%83%81%EC%97%90-%EB%82%98%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8B%A4/id6792431474"
+    },
+    {
+      "name": "MD Vinyl - Music Player Widget",
+      "sub": "MD Studio",
+      "url": "https://apps.apple.com/kr/app/md-vinyl-music-player-widget/id1606306441"
     },
     {
       "name": "하나은행, 새로워진 하나원큐를 경험해 보세요",
@@ -39,24 +39,24 @@
       "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232"
     },
     {
+      "name": "그늘로: 뚜벅의 여름길",
+      "sub": "Minjun Yoo",
+      "url": "https://apps.apple.com/kr/app/%EA%B7%B8%EB%8A%98%EB%A1%9C-%EB%9A%9C%EB%B2%85%EC%9D%98-%EC%97%AC%EB%A6%84%EA%B8%B8/id6791194669"
+    },
+    {
       "name": "Google Gemini",
       "sub": "Google",
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729"
     },
     {
-      "name": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "sub": "SHINHAN BANK",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932"
+      "name": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "sub": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706"
     },
     {
-      "name": "롯데ON",
-      "sub": "Lotte.com",
-      "url": "https://apps.apple.com/kr/app/%EB%A1%AF%EB%8D%B0on/id376622474"
-    },
-    {
-      "name": "Claude by Anthropic",
-      "sub": "Anthropic PBC",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
+      "name": "DramaBox - 영화와 숏폼 드라마",
+      "sub": "STORYMATRIX PTE. LTD.",
+      "url": "https://apps.apple.com/kr/app/dramabox-%EC%98%81%ED%99%94%EC%99%80-%EC%88%8F%ED%8F%BC-%EB%93%9C%EB%9D%BC%EB%A7%88/id6445905219"
     },
     {
       "name": "듀오링고(Duolingo): 언어 학습",
@@ -64,44 +64,14 @@
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128"
     },
     {
-      "name": "지하섬 - 다이나믹 아일랜드 지하철 하차 알림",
-      "sub": "CHANYOUNG PARK",
-      "url": "https://apps.apple.com/kr/app/%EC%A7%80%ED%95%98%EC%84%AC-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%ED%95%98%EC%B0%A8-%EC%95%8C%EB%A6%BC/id6792708146"
-    },
-    {
-      "name": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "sub": "Trip.com Travel Singapore Pte. Ltd. · 여행",
-      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345"
-    },
-    {
-      "name": "네이버플러스 스토어",
-      "sub": "NAVER Corp. · 쇼핑",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154"
-    },
-    {
-      "name": "대한민국 모바일 신분증",
-      "sub": "행정안전부 · 유틸리티",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372"
-    },
-    {
-      "name": "정부24(구 민원24)",
-      "sub": "행정안전부 · 라이프스타일",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505"
-    },
-    {
-      "name": "ChatGPT",
-      "sub": "OpenAI OpCo, LLC · 생산성",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069"
-    },
-    {
-      "name": "Threads",
-      "sub": "Instagram, Inc. · 소셜 네트워킹",
-      "url": "https://apps.apple.com/kr/app/threads/id6446901002"
-    },
-    {
       "name": "MegaBox",
-      "sub": "Megabox Ltd. · 엔터테인먼트",
+      "sub": "Megabox Ltd.",
       "url": "https://apps.apple.com/kr/app/megabox/id894443858"
+    },
+    {
+      "name": "Claude by Anthropic",
+      "sub": "Anthropic PBC · 생산성",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
     },
     {
       "name": "캐치테이블",
@@ -114,9 +84,39 @@
       "url": "https://apps.apple.com/kr/app/ssf-shop/id1020223989"
     },
     {
-      "name": "다이소몰",
-      "sub": "ASUNGDAISO, Co.,Ltd. · 라이프스타일",
-      "url": "https://apps.apple.com/kr/app/%EB%8B%A4%EC%9D%B4%EC%86%8C%EB%AA%B0/id1070715498"
+      "name": "롯데시네마",
+      "sub": "LOTTE Cultureworks · 엔터테인먼트",
+      "url": "https://apps.apple.com/kr/app/%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88/id601280722"
+    },
+    {
+      "name": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "sub": "SHINHAN BANK · 금융",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932"
+    },
+    {
+      "name": "네이버플러스 스토어",
+      "sub": "NAVER Corp. · 쇼핑",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154"
+    },
+    {
+      "name": "PHOTOISM - 포토이즘",
+      "sub": "Seobuk · 사진 및 비디오",
+      "url": "https://apps.apple.com/kr/app/photoism-%ED%8F%AC%ED%86%A0%EC%9D%B4%EC%A6%98/id6747059622"
+    },
+    {
+      "name": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "sub": "Trip.com Travel Singapore Pte. Ltd. · 여행",
+      "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345"
+    },
+    {
+      "name": "땡겨요",
+      "sub": "SHINHAN BANK · 음식 및 음료",
+      "url": "https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912"
+    },
+    {
+      "name": "Threads",
+      "sub": "Instagram, Inc. · 소셜 네트워킹",
+      "url": "https://apps.apple.com/kr/app/threads/id6446901002"
     }
   ],
   "refresh": {

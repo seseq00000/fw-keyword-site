@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-08",
+  "collected_date": "2026-08-09",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,40 +23,16 @@
   ],
   "items": [
     {
-      "name": "Palworld / 팰월드",
-      "sub": "",
-      "value": "32,000원",
-      "url": "https://store.steampowered.com/app/1623730/"
-    },
-    {
       "name": "세피리아",
       "sub": "40% 할인 (정가 16,500원)",
       "value": "9,900원",
       "url": "https://store.steampowered.com/app/2436940/"
     },
     {
-      "name": "Big Walk",
-      "sub": "25% 할인 (정가 21,800원)",
-      "value": "16,350원",
-      "url": "https://store.steampowered.com/app/1478500/"
-    },
-    {
-      "name": "Big Walk and PEAK\t",
-      "sub": "32% 할인 (정가 30,200원)",
-      "value": "18,490원",
-      "url": "https://store.steampowered.com/app/78920/"
-    },
-    {
-      "name": "ReStory: Chill Electronics Repairs",
-      "sub": "10% 할인 (정가 19,900원)",
-      "value": "17,910원",
-      "url": "https://store.steampowered.com/app/3812600/"
-    },
-    {
-      "name": "MECCHA CHAMELEON",
+      "name": "Palworld / 팰월드",
       "sub": "",
-      "value": "6,550원",
-      "url": "https://store.steampowered.com/app/4704690/"
+      "value": "32,000원",
+      "url": "https://store.steampowered.com/app/1623730/"
     },
     {
       "name": "Cyberpunk 2077",
@@ -65,22 +41,46 @@
       "url": "https://store.steampowered.com/app/1091500/"
     },
     {
-      "name": "IRON NEST: Heavy Turret Simulator",
-      "sub": "25% 할인 (정가 19,900원)",
-      "value": "14,920원",
-      "url": "https://store.steampowered.com/app/2950790/"
-    },
-    {
-      "name": "eBaseball™: PRO SPIRIT",
-      "sub": "",
-      "value": "70,000원",
-      "url": "https://store.steampowered.com/app/4128400/"
-    },
-    {
       "name": "사이버펑크 2077: 얼티밋 에디션",
       "sub": "60% 할인 (정가 100,900원)",
       "value": "37,480원",
       "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Big Walk",
+      "sub": "25% 할인 (정가 21,800원)",
+      "value": "16,350원",
+      "url": "https://store.steampowered.com/app/1478500/"
+    },
+    {
+      "name": "대장님, 오크가 몰려옵니다",
+      "sub": "10% 할인 (정가 9,900원)",
+      "value": "8,910원",
+      "url": "https://store.steampowered.com/app/4594150/"
+    },
+    {
+      "name": "사이버펑크 2077: 팬텀 리버티",
+      "sub": "40% 할인 (정가 34,900원)",
+      "value": "20,940원",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Big Walk and PEAK\t",
+      "sub": "32% 할인 (정가 30,200원)",
+      "value": "18,490원",
+      "url": "https://store.steampowered.com/app/78920/"
+    },
+    {
+      "name": "MECCHA CHAMELEON",
+      "sub": "",
+      "value": "6,550원",
+      "url": "https://store.steampowered.com/app/4704690/"
+    },
+    {
+      "name": "GRAIN ROT",
+      "sub": "10% 할인 (정가 11,700원)",
+      "value": "10,530원",
+      "url": "https://store.steampowered.com/app/4450620/"
     }
   ],
   "refresh": {

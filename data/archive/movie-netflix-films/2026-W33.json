@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W33",
+  "year": 2026,
+  "week": 33,
+  "period": "2026-08-02 주간",
+  "collected_date": "2026-08-10",
+  "items": [
+    {
+      "name": "72 HOURS",
+      "sub": "차트 2주차",
+      "value": "2,510만 회"
+    },
+    {
+      "name": "A Toxic Love Story",
+      "sub": "차트 2주차",
+      "value": "1,290만 회"
+    },
+    {
+      "name": "Kung Fu Panda 4",
+      "sub": "차트 2주차",
+      "value": "410만 회"
+    },
+    {
+      "name": "Voicemails for Isabelle",
+      "sub": "차트 7주차",
+      "value": "360만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 59주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Take Shelter",
+      "sub": "차트 1주차",
+      "value": "310만 회"
+    },
+    {
+      "name": "Swapped",
+      "sub": "차트 12주차",
+      "value": "300만 회"
+    },
+    {
+      "name": "War Machine",
+      "sub": "차트 10주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "Spider-Man: Homecoming",
+      "sub": "차트 5주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "Ordinary Angels",
+      "sub": "차트 2주차",
+      "value": "290만 회"
+    }
+  ],
+  "changes": [
+    "1위 72 HOURS — 자리 유지",
+    "신규 진입 3개: 3위 Kung Fu Panda 4, 6위 Take Shelter, 9위 Spider-Man: Homecoming",
+    "순위 이탈 3개: Sniper: No Nation, Quarantine 2: Terminal, Monsters vs. Aliens"
+  ]
+}

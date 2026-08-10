@@ -1,0 +1,76 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W33",
+  "year": 2026,
+  "week": 33,
+  "period": null,
+  "collected_date": "2026-08-10",
+  "items": [
+    {
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "",
+      "value": "32,000원",
+      "url": "https://store.steampowered.com/app/1623730/"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "",
+      "value": "66,000원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "사이버펑크 2077: 얼티밋 에디션",
+      "sub": "",
+      "value": "92,830원",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Big Walk",
+      "sub": "25% 할인 (정가 21,800원)",
+      "value": "16,350원",
+      "url": "https://store.steampowered.com/app/1478500/"
+    },
+    {
+      "name": "사이버펑크 2077: 팬텀 리버티",
+      "sub": "",
+      "value": "34,900원",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "ReStory: Chill Electronics Repairs",
+      "sub": "10% 할인 (정가 19,900원)",
+      "value": "17,910원",
+      "url": "https://store.steampowered.com/app/3812600/"
+    },
+    {
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "sub": "25% 할인 (정가 19,900원)",
+      "value": "14,920원",
+      "url": "https://store.steampowered.com/app/2950790/"
+    },
+    {
+      "name": "Big Walk and PEAK\t",
+      "sub": "32% 할인 (정가 30,200원)",
+      "value": "18,490원",
+      "url": "https://store.steampowered.com/app/78920/"
+    }
+  ],
+  "changes": [
+    "1위 세피리아 — 자리 유지",
+    "신규 진입 7개: 4위 Cyberpunk 2077, 5위 사이버펑크 2077: 얼티밋 에디션, 6위 Big Walk, 7위 사이버펑크 2077: 팬텀 리버티, 8위 ReStory: Chill Electronics Repairs",
+    "순위 이탈 7개: 마블 스파이더맨 2, Marvel’s Spider-Man Remastered, Corsair Cove 커세어 코브, Baldur's Gate 3, MECCHA CHAMELEON",
+    "최대 상승 — eBaseball™: PRO SPIRIT (9위 → 3위)"
+  ]
+}

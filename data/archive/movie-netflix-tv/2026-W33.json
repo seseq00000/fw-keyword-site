@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W33",
+  "year": 2026,
+  "week": 33,
+  "period": "2026-08-02 주간",
+  "collected_date": "2026-08-10",
+  "items": [
+    {
+      "name": "Elite Force",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "690만 회"
+    },
+    {
+      "name": "My Daughter's Father",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "680만 회"
+    },
+    {
+      "name": "Agent Kim Reactivated",
+      "sub": "리미티드 시리즈 · 차트 6주차",
+      "value": "500만 회"
+    },
+    {
+      "name": "Musafir Cafe",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "370만 회"
+    },
+    {
+      "name": "Spooky in Love",
+      "sub": "리미티드 시리즈 · 차트 3주차",
+      "value": "360만 회"
+    },
+    {
+      "name": "The East Palace",
+      "sub": "리미티드 시리즈 · 차트 3주차",
+      "value": "300만 회"
+    },
+    {
+      "name": "Wrath",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "220만 회"
+    },
+    {
+      "name": "Teach You a Lesson",
+      "sub": "리미티드 시리즈 · 차트 9주차",
+      "value": "180만 회"
+    },
+    {
+      "name": "The Apartment Job",
+      "sub": "리미티드 시리즈 · 차트 4주차",
+      "value": "170만 회"
+    },
+    {
+      "name": "Elize Matsunaga: Once Upon a Crime",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "150만 회"
+    }
+  ],
+  "changes": [
+    "1위 Elite Force — 자리 유지",
+    "신규 진입 3개: 4위 Musafir Cafe, 7위 Wrath, 10위 Elize Matsunaga: Once Upon a Crime",
+    "순위 이탈 3개: The Map of Longing, The Polygamist, Jujutsu Kaisen"
+  ]
+}

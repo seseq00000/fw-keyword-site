@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-10",
+  "collected_date": "2026-08-11",
   "related": [
     "music-applemusic-kr"
   ],
@@ -55,24 +55,14 @@
       "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
-      "name": "Oh yeah?",
-      "sub": "Steve Lacy",
-      "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
-    },
-    {
-      "name": "LEMONADE - The 2nd Album",
-      "sub": "aespa",
-      "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
-      "sub": "Various Artists",
-      "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
+      "name": "Oh yeah?",
+      "sub": "Steve Lacy",
+      "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
     },
     {
       "name": "TEAM BABY",
@@ -80,9 +70,14 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
-      "name": "THIS & THAT",
-      "sub": "Stray Kids",
-      "url": "https://music.apple.com/kr/album/this-that/6779120281"
+      "name": "LEMONADE - The 2nd Album",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
+    },
+    {
+      "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
+      "sub": "Various Artists",
+      "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
     },
     {
       "name": "YOUNGEST",
@@ -90,9 +85,14 @@
       "url": "https://music.apple.com/kr/album/youngest/6786563428"
     },
     {
-      "name": "Lemon Tang - The 2nd Mini Album - EP",
-      "sub": "Hearts2Hearts",
-      "url": "https://music.apple.com/kr/album/lemon-tang-the-2nd-mini-album-ep/6779521284"
+      "name": "THIS & THAT",
+      "sub": "Stray Kids",
+      "url": "https://music.apple.com/kr/album/this-that/6779120281"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
     }
   ],
   "refresh": {

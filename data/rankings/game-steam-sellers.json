@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-13",
+  "collected_date": "2026-08-14",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,16 +23,16 @@
   ],
   "items": [
     {
+      "name": "환생주점",
+      "sub": "10% 할인 (정가 18,500원)",
+      "value": "16,650원",
+      "url": "https://store.steampowered.com/app/3236900/"
+    },
+    {
       "name": "검은 신화: 오공",
       "sub": "30% 할인 (정가 64,800원)",
       "value": "45,360원",
       "url": "https://store.steampowered.com/app/2358720/"
-    },
-    {
-      "name": "Total War: WARHAMMER III – Lords of the End Times",
-      "sub": "",
-      "value": "30,600원",
-      "url": "https://store.steampowered.com/app/80339/"
     },
     {
       "name": "Palworld / 팰월드",
@@ -41,46 +41,46 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "세피리아",
-      "sub": "",
-      "value": "16,500원",
-      "url": "https://store.steampowered.com/app/2436940/"
-    },
-    {
-      "name": "Doloc Town",
-      "sub": "20% 할인 (정가 20,000원)",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/2285550/"
-    },
-    {
-      "name": "Servant of the Lake",
-      "sub": "25% 할인 (정가 8,700원)",
-      "value": "6,520원",
-      "url": "https://store.steampowered.com/app/3636770/"
-    },
-    {
-      "name": "ReStory: Chill Electronics Repairs",
-      "sub": "10% 할인 (정가 19,900원)",
-      "value": "17,910원",
-      "url": "https://store.steampowered.com/app/3812600/"
-    },
-    {
-      "name": "HELLDIVERS™ 2",
-      "sub": "25% 할인 (정가 44,800원)",
-      "value": "33,600원",
-      "url": "https://store.steampowered.com/app/553850/"
-    },
-    {
       "name": "eBaseball™: PRO SPIRIT",
       "sub": "",
       "value": "70,000원",
       "url": "https://store.steampowered.com/app/4128400/"
     },
     {
+      "name": "Escape from Tarkov - The Unheard Steam Edition",
+      "sub": "",
+      "value": "265,000원",
+      "url": "https://store.steampowered.com/app/74190/"
+    },
+    {
+      "name": "Football Manager 26",
+      "sub": "60% 할인 (정가 69,800원)",
+      "value": "27,920원",
+      "url": "https://store.steampowered.com/app/3551340/"
+    },
+    {
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "드래곤소드 : 어웨이크닝",
+      "sub": "",
+      "value": "33,000원",
+      "url": "https://store.steampowered.com/app/4570720/"
+    },
+    {
       "name": "Big Walk",
       "sub": "25% 할인 (정가 21,800원)",
       "value": "16,350원",
       "url": "https://store.steampowered.com/app/1478500/"
+    },
+    {
+      "name": "Doloc Town",
+      "sub": "20% 할인 (정가 20,000원)",
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/2285550/"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-13",
+  "collected_date": "2026-08-14",
   "related": [
     "music-applemusic-kr"
   ],
@@ -25,6 +25,11 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
+      "name": "dinnermode",
+      "sub": "SUMIN",
+      "url": "https://music.apple.com/kr/album/dinnermode/6794219143"
+    },
+    {
       "name": "bad pieces",
       "sub": "wave to earth",
       "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
@@ -33,16 +38,6 @@
       "name": "petal",
       "sub": "Ariana Grande",
       "url": "https://music.apple.com/kr/album/petal/1895420989"
-    },
-    {
-      "name": "Velvet Summer - Summer Mini Album - EP",
-      "sub": "레드벨벳",
-      "url": "https://music.apple.com/kr/album/velvet-summer-summer-mini-album-ep/6794291724"
-    },
-    {
-      "name": "SS-POP 3",
-      "sub": "SYSTEM SEOUL",
-      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
       "name": "도모 - EP",
@@ -55,9 +50,14 @@
       "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
-      "name": "1126611 - EP",
-      "sub": "신인류",
-      "url": "https://music.apple.com/kr/album/1126611-ep/6799839538"
+      "name": "SS-POP 3",
+      "sub": "SYSTEM SEOUL",
+      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
+    },
+    {
+      "name": "Velvet Summer - Summer Mini Album - EP",
+      "sub": "레드벨벳",
+      "url": "https://music.apple.com/kr/album/velvet-summer-summer-mini-album-ep/6794291724"
     },
     {
       "name": "오보에",
@@ -65,9 +65,9 @@
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "dinnermode",
-      "sub": "SUMIN",
-      "url": "https://music.apple.com/kr/album/dinnermode/6794219143"
+      "name": "1126611 - EP",
+      "sub": "신인류",
+      "url": "https://music.apple.com/kr/album/1126611-ep/6799839538"
     },
     {
       "name": "TEAM BABY",
@@ -80,6 +80,11 @@
       "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
     },
     {
+      "name": "YOUNGEST",
+      "sub": "Young K",
+      "url": "https://music.apple.com/kr/album/youngest/6786563428"
+    },
+    {
       "name": "Oh yeah?",
       "sub": "Steve Lacy",
       "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
@@ -88,11 +93,6 @@
       "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
       "sub": "Various Artists",
       "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
-    },
-    {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
     }
   ],
   "refresh": {

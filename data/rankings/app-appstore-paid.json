@@ -9,7 +9,7 @@
   "value_label": "앱스토어 유료 앱 구매 순위",
   "source": "Apple App Store 공식 차트 — 유료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-paid/20/apps.json",
-  "collected_date": "2026-08-15",
+  "collected_date": "2026-08-16",
   "related": [
     "app-appstore-kr"
   ],
@@ -25,24 +25,24 @@
       "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%94%94-oldi-phone-camera/id6760838876"
     },
     {
-      "name": "GIKA 기카 - 독보적인 올드폰 감성 카메라",
-      "sub": "Noahproject Inc.",
-      "url": "https://apps.apple.com/kr/app/gika-%EA%B8%B0%EC%B9%B4-%EB%8F%85%EB%B3%B4%EC%A0%81%EC%9D%B8-%EC%98%AC%EB%93%9C%ED%8F%B0-%EA%B0%90%EC%84%B1-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6755822636"
-    },
-    {
       "name": "베리필름 Berryfilm - 60만 팬이 사랑한 필터",
       "sub": "Seungyun Kim",
       "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EB%A6%AC%ED%95%84%EB%A6%84-berryfilm-60%EB%A7%8C-%ED%8C%AC%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%ED%95%84%ED%84%B0/id6741474933"
     },
     {
-      "name": "Analog Wedding",
-      "sub": "ordinaryfactory Inc.",
-      "url": "https://apps.apple.com/kr/app/analog-wedding/id992047786"
+      "name": "GIKA 기카 - 독보적인 올드폰 감성 카메라",
+      "sub": "Noahproject Inc.",
+      "url": "https://apps.apple.com/kr/app/gika-%EA%B8%B0%EC%B9%B4-%EB%8F%85%EB%B3%B4%EC%A0%81%EC%9D%B8-%EC%98%AC%EB%93%9C%ED%8F%B0-%EA%B0%90%EC%84%B1-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6755822636"
     },
     {
       "name": "영뽀또 - 감성 구도 카메라",
       "sub": "Seungyun Kim",
       "url": "https://apps.apple.com/kr/app/%EC%98%81%EB%BD%80%EB%98%90-%EA%B0%90%EC%84%B1-%EA%B5%AC%EB%8F%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6763737180"
+    },
+    {
+      "name": "Analog Wedding",
+      "sub": "ordinaryfactory Inc.",
+      "url": "https://apps.apple.com/kr/app/analog-wedding/id992047786"
     },
     {
       "name": "filmhwa (필름화) - 화민 필터",
@@ -55,14 +55,19 @@
       "url": "https://apps.apple.com/kr/app/daypic-%EB%8D%B0%EC%9D%B4%ED%94%BD-%ED%95%98%EB%A3%A8-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%A7%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id6770772768"
     },
     {
+      "name": "친일인명사전",
+      "sub": "민족문제연구소",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%9C%EC%9D%BC%EC%9D%B8%EB%AA%85%EC%82%AC%EC%A0%84/id548942104"
+    },
+    {
       "name": "DayGrid: 하루 계획표, 데일리스케줄",
       "sub": "ho young moon",
       "url": "https://apps.apple.com/kr/app/daygrid-%ED%95%98%EB%A3%A8-%EA%B3%84%ED%9A%8D%ED%91%9C-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%8A%A4%EC%BC%80%EC%A4%84/id6762279908"
     },
     {
-      "name": "친일인명사전",
-      "sub": "민족문제연구소",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%9C%EC%9D%BC%EC%9D%B8%EB%AA%85%EC%82%AC%EC%A0%84/id548942104"
+      "name": "无锐化相机",
+      "sub": "北北 宋",
+      "url": "https://apps.apple.com/kr/app/%E6%97%A0%E9%94%90%E5%8C%96%E7%9B%B8%E6%9C%BA/id6504206143"
     },
     {
       "name": "Runa: RPG Maker & VN Player",
@@ -75,24 +80,19 @@
       "url": "https://apps.apple.com/kr/app/rpgplayer-an-rpgmaker-player/id6754986970"
     },
     {
-      "name": "无锐化相机",
-      "sub": "北北 宋",
-      "url": "https://apps.apple.com/kr/app/%E6%97%A0%E9%94%90%E5%8C%96%E7%9B%B8%E6%9C%BA/id6504206143"
-    },
-    {
-      "name": "네거티브 - 필름 룩 필터.",
-      "sub": "스몰캐머러",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EA%B1%B0%ED%8B%B0%EB%B8%8C-%ED%95%84%EB%A6%84-%EB%A3%A9-%ED%95%84%ED%84%B0/id6453697787"
-    },
-    {
-      "name": "회독JLPT",
-      "sub": "LEE YONGHEE",
-      "url": "https://apps.apple.com/kr/app/%ED%9A%8C%EB%8F%85jlpt/id1455054515"
+      "name": "CHAKK - 인스타 스토리 꾸미는 재미, 챡!",
+      "sub": "Gaeun Lee",
+      "url": "https://apps.apple.com/kr/app/chakk-%EC%9D%B8%EC%8A%A4%ED%83%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%BE%B8%EB%AF%B8%EB%8A%94-%EC%9E%AC%EB%AF%B8-%EC%B1%A1/id6747307749"
     },
     {
       "name": "AnkiMobile Flashcards",
       "sub": "Anki Software, LLC",
       "url": "https://apps.apple.com/kr/app/ankimobile-flashcards/id373493387"
+    },
+    {
+      "name": "회독JLPT",
+      "sub": "LEE YONGHEE",
+      "url": "https://apps.apple.com/kr/app/%ED%9A%8C%EB%8F%85jlpt/id1455054515"
     }
   ],
   "refresh": {

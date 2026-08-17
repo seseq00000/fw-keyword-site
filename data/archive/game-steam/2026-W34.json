@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W34",
+  "year": 2026,
+  "week": 34,
+  "period": null,
+  "collected_date": "2026-08-17",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 126.6만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 95.9만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 76.3만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 11.5만 명"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 28만 명 · 직전 주 6위"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "최고 동시접속 33.3만 명 · 직전 주 5위"
+    },
+    {
+      "name": "PEAK",
+      "sub": "최고 동시접속 12만 명 · 직전 주 39위"
+    },
+    {
+      "name": "HELLDIVERS™ 2",
+      "sub": "최고 동시접속 10.4만 명 · 직전 주 28위"
+    },
+    {
+      "name": "마블 라이벌즈",
+      "sub": "최고 동시접속 12.4만 명 · 직전 주 7위"
+    },
+    {
+      "name": "The Binding of Isaac: Rebirth",
+      "sub": "최고 동시접속 10.7만 명 · 직전 주 8위"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 5개: 6위 Palworld / 팰월드, 7위 PEAK, 8위 HELLDIVERS™ 2, 9위 마블 라이벌즈, 10위 The Binding of Isaac: Rebirth",
+    "순위 이탈 5개: Slay the Spire 2, R.E.P.O., Grand Theft Auto V 레거시, FiveM, Geometry Dash"
+  ]
+}

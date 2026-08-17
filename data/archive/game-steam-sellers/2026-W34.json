@@ -1,0 +1,75 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W34",
+  "year": 2026,
+  "week": 34,
+  "period": null,
+  "collected_date": "2026-08-17",
+  "items": [
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "환생주점",
+      "sub": "10% 할인 (정가 18,500원)",
+      "value": "16,650원",
+      "url": "https://store.steampowered.com/app/3236900/"
+    },
+    {
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "Mortal Shell II",
+      "sub": "",
+      "value": "54,800원",
+      "url": "https://store.steampowered.com/app/2584270/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "",
+      "value": "32,000원",
+      "url": "https://store.steampowered.com/app/1623730/"
+    },
+    {
+      "name": "Big Walk",
+      "sub": "25% 할인 (정가 21,800원)",
+      "value": "16,350원",
+      "url": "https://store.steampowered.com/app/1478500/"
+    },
+    {
+      "name": "검은 신화: 오공",
+      "sub": "30% 할인 (정가 64,800원)",
+      "value": "45,360원",
+      "url": "https://store.steampowered.com/app/2358720/"
+    },
+    {
+      "name": "Big Walk and PEAK\t",
+      "sub": "32% 할인 (정가 30,200원)",
+      "value": "18,490원",
+      "url": "https://store.steampowered.com/app/78920/"
+    },
+    {
+      "name": "PEAK",
+      "sub": "50% 할인 (정가 8,400원)",
+      "value": "4,200원",
+      "url": "https://store.steampowered.com/app/3527290/"
+    },
+    {
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "sub": "25% 할인 (정가 19,900원)",
+      "value": "14,920원",
+      "url": "https://store.steampowered.com/app/2950790/"
+    }
+  ],
+  "changes": [
+    "1위 교체 — 세피리아 → eBaseball™: PRO SPIRIT",
+    "신규 진입 4개: 2위 환생주점, 4위 Mortal Shell II, 7위 검은 신화: 오공, 9위 PEAK",
+    "순위 이탈 4개: Cyberpunk 2077, 사이버펑크 2077: 얼티밋 에디션, 사이버펑크 2077: 팬텀 리버티, ReStory: Chill Electronics Repairs"
+  ]
+}

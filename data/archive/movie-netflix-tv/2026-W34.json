@@ -1,0 +1,66 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W34",
+  "year": 2026,
+  "week": 34,
+  "period": "2026-08-09 주간",
+  "collected_date": "2026-08-17",
+  "items": [
+    {
+      "name": "My Daughter's Father",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "370만 회"
+    },
+    {
+      "name": "Wrath",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Spooky in Love",
+      "sub": "리미티드 시리즈 · 차트 4주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "Badly in Love",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "Our Sticky Love",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "Elite Force",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "Agent Kim Reactivated",
+      "sub": "리미티드 시리즈 · 차트 7주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Operation Safed Sagar: The Highest Air Force Mission",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "220만 회"
+    },
+    {
+      "name": "Musafir Cafe",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "170만 회"
+    },
+    {
+      "name": "The East Palace",
+      "sub": "리미티드 시리즈 · 차트 4주차",
+      "value": "150만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Elite Force → My Daughter's Father",
+    "신규 진입 3개: 4위 Badly in Love, 5위 Our Sticky Love, 8위 Operation Safed Sagar: The Highest Air Force Mission",
+    "순위 이탈 3개: Teach You a Lesson, The Apartment Job, Elize Matsunaga: Once Upon a Crime",
+    "최대 상승 — Wrath (7위 → 2위)"
+  ]
+}

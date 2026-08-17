@@ -1,22 +1,10 @@
 {
   "slug": "music-applemusic-kr",
-  "category": "music",
-  "order": 1,
-  "featured": true,
-  "feat_order": 2.5,
-  "title": "애플 뮤직 한국 인기곡 TOP 20",
-  "card_desc": "지금 국내에서 가장 많이 재생되는 노래",
-  "hook": "지금 한국에서 가장 많이 재생되는 노래는 무엇일까",
-  "intro": "애플이 공개하는 대한민국 애플 뮤직 '인기곡' 공식 차트입니다. 최근 재생량을 기준으로 애플이 매일 갱신하며, 이 페이지도 그에 맞춰 자동으로 최신 순위를 반영합니다. 주차별 기록은 아래 '지난 기록'에서 확인할 수 있습니다.",
-  "value_label": "애플 뮤직 재생량 순위 (대한민국)",
-  "source": "Apple Music 공식 차트 — 인기곡(대한민국)",
-  "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json",
+  "week_id": "2026-W34",
+  "year": 2026,
+  "week": 34,
+  "period": null,
   "collected_date": "2026-08-17",
-  "analysis": [
-    "애플 뮤직 한국 차트는 국내 이용자의 재생량만 집계하기 때문에, 스포티파이 같은 글로벌 차트와 달리 한국 청취 취향이 거의 그대로 드러납니다. 실제로 이 차트는 대부분 K-POP으로 채워지며, 해외 곡이 상위권에 오르는 경우는 드뭅니다.",
-    "한 팀의 곡이 여러 개 동시에 차트에 오르는 장면이 자주 나타납니다. 이는 팬덤이 타이틀곡만이 아니라 앨범 수록곡까지 반복 재생할 때 생기는 패턴으로, 컴백 직후 특히 두드러집니다. 같은 서비스의 앨범 차트와 나란히 놓고 보면 소비 방식의 차이가 더 분명해집니다.",
-    "재생량 기준 차트는 발매 시점의 영향을 크게 받습니다. 신곡은 공개 직후 며칠간 집중적으로 재생되며 순위가 치솟았다가 서서히 내려오고, 반대로 오래된 곡이 드라마나 광고에 쓰이면서 갑자기 되살아나기도 합니다. 순위 변화의 이유를 알고 싶다면 그 주에 무슨 일이 있었는지를 함께 보는 편이 좋습니다."
-  ],
   "items": [
     {
       "name": "Pop Off Pop Off",
@@ -119,8 +107,9 @@
       "url": "https://music.apple.com/kr/album/0-0/1828393588"
     }
   ],
-  "refresh": {
-    "type": "apple",
-    "url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json"
-  }
+  "changes": [
+    "1위 교체 — Sunflower (Spider-Man: Into the Spider-Verse) → Pop Off Pop Off",
+    "신규 진입 3개: 1위 Pop Off Pop Off, 8위 Candy Pink Magic Hole Flip Phone, 19위 SWEET SOUR",
+    "순위 이탈 3개: KISS KISS KISS (Prod. by Hukky Shibaseki) [feat. SUNWOO], 사랑하게 될 거야, 만찬가"
+  ]
 }

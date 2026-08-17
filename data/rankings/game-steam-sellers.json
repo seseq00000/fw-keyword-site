@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-16",
+  "collected_date": "2026-08-17",
   "related": [
     "game-steam",
     "game-popular"
@@ -41,16 +41,16 @@
       "url": "https://store.steampowered.com/app/2436940/"
     },
     {
+      "name": "Mortal Shell II",
+      "sub": "",
+      "value": "54,800원",
+      "url": "https://store.steampowered.com/app/2584270/"
+    },
+    {
       "name": "Palworld / 팰월드",
       "sub": "",
       "value": "32,000원",
       "url": "https://store.steampowered.com/app/1623730/"
-    },
-    {
-      "name": "검은 신화: 오공",
-      "sub": "30% 할인 (정가 64,800원)",
-      "value": "45,360원",
-      "url": "https://store.steampowered.com/app/2358720/"
     },
     {
       "name": "Big Walk",
@@ -59,22 +59,22 @@
       "url": "https://store.steampowered.com/app/1478500/"
     },
     {
-      "name": "PEAK",
-      "sub": "50% 할인 (정가 8,400원)",
-      "value": "4,200원",
-      "url": "https://store.steampowered.com/app/3527290/"
-    },
-    {
-      "name": "MECCHA CHAMELEON",
-      "sub": "",
-      "value": "6,550원",
-      "url": "https://store.steampowered.com/app/4704690/"
+      "name": "검은 신화: 오공",
+      "sub": "30% 할인 (정가 64,800원)",
+      "value": "45,360원",
+      "url": "https://store.steampowered.com/app/2358720/"
     },
     {
       "name": "Big Walk and PEAK\t",
       "sub": "32% 할인 (정가 30,200원)",
       "value": "18,490원",
       "url": "https://store.steampowered.com/app/78920/"
+    },
+    {
+      "name": "PEAK",
+      "sub": "50% 할인 (정가 8,400원)",
+      "value": "4,200원",
+      "url": "https://store.steampowered.com/app/3527290/"
     },
     {
       "name": "IRON NEST: Heavy Turret Simulator",

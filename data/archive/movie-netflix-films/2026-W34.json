@@ -1,0 +1,66 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W34",
+  "year": 2026,
+  "week": 34,
+  "period": "2026-08-09 주간",
+  "collected_date": "2026-08-17",
+  "items": [
+    {
+      "name": "The Last House",
+      "sub": "차트 1주차",
+      "value": "2,750만 회"
+    },
+    {
+      "name": "72 HOURS",
+      "sub": "차트 3주차",
+      "value": "1,110만 회"
+    },
+    {
+      "name": "Spider-Man: Far from Home",
+      "sub": "차트 3주차",
+      "value": "500만 회"
+    },
+    {
+      "name": "Spider-Man: Homecoming",
+      "sub": "차트 6주차",
+      "value": "490만 회"
+    },
+    {
+      "name": "A Toxic Love Story",
+      "sub": "차트 3주차",
+      "value": "410만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 60주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "In the Land of Saints and Sinners",
+      "sub": "차트 3주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "Minions",
+      "sub": "차트 15주차",
+      "value": "280만 회"
+    },
+    {
+      "name": "Terry McMillan Presents: His, Hers & Ours",
+      "sub": "차트 1주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Fast Charlie",
+      "sub": "차트 2주차",
+      "value": "260만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — 72 HOURS → The Last House",
+    "신규 진입 6개: 1위 The Last House, 3위 Spider-Man: Far from Home, 7위 In the Land of Saints and Sinners, 8위 Minions, 9위 Terry McMillan Presents: His, Hers & Ours",
+    "순위 이탈 6개: Kung Fu Panda 4, Voicemails for Isabelle, Take Shelter, Swapped, War Machine",
+    "최대 상승 — Spider-Man: Homecoming (9위 → 4위)"
+  ]
+}

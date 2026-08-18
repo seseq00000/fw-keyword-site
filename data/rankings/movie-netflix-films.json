@@ -11,7 +11,7 @@
   "value_label": "주간 시청 수 (2026-07-20 ~ 07-26)",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-08-11",
+  "collected_date": "2026-08-18",
   "analysis": [
     "넷플릭스 주간 영화 차트는 상위 한두 편이 그 주의 시청을 거의 독식하는 구조가 반복됩니다. 대대적으로 밀어주는 신작이 공개된 주에는 1~2위와 3위 이하의 격차가 몇 배로 벌어지고, 그런 신작이 없는 주에는 상위권이 비교적 평평해집니다. 순위 자체보다 1위와 3위의 격차를 보면 그 주에 화제작이 있었는지 바로 알 수 있습니다.",
     "신작만 오르는 것은 아닙니다. 공개된 지 한참 지난 작품이나 다른 곳에서 이미 흥행한 구작이 특정 팬층의 반복 시청으로 순위에 남는 경우가 자주 있습니다. 시리즈물과 달리 영화는 한 번에 다 보기 때문에 신작의 체류 기간이 짧고, 그 빈자리를 이런 롱테일 작품들이 채웁니다.",
@@ -20,53 +20,53 @@
   "items": [
     {
       "name": "The Last House",
+      "sub": "차트 2주차",
+      "value": "3,350만 회"
+    },
+    {
+      "name": "Don't Say Good Luck",
       "sub": "차트 1주차",
-      "value": "2,750만 회"
+      "value": "810만 회"
+    },
+    {
+      "name": "Extinction",
+      "sub": "차트 1주차",
+      "value": "740만 회"
     },
     {
       "name": "72 HOURS",
-      "sub": "차트 3주차",
-      "value": "1,110만 회"
+      "sub": "차트 4주차",
+      "value": "600만 회"
     },
     {
-      "name": "Spider-Man: Far from Home",
-      "sub": "차트 3주차",
-      "value": "500만 회"
+      "name": "Charlie and the Chocolate Factory",
+      "sub": "차트 1주차",
+      "value": "430만 회"
     },
     {
-      "name": "Spider-Man: Homecoming",
-      "sub": "차트 6주차",
-      "value": "490만 회"
-    },
-    {
-      "name": "A Toxic Love Story",
-      "sub": "차트 3주차",
+      "name": "Arthur the King",
+      "sub": "차트 1주차",
       "value": "410만 회"
     },
     {
+      "name": "What a Girl Wants",
+      "sub": "차트 1주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Spider-Man: Far from Home",
+      "sub": "차트 4주차",
+      "value": "340만 회"
+    },
+    {
       "name": "KPop Demon Hunters",
-      "sub": "차트 60주차",
+      "sub": "차트 61주차",
       "value": "330만 회"
     },
     {
       "name": "In the Land of Saints and Sinners",
-      "sub": "차트 3주차",
-      "value": "320만 회"
-    },
-    {
-      "name": "Minions",
-      "sub": "차트 15주차",
-      "value": "280만 회"
-    },
-    {
-      "name": "Terry McMillan Presents: His, Hers & Ours",
-      "sub": "차트 1주차",
-      "value": "270만 회"
-    },
-    {
-      "name": "Fast Charlie",
-      "sub": "차트 2주차",
-      "value": "260만 회"
+      "sub": "차트 4주차",
+      "value": "330만 회"
     }
   ],
   "refresh": {

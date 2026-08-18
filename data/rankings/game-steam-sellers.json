@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-17",
+  "collected_date": "2026-08-18",
   "related": [
     "game-steam",
     "game-popular"
@@ -22,24 +22,6 @@
     "할인율은 순위를 끌어올리는 가장 강력한 변수입니다. 출시된 지 몇 년 지난 게임이 상위권에 있다면 대개 큰 폭의 할인이 걸려 있고, 반대로 정가 그대로인 게임이 1위에 있다면 신작이라는 뜻입니다. 가격 옆의 할인 표시를 함께 보면 그 게임이 왜 지금 팔리는지 대체로 설명이 됩니다."
   ],
   "items": [
-    {
-      "name": "eBaseball™: PRO SPIRIT",
-      "sub": "",
-      "value": "70,000원",
-      "url": "https://store.steampowered.com/app/4128400/"
-    },
-    {
-      "name": "환생주점",
-      "sub": "10% 할인 (정가 18,500원)",
-      "value": "16,650원",
-      "url": "https://store.steampowered.com/app/3236900/"
-    },
-    {
-      "name": "세피리아",
-      "sub": "",
-      "value": "16,500원",
-      "url": "https://store.steampowered.com/app/2436940/"
-    },
     {
       "name": "Mortal Shell II",
       "sub": "",
@@ -53,10 +35,34 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "환생주점",
+      "sub": "10% 할인 (정가 18,500원)",
+      "value": "16,650원",
+      "url": "https://store.steampowered.com/app/3236900/"
+    },
+    {
       "name": "Big Walk",
-      "sub": "25% 할인 (정가 21,800원)",
-      "value": "16,350원",
+      "sub": "",
+      "value": "21,800원",
       "url": "https://store.steampowered.com/app/1478500/"
+    },
+    {
+      "name": "콜 오브 듀티®: 모던 워페어 4",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
     },
     {
       "name": "검은 신화: 오공",
@@ -65,22 +71,16 @@
       "url": "https://store.steampowered.com/app/2358720/"
     },
     {
-      "name": "Big Walk and PEAK\t",
-      "sub": "32% 할인 (정가 30,200원)",
-      "value": "18,490원",
-      "url": "https://store.steampowered.com/app/78920/"
+      "name": "Doloc Town",
+      "sub": "20% 할인 (정가 20,000원)",
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/2285550/"
     },
     {
-      "name": "PEAK",
-      "sub": "50% 할인 (정가 8,400원)",
-      "value": "4,200원",
-      "url": "https://store.steampowered.com/app/3527290/"
-    },
-    {
-      "name": "IRON NEST: Heavy Turret Simulator",
-      "sub": "25% 할인 (정가 19,900원)",
-      "value": "14,920원",
-      "url": "https://store.steampowered.com/app/2950790/"
+      "name": "Darkest Dungeon®: The Fire's Edge",
+      "sub": "",
+      "value": "7,500원",
+      "url": "https://store.steampowered.com/app/4964110/"
     }
   ],
   "refresh": {

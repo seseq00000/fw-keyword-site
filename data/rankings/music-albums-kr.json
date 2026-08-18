@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-17",
+  "collected_date": "2026-08-18",
   "related": [
     "music-applemusic-kr"
   ],
@@ -50,14 +50,14 @@
       "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
-      "name": "SS-POP 3",
-      "sub": "SYSTEM SEOUL",
-      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
-    },
-    {
       "name": "도모 - EP",
       "sub": "희대의, 블랙넛 & 씨잼",
       "url": "https://music.apple.com/kr/album/domo-ep/6791085675"
+    },
+    {
+      "name": "SS-POP 3",
+      "sub": "SYSTEM SEOUL",
+      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
       "name": "Velvet Summer - Summer Mini Album - EP",
@@ -65,14 +65,14 @@
       "url": "https://music.apple.com/kr/album/velvet-summer-summer-mini-album-ep/6794291724"
     },
     {
-      "name": "TEAM BABY",
-      "sub": "검정치마",
-      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
-    },
-    {
       "name": "Oh yeah?",
       "sub": "Steve Lacy",
       "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
+    },
+    {
+      "name": "TEAM BABY",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
       "name": "LEMONADE - The 2nd Album",
@@ -85,14 +85,14 @@
       "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
     },
     {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
-    },
-    {
       "name": "SCENEDROME - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
     }
   ],
   "refresh": {

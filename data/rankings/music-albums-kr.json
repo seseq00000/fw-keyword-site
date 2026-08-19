@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-18",
+  "collected_date": "2026-08-19",
   "related": [
     "music-applemusic-kr"
   ],
@@ -30,14 +30,19 @@
       "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
     },
     {
+      "name": "petal",
+      "sub": "Ariana Grande",
+      "url": "https://music.apple.com/kr/album/petal/1895420989"
+    },
+    {
       "name": "dinnermode",
       "sub": "SUMIN",
       "url": "https://music.apple.com/kr/album/dinnermode/6794219143"
     },
     {
-      "name": "petal",
-      "sub": "Ariana Grande",
-      "url": "https://music.apple.com/kr/album/petal/1895420989"
+      "name": "GREENGREEN - EP",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
       "name": "오보에",
@@ -45,9 +50,9 @@
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "GREENGREEN - EP",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
+      "name": "Oh yeah?",
+      "sub": "Steve Lacy",
+      "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
     },
     {
       "name": "도모 - EP",
@@ -65,11 +70,6 @@
       "url": "https://music.apple.com/kr/album/velvet-summer-summer-mini-album-ep/6794291724"
     },
     {
-      "name": "Oh yeah?",
-      "sub": "Steve Lacy",
-      "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
-    },
-    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
@@ -80,14 +80,14 @@
       "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
     },
     {
-      "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
-      "sub": "Various Artists",
-      "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
-    },
-    {
       "name": "SCENEDROME - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+    },
+    {
+      "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition]",
+      "sub": "Various Artists",
+      "url": "https://music.apple.com/kr/album/spider-man-into-the-spider-verse-soundtrack-from/1453876765"
     },
     {
       "name": "킁",

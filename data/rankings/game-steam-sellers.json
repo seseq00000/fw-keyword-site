@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-18",
+  "collected_date": "2026-08-19",
   "related": [
     "game-steam",
     "game-popular"
@@ -22,6 +22,24 @@
     "할인율은 순위를 끌어올리는 가장 강력한 변수입니다. 출시된 지 몇 년 지난 게임이 상위권에 있다면 대개 큰 폭의 할인이 걸려 있고, 반대로 정가 그대로인 게임이 1위에 있다면 신작이라는 뜻입니다. 가격 옆의 할인 표시를 함께 보면 그 게임이 왜 지금 팔리는지 대체로 설명이 됩니다."
   ],
   "items": [
+    {
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "검은 신화: 오공",
+      "sub": "30% 할인 (정가 64,800원)",
+      "value": "45,360원",
+      "url": "https://store.steampowered.com/app/2358720/"
+    },
+    {
+      "name": "Mortal Shell II",
+      "sub": "",
+      "value": "54,800원",
+      "url": "https://store.steampowered.com/app/2584270/"
+    },
     {
       "name": "Mortal Shell II",
       "sub": "",
@@ -35,16 +53,16 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "eBaseball™: PRO SPIRIT",
+      "name": "콜 오브 듀티®: 모던 워페어 4",
       "sub": "",
-      "value": "70,000원",
-      "url": "https://store.steampowered.com/app/4128400/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "세피리아",
-      "sub": "",
-      "value": "16,500원",
-      "url": "https://store.steampowered.com/app/2436940/"
+      "name": "영주님은 방치중: 중세 도시 키우기",
+      "sub": "10% 할인 (정가 7,700원)",
+      "value": "6,930원",
+      "url": "https://store.steampowered.com/app/4315040/"
     },
     {
       "name": "환생주점",
@@ -53,34 +71,16 @@
       "url": "https://store.steampowered.com/app/3236900/"
     },
     {
-      "name": "Big Walk",
-      "sub": "",
-      "value": "21,800원",
-      "url": "https://store.steampowered.com/app/1478500/"
-    },
-    {
       "name": "콜 오브 듀티®: 모던 워페어 4",
       "sub": "",
       "value": "80,000원",
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "검은 신화: 오공",
-      "sub": "30% 할인 (정가 64,800원)",
-      "value": "45,360원",
-      "url": "https://store.steampowered.com/app/2358720/"
-    },
-    {
       "name": "Doloc Town",
       "sub": "20% 할인 (정가 20,000원)",
       "value": "16,000원",
       "url": "https://store.steampowered.com/app/2285550/"
-    },
-    {
-      "name": "Darkest Dungeon®: The Fire's Edge",
-      "sub": "",
-      "value": "7,500원",
-      "url": "https://store.steampowered.com/app/4964110/"
     }
   ],
   "refresh": {

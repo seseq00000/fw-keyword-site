@@ -9,7 +9,7 @@
   "value_label": "앱스토어 유료 앱 구매 순위",
   "source": "Apple App Store 공식 차트 — 유료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-paid/20/apps.json",
-  "collected_date": "2026-08-19",
+  "collected_date": "2026-08-20",
   "related": [
     "app-appstore-kr"
   ],
@@ -80,9 +80,9 @@
       "url": "https://apps.apple.com/kr/app/runa-rpg-maker-vn-player/id6779939767"
     },
     {
-      "name": "위플 가계부 Pro",
-      "sub": "bumblebee",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%84%ED%94%8C-%EA%B0%80%EA%B3%84%EB%B6%80-pro/id441683476"
+      "name": "한국사 능력",
+      "sub": "별책",
+      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%82%AC-%EB%8A%A5%EB%A0%A5/id1445502301"
     },
     {
       "name": "회독JLPT",

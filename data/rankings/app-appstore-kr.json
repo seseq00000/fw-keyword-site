@@ -11,7 +11,7 @@
   "value_label": "앱스토어 무료 앱 다운로드 순위",
   "source": "Apple App Store 공식 차트 — 무료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-free/20/apps.json",
-  "collected_date": "2026-08-21",
+  "collected_date": "2026-08-22",
   "analysis": [
     "무료 앱 순위는 '많이 쓰는 앱'이 아니라 '최근에 많이 설치된 앱'을 보여줍니다. 이미 모두가 깔아 둔 메신저나 포털이 상위권에 잘 보이지 않는 이유가 여기에 있습니다. 반대로 신규 설치가 짧은 기간에 몰리면 순위가 급격히 뛰기 때문에, 이 차트는 인기의 총량보다 화제의 속도를 재는 지표에 가깝습니다.",
     "한국 차트에서 반복적으로 나타나는 특징이 몇 가지 있습니다. 첫째, 은행·카드·보험 앱이 자주 최상위권에 등장합니다. 금융 앱은 앱을 전면 개편하거나 이벤트를 열면 기존 고객이 한꺼번에 재설치하기 때문에 단기간에 순위가 크게 움직입니다. 둘째, 공공 앱의 존재감이 큽니다. 교통·신분증·민원 관련 앱이 상시로 순위권에 머무는 것은 해외 차트에서는 보기 드문 한국만의 특징으로, 생활 행정이 모바일로 옮겨 간 결과입니다.",
@@ -24,19 +24,14 @@
       "url": "https://apps.apple.com/kr/app/%EB%B0%B0%EB%8B%AC%EC%95%88%EC%99%80%EC%9A%94/id6778663553"
     },
     {
-      "name": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "sub": "Hana Bank",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232"
-    },
-    {
-      "name": "네이버페이",
-      "sub": "Naver Financial Corporation",
-      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824"
-    },
-    {
       "name": "CGV",
       "sub": "CJ CGV Co.ltd",
       "url": "https://apps.apple.com/kr/app/cgv/id6738896323"
+    },
+    {
+      "name": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "sub": "Hana Bank",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232"
     },
     {
       "name": "Google Gemini",
@@ -44,9 +39,9 @@
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729"
     },
     {
-      "name": "디지털온누리",
-      "sub": "한국조폐공사",
-      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450"
+      "name": "네이버페이",
+      "sub": "Naver Financial Corporation",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824"
     },
     {
       "name": "BIGBANG OFFICIAL LIGHT STICK",
@@ -54,14 +49,9 @@
       "url": "https://apps.apple.com/kr/app/bigbang-official-light-stick/id6778739404"
     },
     {
-      "name": "Claude by Anthropic",
-      "sub": "Anthropic PBC",
-      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
-    },
-    {
-      "name": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "sub": "SHINHAN BANK",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932"
+      "name": "NetShort - 인기 드라마 및 TV 프로그램",
+      "sub": "NETSTORY PTE. LTD.",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169"
     },
     {
       "name": "네이버플러스 스토어",
@@ -69,44 +59,14 @@
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154"
     },
     {
-      "name": "K-패스",
-      "sub": "교통안전공단 · 생산성",
-      "url": "https://apps.apple.com/kr/app/k-%ED%8C%A8%EC%8A%A4/id1538531939"
+      "name": "우리동네GS (GS25, GS더프레시, 와인25플러스)",
+      "sub": "GS Retail Co., Ltd.",
+      "url": "https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4gs-gs25-gs%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C-%EC%99%80%EC%9D%B825%ED%94%8C%EB%9F%AC%EC%8A%A4/id426644449"
     },
     {
-      "name": "Asterum",
-      "sub": "VLAST · 엔터테인먼트",
-      "url": "https://apps.apple.com/kr/app/asterum/id6746333465"
-    },
-    {
-      "name": "정부24(구 민원24)",
-      "sub": "행정안전부 · 라이프스타일",
-      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505"
-    },
-    {
-      "name": "Google Maps",
-      "sub": "Google · 내비게이션",
-      "url": "https://apps.apple.com/kr/app/google-maps/id585027354"
-    },
-    {
-      "name": "코코룸: 생리주기 PMS 알림",
-      "sub": "aanug · 라이프스타일",
-      "url": "https://apps.apple.com/kr/app/%EC%BD%94%EC%BD%94%EB%A3%B8-%EC%83%9D%EB%A6%AC%EC%A3%BC%EA%B8%B0-pms-%EC%95%8C%EB%A6%BC/id6775430618"
-    },
-    {
-      "name": "대한민국 모바일 신분증",
-      "sub": "행정안전부 · 유틸리티",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372"
-    },
-    {
-      "name": "듀오링고(Duolingo): 언어 학습",
-      "sub": "Duolingo · 교육",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128"
-    },
-    {
-      "name": "Brave - 비공개 브라우저, 검색 엔진, VPN 등",
-      "sub": "Brave Software · 유틸리티",
-      "url": "https://apps.apple.com/kr/app/brave-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-vpn-%EB%93%B1/id1052879175"
+      "name": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+      "sub": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/kr/app/dramawave-%EC%9D%BC%EB%B3%B8-%ED%95%9C%EA%B5%AD-%EC%9D%B8%EA%B8%B0-%EB%8B%A8%ED%8E%B8-%EB%93%9C%EB%9D%BC%EB%A7%88/id6670430706"
     },
     {
       "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
@@ -114,9 +74,49 @@
       "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185"
     },
     {
+      "name": "Claude by Anthropic",
+      "sub": "Anthropic PBC · 생산성",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
+    },
+    {
+      "name": "듀오링고(Duolingo): 언어 학습",
+      "sub": "Duolingo · 교육",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128"
+    },
+    {
+      "name": "Google Maps",
+      "sub": "Google · 내비게이션",
+      "url": "https://apps.apple.com/kr/app/google-maps/id585027354"
+    },
+    {
+      "name": "디지털온누리",
+      "sub": "한국조폐공사 · 금융",
+      "url": "https://apps.apple.com/kr/app/%EB%94%94%EC%A7%80%ED%84%B8%EC%98%A8%EB%88%84%EB%A6%AC/id6738372450"
+    },
+    {
+      "name": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
+      "sub": "ironpig Inc. · 사진 및 비디오",
+      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739"
+    },
+    {
       "name": "Trip.com 트립닷컴 - 여행 할인 예약",
       "sub": "Trip.com Travel Singapore Pte. Ltd. · 여행",
       "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345"
+    },
+    {
+      "name": "캐치테이블",
+      "sub": "WADcorp · 음식 및 음료",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566"
+    },
+    {
+      "name": "정부24(구 민원24)",
+      "sub": "행정안전부 · 라이프스타일",
+      "url": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505"
+    },
+    {
+      "name": "Brave - 비공개 브라우저, 검색 엔진, VPN 등",
+      "sub": "Brave Software · 유틸리티",
+      "url": "https://apps.apple.com/kr/app/brave-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-vpn-%EB%93%B1/id1052879175"
     }
   ],
   "refresh": {

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-22",
+  "collected_date": "2026-08-23",
   "related": [
     "game-steam",
     "game-popular"
@@ -27,6 +27,12 @@
       "sub": "38% 할인 (정가 8,400원)",
       "value": "5,210원",
       "url": "https://store.steampowered.com/app/4001890/"
+    },
+    {
+      "name": "검은 신화: 오공",
+      "sub": "30% 할인 (정가 64,800원)",
+      "value": "45,360원",
+      "url": "https://store.steampowered.com/app/2358720/"
     },
     {
       "name": "콜 오브 듀티®: 모던 워페어 4",
@@ -47,22 +53,10 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "검은 신화: 오공",
-      "sub": "30% 할인 (정가 64,800원)",
-      "value": "45,360원",
-      "url": "https://store.steampowered.com/app/2358720/"
-    },
-    {
-      "name": "콜 오브 듀티®: 모던 워페어 4",
-      "sub": "",
-      "value": "80,000원",
-      "url": "https://store.steampowered.com/app/4435490/"
-    },
-    {
-      "name": "Mortal Shell II",
-      "sub": "",
-      "value": "54,800원",
-      "url": "https://store.steampowered.com/app/2584270/"
+      "name": "페르소나3 리로드",
+      "sub": "65% 할인 (정가 69,800원)",
+      "value": "24,430원",
+      "url": "https://store.steampowered.com/app/2161700/"
     },
     {
       "name": "Bodycam",
@@ -71,16 +65,22 @@
       "url": "https://store.steampowered.com/app/2406770/"
     },
     {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
+      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
+      "sub": "67% 할인 (정가 139,600원)",
+      "value": "40,840원",
+      "url": "https://store.steampowered.com/app/43918/"
     },
     {
-      "name": "마블 스파이더맨 2",
+      "name": "콜 오브 듀티®: 모던 워페어 4",
       "sub": "",
-      "value": "62,800원",
-      "url": "https://store.steampowered.com/app/2651280/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "환생주점",
+      "sub": "10% 할인 (정가 18,500원)",
+      "value": "16,650원",
+      "url": "https://store.steampowered.com/app/3236900/"
     }
   ],
   "refresh": {

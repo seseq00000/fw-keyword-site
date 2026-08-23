@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-22",
+  "collected_date": "2026-08-23",
   "related": [
     "music-applemusic-kr"
   ],
@@ -40,9 +40,9 @@
       "url": "https://music.apple.com/kr/album/petal/1895420989"
     },
     {
-      "name": "오보에",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+      "name": "GREENGREEN - EP",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
       "name": "bad pieces",
@@ -50,19 +50,9 @@
       "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
     },
     {
-      "name": "GREENGREEN - EP",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
-    },
-    {
-      "name": "THE SIN : BLISS (Korean Ver.)",
-      "sub": "엔하이픈",
-      "url": "https://music.apple.com/kr/album/the-sin-bliss-korean-ver/6802196823"
-    },
-    {
-      "name": "solsol~ condo - EP",
-      "sub": "죠지",
-      "url": "https://music.apple.com/kr/album/solsol-condo-ep/6796221113"
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
       "name": "TEAM BABY",
@@ -80,19 +70,29 @@
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
+      "name": "THE SIN : BLISS (Korean Ver.)",
+      "sub": "엔하이픈",
+      "url": "https://music.apple.com/kr/album/the-sin-bliss-korean-ver/6802196823"
+    },
+    {
+      "name": "solsol~ condo - EP",
+      "sub": "죠지",
+      "url": "https://music.apple.com/kr/album/solsol-condo-ep/6796221113"
+    },
+    {
       "name": "Oh yeah?",
       "sub": "Steve Lacy",
       "url": "https://music.apple.com/kr/album/oh-yeah/6773775032"
     },
     {
-      "name": "dinnermode",
-      "sub": "SUMIN",
-      "url": "https://music.apple.com/kr/album/dinnermode/6794219143"
+      "name": "LEMONADE - The 2nd Album",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
     },
     {
-      "name": "Velvet Summer - Summer Mini Album - EP",
-      "sub": "레드벨벳",
-      "url": "https://music.apple.com/kr/album/velvet-summer-summer-mini-album-ep/6794291724"
+      "name": "SCENEDROME - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     }
   ],
   "refresh": {

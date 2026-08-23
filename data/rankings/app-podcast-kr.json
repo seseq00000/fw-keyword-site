@@ -9,7 +9,7 @@
   "value_label": "애플 팟캐스트 인기 순위 (대한민국)",
   "source": "Apple Podcasts 공식 차트 — 인기 프로그램(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/podcasts/top/15/podcasts.json",
-  "collected_date": "2026-08-22",
+  "collected_date": "2026-08-23",
   "analysis": [
     "한국 팟캐스트 차트에서 가장 눈에 띄는 특징은 교육 콘텐츠의 비중입니다. 영어 학습 방송이 상위권에 여러 개 올라 있는 경우가 흔한데, 국내 제작물이 아니라 해외에서 만든 영어 콘텐츠인 경우가 많습니다. 팟캐스트가 한국에서 오락 매체이기 전에 학습 도구로 자리 잡았다는 뜻입니다.",
     "경제·시사 방송의 존재감도 큽니다. 팟캐스트는 출퇴근이나 운동처럼 손과 눈을 쓸 수 없는 시간에 듣는 매체이기 때문에, 화면 없이도 따라갈 수 있는 뉴스·해설 형식이 특히 잘 맞습니다. 지상파 라디오가 만든 프로그램이 강세를 보이는 것도 같은 이유로, 이미 음성만으로 완결되는 콘텐츠를 오래 만들어 온 제작 역량이 그대로 옮겨 온 결과입니다.",
@@ -62,6 +62,11 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EA%B7%B8%EA%B2%83%EC%9D%80-%EC%95%8C%EA%B8%B0-%EC%8B%AB%EB%8B%A4/id890330551"
     },
     {
+      "name": "이강민의 잡지사",
+      "sub": "CBS · 뉴스",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%9D%B4%EA%B0%95%EB%AF%BC%EC%9D%98-%EC%9E%A1%EC%A7%80%EC%82%AC/id1648226549"
+    },
+    {
       "name": "Global News Podcast",
       "sub": "BBC World Service · 뉴스",
       "url": "https://podcasts.apple.com/kr/podcast/global-news-podcast/id135067274"
@@ -72,19 +77,14 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EB%A6%AC%EB%94%A9-%EC%BC%80%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC/id1773898138"
     },
     {
-      "name": "Culips Everyday English Podcast",
-      "sub": "Culips English Podcast · 교육",
-      "url": "https://podcasts.apple.com/kr/podcast/culips-everyday-english-podcast/id279999557"
+      "name": "JTBC 뉴스룸",
+      "sub": "JTBC · 뉴스",
+      "url": "https://podcasts.apple.com/kr/podcast/jtbc-%EB%89%B4%EC%8A%A4%EB%A3%B8/id807339352"
     },
     {
-      "name": "이강민의 잡지사",
-      "sub": "CBS · 뉴스",
-      "url": "https://podcasts.apple.com/kr/podcast/%EC%9D%B4%EA%B0%95%EB%AF%BC%EC%9D%98-%EC%9E%A1%EC%A7%80%EC%82%AC/id1648226549"
-    },
-    {
-      "name": "TED Talks Daily",
-      "sub": "TED · 사회 및 문화",
-      "url": "https://podcasts.apple.com/kr/podcast/ted-talks-daily/id160904630"
+      "name": "손석희의 12시",
+      "sub": "MBC · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%86%90%EC%84%9D%ED%9D%AC%EC%9D%98-12%EC%8B%9C/id6785714672"
     },
     {
       "name": "No Stupid Questions",

@@ -1,23 +1,10 @@
 {
   "slug": "app-github",
-  "category": "app",
-  "order": 7,
-  "title": "GitHub 최다 스타 오픈소스 TOP 10",
-  "card_desc": "전 세계 개발자가 가장 많이 즐겨찾기한 저장소",
-  "hook": "개발자들이 가장 많이 별을 준 저장소는 코드가 아니다",
-  "intro": "전 세계 개발자들이 GitHub에서 가장 많이 별(스타)을 준 저장소 순위입니다. 스타는 즐겨찾기에 해당하는 기능으로, 실제 사용량보다는 '알아둘 가치가 있다고 여겨진 정도'를 보여줍니다. GitHub 검색 API를 통해 매일 자동으로 갱신됩니다.",
-  "value_label": "스타 수",
-  "source": "GitHub Search API",
-  "source_url": "https://api.github.com/search/repositories?q=stars:%3E100000&sort=stars&order=desc",
+  "week_id": "2026-W35",
+  "year": 2026,
+  "week": 35,
+  "period": null,
   "collected_date": "2026-08-24",
-  "related": [
-    "app-tech-companies"
-  ],
-  "analysis": [
-    "상위권을 차지하는 것은 소프트웨어가 아니라 학습 자료입니다. 직접 만들어 보며 배우는 튜토리얼 모음, 정리된 목록(awesome 시리즈), 무료 프로그래밍 책 모음, 면접 준비 자료, 학습 로드맵 같은 저장소가 실제로 돌아가는 프로그램들을 제치고 상단에 있습니다. 스타는 '쓰려고' 누르는 것이 아니라 '나중에 보려고' 눌리는 버튼이라는 점이 이 순위의 성격을 결정합니다.",
-    "그래서 이 순위는 인기 소프트웨어 순위와 다르게 읽어야 합니다. 실제로 가장 많이 설치되고 실행되는 라이브러리들은 스타 수에서 학습 자료에 밀립니다. 개발 도구는 필요할 때 설치해서 쓰면 그만이지만, 자료 모음은 '언젠가 볼 것'으로 저장해 두기 때문에 스타가 계속 쌓입니다.",
-    "언어 분포를 보면 저장소의 성격이 한 번 더 드러납니다. 상위권에 마크다운 문서나 언어 표시가 아예 없는 저장소가 섞여 있는데, 코드가 거의 없고 문서만 있는 자료 모음이라는 뜻입니다. 순수한 코드 프로젝트가 이 목록의 상단에 오르려면 학습 자료 수준의 대중적 인지도를 확보해야 합니다."
-  ],
   "items": [
     {
       "name": "codecrafters-io/build-your-own-x",
@@ -80,9 +67,8 @@
       "url": "https://github.com/vinta/awesome-python"
     }
   ],
-  "refresh": {
-    "type": "github",
-    "minStars": 100000,
-    "count": 10
-  }
+  "changes": [
+    "1위 codecrafters-io/build-your-own-x — 자리 유지",
+    "순위 변동이 크지 않았습니다."
+  ]
 }

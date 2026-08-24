@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W35",
+  "year": 2026,
+  "week": 35,
+  "period": "2026-08-16 주간",
+  "collected_date": "2026-08-24",
+  "items": [
+    {
+      "name": "The Last House",
+      "sub": "차트 2주차",
+      "value": "3,350만 회"
+    },
+    {
+      "name": "Don't Say Good Luck",
+      "sub": "차트 1주차",
+      "value": "810만 회"
+    },
+    {
+      "name": "Extinction",
+      "sub": "차트 1주차",
+      "value": "740만 회"
+    },
+    {
+      "name": "72 HOURS",
+      "sub": "차트 4주차",
+      "value": "600만 회"
+    },
+    {
+      "name": "Charlie and the Chocolate Factory",
+      "sub": "차트 1주차",
+      "value": "430만 회"
+    },
+    {
+      "name": "Arthur the King",
+      "sub": "차트 1주차",
+      "value": "410만 회"
+    },
+    {
+      "name": "What a Girl Wants",
+      "sub": "차트 1주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Spider-Man: Far from Home",
+      "sub": "차트 4주차",
+      "value": "340만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 61주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "In the Land of Saints and Sinners",
+      "sub": "차트 4주차",
+      "value": "330만 회"
+    }
+  ],
+  "changes": [
+    "1위 The Last House — 자리 유지",
+    "신규 진입 5개: 2위 Don't Say Good Luck, 3위 Extinction, 5위 Charlie and the Chocolate Factory, 6위 Arthur the King, 7위 What a Girl Wants",
+    "순위 이탈 5개: Spider-Man: Homecoming, A Toxic Love Story, Minions, Terry McMillan Presents: His, Hers & Ours, Fast Charlie"
+  ]
+}

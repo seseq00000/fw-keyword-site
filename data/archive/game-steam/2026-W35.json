@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W35",
+  "year": 2026,
+  "week": 35,
+  "period": null,
+  "collected_date": "2026-08-24",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 123만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 100.4만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 73.3만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 11.6만 명"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 26.6만 명 · 직전 주 6위"
+    },
+    {
+      "name": "낚시 방법",
+      "sub": "최고 동시접속 26.8만 명 · 직전 주 -1위"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "최고 동시접속 24.3만 명 · 직전 주 5위"
+    },
+    {
+      "name": "HELLDIVERS™ 2",
+      "sub": "최고 동시접속 9.8만 명"
+    },
+    {
+      "name": "마블 라이벌즈",
+      "sub": "최고 동시접속 11.1만 명"
+    },
+    {
+      "name": "Grand Theft Auto V 레거시",
+      "sub": "최고 동시접속 9.3만 명 · 직전 주 12위"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 2개: 6위 낚시 방법, 10위 Grand Theft Auto V 레거시",
+    "순위 이탈 2개: PEAK, The Binding of Isaac: Rebirth"
+  ]
+}

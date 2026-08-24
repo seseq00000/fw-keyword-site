@@ -1,0 +1,76 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W35",
+  "year": 2026,
+  "week": 35,
+  "period": null,
+  "collected_date": "2026-08-24",
+  "items": [
+    {
+      "name": "낚시 방법",
+      "sub": "38% 할인 (정가 8,400원)",
+      "value": "5,210원",
+      "url": "https://store.steampowered.com/app/4001890/"
+    },
+    {
+      "name": "검은 신화: 오공",
+      "sub": "30% 할인 (정가 64,800원)",
+      "value": "45,360원",
+      "url": "https://store.steampowered.com/app/2358720/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "",
+      "value": "32,000원",
+      "url": "https://store.steampowered.com/app/1623730/"
+    },
+    {
+      "name": "Bodycam",
+      "sub": "",
+      "value": "37,500원",
+      "url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "영주님은 방치중: 중세 도시 키우기",
+      "sub": "10% 할인 (정가 7,700원)",
+      "value": "6,930원",
+      "url": "https://store.steampowered.com/app/4315040/"
+    },
+    {
+      "name": "페르소나3 리로드",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/2161700/"
+    },
+    {
+      "name": "콜 오브 듀티®: 모던 워페어 4",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
+      "sub": "",
+      "value": "104,700원",
+      "url": "https://store.steampowered.com/app/43918/"
+    }
+  ],
+  "changes": [
+    "1위 교체 — eBaseball™: PRO SPIRIT → 낚시 방법",
+    "신규 진입 6개: 1위 낚시 방법, 4위 Bodycam, 6위 영주님은 방치중: 중세 도시 키우기, 7위 페르소나3 리로드, 8위 콜 오브 듀티®: 모던 워페어 4",
+    "순위 이탈 6개: 환생주점, Mortal Shell II, Big Walk, Big Walk and PEAK\t, PEAK",
+    "최대 상승 — 검은 신화: 오공 (7위 → 2위)"
+  ]
+}

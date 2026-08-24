@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv-en",
+  "week_id": "2026-W35",
+  "year": 2026,
+  "week": 35,
+  "period": "2026-08-16 주간",
+  "collected_date": "2026-08-24",
+  "items": [
+    {
+      "name": "My Life With the Walter Boys",
+      "sub": "시즌 3 · 차트 2주차",
+      "value": "870만 회"
+    },
+    {
+      "name": "Conversations with a Killer: The Charles Manson Tapes",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "490만 회"
+    },
+    {
+      "name": "The Idaho Murders: College Nightmare",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "360만 회"
+    },
+    {
+      "name": "My Brilliant Career",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "310만 회"
+    },
+    {
+      "name": "MOURINHO",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "The Bombing of Pan Am 103",
+      "sub": "리미티드 시리즈 · 차트 3주차",
+      "value": "280만 회"
+    },
+    {
+      "name": "I Will Find You",
+      "sub": "리미티드 시리즈 · 차트 9주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Raw",
+      "sub": "August 10, 2026 · 차트 1주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Tires",
+      "sub": "시즌 3 · 차트 1주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Camp CrunchLabs",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "180만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — The Idaho Murders: College Nightmare → My Life With the Walter Boys",
+    "신규 진입 5개: 2위 Conversations with a Killer: The Charles Manson Tapes, 4위 My Brilliant Career, 5위 MOURINHO, 9위 Tires, 10위 Camp CrunchLabs",
+    "순위 이탈 5개: Ransom Canyon, Little House on the Prairie, Danny Go!, Ricky Gervais Alley Cats, Salish & Jordan Matter"
+  ]
+}

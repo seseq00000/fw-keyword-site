@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-23",
+  "collected_date": "2026-08-24",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,28 +35,10 @@
       "url": "https://store.steampowered.com/app/2358720/"
     },
     {
-      "name": "콜 오브 듀티®: 모던 워페어 4",
-      "sub": "",
-      "value": "80,000원",
-      "url": "https://store.steampowered.com/app/4435490/"
-    },
-    {
-      "name": "세피리아",
-      "sub": "",
-      "value": "16,500원",
-      "url": "https://store.steampowered.com/app/2436940/"
-    },
-    {
       "name": "Palworld / 팰월드",
       "sub": "",
       "value": "32,000원",
       "url": "https://store.steampowered.com/app/1623730/"
-    },
-    {
-      "name": "페르소나3 리로드",
-      "sub": "65% 할인 (정가 69,800원)",
-      "value": "24,430원",
-      "url": "https://store.steampowered.com/app/2161700/"
     },
     {
       "name": "Bodycam",
@@ -65,10 +47,22 @@
       "url": "https://store.steampowered.com/app/2406770/"
     },
     {
-      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
-      "sub": "67% 할인 (정가 139,600원)",
-      "value": "40,840원",
-      "url": "https://store.steampowered.com/app/43918/"
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "영주님은 방치중: 중세 도시 키우기",
+      "sub": "10% 할인 (정가 7,700원)",
+      "value": "6,930원",
+      "url": "https://store.steampowered.com/app/4315040/"
+    },
+    {
+      "name": "페르소나3 리로드",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/2161700/"
     },
     {
       "name": "콜 오브 듀티®: 모던 워페어 4",
@@ -77,10 +71,16 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "환생주점",
-      "sub": "10% 할인 (정가 18,500원)",
-      "value": "16,650원",
-      "url": "https://store.steampowered.com/app/3236900/"
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
+      "sub": "",
+      "value": "104,700원",
+      "url": "https://store.steampowered.com/app/43918/"
     }
   ],
   "refresh": {

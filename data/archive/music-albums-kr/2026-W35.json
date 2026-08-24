@@ -1,23 +1,10 @@
 {
   "slug": "music-albums-kr",
-  "category": "music",
-  "order": 2,
-  "title": "애플 뮤직 한국 인기 앨범 TOP 15",
-  "card_desc": "지금 국내에서 가장 많이 듣는 앨범",
-  "hook": "싱글 차트와 앨범 차트는 순위 지형이 다르다",
-  "intro": "애플이 공개하는 대한민국 애플 뮤직 '인기 앨범' 공식 차트입니다. 곡 단위가 아닌 앨범 단위 재생량을 기준으로 애플이 매일 갱신하며, 이 페이지도 자동으로 최신 순위를 반영합니다.",
-  "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
-  "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
-  "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
+  "week_id": "2026-W35",
+  "year": 2026,
+  "week": 35,
+  "period": null,
   "collected_date": "2026-08-24",
-  "related": [
-    "music-applemusic-kr"
-  ],
-  "analysis": [
-    "집계 단위가 곡에서 앨범으로 바뀌면 순위 지형이 함께 바뀝니다. 인기곡 차트는 타이틀곡을 반복 재생하는 아이돌 팬덤의 영향이 크지만, 앨범 차트에서는 앨범을 처음부터 끝까지 듣는 청취 습관이 더 크게 반영됩니다. 힙합이나 밴드 음악처럼 앨범 단위로 소비되는 장르가 앨범 차트에서 상대적으로 강하게 나타나는 이유입니다.",
-    "EP(미니 앨범)의 비중이 높다는 점도 이 차트의 특징입니다. 정규 앨범보다 짧은 주기로 낼 수 있어 발매가 잦고, 그만큼 차트 회전도 빠릅니다. 한 아티스트가 여러 장을 동시에 올리는 경우도 있는데, 신보 발매가 구보 재생까지 함께 끌어올릴 때 나타나는 현상입니다.",
-    "앨범 차트는 인기곡 차트보다 변동이 느린 편입니다. 곡 하나를 듣는 것보다 앨범을 듣는 데 시간이 더 들기 때문에 순위가 하루 만에 뒤집히는 일은 상대적으로 적습니다. 두 차트를 함께 보면 '지금 뜨는 곡'과 '지금 오래 듣는 음악'을 나눠서 읽을 수 있습니다."
-  ],
   "items": [
     {
       "name": "WhyKiiiKiii - EP",
@@ -95,8 +82,9 @@
       "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
     }
   ],
-  "refresh": {
-    "type": "apple",
-    "url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json"
-  }
+  "changes": [
+    "1위 WhyKiiiKiii - EP — 자리 유지",
+    "신규 진입 6개: 2위 THE SIN : BLISS - EP, 3위 BLINGY - The 7th Album, 4위 Ballad of You, 5위 GREENGREEN_playextended, 6위 TUNE & PLAY - EP",
+    "순위 이탈 6개: dinnermode, Velvet Summer - Summer Mini Album - EP, Oh yeah?, Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture) [Deluxe Edition], 킁"
+  ]
 }

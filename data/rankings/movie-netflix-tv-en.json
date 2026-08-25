@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-08-18",
+  "collected_date": "2026-08-25",
   "related": [
     "movie-netflix-tv",
     "movie-netflix-films"
@@ -21,53 +21,53 @@
   ],
   "items": [
     {
-      "name": "My Life With the Walter Boys",
-      "sub": "시즌 3 · 차트 2주차",
-      "value": "870만 회"
-    },
-    {
-      "name": "Conversations with a Killer: The Charles Manson Tapes",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "490만 회"
-    },
-    {
-      "name": "The Idaho Murders: College Nightmare",
-      "sub": "시즌 1 · 차트 3주차",
-      "value": "360만 회"
+      "name": "Outer Banks",
+      "sub": "시즌 5 · 차트 1주차",
+      "value": "940만 회"
     },
     {
       "name": "My Brilliant Career",
-      "sub": "시즌 1 · 차트 1주차",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "470만 회"
+    },
+    {
+      "name": "My Life With the Walter Boys",
+      "sub": "시즌 3 · 차트 3주차",
+      "value": "430만 회"
+    },
+    {
+      "name": "Conversations with a Killer: The Charles Manson Tapes",
+      "sub": "시즌 1 · 차트 2주차",
       "value": "310만 회"
     },
     {
-      "name": "MOURINHO",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "290만 회"
-    },
-    {
-      "name": "The Bombing of Pan Am 103",
-      "sub": "리미티드 시리즈 · 차트 3주차",
+      "name": "Tires",
+      "sub": "시즌 3 · 차트 2주차",
       "value": "280만 회"
     },
     {
-      "name": "I Will Find You",
-      "sub": "리미티드 시리즈 · 차트 9주차",
+      "name": "Raw",
+      "sub": "August 17, 2026 · 차트 1주차",
       "value": "270만 회"
     },
     {
-      "name": "Raw",
-      "sub": "August 10, 2026 · 차트 1주차",
-      "value": "260만 회"
+      "name": "I Will Find You",
+      "sub": "리미티드 시리즈 · 차트 10주차",
+      "value": "250만 회"
     },
     {
-      "name": "Tires",
-      "sub": "시즌 3 · 차트 1주차",
-      "value": "240만 회"
-    },
-    {
-      "name": "Camp CrunchLabs",
+      "name": "Seal Team",
       "sub": "시즌 1 · 차트 1주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Danny Go!",
+      "sub": "시즌 1 · 차트 9주차",
+      "value": "200만 회"
+    },
+    {
+      "name": "The Idaho Murders: College Nightmare",
+      "sub": "시즌 1 · 차트 4주차",
       "value": "180만 회"
     }
   ],

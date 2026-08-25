@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수 (2026-07-20 ~ 07-26)",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-08-18",
+  "collected_date": "2026-08-25",
   "related": [
     "movie-netflix-films",
     "movie-netflix"
@@ -21,54 +21,54 @@
   ],
   "items": [
     {
+      "name": "Blood Sacrifice",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "700만 회"
+    },
+    {
       "name": "Our Sticky Love",
-      "sub": "리미티드 시리즈 · 차트 2주차",
-      "value": "750만 회"
-    },
-    {
-      "name": "Operation Safed Sagar: The Highest Air Force Mission",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "480만 회"
-    },
-    {
-      "name": "Spooky in Love",
-      "sub": "리미티드 시리즈 · 차트 5주차",
-      "value": "270만 회"
-    },
-    {
-      "name": "Badly in Love",
-      "sub": "시즌 2 · 차트 2주차",
-      "value": "260만 회"
-    },
-    {
-      "name": "My Daughter's Father",
-      "sub": "시즌 1 · 차트 4주차",
-      "value": "210만 회"
+      "sub": "리미티드 시리즈 · 차트 3주차",
+      "value": "370만 회"
     },
     {
       "name": "Umthetho",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "170만 회"
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Spooky in Love",
+      "sub": "리미티드 시리즈 · 차트 6주차",
+      "value": "270만 회"
     },
     {
       "name": "Moria",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "160만 회"
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "220만 회"
     },
     {
-      "name": "Elite Force",
-      "sub": "시즌 1 · 차트 4주차",
-      "value": "140만 회"
-    },
-    {
-      "name": "Agent Kim Reactivated",
-      "sub": "리미티드 시리즈 · 차트 8주차",
-      "value": "140만 회"
-    },
-    {
-      "name": "Wrath",
+      "name": "Operation Safed Sagar: The Highest Air Force Mission",
       "sub": "시즌 1 · 차트 3주차",
+      "value": "200만 회"
+    },
+    {
+      "name": "Badly in Love",
+      "sub": "시즌 2 · 차트 3주차",
+      "value": "190만 회"
+    },
+    {
+      "name": "My Daughter's Father",
+      "sub": "시즌 1 · 차트 5주차",
       "value": "130만 회"
+    },
+    {
+      "name": "The Apartment Job",
+      "sub": "리미티드 시리즈 · 차트 5주차",
+      "value": "110만 회"
+    },
+    {
+      "name": "Teach You a Lesson",
+      "sub": "리미티드 시리즈 · 차트 10주차",
+      "value": "110만 회"
     }
   ],
   "refresh": {

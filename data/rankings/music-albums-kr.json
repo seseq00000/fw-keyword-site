@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-24",
+  "collected_date": "2026-08-25",
   "related": [
     "music-applemusic-kr"
   ],
@@ -20,24 +20,19 @@
   ],
   "items": [
     {
-      "name": "WhyKiiiKiii - EP",
-      "sub": "키키",
-      "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
-    },
-    {
-      "name": "THE SIN : BLISS - EP",
-      "sub": "엔하이픈",
-      "url": "https://music.apple.com/kr/album/the-sin-bliss-ep/6780548049"
-    },
-    {
       "name": "BLINGY - The 7th Album",
       "sub": "NCT 127",
       "url": "https://music.apple.com/kr/album/blingy-the-7th-album/6798913850"
     },
     {
-      "name": "Ballad of You",
-      "sub": "실리카겔",
-      "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
+      "name": "TUNE & PLAY - EP",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
+    },
+    {
+      "name": "WhyKiiiKiii - EP",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
       "name": "GREENGREEN_playextended",
@@ -45,9 +40,14 @@
       "url": "https://music.apple.com/kr/album/greengreen-playextended/6801189433"
     },
     {
-      "name": "TUNE & PLAY - EP",
-      "sub": "튜이드",
-      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
+      "name": "THE SIN : BLISS - EP",
+      "sub": "엔하이픈",
+      "url": "https://music.apple.com/kr/album/the-sin-bliss-ep/6780548049"
+    },
+    {
+      "name": "Ballad of You",
+      "sub": "실리카겔",
+      "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
     },
     {
       "name": "petal",
@@ -63,11 +63,6 @@
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
-    },
-    {
-      "name": "GREENGREEN - EP",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
       "name": "TEAM BABY",
@@ -93,6 +88,11 @@
       "name": "LEMONADE - The 2nd Album",
       "sub": "aespa",
       "url": "https://music.apple.com/kr/album/lemonade-the-2nd-album/1893599771"
+    },
+    {
+      "name": "SCENEDROME - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     }
   ],
   "refresh": {

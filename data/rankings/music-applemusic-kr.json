@@ -11,7 +11,7 @@
   "value_label": "애플 뮤직 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기곡(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json",
-  "collected_date": "2026-08-24",
+  "collected_date": "2026-08-25",
   "analysis": [
     "애플 뮤직 한국 차트는 국내 이용자의 재생량만 집계하기 때문에, 스포티파이 같은 글로벌 차트와 달리 한국 청취 취향이 거의 그대로 드러납니다. 실제로 이 차트는 대부분 K-POP으로 채워지며, 해외 곡이 상위권에 오르는 경우는 드뭅니다.",
     "한 팀의 곡이 여러 개 동시에 차트에 오르는 장면이 자주 나타납니다. 이는 팬덤이 타이틀곡만이 아니라 앨범 수록곡까지 반복 재생할 때 생기는 패턴으로, 컴백 직후 특히 두드러집니다. 같은 서비스의 앨범 차트와 나란히 놓고 보면 소비 방식의 차이가 더 분명해집니다.",
@@ -39,14 +39,14 @@
       "url": "https://music.apple.com/kr/album/sunflower-spider-man-into-the-spider-verse/1445949265"
     },
     {
-      "name": "BiiiG",
-      "sub": "BIGBANG",
-      "url": "https://music.apple.com/kr/album/biiig/6801365249"
-    },
-    {
       "name": "Lemon Tang",
       "sub": "Hearts2Hearts",
       "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
+    },
+    {
+      "name": "BiiiG",
+      "sub": "BIGBANG",
+      "url": "https://music.apple.com/kr/album/biiig/6801365249"
     },
     {
       "name": "LEMONADE",
@@ -59,6 +59,11 @@
       "url": "https://music.apple.com/kr/album/deja-vu/1822439985"
     },
     {
+      "name": "Bloody Paradise",
+      "sub": "엔하이픈",
+      "url": "https://music.apple.com/kr/album/bloody-paradise/6802251267"
+    },
+    {
       "name": "Surfin' Boy",
       "sub": "레드벨벳",
       "url": "https://music.apple.com/kr/album/surfin-boy/6794291724"
@@ -67,11 +72,6 @@
       "name": "Pretty Girl",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/pretty-girl/6786111944"
-    },
-    {
-      "name": "Bloody Paradise",
-      "sub": "엔하이픈",
-      "url": "https://music.apple.com/kr/album/bloody-paradise/6802251267"
     },
     {
       "name": "Less than a Lover",
@@ -89,19 +89,24 @@
       "url": "https://music.apple.com/kr/album/bad/6770401924"
     },
     {
-      "name": "It's Me",
-      "sub": "아일릿",
-      "url": "https://music.apple.com/kr/album/its-me/1887194024"
-    },
-    {
       "name": "RUDE!",
       "sub": "Hearts2Hearts",
       "url": "https://music.apple.com/kr/album/rude/1875146814"
     },
     {
+      "name": "It's Me",
+      "sub": "아일릿",
+      "url": "https://music.apple.com/kr/album/its-me/1887194024"
+    },
+    {
       "name": "404 (New Era)",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/404-new-era/1868617345"
+    },
+    {
+      "name": "GRLS",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/grls/6795782851"
     },
     {
       "name": "hate that i made you love me",
@@ -112,11 +117,6 @@
       "name": "Pinball",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/pinball/1764485168"
-    },
-    {
-      "name": "여름아 부탁해",
-      "sub": "볼빨간사춘기",
-      "url": "https://music.apple.com/kr/album/%EC%97%AC%EB%A6%84%EC%95%84-%EB%B6%80%ED%83%81%ED%95%B4/6792700625"
     }
   ],
   "refresh": {

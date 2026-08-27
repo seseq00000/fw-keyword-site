@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-25",
+  "collected_date": "2026-08-27",
   "related": [
     "game-steam",
     "game-popular"
@@ -41,10 +41,34 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
+      "name": "스타워즈 제로 컴퍼니™",
+      "sub": "",
+      "value": "56,000원",
+      "url": "https://store.steampowered.com/app/2075800/"
+    },
+    {
+      "name": "Graveyard Keeper 2",
+      "sub": "20% 할인 (정가 26,500원)",
+      "value": "21,200원",
+      "url": "https://store.steampowered.com/app/4358690/"
+    },
+    {
+      "name": "스타워즈 제로 컴퍼니™",
+      "sub": "",
+      "value": "56,000원",
+      "url": "https://store.steampowered.com/app/2075800/"
+    },
+    {
       "name": "세피리아",
       "sub": "",
       "value": "16,500원",
       "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "sub": "75% 할인 (정가 73,000원)",
+      "value": "18,250원",
+      "url": "https://store.steampowered.com/app/1174180/"
     },
     {
       "name": "Bodycam",
@@ -53,34 +77,10 @@
       "url": "https://store.steampowered.com/app/2406770/"
     },
     {
-      "name": "Dead by Daylight: Chorus of Sin",
+      "name": "RimWorld Deluxe Pack",
       "sub": "",
-      "value": "8,500원",
-      "url": "https://store.steampowered.com/app/5060920/"
-    },
-    {
-      "name": "검은 신화: 오공",
-      "sub": "",
-      "value": "64,800원",
-      "url": "https://store.steampowered.com/app/2358720/"
-    },
-    {
-      "name": "마성의 그녀와…",
-      "sub": "10% 할인 (정가 17,500원)",
-      "value": "15,750원",
-      "url": "https://store.steampowered.com/app/4321510/"
-    },
-    {
-      "name": "Grand Theft Auto V 인핸스드",
-      "sub": "56% 할인 (정가 55,000원)",
-      "value": "24,200원",
-      "url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
-      "name": "Grand Theft Auto V 인핸스드",
-      "sub": "56% 할인 (정가 55,000원)",
-      "value": "24,200원",
-      "url": "https://store.steampowered.com/app/3240220/"
+      "value": "82,350원",
+      "url": "https://store.steampowered.com/app/55766/"
     }
   ],
   "refresh": {

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-27",
+  "collected_date": "2026-08-28",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,10 +29,16 @@
       "url": "https://store.steampowered.com/app/3321460/"
     },
     {
-      "name": "낚시 방법",
-      "sub": "38% 할인 (정가 8,400원)",
-      "value": "5,210원",
-      "url": "https://store.steampowered.com/app/4001890/"
+      "name": "스타워즈 제로 컴퍼니™",
+      "sub": "",
+      "value": "56,000원",
+      "url": "https://store.steampowered.com/app/2075800/"
+    },
+    {
+      "name": "ELDEN RING Tarnished Pack",
+      "sub": "",
+      "value": "6,800원",
+      "url": "https://store.steampowered.com/app/3655690/"
     },
     {
       "name": "Palworld / 팰월드",
@@ -41,34 +47,10 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "스타워즈 제로 컴퍼니™",
+      "name": "낚시 방법",
       "sub": "",
-      "value": "56,000원",
-      "url": "https://store.steampowered.com/app/2075800/"
-    },
-    {
-      "name": "Graveyard Keeper 2",
-      "sub": "20% 할인 (정가 26,500원)",
-      "value": "21,200원",
-      "url": "https://store.steampowered.com/app/4358690/"
-    },
-    {
-      "name": "스타워즈 제로 컴퍼니™",
-      "sub": "",
-      "value": "56,000원",
-      "url": "https://store.steampowered.com/app/2075800/"
-    },
-    {
-      "name": "세피리아",
-      "sub": "",
-      "value": "16,500원",
-      "url": "https://store.steampowered.com/app/2436940/"
-    },
-    {
-      "name": "Red Dead Redemption 2",
-      "sub": "75% 할인 (정가 73,000원)",
-      "value": "18,250원",
-      "url": "https://store.steampowered.com/app/1174180/"
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4001890/"
     },
     {
       "name": "Bodycam",
@@ -77,10 +59,28 @@
       "url": "https://store.steampowered.com/app/2406770/"
     },
     {
-      "name": "RimWorld Deluxe Pack",
+      "name": "Hero Siege Complete",
+      "sub": "67% 할인 (정가 73,200원)",
+      "value": "19,320원",
+      "url": "https://store.steampowered.com/app/476/"
+    },
+    {
+      "name": "욕정 하숙집 : 집주인의 아내, 갸루 OL, 육덕 처녀를 정복",
+      "sub": "20% 할인 (정가 9,650원)",
+      "value": "7,720원",
+      "url": "https://store.steampowered.com/app/4924510/"
+    },
+    {
+      "name": "세피리아",
       "sub": "",
-      "value": "82,350원",
-      "url": "https://store.steampowered.com/app/55766/"
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "호그와트 레거시",
+      "sub": "90% 할인 (정가 79,800원)",
+      "value": "7,980원",
+      "url": "https://store.steampowered.com/app/990080/"
     }
   ],
   "refresh": {

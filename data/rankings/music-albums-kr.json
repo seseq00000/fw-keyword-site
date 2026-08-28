@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-08-27",
+  "collected_date": "2026-08-28",
   "related": [
     "music-applemusic-kr"
   ],
@@ -50,14 +50,14 @@
       "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
     },
     {
+      "name": "instinct",
+      "sub": "nafla",
+      "url": "https://music.apple.com/kr/album/instinct/6803033938"
+    },
+    {
       "name": "petal",
       "sub": "Ariana Grande",
       "url": "https://music.apple.com/kr/album/petal/1895420989"
-    },
-    {
-      "name": "bad pieces",
-      "sub": "wave to earth",
-      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
     },
     {
       "name": "오보에",
@@ -65,14 +65,19 @@
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
+      "name": "bad pieces",
+      "sub": "wave to earth",
+      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
+    },
+    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
-      "name": "instinct",
-      "sub": "nafla",
-      "url": "https://music.apple.com/kr/album/instinct/6803033938"
+      "name": "아름8",
+      "sub": "반타01 & MPT",
+      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
       "name": "도모 - EP",
@@ -83,11 +88,6 @@
       "name": "SS-POP 3",
       "sub": "SYSTEM SEOUL",
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
-    },
-    {
-      "name": "아름8",
-      "sub": "반타01 & MPT",
-      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
       "name": "SCENEDROME - EP",

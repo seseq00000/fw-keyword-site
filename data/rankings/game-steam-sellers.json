@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-28",
+  "collected_date": "2026-08-29",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,12 +35,6 @@
       "url": "https://store.steampowered.com/app/2075800/"
     },
     {
-      "name": "ELDEN RING Tarnished Pack",
-      "sub": "",
-      "value": "6,800원",
-      "url": "https://store.steampowered.com/app/3655690/"
-    },
-    {
       "name": "Palworld / 팰월드",
       "sub": "30% 할인 (정가 32,000원)",
       "value": "22,400원",
@@ -59,28 +53,34 @@
       "url": "https://store.steampowered.com/app/2406770/"
     },
     {
+      "name": "ELDEN RING Tarnished Pack",
+      "sub": "",
+      "value": "6,800원",
+      "url": "https://store.steampowered.com/app/3655690/"
+    },
+    {
+      "name": "风帆纪元 Sailing Era",
+      "sub": "",
+      "value": "27,000원",
+      "url": "https://store.steampowered.com/app/2161440/"
+    },
+    {
       "name": "Hero Siege Complete",
       "sub": "67% 할인 (정가 73,200원)",
       "value": "19,320원",
       "url": "https://store.steampowered.com/app/476/"
     },
     {
-      "name": "욕정 하숙집 : 집주인의 아내, 갸루 OL, 육덕 처녀를 정복",
-      "sub": "20% 할인 (정가 9,650원)",
-      "value": "7,720원",
-      "url": "https://store.steampowered.com/app/4924510/"
+      "name": "Big Ambitions",
+      "sub": "20% 할인 (정가 26,870원)",
+      "value": "21,500원",
+      "url": "https://store.steampowered.com/app/1331550/"
     },
     {
       "name": "세피리아",
       "sub": "",
       "value": "16,500원",
       "url": "https://store.steampowered.com/app/2436940/"
-    },
-    {
-      "name": "호그와트 레거시",
-      "sub": "90% 할인 (정가 79,800원)",
-      "value": "7,980원",
-      "url": "https://store.steampowered.com/app/990080/"
     }
   ],
   "refresh": {

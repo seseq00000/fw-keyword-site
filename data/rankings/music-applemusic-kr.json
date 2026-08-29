@@ -64,14 +64,14 @@
       "url": "https://music.apple.com/kr/album/deja-vu/1822439985"
     },
     {
+      "name": "FALLEN ANGEL",
+      "sub": "제니",
+      "url": "https://music.apple.com/kr/album/fallen-angel/6805292680"
+    },
+    {
       "name": "BiiiG",
       "sub": "BIGBANG",
       "url": "https://music.apple.com/kr/album/biiig/6801365249"
-    },
-    {
-      "name": "Bloody Paradise",
-      "sub": "엔하이픈",
-      "url": "https://music.apple.com/kr/album/bloody-paradise/6802251267"
     },
     {
       "name": "Pretty Girl",
@@ -79,14 +79,19 @@
       "url": "https://music.apple.com/kr/album/pretty-girl/6786111944"
     },
     {
+      "name": "BAD",
+      "sub": "에이티즈",
+      "url": "https://music.apple.com/kr/album/bad/6770401924"
+    },
+    {
       "name": "Surfin' Boy",
       "sub": "레드벨벳",
       "url": "https://music.apple.com/kr/album/surfin-boy/6794291724"
     },
     {
-      "name": "BAD",
-      "sub": "에이티즈",
-      "url": "https://music.apple.com/kr/album/bad/6770401924"
+      "name": "Bloody Paradise",
+      "sub": "엔하이픈",
+      "url": "https://music.apple.com/kr/album/bloody-paradise/6802251267"
     },
     {
       "name": "Less than a Lover",
@@ -99,24 +104,19 @@
       "url": "https://music.apple.com/kr/album/rude/1875146814"
     },
     {
-      "name": "Candy Pink Magic Hole Flip Phone",
-      "sub": "키키",
-      "url": "https://music.apple.com/kr/album/candy-pink-magic-hole-flip-phone/6797773845"
-    },
-    {
       "name": "It's Me",
       "sub": "아일릿",
       "url": "https://music.apple.com/kr/album/its-me/1887194024"
     },
     {
+      "name": "Candy Pink Magic Hole Flip Phone",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/candy-pink-magic-hole-flip-phone/6797773845"
+    },
+    {
       "name": "404 (New Era)",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/404-new-era/1868617345"
-    },
-    {
-      "name": "hate that i made you love me",
-      "sub": "Ariana Grande",
-      "url": "https://music.apple.com/kr/album/hate-that-i-made-you-love-me/1895420989"
     }
   ],
   "refresh": {

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-08-29",
+  "collected_date": "2026-09-01",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,10 +29,10 @@
       "url": "https://store.steampowered.com/app/3321460/"
     },
     {
-      "name": "낚시 방법",
+      "name": "귀무자 Way of the Sword",
       "sub": "",
-      "value": "8,400원",
-      "url": "https://store.steampowered.com/app/4001890/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
     },
     {
       "name": "Palworld / 팰월드",
@@ -41,10 +41,22 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "세피리아",
+      "name": "제노니아 1: 기억의 실타래",
+      "sub": "10% 할인 (정가 9,900원)",
+      "value": "8,910원",
+      "url": "https://store.steampowered.com/app/4538960/"
+    },
+    {
+      "name": "낚시 방법",
       "sub": "",
-      "value": "16,500원",
-      "url": "https://store.steampowered.com/app/2436940/"
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4001890/"
+    },
+    {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
     },
     {
       "name": "eBaseball™: PRO SPIRIT",
@@ -59,28 +71,16 @@
       "url": "https://store.steampowered.com/app/2406770/"
     },
     {
-      "name": "스타워즈 제로 컴퍼니™",
+      "name": "The Blood of Dawnwalker 더 블러드 오브 던워커",
       "sub": "",
-      "value": "56,000원",
-      "url": "https://store.steampowered.com/app/2075800/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3751260/"
     },
     {
-      "name": "Grand Theft Auto V 인핸스드",
-      "sub": "56% 할인 (정가 55,000원)",
-      "value": "24,200원",
-      "url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
-      "name": "Grand Theft Auto V 인핸스드",
-      "sub": "56% 할인 (정가 55,000원)",
-      "value": "24,200원",
-      "url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
-      "name": "Hero Siege Complete",
-      "sub": "67% 할인 (정가 73,200원)",
-      "value": "19,320원",
-      "url": "https://store.steampowered.com/app/476/"
+      "name": "Breathedge 2",
+      "sub": "20% 할인 (정가 21,000원)",
+      "value": "16,800원",
+      "url": "https://store.steampowered.com/app/2412960/"
     }
   ],
   "refresh": {

@@ -1,0 +1,75 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W36",
+  "year": 2026,
+  "week": 36,
+  "period": null,
+  "collected_date": "2026-09-01",
+  "items": [
+    {
+      "name": "붉은사막 Enhanced",
+      "sub": "20% 할인 (정가 79,800원)",
+      "value": "63,840원",
+      "url": "https://store.steampowered.com/app/3321460/"
+    },
+    {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "30% 할인 (정가 32,000원)",
+      "value": "22,400원",
+      "url": "https://store.steampowered.com/app/1623730/"
+    },
+    {
+      "name": "제노니아 1: 기억의 실타래",
+      "sub": "10% 할인 (정가 9,900원)",
+      "value": "8,910원",
+      "url": "https://store.steampowered.com/app/4538960/"
+    },
+    {
+      "name": "낚시 방법",
+      "sub": "",
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4001890/"
+    },
+    {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "",
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "Bodycam",
+      "sub": "",
+      "value": "37,500원",
+      "url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
+      "name": "The Blood of Dawnwalker 더 블러드 오브 던워커",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3751260/"
+    },
+    {
+      "name": "Breathedge 2",
+      "sub": "20% 할인 (정가 21,000원)",
+      "value": "16,800원",
+      "url": "https://store.steampowered.com/app/2412960/"
+    }
+  ],
+  "changes": [
+    "1위 교체 — 낚시 방법 → 붉은사막 Enhanced",
+    "신규 진입 6개: 1위 붉은사막 Enhanced, 6위 귀무자 Way of the Sword, 4위 제노니아 1: 기억의 실타래, 6위 귀무자 Way of the Sword, 9위 The Blood of Dawnwalker 더 블러드 오브 던워커",
+    "순위 이탈 6개: 검은 신화: 오공, 세피리아, 영주님은 방치중: 중세 도시 키우기, 페르소나3 리로드, 콜 오브 듀티®: 모던 워페어 4"
+  ]
+}

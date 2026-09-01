@@ -1,0 +1,66 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W36",
+  "year": 2026,
+  "week": 36,
+  "period": "2026-08-23 주간",
+  "collected_date": "2026-09-01",
+  "items": [
+    {
+      "name": "Don't Say Good Luck",
+      "sub": "차트 2주차",
+      "value": "1,280만 회"
+    },
+    {
+      "name": "The Last House",
+      "sub": "차트 3주차",
+      "value": "1,200만 회"
+    },
+    {
+      "name": "Freefall: A Reckoning for Boeing",
+      "sub": "차트 1주차",
+      "value": "470만 회"
+    },
+    {
+      "name": "72 HOURS",
+      "sub": "차트 5주차",
+      "value": "400만 회"
+    },
+    {
+      "name": "The Dating App Killer: The Monica White Story",
+      "sub": "차트 1주차",
+      "value": "340만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 62주차",
+      "value": "310만 회"
+    },
+    {
+      "name": "Breaking In",
+      "sub": "차트 1주차",
+      "value": "310만 회"
+    },
+    {
+      "name": "To Catch a Cheater",
+      "sub": "차트 1주차",
+      "value": "300만 회"
+    },
+    {
+      "name": "Swapped",
+      "sub": "차트 13주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Charlie and the Chocolate Factory",
+      "sub": "차트 2주차",
+      "value": "230만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — The Last House → Don't Say Good Luck",
+    "신규 진입 5개: 3위 Freefall: A Reckoning for Boeing, 5위 The Dating App Killer: The Monica White Story, 7위 Breaking In, 8위 To Catch a Cheater, 9위 Swapped",
+    "순위 이탈 5개: Extinction, Arthur the King, What a Girl Wants, Spider-Man: Far from Home, In the Land of Saints and Sinners",
+    "최대 상승 — KPop Demon Hunters (9위 → 6위)"
+  ]
+}

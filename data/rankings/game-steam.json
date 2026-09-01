@@ -18,43 +18,43 @@
   "items": [
     {
       "name": "Counter-Strike 2",
-      "sub": "최고 동시접속 134.3만 명"
+      "sub": "최고 동시접속 119.4만 명"
     },
     {
       "name": "Dota 2",
-      "sub": "최고 동시접속 96.4만 명"
+      "sub": "최고 동시접속 85.3만 명"
     },
     {
       "name": "PUBG: BATTLEGROUNDS",
-      "sub": "최고 동시접속 74.4만 명"
+      "sub": "최고 동시접속 71만 명"
     },
     {
       "name": "Wallpaper Engine",
-      "sub": "최고 동시접속 11.8만 명"
-    },
-    {
-      "name": "낚시 방법",
-      "sub": "최고 동시접속 24만 명 · 직전 주 6위"
+      "sub": "최고 동시접속 11만 명"
     },
     {
       "name": "Apex 레전드™",
-      "sub": "최고 동시접속 27.9만 명 · 직전 주 5위"
+      "sub": "최고 동시접속 26.2만 명 · 직전 주 6위"
     },
     {
-      "name": "Palworld / 팰월드",
-      "sub": "최고 동시접속 20.5만 명"
+      "name": "낚시 방법",
+      "sub": "최고 동시접속 19만 명 · 직전 주 5위"
     },
     {
       "name": "Grand Theft Auto V 레거시",
-      "sub": "최고 동시접속 9.7만 명 · 직전 주 10위"
+      "sub": "최고 동시접속 8.6만 명 · 직전 주 9위"
     },
     {
-      "name": "Slay the Spire 2",
-      "sub": "최고 동시접속 10.5만 명 · 직전 주 12위"
+      "name": "Palworld / 팰월드",
+      "sub": "최고 동시접속 15.8만 명 · 직전 주 7위"
     },
     {
       "name": "The Binding of Isaac: Rebirth",
-      "sub": "최고 동시접속 9.7만 명 · 직전 주 11위"
+      "sub": "최고 동시접속 9만 명 · 직전 주 10위"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "sub": "최고 동시접속 9.8만 명 · 직전 주 12위"
     }
   ],
   "refresh": {

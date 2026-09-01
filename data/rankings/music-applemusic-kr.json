@@ -19,14 +19,19 @@
   ],
   "items": [
     {
-      "name": "Pop Off Pop Off",
-      "sub": "키키",
-      "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
+      "name": "노스탈지아",
+      "sub": "BIG Naughty",
+      "url": "https://music.apple.com/kr/album/%EB%85%B8%EC%8A%A4%ED%83%88%EC%A7%80%EC%95%84/6805367597"
     },
     {
       "name": "SUN KISS",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/sun-kiss/6795782851"
+    },
+    {
+      "name": "Pop Off Pop Off",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
     },
     {
       "name": "FALLEN ANGEL",
@@ -79,19 +84,14 @@
       "url": "https://music.apple.com/kr/album/bad/6770401924"
     },
     {
+      "name": "Bloody Paradise",
+      "sub": "엔하이픈",
+      "url": "https://music.apple.com/kr/album/bloody-paradise/6780548049"
+    },
+    {
       "name": "Surfin' Boy",
       "sub": "레드벨벳",
       "url": "https://music.apple.com/kr/album/surfin-boy/6794291724"
-    },
-    {
-      "name": "BiiiG",
-      "sub": "BIGBANG",
-      "url": "https://music.apple.com/kr/album/biiig/6801365249"
-    },
-    {
-      "name": "Bloody Paradise",
-      "sub": "엔하이픈",
-      "url": "https://music.apple.com/kr/album/bloody-paradise/6802251267"
     },
     {
       "name": "RUDE!",
@@ -104,6 +104,11 @@
       "url": "https://music.apple.com/kr/album/less-than-a-lover/6792226269"
     },
     {
+      "name": "BiiiG",
+      "sub": "BIGBANG",
+      "url": "https://music.apple.com/kr/album/biiig/6801365249"
+    },
+    {
       "name": "It's Me",
       "sub": "아일릿",
       "url": "https://music.apple.com/kr/album/its-me/1887194024"
@@ -112,11 +117,6 @@
       "name": "Candy Pink Magic Hole Flip Phone",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/candy-pink-magic-hole-flip-phone/6797773845"
-    },
-    {
-      "name": "404 (New Era)",
-      "sub": "키키",
-      "url": "https://music.apple.com/kr/album/404-new-era/1868617345"
     }
   ],
   "refresh": {

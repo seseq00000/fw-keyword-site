@@ -29,46 +29,10 @@
       "url": "https://store.steampowered.com/app/3321460/"
     },
     {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
-    },
-    {
       "name": "Palworld / 팰월드",
       "sub": "30% 할인 (정가 32,000원)",
       "value": "22,400원",
       "url": "https://store.steampowered.com/app/1623730/"
-    },
-    {
-      "name": "제노니아 1: 기억의 실타래",
-      "sub": "10% 할인 (정가 9,900원)",
-      "value": "8,910원",
-      "url": "https://store.steampowered.com/app/4538960/"
-    },
-    {
-      "name": "낚시 방법",
-      "sub": "",
-      "value": "8,400원",
-      "url": "https://store.steampowered.com/app/4001890/"
-    },
-    {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
-    },
-    {
-      "name": "eBaseball™: PRO SPIRIT",
-      "sub": "",
-      "value": "70,000원",
-      "url": "https://store.steampowered.com/app/4128400/"
-    },
-    {
-      "name": "Bodycam",
-      "sub": "",
-      "value": "37,500원",
-      "url": "https://store.steampowered.com/app/2406770/"
     },
     {
       "name": "The Blood of Dawnwalker 더 블러드 오브 던워커",
@@ -77,10 +41,46 @@
       "url": "https://store.steampowered.com/app/3751260/"
     },
     {
-      "name": "Breathedge 2",
-      "sub": "20% 할인 (정가 21,000원)",
-      "value": "16,800원",
-      "url": "https://store.steampowered.com/app/2412960/"
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
+      "name": "낚시 방법",
+      "sub": "",
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4001890/"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "sub": "30% 할인 (정가 70,000원)",
+      "value": "49,000원",
+      "url": "https://store.steampowered.com/app/4128400/"
+    },
+    {
+      "name": "Project Zomboid",
+      "sub": "33% 할인 (정가 26,500원)",
+      "value": "17,750원",
+      "url": "https://store.steampowered.com/app/108600/"
+    },
+    {
+      "name": "세피리아",
+      "sub": "",
+      "value": "16,500원",
+      "url": "https://store.steampowered.com/app/2436940/"
+    },
+    {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
+      "name": "제노니아 1: 기억의 실타래",
+      "sub": "10% 할인 (정가 9,900원)",
+      "value": "8,910원",
+      "url": "https://store.steampowered.com/app/4538960/"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-09-03",
+  "collected_date": "2026-09-04",
   "related": [
     "music-applemusic-kr"
   ],
@@ -40,29 +40,9 @@
       "url": "https://music.apple.com/kr/album/blingy-the-7th-album/6798913850"
     },
     {
-      "name": "THE SIN : BLISS - EP",
-      "sub": "엔하이픈",
-      "url": "https://music.apple.com/kr/album/the-sin-bliss-ep/6780548049"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
-    },
-    {
-      "name": "bad pieces",
-      "sub": "wave to earth",
-      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
-    },
-    {
-      "name": "WHO CARES?",
-      "sub": "Jeffrey White",
-      "url": "https://music.apple.com/kr/album/who-cares/6805365698"
-    },
-    {
-      "name": "petal",
-      "sub": "Ariana Grande",
-      "url": "https://music.apple.com/kr/album/petal/1895420989"
     },
     {
       "name": "TEAM BABY",
@@ -70,19 +50,19 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
-      "name": "Ballad of You",
-      "sub": "실리카겔",
-      "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
+      "name": "THE SIN : BLISS - EP",
+      "sub": "엔하이픈",
+      "url": "https://music.apple.com/kr/album/the-sin-bliss-ep/6780548049"
     },
     {
-      "name": "GREENGREEN_playextended",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/greengreen-playextended/6801189433"
+      "name": "bad pieces",
+      "sub": "wave to earth",
+      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
     },
     {
-      "name": "GREENGREEN - EP",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
+      "name": "petal",
+      "sub": "Ariana Grande",
+      "url": "https://music.apple.com/kr/album/petal/1895420989"
     },
     {
       "name": "아름8",
@@ -90,9 +70,29 @@
       "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
-      "name": "Lemon Tang - The 2nd Mini Album - EP",
-      "sub": "Hearts2Hearts",
-      "url": "https://music.apple.com/kr/album/lemon-tang-the-2nd-mini-album-ep/6779521284"
+      "name": "METAMORPHOSIS",
+      "sub": "DIMO REX",
+      "url": "https://music.apple.com/kr/album/metamorphosis/6807225508"
+    },
+    {
+      "name": "Ballad of You",
+      "sub": "실리카겔",
+      "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
+    },
+    {
+      "name": "GREENGREEN - EP",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
+    },
+    {
+      "name": "GREENGREEN_playextended",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/greengreen-playextended/6801189433"
     }
   ],
   "refresh": {

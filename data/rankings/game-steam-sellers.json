@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-04",
+  "collected_date": "2026-09-05",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,10 +29,22 @@
       "url": "https://store.steampowered.com/app/2638890/"
     },
     {
-      "name": "붉은사막 Enhanced: 미지의 여정",
+      "name": "Hidden World 10 Top-Down 3D",
       "sub": "",
-      "value": "27,800원",
-      "url": "https://store.steampowered.com/app/5001840/"
+      "value": "210,000원",
+      "url": "https://store.steampowered.com/app/2703190/"
+    },
+    {
+      "name": "Hidden Western Top-Down 3D",
+      "sub": "",
+      "value": "210,000원",
+      "url": "https://store.steampowered.com/app/2703200/"
+    },
+    {
+      "name": "Scream or Die",
+      "sub": "",
+      "value": "210,000원",
+      "url": "https://store.steampowered.com/app/2700050/"
     },
     {
       "name": "붉은사막 Enhanced",
@@ -41,28 +53,16 @@
       "url": "https://store.steampowered.com/app/3321460/"
     },
     {
-      "name": "던전 세틀러즈 Dungeon Settlers",
-      "sub": "15% 할인 (정가 24,900원)",
-      "value": "21,160원",
-      "url": "https://store.steampowered.com/app/2798330/"
-    },
-    {
-      "name": "Bodycam",
-      "sub": "20% 할인 (정가 37,500원)",
-      "value": "30,000원",
-      "url": "https://store.steampowered.com/app/2406770/"
-    },
-    {
-      "name": "꼬미 (Little LUMI Model)",
-      "sub": "20% 할인 (정가 4,400원)",
-      "value": "3,520원",
-      "url": "https://store.steampowered.com/app/5075020/"
-    },
-    {
-      "name": "NBA 2K27",
+      "name": "붉은사막 Enhanced: 미지의 여정",
       "sub": "",
-      "value": "84,800원",
-      "url": "https://store.steampowered.com/app/4356430/"
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "낚시 방법",
+      "sub": "",
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4001890/"
     },
     {
       "name": "Palworld / 팰월드",
@@ -71,10 +71,10 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "낚시 방법",
+      "name": "Corsair Cove 커세어 코브",
       "sub": "",
-      "value": "8,400원",
-      "url": "https://store.steampowered.com/app/4001890/"
+      "value": "39,900원",
+      "url": "https://store.steampowered.com/app/1368140/"
     },
     {
       "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",

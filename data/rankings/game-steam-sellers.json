@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-05",
+  "collected_date": "2026-09-06",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,24 +29,6 @@
       "url": "https://store.steampowered.com/app/2638890/"
     },
     {
-      "name": "Hidden World 10 Top-Down 3D",
-      "sub": "",
-      "value": "210,000원",
-      "url": "https://store.steampowered.com/app/2703190/"
-    },
-    {
-      "name": "Hidden Western Top-Down 3D",
-      "sub": "",
-      "value": "210,000원",
-      "url": "https://store.steampowered.com/app/2703200/"
-    },
-    {
-      "name": "Scream or Die",
-      "sub": "",
-      "value": "210,000원",
-      "url": "https://store.steampowered.com/app/2700050/"
-    },
-    {
       "name": "붉은사막 Enhanced",
       "sub": "20% 할인 (정가 79,800원)",
       "value": "63,840원",
@@ -59,10 +41,10 @@
       "url": "https://store.steampowered.com/app/5001840/"
     },
     {
-      "name": "낚시 방법",
-      "sub": "",
-      "value": "8,400원",
-      "url": "https://store.steampowered.com/app/4001890/"
+      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
+      "sub": "30% 할인 (정가 70,000원)",
+      "value": "49,000원",
+      "url": "https://store.steampowered.com/app/1522857/"
     },
     {
       "name": "Palworld / 팰월드",
@@ -71,16 +53,34 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "Corsair Cove 커세어 코브",
+      "name": "The Blood of Dawnwalker 더 블러드 오브 던워커",
       "sub": "",
-      "value": "39,900원",
-      "url": "https://store.steampowered.com/app/1368140/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3751260/"
     },
     {
-      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
-      "sub": "30% 할인 (정가 70,000원)",
-      "value": "49,000원",
-      "url": "https://store.steampowered.com/app/1522857/"
+      "name": "낚시 방법",
+      "sub": "",
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4001890/"
+    },
+    {
+      "name": "BOMBANANA!",
+      "sub": "38% 할인 (정가 8,700원)",
+      "value": "5,390원",
+      "url": "https://store.steampowered.com/app/4656000/"
+    },
+    {
+      "name": "Bodycam",
+      "sub": "20% 할인 (정가 37,500원)",
+      "value": "30,000원",
+      "url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
+      "name": "Project Zomboid",
+      "sub": "33% 할인 (정가 26,500원)",
+      "value": "17,750원",
+      "url": "https://store.steampowered.com/app/108600/"
     }
   ],
   "refresh": {

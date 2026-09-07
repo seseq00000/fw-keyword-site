@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W37",
+  "year": 2026,
+  "week": 37,
+  "period": null,
+  "collected_date": "2026-09-07",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 133.7만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 91.9만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 72.1만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 11.2만 명"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 27.1만 명 · 직전 주 6위"
+    },
+    {
+      "name": "WARDOGS Playtest",
+      "sub": "최고 동시접속 20.3만 명 · 직전 주 -1위"
+    },
+    {
+      "name": "Grand Theft Auto V 레거시",
+      "sub": "최고 동시접속 8.5만 명 · 직전 주 8위"
+    },
+    {
+      "name": "낚시 방법",
+      "sub": "최고 동시접속 10.5만 명 · 직전 주 5위"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "sub": "최고 동시접속 10.1만 명"
+    },
+    {
+      "name": "톰 클랜시의 레인보우식스 시즈",
+      "sub": "최고 동시접속 11.4만 명 · 직전 주 14위"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 2개: 6위 WARDOGS Playtest, 10위 톰 클랜시의 레인보우식스 시즈",
+    "순위 이탈 2개: Palworld / 팰월드, The Binding of Isaac: Rebirth"
+  ]
+}

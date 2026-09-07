@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-06",
+  "collected_date": "2026-09-07",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,16 +35,16 @@
       "url": "https://store.steampowered.com/app/3321460/"
     },
     {
+      "name": "PRAGMATA",
+      "sub": "20% 할인 (정가 69,800원)",
+      "value": "55,840원",
+      "url": "https://store.steampowered.com/app/3357650/"
+    },
+    {
       "name": "붉은사막 Enhanced: 미지의 여정",
       "sub": "",
       "value": "27,800원",
       "url": "https://store.steampowered.com/app/5001840/"
-    },
-    {
-      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
-      "sub": "30% 할인 (정가 70,000원)",
-      "value": "49,000원",
-      "url": "https://store.steampowered.com/app/1522857/"
     },
     {
       "name": "Palworld / 팰월드",
@@ -53,22 +53,10 @@
       "url": "https://store.steampowered.com/app/1623730/"
     },
     {
-      "name": "The Blood of Dawnwalker 더 블러드 오브 던워커",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/3751260/"
-    },
-    {
-      "name": "낚시 방법",
-      "sub": "",
-      "value": "8,400원",
-      "url": "https://store.steampowered.com/app/4001890/"
-    },
-    {
-      "name": "BOMBANANA!",
-      "sub": "38% 할인 (정가 8,700원)",
-      "value": "5,390원",
-      "url": "https://store.steampowered.com/app/4656000/"
+      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
+      "sub": "30% 할인 (정가 70,000원)",
+      "value": "49,000원",
+      "url": "https://store.steampowered.com/app/1522857/"
     },
     {
       "name": "Bodycam",
@@ -77,10 +65,22 @@
       "url": "https://store.steampowered.com/app/2406770/"
     },
     {
-      "name": "Project Zomboid",
-      "sub": "33% 할인 (정가 26,500원)",
-      "value": "17,750원",
-      "url": "https://store.steampowered.com/app/108600/"
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "BOMBANANA!",
+      "sub": "38% 할인 (정가 8,700원)",
+      "value": "5,390원",
+      "url": "https://store.steampowered.com/app/4656000/"
+    },
+    {
+      "name": "삼국지14 파워업키트 Complete Edition",
+      "sub": "",
+      "value": "29,800원",
+      "url": "https://store.steampowered.com/app/4508240/"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-08-25",
+  "collected_date": "2026-09-08",
   "related": [
     "movie-netflix-tv",
     "movie-netflix-films"
@@ -21,53 +21,53 @@
   ],
   "items": [
     {
-      "name": "Outer Banks",
-      "sub": "시즌 5 · 차트 1주차",
-      "value": "940만 회"
-    },
-    {
-      "name": "My Brilliant Career",
+      "name": "Death of the Pastor's Wife",
       "sub": "시즌 1 · 차트 2주차",
-      "value": "470만 회"
+      "value": "1,390만 회"
     },
     {
-      "name": "My Life With the Walter Boys",
-      "sub": "시즌 3 · 차트 3주차",
-      "value": "430만 회"
-    },
-    {
-      "name": "Conversations with a Killer: The Charles Manson Tapes",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "310만 회"
-    },
-    {
-      "name": "Tires",
+      "name": "Beauty in Black",
       "sub": "시즌 3 · 차트 2주차",
-      "value": "280만 회"
+      "value": "800만 회"
     },
     {
-      "name": "Raw",
-      "sub": "August 17, 2026 · 차트 1주차",
-      "value": "270만 회"
+      "name": "The Gentlemen",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "670만 회"
     },
     {
-      "name": "I Will Find You",
-      "sub": "리미티드 시리즈 · 차트 10주차",
-      "value": "250만 회"
+      "name": "Outer Banks",
+      "sub": "시즌 5 · 차트 3주차",
+      "value": "330만 회"
     },
     {
-      "name": "Seal Team",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "230만 회"
+      "name": "The Gentlemen",
+      "sub": "시즌 1 · 차트 11주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "Instadocs: The Decoy Plane",
+      "sub": "차트 1주차",
+      "value": "290만 회"
     },
     {
       "name": "Danny Go!",
-      "sub": "시즌 1 · 차트 9주차",
-      "value": "200만 회"
+      "sub": "시즌 2 · 차트 2주차",
+      "value": "260만 회"
     },
     {
-      "name": "The Idaho Murders: College Nightmare",
-      "sub": "시즌 1 · 차트 4주차",
+      "name": "Salish & Jordan Matter",
+      "sub": "시즌 3 · 차트 2주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Leanne",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Earle Meets World",
+      "sub": "시즌 1 · 차트 1주차",
       "value": "180만 회"
     }
   ],

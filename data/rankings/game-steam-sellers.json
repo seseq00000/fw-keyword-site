@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-09",
+  "collected_date": "2026-09-10",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,28 +23,16 @@
   ],
   "items": [
     {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
       "name": "동방홍마향：New Classic　〜 the Embodiment of Scarlet Devil.",
       "sub": "",
       "value": "19,000원",
       "url": "https://store.steampowered.com/app/85900/"
-    },
-    {
-      "name": "동방홍마향：New Classic　～ the Embodiment of Scarlet Devil.　디럭스 에디션",
-      "sub": "",
-      "value": "26,350원",
-      "url": "https://store.steampowered.com/app/85901/"
-    },
-    {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
-    },
-    {
-      "name": "붉은사막 Enhanced",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/3321460/"
     },
     {
       "name": "삼국지14 파워업키트 Complete Edition",
@@ -53,10 +41,10 @@
       "url": "https://store.steampowered.com/app/4508240/"
     },
     {
-      "name": "WARDOGS",
+      "name": "귀무자 Way of the Sword",
       "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
     },
     {
       "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
@@ -65,22 +53,34 @@
       "url": "https://store.steampowered.com/app/1522857/"
     },
     {
-      "name": "In Falsus",
-      "sub": "10% 할인 (정가 44,000원)",
-      "value": "39,600원",
-      "url": "https://store.steampowered.com/app/3971950/"
+      "name": "삼국지14",
+      "sub": "",
+      "value": "59,800원",
+      "url": "https://store.steampowered.com/app/872410/"
     },
     {
-      "name": "BOMBANANA!",
-      "sub": "",
-      "value": "8,700원",
-      "url": "https://store.steampowered.com/app/4656000/"
+      "name": "디아블로 II 레저렉션 - 지옥불 에디션",
+      "sub": "30% 할인 (정가 44,900원)",
+      "value": "31,430원",
+      "url": "https://store.steampowered.com/app/2536520/"
     },
     {
-      "name": "Valheim",
+      "name": "Monster Hunter Wilds",
+      "sub": "25% 할인 (정가 45,800원)",
+      "value": "34,350원",
+      "url": "https://store.steampowered.com/app/2246340/"
+    },
+    {
+      "name": "WARDOGS - Supporter Edition",
       "sub": "",
-      "value": "32,000원",
-      "url": "https://store.steampowered.com/app/892970/"
+      "value": "58,000원",
+      "url": "https://store.steampowered.com/app/1746527/"
+    },
+    {
+      "name": "붉은사막 Enhanced: 미지의 여정",
+      "sub": "",
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
     }
   ],
   "refresh": {

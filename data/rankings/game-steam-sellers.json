@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-10",
+  "collected_date": "2026-09-11",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,46 +29,10 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "동방홍마향：New Classic　〜 the Embodiment of Scarlet Devil.",
-      "sub": "",
-      "value": "19,000원",
-      "url": "https://store.steampowered.com/app/85900/"
-    },
-    {
       "name": "삼국지14 파워업키트 Complete Edition",
       "sub": "",
       "value": "29,800원",
       "url": "https://store.steampowered.com/app/4508240/"
-    },
-    {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
-    },
-    {
-      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
-      "sub": "30% 할인 (정가 70,000원)",
-      "value": "49,000원",
-      "url": "https://store.steampowered.com/app/1522857/"
-    },
-    {
-      "name": "삼국지14",
-      "sub": "",
-      "value": "59,800원",
-      "url": "https://store.steampowered.com/app/872410/"
-    },
-    {
-      "name": "디아블로 II 레저렉션 - 지옥불 에디션",
-      "sub": "30% 할인 (정가 44,900원)",
-      "value": "31,430원",
-      "url": "https://store.steampowered.com/app/2536520/"
-    },
-    {
-      "name": "Monster Hunter Wilds",
-      "sub": "25% 할인 (정가 45,800원)",
-      "value": "34,350원",
-      "url": "https://store.steampowered.com/app/2246340/"
     },
     {
       "name": "WARDOGS - Supporter Edition",
@@ -77,10 +41,46 @@
       "url": "https://store.steampowered.com/app/1746527/"
     },
     {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
+      "name": "디아블로® IV",
+      "sub": "75% 할인 (정가 62,400원)",
+      "value": "15,600원",
+      "url": "https://store.steampowered.com/app/2344520/"
+    },
+    {
+      "name": "Eslabong",
+      "sub": "",
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/4560660/"
+    },
+    {
+      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
+      "sub": "30% 할인 (정가 70,000원)",
+      "value": "49,000원",
+      "url": "https://store.steampowered.com/app/1522857/"
+    },
+    {
       "name": "붉은사막 Enhanced: 미지의 여정",
       "sub": "",
       "value": "27,800원",
       "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "Monster Hunter Wilds",
+      "sub": "25% 할인 (정가 45,800원)",
+      "value": "34,350원",
+      "url": "https://store.steampowered.com/app/2246340/"
+    },
+    {
+      "name": "inZOI (인조이)",
+      "sub": "20% 할인 (정가 44,800원)",
+      "value": "35,840원",
+      "url": "https://store.steampowered.com/app/2456740/"
     }
   ],
   "refresh": {

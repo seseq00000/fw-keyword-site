@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-11",
+  "collected_date": "2026-09-12",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,64 +23,64 @@
   ],
   "items": [
     {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
-      "name": "삼국지14 파워업키트 Complete Edition",
-      "sub": "",
-      "value": "29,800원",
-      "url": "https://store.steampowered.com/app/4508240/"
-    },
-    {
-      "name": "WARDOGS - Supporter Edition",
-      "sub": "",
-      "value": "58,000원",
-      "url": "https://store.steampowered.com/app/1746527/"
-    },
-    {
       "name": "귀무자 Way of the Sword",
       "sub": "",
       "value": "79,800원",
       "url": "https://store.steampowered.com/app/2638890/"
     },
     {
-      "name": "디아블로® IV",
-      "sub": "75% 할인 (정가 62,400원)",
-      "value": "15,600원",
-      "url": "https://store.steampowered.com/app/2344520/"
-    },
-    {
-      "name": "Eslabong",
+      "name": "WARDOGS",
       "sub": "",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/4560660/"
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
-      "sub": "30% 할인 (정가 70,000원)",
-      "value": "49,000원",
-      "url": "https://store.steampowered.com/app/1522857/"
-    },
-    {
-      "name": "붉은사막 Enhanced: 미지의 여정",
+      "name": "谎月香格里拉",
       "sub": "",
-      "value": "27,800원",
-      "url": "https://store.steampowered.com/app/5001840/"
+      "value": "54,680원",
+      "url": "https://store.steampowered.com/app/1932690/"
     },
     {
-      "name": "Monster Hunter Wilds",
-      "sub": "25% 할인 (정가 45,800원)",
-      "value": "34,350원",
-      "url": "https://store.steampowered.com/app/2246340/"
+      "name": "Starfield",
+      "sub": "",
+      "value": "54,300원",
+      "url": "https://store.steampowered.com/app/1716740/"
     },
     {
-      "name": "inZOI (인조이)",
-      "sub": "20% 할인 (정가 44,800원)",
-      "value": "35,840원",
-      "url": "https://store.steampowered.com/app/2456740/"
+      "name": "Mortal Shell II",
+      "sub": "",
+      "value": "54,800원",
+      "url": "https://store.steampowered.com/app/2584270/"
+    },
+    {
+      "name": "낚시 방법",
+      "sub": "",
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4001890/"
+    },
+    {
+      "name": "Temtem",
+      "sub": "",
+      "value": "50,400원",
+      "url": "https://store.steampowered.com/app/745920/"
+    },
+    {
+      "name": "더 위쳐 3: 와일드 헌트 - 컴플리트 에디션",
+      "sub": "",
+      "value": "54,900원",
+      "url": "https://store.steampowered.com/app/292030/"
+    },
+    {
+      "name": "Hearts of Iron IV",
+      "sub": "",
+      "value": "55,000원",
+      "url": "https://store.steampowered.com/app/394360/"
+    },
+    {
+      "name": "WARDOGS - Supporter Edition",
+      "sub": "",
+      "value": "58,000원",
+      "url": "https://store.steampowered.com/app/1746527/"
     }
   ],
   "refresh": {

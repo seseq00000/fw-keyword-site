@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W38",
+  "year": 2026,
+  "week": 38,
+  "period": null,
+  "collected_date": "2026-09-14",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 136만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 89.9만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 79.5만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 11만 명"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "최고 동시접속 42.9만 명 · 직전 주 -1위"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 26.3만 명 · 직전 주 5위"
+    },
+    {
+      "name": "Valheim",
+      "sub": "최고 동시접속 30.8만 명 · 직전 주 86위"
+    },
+    {
+      "name": "오버워치™",
+      "sub": "최고 동시접속 10.9만 명 · 직전 주 17위"
+    },
+    {
+      "name": "마블 라이벌즈",
+      "sub": "최고 동시접속 12.4만 명 · 직전 주 14위"
+    },
+    {
+      "name": "Grand Theft Auto V 레거시",
+      "sub": "최고 동시접속 8.1만 명 · 직전 주 6위"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 4개: 5위 WARDOGS, 7위 Valheim, 8위 오버워치™, 9위 마블 라이벌즈",
+    "순위 이탈 4개: WARDOGS Playtest, 낚시 방법, Slay the Spire 2, 톰 클랜시의 레인보우식스 시즈"
+  ]
+}

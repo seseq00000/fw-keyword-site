@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-13",
+  "collected_date": "2026-09-14",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,16 +29,34 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
+      "name": "Baldur's Gate 3",
+      "sub": "30% 할인 (정가 66,000원)",
+      "value": "46,200원",
+      "url": "https://store.steampowered.com/app/1086940/"
     },
     {
-      "name": "낚시 방법",
+      "name": "COMPLETE EDITION - DJMAX RESPECT V",
+      "sub": "74% 할인 (정가 987,600원)",
+      "value": "204,190원",
+      "url": "https://store.steampowered.com/app/24548/"
+    },
+    {
+      "name": "RimWorld Deluxe Pack",
+      "sub": "16% 할인 (정가 91,500원)",
+      "value": "73,380원",
+      "url": "https://store.steampowered.com/app/55766/"
+    },
+    {
+      "name": "DELUXE EDITION - DJMAX RESPECT V",
+      "sub": "70% 할인 (정가 322,800원)",
+      "value": "86,230원",
+      "url": "https://store.steampowered.com/app/24542/"
+    },
+    {
+      "name": "마이 리틀 포니: 제피르 하이츠 미스터리",
       "sub": "",
-      "value": "8,400원",
-      "url": "https://store.steampowered.com/app/4001890/"
+      "value": "54,000원",
+      "url": "https://store.steampowered.com/app/2235440/"
     },
     {
       "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
@@ -47,40 +65,22 @@
       "url": "https://store.steampowered.com/app/1522857/"
     },
     {
-      "name": "Monster Hunter Wilds",
-      "sub": "25% 할인 (정가 45,800원)",
-      "value": "34,350원",
-      "url": "https://store.steampowered.com/app/2246340/"
+      "name": "RimWorld",
+      "sub": "20% 할인 (정가 37,500원)",
+      "value": "30,000원",
+      "url": "https://store.steampowered.com/app/294100/"
     },
     {
-      "name": "세피리아",
+      "name": "Eslabong",
       "sub": "",
-      "value": "16,500원",
-      "url": "https://store.steampowered.com/app/2436940/"
-    },
-    {
-      "name": "WARDOGS - Supporter Edition",
-      "sub": "",
-      "value": "58,000원",
-      "url": "https://store.steampowered.com/app/1746527/"
-    },
-    {
-      "name": "BOMBANANA!",
-      "sub": "",
-      "value": "8,700원",
-      "url": "https://store.steampowered.com/app/4656000/"
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/4560660/"
     },
     {
       "name": "삼국지14 파워업키트 Complete Edition",
       "sub": "",
       "value": "29,800원",
       "url": "https://store.steampowered.com/app/4508240/"
-    },
-    {
-      "name": "디아블로® IV",
-      "sub": "75% 할인 (정가 62,400원)",
-      "value": "15,600원",
-      "url": "https://store.steampowered.com/app/2344520/"
     }
   ],
   "refresh": {

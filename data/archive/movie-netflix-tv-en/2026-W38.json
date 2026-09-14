@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv-en",
+  "week_id": "2026-W38",
+  "year": 2026,
+  "week": 38,
+  "period": "2026-09-06 주간",
+  "collected_date": "2026-09-14",
+  "items": [
+    {
+      "name": "Death of the Pastor's Wife",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "1,390만 회"
+    },
+    {
+      "name": "Beauty in Black",
+      "sub": "시즌 3 · 차트 2주차",
+      "value": "800만 회"
+    },
+    {
+      "name": "The Gentlemen",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "670만 회"
+    },
+    {
+      "name": "Outer Banks",
+      "sub": "시즌 5 · 차트 3주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "The Gentlemen",
+      "sub": "시즌 1 · 차트 11주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "Instadocs: The Decoy Plane",
+      "sub": "차트 1주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "Danny Go!",
+      "sub": "시즌 2 · 차트 2주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Salish & Jordan Matter",
+      "sub": "시즌 3 · 차트 2주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Leanne",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Earle Meets World",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "180만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Outer Banks → Death of the Pastor's Wife",
+    "신규 진입 8개: 1위 Death of the Pastor's Wife, 2위 Beauty in Black, 5위 The Gentlemen, 5위 The Gentlemen, 6위 Instadocs: The Decoy Plane",
+    "순위 이탈 8개: My Brilliant Career, My Life With the Walter Boys, Conversations with a Killer: The Charles Manson Tapes, Tires, Raw"
+  ]
+}

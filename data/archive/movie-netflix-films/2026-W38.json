@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W38",
+  "year": 2026,
+  "week": 38,
+  "period": "2026-09-06 주간",
+  "collected_date": "2026-09-14",
+  "items": [
+    {
+      "name": "The Whisper Man",
+      "sub": "차트 2주차",
+      "value": "3,340만 회"
+    },
+    {
+      "name": "Turning Point: Generation 9/11",
+      "sub": "차트 1주차",
+      "value": "520만 회"
+    },
+    {
+      "name": "The Hard Corps",
+      "sub": "차트 1주차",
+      "value": "500만 회"
+    },
+    {
+      "name": "Grand Theft Auto VI: An Extended Look",
+      "sub": "차트 2주차",
+      "value": "440만 회"
+    },
+    {
+      "name": "Shrek",
+      "sub": "차트 17주차",
+      "value": "430만 회"
+    },
+    {
+      "name": "13 Minutes",
+      "sub": "차트 2주차",
+      "value": "420만 회"
+    },
+    {
+      "name": "Anacondas: Trail of Blood",
+      "sub": "차트 1주차",
+      "value": "360만 회"
+    },
+    {
+      "name": "The Angry Birds Movie 2",
+      "sub": "차트 3주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Shrek 2",
+      "sub": "차트 8주차",
+      "value": "340만 회"
+    },
+    {
+      "name": "The Last House",
+      "sub": "차트 5주차",
+      "value": "330만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Don't Say Good Luck → The Whisper Man",
+    "신규 진입 9개: 1위 The Whisper Man, 2위 Turning Point: Generation 9/11, 3위 The Hard Corps, 4위 Grand Theft Auto VI: An Extended Look, 5위 Shrek",
+    "순위 이탈 9개: Don't Say Good Luck, Freefall: A Reckoning for Boeing, 72 HOURS, The Dating App Killer: The Monica White Story, KPop Demon Hunters"
+  ]
+}

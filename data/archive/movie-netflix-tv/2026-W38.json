@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W38",
+  "year": 2026,
+  "week": 38,
+  "period": "2026-09-06 주간",
+  "collected_date": "2026-09-14",
+  "items": [
+    {
+      "name": "Mousetrap",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "440만 회"
+    },
+    {
+      "name": "The Early Spring",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "Blood Sacrifice",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "Lovesick",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Four Hands, Two Sonatas",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "200만 회"
+    },
+    {
+      "name": "All the Truth in My Lies",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "180만 회"
+    },
+    {
+      "name": "Our Sticky Love",
+      "sub": "리미티드 시리즈 · 차트 5주차",
+      "value": "150만 회"
+    },
+    {
+      "name": "Badly in Love",
+      "sub": "시즌 2 · 차트 5주차",
+      "value": "130만 회"
+    },
+    {
+      "name": "Graveyard",
+      "sub": "시즌 3 · 차트 1주차",
+      "value": "110만 회"
+    },
+    {
+      "name": "Spooky in Love",
+      "sub": "리미티드 시리즈 · 차트 8주차",
+      "value": "100만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Blood Sacrifice → Mousetrap",
+    "신규 진입 6개: 1위 Mousetrap, 2위 The Early Spring, 4위 Lovesick, 5위 Four Hands, Two Sonatas, 6위 All the Truth in My Lies",
+    "순위 이탈 6개: Umthetho, Moria, Operation Safed Sagar: The Highest Air Force Mission, My Daughter's Father, The Apartment Job"
+  ]
+}

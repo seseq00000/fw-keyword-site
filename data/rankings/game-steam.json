@@ -9,7 +9,7 @@
   "value_label": "기간 내 최고 동시접속자 (순위 기준은 총 플레이타임)",
   "source": "Steam 공식 API (ISteamChartsService/GetMostPlayedGames) — 집계 기준일 2026-05-11",
   "source_url": "https://api.steampowered.com/ISteamChartsService/GetMostPlayedGames/v1/",
-  "collected_date": "2026-09-14",
+  "collected_date": "2026-09-15",
   "analysis": [
     "이 순위가 총 플레이타임 기준이라는 점이 결과를 크게 좌우합니다. 동시접속자는 적어도 오래 켜 두는 프로그램이 순위에서 앞설 수 있고, 반대로 짧고 굵게 몰리는 게임은 동접이 높아도 순위가 낮게 나옵니다. 배경화면이나 도구 성격의 소프트웨어가 게임들 사이에 끼어 있는 것도 이 때문인데, PC를 켜 두는 내내 실행 상태로 남아 플레이타임이 계속 쌓이기 때문입니다.",
     "상위권은 오래된 멀티플레이 게임들이 굳게 지키고 있습니다. 무료 또는 준무료로 풀린 대형 온라인 게임들이 수년째 자리를 유지하는데, 스팀 상위권은 신작이 아니라 이용자를 오래 붙잡아 둔 라이브 서비스 게임의 영역이라는 구조가 굳어져 있습니다.",
@@ -17,44 +17,44 @@
   ],
   "items": [
     {
-      "name": "Counter-Strike 2",
-      "sub": "최고 동시접속 136만 명"
+      "name": "Monster Hunter Wilds",
+      "sub": "최고 동시접속 4.3만 명 · 직전 주 61위"
     },
     {
-      "name": "Dota 2",
-      "sub": "최고 동시접속 89.9만 명"
+      "name": "Rocket League®",
+      "sub": "최고 동시접속 2.7만 명 · 직전 주 51위"
     },
     {
-      "name": "PUBG: BATTLEGROUNDS",
-      "sub": "최고 동시접속 79.5만 명"
+      "name": "BeamNG.drive",
+      "sub": "최고 동시접속 2.4만 명 · 직전 주 50위"
     },
     {
-      "name": "Wallpaper Engine",
-      "sub": "최고 동시접속 11만 명"
+      "name": "Forza Horizon 6",
+      "sub": "최고 동시접속 2.1만 명 · 직전 주 52위"
     },
     {
-      "name": "WARDOGS",
-      "sub": "최고 동시접속 42.9만 명 · 직전 주 -1위"
+      "name": "Garry's Mod",
+      "sub": "최고 동시접속 2.9만 명 · 직전 주 55위"
     },
     {
-      "name": "Apex 레전드™",
-      "sub": "최고 동시접속 26.3만 명 · 직전 주 5위"
+      "name": "eFootball™",
+      "sub": "최고 동시접속 2.1만 명 · 직전 주 54위"
     },
     {
-      "name": "Valheim",
-      "sub": "최고 동시접속 30.8만 명 · 직전 주 86위"
+      "name": "tModLoader",
+      "sub": "최고 동시접속 3.4만 명 · 직전 주 53위"
     },
     {
-      "name": "오버워치™",
-      "sub": "최고 동시접속 10.9만 명 · 직전 주 17위"
+      "name": "Street Fighter 6",
+      "sub": "최고 동시접속 3.5만 명 · 직전 주 57위"
     },
     {
-      "name": "마블 라이벌즈",
-      "sub": "최고 동시접속 12.4만 명 · 직전 주 14위"
+      "name": "귀무자 Way of the Sword",
+      "sub": "최고 동시접속 4.3만 명 · 직전 주 43위"
     },
     {
-      "name": "Grand Theft Auto V 레거시",
-      "sub": "최고 동시접속 8.1만 명 · 직전 주 6위"
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "sub": "최고 동시접속 3만 명 · 직전 주 56위"
     }
   ],
   "refresh": {

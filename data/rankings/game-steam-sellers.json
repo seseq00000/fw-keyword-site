@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-14",
+  "collected_date": "2026-09-15",
   "related": [
     "game-steam",
     "game-popular"
@@ -22,6 +22,12 @@
     "할인율은 순위를 끌어올리는 가장 강력한 변수입니다. 출시된 지 몇 년 지난 게임이 상위권에 있다면 대개 큰 폭의 할인이 걸려 있고, 반대로 정가 그대로인 게임이 1위에 있다면 신작이라는 뜻입니다. 가격 옆의 할인 표시를 함께 보면 그 게임이 왜 지금 팔리는지 대체로 설명이 됩니다."
   ],
   "items": [
+    {
+      "name": "딤레이스",
+      "sub": "10% 할인 (정가 23,320원)",
+      "value": "20,990원",
+      "url": "https://store.steampowered.com/app/2402680/"
+    },
     {
       "name": "WARDOGS",
       "sub": "",
@@ -35,34 +41,16 @@
       "url": "https://store.steampowered.com/app/1086940/"
     },
     {
-      "name": "COMPLETE EDITION - DJMAX RESPECT V",
-      "sub": "74% 할인 (정가 987,600원)",
-      "value": "204,190원",
-      "url": "https://store.steampowered.com/app/24548/"
-    },
-    {
-      "name": "RimWorld Deluxe Pack",
-      "sub": "16% 할인 (정가 91,500원)",
-      "value": "73,380원",
-      "url": "https://store.steampowered.com/app/55766/"
-    },
-    {
       "name": "DELUXE EDITION - DJMAX RESPECT V",
       "sub": "70% 할인 (정가 322,800원)",
       "value": "86,230원",
       "url": "https://store.steampowered.com/app/24542/"
     },
     {
-      "name": "마이 리틀 포니: 제피르 하이츠 미스터리",
+      "name": "귀무자 Way of the Sword",
       "sub": "",
-      "value": "54,000원",
-      "url": "https://store.steampowered.com/app/2235440/"
-    },
-    {
-      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
-      "sub": "30% 할인 (정가 70,000원)",
-      "value": "49,000원",
-      "url": "https://store.steampowered.com/app/1522857/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
     },
     {
       "name": "RimWorld",
@@ -71,16 +59,28 @@
       "url": "https://store.steampowered.com/app/294100/"
     },
     {
-      "name": "Eslabong",
-      "sub": "",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/4560660/"
+      "name": "RimWorld Deluxe Pack",
+      "sub": "16% 할인 (정가 91,500원)",
+      "value": "73,380원",
+      "url": "https://store.steampowered.com/app/55766/"
     },
     {
-      "name": "삼국지14 파워업키트 Complete Edition",
+      "name": "【Early Purchase】프로야구스피리츠 2026 ＆ WORLD BASEBALL CLASSIC™",
       "sub": "",
-      "value": "29,800원",
-      "url": "https://store.steampowered.com/app/4508240/"
+      "value": "70,000원",
+      "url": "https://store.steampowered.com/app/1522857/"
+    },
+    {
+      "name": "P의 거짓 (Lies of P)",
+      "sub": "50% 할인 (정가 64,800원)",
+      "value": "32,400원",
+      "url": "https://store.steampowered.com/app/1627720/"
+    },
+    {
+      "name": "DJMAX RESPECT V - V LIBERTY V PACK",
+      "sub": "30% 할인 (정가 29,800원)",
+      "value": "20,860원",
+      "url": "https://store.steampowered.com/app/4744690/"
     }
   ],
   "refresh": {

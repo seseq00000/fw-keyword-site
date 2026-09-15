@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-09-14",
+  "collected_date": "2026-09-15",
   "related": [
     "music-applemusic-kr"
   ],
@@ -20,6 +20,11 @@
   ],
   "items": [
     {
+      "name": "i love u",
+      "sub": "The Volunteers",
+      "url": "https://music.apple.com/kr/album/i-love-u/6810594209"
+    },
+    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
@@ -28,11 +33,6 @@
       "name": "DOPAMINE - The 4th Mini Album - EP",
       "sub": "도경수",
       "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
-    },
-    {
-      "name": "i love u",
-      "sub": "The Volunteers",
-      "url": "https://music.apple.com/kr/album/i-love-u/6810594209"
     },
     {
       "name": "오보에",
@@ -60,14 +60,19 @@
       "url": "https://music.apple.com/kr/album/fallen-angel-ep/6805292680"
     },
     {
-      "name": "Dogma",
-      "sub": "김심야",
-      "url": "https://music.apple.com/kr/album/dogma/6805302845"
+      "name": "TEEN TROUBLES",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
     },
     {
-      "name": "bad pieces",
-      "sub": "wave to earth",
-      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
+      "name": "SYNK : COMPLaeXITY - 2026 Special Digital Single - EP",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/synk-complaexity-2026-special-digital-single-ep/6808550171"
+    },
+    {
+      "name": "아름8",
+      "sub": "반타01 & MPT",
+      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
       "name": "킁",
@@ -75,24 +80,19 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
+      "name": "bad pieces",
+      "sub": "wave to earth",
+      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
+    },
+    {
       "name": "petal",
       "sub": "Ariana Grande",
       "url": "https://music.apple.com/kr/album/petal/1895420989"
     },
     {
-      "name": "GREENGREEN - EP",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
-    },
-    {
       "name": "SCENEDROME - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
-    },
-    {
-      "name": "Mark on Me - EP",
-      "sub": "&TEAM",
-      "url": "https://music.apple.com/kr/album/mark-on-me-ep/6802917476"
     }
   ],
   "refresh": {

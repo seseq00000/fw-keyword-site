@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-09-08",
+  "collected_date": "2026-09-15",
   "related": [
     "movie-netflix-tv",
     "movie-netflix-films"
@@ -21,54 +21,54 @@
   ],
   "items": [
     {
+      "name": "The Gentlemen",
+      "sub": "시즌 2 · 차트 2주차",
+      "value": "990만 회"
+    },
+    {
       "name": "Death of the Pastor's Wife",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "1,390만 회"
-    },
-    {
-      "name": "Beauty in Black",
-      "sub": "시즌 3 · 차트 2주차",
-      "value": "800만 회"
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "600만 회"
     },
     {
       "name": "The Gentlemen",
-      "sub": "시즌 2 · 차트 1주차",
-      "value": "670만 회"
+      "sub": "시즌 1 · 차트 12주차",
+      "value": "550만 회"
     },
     {
-      "name": "Outer Banks",
-      "sub": "시즌 5 · 차트 3주차",
-      "value": "330만 회"
-    },
-    {
-      "name": "The Gentlemen",
-      "sub": "시즌 1 · 차트 11주차",
-      "value": "320만 회"
+      "name": "Crew Girl",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "520만 회"
     },
     {
       "name": "Instadocs: The Decoy Plane",
-      "sub": "차트 1주차",
-      "value": "290만 회"
+      "sub": "차트 2주차",
+      "value": "390만 회"
     },
     {
-      "name": "Danny Go!",
-      "sub": "시즌 2 · 차트 2주차",
+      "name": "Beauty in Black",
+      "sub": "시즌 3 · 차트 3주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "Raw",
+      "sub": "September 7, 2026 · 차트 1주차",
       "value": "260만 회"
-    },
-    {
-      "name": "Salish & Jordan Matter",
-      "sub": "시즌 3 · 차트 2주차",
-      "value": "260만 회"
-    },
-    {
-      "name": "Leanne",
-      "sub": "시즌 2 · 차트 1주차",
-      "value": "210만 회"
     },
     {
       "name": "Earle Meets World",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "180만 회"
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Danny Go!",
+      "sub": "시즌 2 · 차트 3주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Outer Banks",
+      "sub": "시즌 5 · 차트 4주차",
+      "value": "200만 회"
     }
   ],
   "refresh": {

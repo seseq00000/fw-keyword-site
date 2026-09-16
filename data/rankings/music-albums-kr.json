@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-09-15",
+  "collected_date": "2026-09-16",
   "related": [
     "music-applemusic-kr"
   ],
@@ -30,14 +30,14 @@
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
-      "name": "DOPAMINE - The 4th Mini Album - EP",
-      "sub": "도경수",
-      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
+      "name": "DOPAMINE - The 4th Mini Album - EP",
+      "sub": "도경수",
+      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -45,29 +45,14 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
+      "name": "PINK TAPE - EP",
+      "sub": "pH-1, 릴보이, BIG Naughty & 우디고차일드",
+      "url": "https://music.apple.com/kr/album/pink-tape-ep/6811794654"
+    },
+    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
-    },
-    {
-      "name": "SS-POP 3",
-      "sub": "SYSTEM SEOUL",
-      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
-    },
-    {
-      "name": "Fallen Angel - EP",
-      "sub": "제니",
-      "url": "https://music.apple.com/kr/album/fallen-angel-ep/6805292680"
-    },
-    {
-      "name": "TEEN TROUBLES",
-      "sub": "검정치마",
-      "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
-    },
-    {
-      "name": "SYNK : COMPLaeXITY - 2026 Special Digital Single - EP",
-      "sub": "aespa",
-      "url": "https://music.apple.com/kr/album/synk-complaexity-2026-special-digital-single-ep/6808550171"
     },
     {
       "name": "아름8",
@@ -75,19 +60,34 @@
       "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
+      "name": "TEEN TROUBLES",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
     },
     {
-      "name": "bad pieces",
-      "sub": "wave to earth",
-      "url": "https://music.apple.com/kr/album/bad-pieces/6795233510"
+      "name": "SS-POP 3",
+      "sub": "SYSTEM SEOUL",
+      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
+    },
+    {
+      "name": "Memory - EP",
+      "sub": "리도어",
+      "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
+    },
+    {
+      "name": "Fallen Angel - EP",
+      "sub": "제니",
+      "url": "https://music.apple.com/kr/album/fallen-angel-ep/6805292680"
     },
     {
       "name": "petal",
       "sub": "Ariana Grande",
       "url": "https://music.apple.com/kr/album/petal/1895420989"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
       "name": "SCENEDROME - EP",

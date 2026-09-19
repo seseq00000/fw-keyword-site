@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-09-18",
+  "collected_date": "2026-09-19",
   "related": [
     "music-applemusic-kr"
   ],
@@ -35,24 +35,24 @@
       "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
     },
     {
-      "name": "오보에",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
-    },
-    {
       "name": "WhyKiiiKiii - EP",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "DOPAMINE - The 4th Mini Album - EP",
-      "sub": "도경수",
-      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "DOPAMINE - The 4th Mini Album - EP",
+      "sub": "도경수",
+      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
     },
     {
       "name": "아름8",
@@ -75,9 +75,9 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
-      "name": "PINK TAPE - EP",
-      "sub": "pH-1, 릴보이, BIG Naughty & 우디고차일드",
-      "url": "https://music.apple.com/kr/album/pink-tape-ep/6811794654"
+      "name": "GREENGREEN - EP",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
       "name": "SCENEDROME - EP",

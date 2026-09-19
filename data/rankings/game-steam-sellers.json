@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-18",
+  "collected_date": "2026-09-19",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,16 +29,22 @@
       "url": "https://store.steampowered.com/app/5099430/"
     },
     {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
-    },
-    {
       "name": "WARDOGS",
       "sub": "",
       "value": "47,270원",
       "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "sub": "30% 할인 (정가 66,000원)",
+      "value": "46,200원",
+      "url": "https://store.steampowered.com/app/1086940/"
+    },
+    {
+      "name": "딤레이스",
+      "sub": "10% 할인 (정가 23,320원)",
+      "value": "20,990원",
+      "url": "https://store.steampowered.com/app/2402680/"
     },
     {
       "name": "라이프가드 홀릭",
@@ -53,34 +59,28 @@
       "url": "https://store.steampowered.com/app/5201910/"
     },
     {
-      "name": "딤레이스",
-      "sub": "10% 할인 (정가 23,320원)",
-      "value": "20,990원",
-      "url": "https://store.steampowered.com/app/2402680/"
-    },
-    {
-      "name": "Baldur's Gate 3",
-      "sub": "30% 할인 (정가 66,000원)",
-      "value": "46,200원",
-      "url": "https://store.steampowered.com/app/1086940/"
-    },
-    {
       "name": "하늘의 궤적 the 2nd",
       "sub": "10% 할인 (정가 85,900원)",
       "value": "77,310원",
       "url": "https://store.steampowered.com/app/4225980/"
     },
     {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
+      "name": "RimWorld",
+      "sub": "20% 할인 (정가 37,500원)",
+      "value": "30,000원",
+      "url": "https://store.steampowered.com/app/294100/"
+    },
+    {
       "name": "COLLABORATION BUNDLE - DJMAX RESPECT V",
       "sub": "68% 할인 (정가 251,800원)",
       "value": "68,270원",
       "url": "https://store.steampowered.com/app/24546/"
-    },
-    {
-      "name": "404호실의 비밀 마사지",
-      "sub": "10% 할인 (정가 16,500원)",
-      "value": "14,850원",
-      "url": "https://store.steampowered.com/app/4110220/"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-09-19",
+  "collected_date": "2026-09-20",
   "related": [
     "music-applemusic-kr"
   ],
@@ -30,6 +30,11 @@
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
       "name": "Memory - EP",
       "sub": "리도어",
       "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
@@ -40,24 +45,9 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "오보에",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
-    },
-    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
-    },
-    {
-      "name": "DOPAMINE - The 4th Mini Album - EP",
-      "sub": "도경수",
-      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
-    },
-    {
-      "name": "아름8",
-      "sub": "반타01 & MPT",
-      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
       "name": "SS-POP 3",
@@ -70,19 +60,29 @@
       "url": "https://music.apple.com/kr/album/blingy-the-7th-album/6798913850"
     },
     {
+      "name": "아름8",
+      "sub": "반타01 & MPT",
+      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
+    },
+    {
+      "name": "DOPAMINE - The 4th Mini Album - EP",
+      "sub": "도경수",
+      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
+    },
+    {
       "name": "킁",
       "sub": "씨잼",
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
-      "name": "GREENGREEN - EP",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
-    },
-    {
       "name": "SCENEDROME - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+    },
+    {
+      "name": "GREENGREEN - EP",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
     },
     {
       "name": "Fallen Angel - EP",

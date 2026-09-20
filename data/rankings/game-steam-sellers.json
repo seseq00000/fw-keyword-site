@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-19",
+  "collected_date": "2026-09-20",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,16 +23,16 @@
   ],
   "items": [
     {
-      "name": "창세기전 외전: 서풍의 광시곡 리마스터",
-      "sub": "",
-      "value": "44,000원",
-      "url": "https://store.steampowered.com/app/5099430/"
-    },
-    {
       "name": "WARDOGS",
       "sub": "",
       "value": "47,270원",
       "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "창세기전 외전: 서풍의 광시곡 리마스터",
+      "sub": "",
+      "value": "44,000원",
+      "url": "https://store.steampowered.com/app/5099430/"
     },
     {
       "name": "Baldur's Gate 3",
@@ -41,34 +41,16 @@
       "url": "https://store.steampowered.com/app/1086940/"
     },
     {
-      "name": "딤레이스",
-      "sub": "10% 할인 (정가 23,320원)",
-      "value": "20,990원",
-      "url": "https://store.steampowered.com/app/2402680/"
-    },
-    {
       "name": "라이프가드 홀릭",
       "sub": "10% 할인 (정가 18,000원)",
       "value": "16,200원",
       "url": "https://store.steampowered.com/app/4090260/"
     },
     {
-      "name": "DJMAX RESPECT V - Dungeon & Fighter PACK",
-      "sub": "10% 할인 (정가 19,800원)",
-      "value": "17,820원",
-      "url": "https://store.steampowered.com/app/5201910/"
-    },
-    {
-      "name": "하늘의 궤적 the 2nd",
-      "sub": "10% 할인 (정가 85,900원)",
-      "value": "77,310원",
-      "url": "https://store.steampowered.com/app/4225980/"
-    },
-    {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
+      "name": "딤레이스",
+      "sub": "10% 할인 (정가 23,320원)",
+      "value": "20,990원",
+      "url": "https://store.steampowered.com/app/2402680/"
     },
     {
       "name": "RimWorld",
@@ -77,10 +59,28 @@
       "url": "https://store.steampowered.com/app/294100/"
     },
     {
-      "name": "COLLABORATION BUNDLE - DJMAX RESPECT V",
-      "sub": "68% 할인 (정가 251,800원)",
-      "value": "68,270원",
-      "url": "https://store.steampowered.com/app/24546/"
+      "name": "DJMAX RESPECT V - Dungeon & Fighter PACK",
+      "sub": "10% 할인 (정가 19,800원)",
+      "value": "17,820원",
+      "url": "https://store.steampowered.com/app/5201910/"
+    },
+    {
+      "name": "RimWorld Deluxe Pack",
+      "sub": "16% 할인 (정가 91,500원)",
+      "value": "73,380원",
+      "url": "https://store.steampowered.com/app/55766/"
+    },
+    {
+      "name": "BOMBANANA!",
+      "sub": "",
+      "value": "8,700원",
+      "url": "https://store.steampowered.com/app/4656000/"
+    },
+    {
+      "name": "Monster Hunter Wilds",
+      "sub": "25% 할인 (정가 45,800원)",
+      "value": "34,350원",
+      "url": "https://store.steampowered.com/app/2246340/"
     }
   ],
   "refresh": {

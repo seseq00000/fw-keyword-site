@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W39",
+  "year": 2026,
+  "week": 39,
+  "period": "2026-09-13 주간",
+  "collected_date": "2026-09-21",
+  "items": [
+    {
+      "name": "Why Did I Get Married Again?",
+      "sub": "차트 1주차",
+      "value": "1,930만 회"
+    },
+    {
+      "name": "The Whisper Man",
+      "sub": "차트 3주차",
+      "value": "1,270만 회"
+    },
+    {
+      "name": "Turning Point: Generation 9/11",
+      "sub": "차트 2주차",
+      "value": "590만 회"
+    },
+    {
+      "name": "The Little Things",
+      "sub": "차트 5주차",
+      "value": "440만 회"
+    },
+    {
+      "name": "Those Who Wish Me Dead",
+      "sub": "차트 2주차",
+      "value": "430만 회"
+    },
+    {
+      "name": "The Hard Corps",
+      "sub": "차트 2주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Untold Mr. T: I Pity The Fool",
+      "sub": "차트 1주차",
+      "value": "330만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 64주차",
+      "value": "280만 회"
+    },
+    {
+      "name": "Shrek",
+      "sub": "차트 18주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Anaconda 3: Offspring",
+      "sub": "차트 1주차",
+      "value": "250만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — The Whisper Man → Why Did I Get Married Again?",
+    "신규 진입 6개: 1위 Why Did I Get Married Again?, 4위 The Little Things, 5위 Those Who Wish Me Dead, 7위 Untold Mr. T: I Pity The Fool, 8위 KPop Demon Hunters",
+    "순위 이탈 6개: Grand Theft Auto VI: An Extended Look, 13 Minutes, Anacondas: Trail of Blood, The Angry Birds Movie 2, Shrek 2"
+  ]
+}

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-20",
+  "collected_date": "2026-09-21",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,6 +29,12 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
+      "name": "하늘의 궤적 the 1st",
+      "sub": "",
+      "value": "85,900원",
+      "url": "https://store.steampowered.com/app/3447040/"
+    },
+    {
       "name": "창세기전 외전: 서풍의 광시곡 리마스터",
       "sub": "",
       "value": "44,000원",
@@ -36,15 +42,15 @@
     },
     {
       "name": "Baldur's Gate 3",
-      "sub": "30% 할인 (정가 66,000원)",
-      "value": "46,200원",
+      "sub": "",
+      "value": "66,000원",
       "url": "https://store.steampowered.com/app/1086940/"
     },
     {
-      "name": "라이프가드 홀릭",
-      "sub": "10% 할인 (정가 18,000원)",
-      "value": "16,200원",
-      "url": "https://store.steampowered.com/app/4090260/"
+      "name": "Monster Hunter Wilds",
+      "sub": "",
+      "value": "45,800원",
+      "url": "https://store.steampowered.com/app/2246340/"
     },
     {
       "name": "딤레이스",
@@ -53,10 +59,10 @@
       "url": "https://store.steampowered.com/app/2402680/"
     },
     {
-      "name": "RimWorld",
-      "sub": "20% 할인 (정가 37,500원)",
-      "value": "30,000원",
-      "url": "https://store.steampowered.com/app/294100/"
+      "name": "RimWorld Deluxe Pack",
+      "sub": "",
+      "value": "86,920원",
+      "url": "https://store.steampowered.com/app/55766/"
     },
     {
       "name": "DJMAX RESPECT V - Dungeon & Fighter PACK",
@@ -65,22 +71,16 @@
       "url": "https://store.steampowered.com/app/5201910/"
     },
     {
-      "name": "RimWorld Deluxe Pack",
-      "sub": "16% 할인 (정가 91,500원)",
-      "value": "73,380원",
-      "url": "https://store.steampowered.com/app/55766/"
-    },
-    {
-      "name": "BOMBANANA!",
+      "name": "붉은사막 Enhanced: 미지의 여정",
       "sub": "",
-      "value": "8,700원",
-      "url": "https://store.steampowered.com/app/4656000/"
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
     },
     {
-      "name": "Monster Hunter Wilds",
-      "sub": "25% 할인 (정가 45,800원)",
-      "value": "34,350원",
-      "url": "https://store.steampowered.com/app/2246340/"
+      "name": "WARDOGS - Supporter Edition",
+      "sub": "",
+      "value": "58,000원",
+      "url": "https://store.steampowered.com/app/1746527/"
     }
   ],
   "refresh": {

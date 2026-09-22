@@ -11,7 +11,7 @@
   "value_label": "애플 뮤직 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기곡(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json",
-  "collected_date": "2026-09-21",
+  "collected_date": "2026-09-22",
   "analysis": [
     "애플 뮤직 한국 차트는 국내 이용자의 재생량만 집계하기 때문에, 스포티파이 같은 글로벌 차트와 달리 한국 청취 취향이 거의 그대로 드러납니다. 실제로 이 차트는 대부분 K-POP으로 채워지며, 해외 곡이 상위권에 오르는 경우는 드뭅니다.",
     "한 팀의 곡이 여러 개 동시에 차트에 오르는 장면이 자주 나타납니다. 이는 팬덤이 타이틀곡만이 아니라 앨범 수록곡까지 반복 재생할 때 생기는 패턴으로, 컴백 직후 특히 두드러집니다. 같은 서비스의 앨범 차트와 나란히 놓고 보면 소비 방식의 차이가 더 분명해집니다.",
@@ -29,14 +29,14 @@
       "url": "https://music.apple.com/kr/album/%EB%85%B8%EC%8A%A4%ED%83%88%EC%A7%80%EC%95%84/6805367597"
     },
     {
-      "name": "Pop Off Pop Off",
-      "sub": "키키",
-      "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
-    },
-    {
       "name": "LOVE ATTACK",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/love-attack/1764485168"
+    },
+    {
+      "name": "Pop Off Pop Off",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
     },
     {
       "name": "REDRED",
@@ -59,9 +59,9 @@
       "url": "https://music.apple.com/kr/album/%ED%87%B4%EC%82%AC%ED%95%A0%EA%B2%8C%EC%97%AC-narr-%EA%B8%B0%EC%95%8884/6802901370"
     },
     {
-      "name": "Dear my crazy soulmate",
-      "sub": "아이유",
-      "url": "https://music.apple.com/kr/album/dear-my-crazy-soulmate/6808583617"
+      "name": "new trick",
+      "sub": "로제",
+      "url": "https://music.apple.com/kr/album/new-trick/6812241735"
     },
     {
       "name": "Lemon Tang",
@@ -69,19 +69,19 @@
       "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
     },
     {
+      "name": "Love Options",
+      "sub": "베스티",
+      "url": "https://music.apple.com/kr/album/love-options/913802950"
+    },
+    {
       "name": "LEMONADE",
       "sub": "aespa",
       "url": "https://music.apple.com/kr/album/lemonade/1893599771"
     },
     {
-      "name": "new trick",
-      "sub": "로제",
-      "url": "https://music.apple.com/kr/album/new-trick/6812241735"
-    },
-    {
-      "name": "Love Options",
-      "sub": "베스티",
-      "url": "https://music.apple.com/kr/album/love-options/913802950"
+      "name": "Dear my crazy soulmate",
+      "sub": "아이유",
+      "url": "https://music.apple.com/kr/album/dear-my-crazy-soulmate/6808583617"
     },
     {
       "name": "RUDE!",
@@ -99,24 +99,24 @@
       "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
     },
     {
-      "name": "Pretty Girl",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/pretty-girl/6786111944"
-    },
-    {
       "name": "Pinball",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/pinball/1764485168"
     },
     {
+      "name": "Pretty Girl",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/pretty-girl/6786111944"
+    },
+    {
+      "name": "Bloody Paradise",
+      "sub": "엔하이픈",
+      "url": "https://music.apple.com/kr/album/bloody-paradise/6780548049"
+    },
+    {
       "name": "FALLEN ANGEL",
       "sub": "제니",
       "url": "https://music.apple.com/kr/album/fallen-angel/6805292680"
-    },
-    {
-      "name": "Sunflower (Spider-Man: Into the Spider-Verse)",
-      "sub": "Post Malone & Swae Lee",
-      "url": "https://music.apple.com/kr/album/sunflower-spider-man-into-the-spider-verse/1445949265"
     }
   ],
   "refresh": {

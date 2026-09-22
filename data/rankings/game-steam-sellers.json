@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-21",
+  "collected_date": "2026-09-22",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,16 +23,22 @@
   ],
   "items": [
     {
+      "name": "하늘의 궤적 the 1st",
+      "sub": "",
+      "value": "85,900원",
+      "url": "https://store.steampowered.com/app/3447040/"
+    },
+    {
       "name": "WARDOGS",
       "sub": "",
       "value": "47,270원",
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "하늘의 궤적 the 1st",
+      "name": "귀무자 Way of the Sword",
       "sub": "",
-      "value": "85,900원",
-      "url": "https://store.steampowered.com/app/3447040/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
     },
     {
       "name": "창세기전 외전: 서풍의 광시곡 리마스터",
@@ -41,46 +47,40 @@
       "url": "https://store.steampowered.com/app/5099430/"
     },
     {
-      "name": "Baldur's Gate 3",
+      "name": "Graveyard Keeper 2",
       "sub": "",
-      "value": "66,000원",
-      "url": "https://store.steampowered.com/app/1086940/"
+      "value": "26,500원",
+      "url": "https://store.steampowered.com/app/4358690/"
     },
     {
-      "name": "Monster Hunter Wilds",
+      "name": "The Grave Deal",
+      "sub": "36% 할인 (정가 48,000원)",
+      "value": "24,640원",
+      "url": "https://store.steampowered.com/app/88711/"
+    },
+    {
+      "name": "갈바테인 : 모험가 길드 사무소",
+      "sub": "15% 할인 (정가 14,000원)",
+      "value": "11,900원",
+      "url": "https://store.steampowered.com/app/3208930/"
+    },
+    {
+      "name": "붉은사막 Enhanced",
       "sub": "",
-      "value": "45,800원",
-      "url": "https://store.steampowered.com/app/2246340/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3321460/"
     },
     {
       "name": "딤레이스",
-      "sub": "10% 할인 (정가 23,320원)",
-      "value": "20,990원",
+      "sub": "",
+      "value": "23,320원",
       "url": "https://store.steampowered.com/app/2402680/"
     },
     {
-      "name": "RimWorld Deluxe Pack",
-      "sub": "",
-      "value": "86,920원",
-      "url": "https://store.steampowered.com/app/55766/"
-    },
-    {
-      "name": "DJMAX RESPECT V - Dungeon & Fighter PACK",
-      "sub": "10% 할인 (정가 19,800원)",
-      "value": "17,820원",
-      "url": "https://store.steampowered.com/app/5201910/"
-    },
-    {
-      "name": "붉은사막 Enhanced: 미지의 여정",
-      "sub": "",
-      "value": "27,800원",
-      "url": "https://store.steampowered.com/app/5001840/"
-    },
-    {
-      "name": "WARDOGS - Supporter Edition",
-      "sub": "",
-      "value": "58,000원",
-      "url": "https://store.steampowered.com/app/1746527/"
+      "name": "라이프가드 홀릭",
+      "sub": "10% 할인 (정가 18,000원)",
+      "value": "16,200원",
+      "url": "https://store.steampowered.com/app/4090260/"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-09-21",
+  "collected_date": "2026-09-22",
   "related": [
     "music-applemusic-kr"
   ],
@@ -40,19 +40,24 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "Memory - EP",
-      "sub": "리도어",
-      "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
-    },
-    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
+      "name": "Memory - EP",
+      "sub": "리도어",
+      "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
+    },
+    {
       "name": "SS-POP 3",
       "sub": "SYSTEM SEOUL",
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
       "name": "BLINGY - The 7th Album",
@@ -65,19 +70,14 @@
       "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
-      "name": "DOPAMINE - The 4th Mini Album - EP",
-      "sub": "도경수",
-      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
-    },
-    {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
-    },
-    {
       "name": "TEEN TROUBLES",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
+    },
+    {
+      "name": "DOPAMINE - The 4th Mini Album - EP",
+      "sub": "도경수",
+      "url": "https://music.apple.com/kr/album/dopamine-the-4th-mini-album-ep/6807359386"
     },
     {
       "name": "SCENEDROME - EP",
@@ -85,14 +85,14 @@
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     },
     {
-      "name": "rosie",
-      "sub": "로제",
-      "url": "https://music.apple.com/kr/album/rosie/1783280221"
-    },
-    {
       "name": "GREENGREEN - EP",
       "sub": "코르티스",
       "url": "https://music.apple.com/kr/album/greengreen-ep/1887671065"
+    },
+    {
+      "name": "rosie",
+      "sub": "로제",
+      "url": "https://music.apple.com/kr/album/rosie/1783280221"
     }
   ],
   "refresh": {

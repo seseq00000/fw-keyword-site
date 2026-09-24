@@ -11,23 +11,13 @@
   "value_label": "앱스토어 무료 앱 다운로드 순위",
   "source": "Apple App Store 공식 차트 — 무료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-free/20/apps.json",
-  "collected_date": "2026-09-22",
+  "collected_date": "2026-09-24",
   "analysis": [
     "무료 앱 순위는 '많이 쓰는 앱'이 아니라 '최근에 많이 설치된 앱'을 보여줍니다. 이미 모두가 깔아 둔 메신저나 포털이 상위권에 잘 보이지 않는 이유가 여기에 있습니다. 반대로 신규 설치가 짧은 기간에 몰리면 순위가 급격히 뛰기 때문에, 이 차트는 인기의 총량보다 화제의 속도를 재는 지표에 가깝습니다.",
     "한국 차트에서 반복적으로 나타나는 특징이 몇 가지 있습니다. 첫째, 은행·카드·보험 앱이 자주 최상위권에 등장합니다. 금융 앱은 앱을 전면 개편하거나 이벤트를 열면 기존 고객이 한꺼번에 재설치하기 때문에 단기간에 순위가 크게 움직입니다. 둘째, 공공 앱의 존재감이 큽니다. 교통·신분증·민원 관련 앱이 상시로 순위권에 머무는 것은 해외 차트에서는 보기 드문 한국만의 특징으로, 생활 행정이 모바일로 옮겨 간 결과입니다.",
     "계절과 사건의 영향도 뚜렷합니다. 명절과 연말정산 시기에는 금융·정부 앱이, 휴가철에는 여행·숙박 앱이, 대형 할인 행사 기간에는 쇼핑 앱이 올라옵니다. 순위 자체보다 '지금 무엇이 올라와 있는가'를 시기와 함께 읽을 때 이 차트는 더 많은 것을 말해 줍니다."
   ],
   "items": [
-    {
-      "name": "치지직",
-      "sub": "NAVER Corp.",
-      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308"
-    },
-    {
-      "name": "하나은행, 새로워진 하나원큐를 경험해 보세요",
-      "sub": "Hana Bank",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232"
-    },
     {
       "name": "NetShort - 인기 드라마 및 TV 프로그램",
       "sub": "NETSTORY PTE. LTD.",
@@ -39,9 +29,14 @@
       "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739"
     },
     {
-      "name": "Meta AI",
-      "sub": "Meta Platforms, Inc.",
-      "url": "https://apps.apple.com/kr/app/meta-ai/id1558240027"
+      "name": "101cam - 필름 & 디지털 카메라",
+      "sub": "SNOW Corporation",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623"
+    },
+    {
+      "name": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "sub": "Hana Bank",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232"
     },
     {
       "name": "네이버플러스 스토어",
@@ -54,29 +49,24 @@
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729"
     },
     {
-      "name": "ChatGPT",
-      "sub": "OpenAI OpCo, LLC",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069"
-    },
-    {
-      "name": "101cam - 필름 & 디지털 카메라",
-      "sub": "SNOW Corporation",
-      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623"
-    },
-    {
-      "name": "실손24",
-      "sub": "Korean Insurance Development Institute Inc.",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660"
+      "name": "CGV",
+      "sub": "CJ CGV Co.ltd",
+      "url": "https://apps.apple.com/kr/app/cgv/id6738896323"
     },
     {
       "name": "듀오링고(Duolingo): 언어 학습",
-      "sub": "Duolingo · 교육",
+      "sub": "Duolingo",
       "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128"
     },
     {
       "name": "Claude by Anthropic",
-      "sub": "Anthropic PBC · 생산성",
+      "sub": "Anthropic PBC",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
+    },
+    {
+      "name": "ChatGPT",
+      "sub": "OpenAI OpCo, LLC",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069"
     },
     {
       "name": "포켓CU",
@@ -84,19 +74,9 @@
       "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133"
     },
     {
-      "name": "하나증권V-대표MTS(NEW)",
-      "sub": "Hana Securities Co., Ltd. · 금융",
-      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8Cv-%EB%8C%80%ED%91%9Cmts-new/id6755097570"
-    },
-    {
-      "name": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "sub": "SHINHAN BANK · 금융",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932"
-    },
-    {
-      "name": "NOL : 야놀자와 인터파크의 새로운 이름",
-      "sub": "YANOLJA CO.,LTD · 여행",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843"
+      "name": "Meta AI",
+      "sub": "Meta Platforms, Inc. · 생산성",
+      "url": "https://apps.apple.com/kr/app/meta-ai/id1558240027"
     },
     {
       "name": "토스",
@@ -104,19 +84,39 @@
       "url": "https://apps.apple.com/kr/app/%ED%86%A0%EC%8A%A4/id839333328"
     },
     {
-      "name": "대한민국 모바일 신분증",
-      "sub": "행정안전부 · 유틸리티",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372"
-    },
-    {
-      "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "sub": "FLEXTECH INC. · 생산성",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185"
+      "name": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "sub": "YANOLJA CO.,LTD · 여행",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843"
     },
     {
       "name": "네이버페이",
       "sub": "Naver Financial Corporation · 금융",
       "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4/id1554807824"
+    },
+    {
+      "name": "치지직",
+      "sub": "NAVER Corp. · 엔터테인먼트",
+      "url": "https://apps.apple.com/kr/app/%EC%B9%98%EC%A7%80%EC%A7%81/id1585297308"
+    },
+    {
+      "name": "월드클래스",
+      "sub": "Bigpicture Interactive Co.,Ltd. · 라이프스타일",
+      "url": "https://apps.apple.com/kr/app/%EC%9B%94%EB%93%9C%ED%81%B4%EB%9E%98%EC%8A%A4/id6479704195"
+    },
+    {
+      "name": "Disney+",
+      "sub": "Disney · 엔터테인먼트",
+      "url": "https://apps.apple.com/kr/app/disney/id1446075923"
+    },
+    {
+      "name": "유니클로 UNIQLO - 쇼핑",
+      "sub": "UNIQLO CO., LTD. · 쇼핑",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188"
+    },
+    {
+      "name": "테이블링",
+      "sub": "Tabling.inc · 음식 및 음료",
+      "url": "https://apps.apple.com/kr/app/%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A7%81/id1388891287"
     }
   ],
   "refresh": {

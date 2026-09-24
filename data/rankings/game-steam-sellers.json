@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-22",
+  "collected_date": "2026-09-24",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,16 +23,34 @@
   ],
   "items": [
     {
-      "name": "하늘의 궤적 the 1st",
+      "name": "EA SPORTS FC™ 27",
       "sub": "",
-      "value": "85,900원",
-      "url": "https://store.steampowered.com/app/3447040/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Total War: WARHAMMER III – Lords of the End Times",
+      "sub": "",
+      "value": "30,600원",
+      "url": "https://store.steampowered.com/app/80339/"
     },
     {
       "name": "WARDOGS",
       "sub": "",
       "value": "47,270원",
       "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "Heroes' Vow: Three Kingdoms",
+      "sub": "10% 할인 (정가 21,500원)",
+      "value": "19,350원",
+      "url": "https://store.steampowered.com/app/3020510/"
+    },
+    {
+      "name": "CONTROL Resonant (컨트롤：레조넌트)",
+      "sub": "",
+      "value": "64,800원",
+      "url": "https://store.steampowered.com/app/3669870/"
     },
     {
       "name": "귀무자 Way of the Sword",
@@ -47,40 +65,22 @@
       "url": "https://store.steampowered.com/app/5099430/"
     },
     {
-      "name": "Graveyard Keeper 2",
-      "sub": "",
-      "value": "26,500원",
-      "url": "https://store.steampowered.com/app/4358690/"
-    },
-    {
       "name": "The Grave Deal",
       "sub": "36% 할인 (정가 48,000원)",
       "value": "24,640원",
       "url": "https://store.steampowered.com/app/88711/"
     },
     {
-      "name": "갈바테인 : 모험가 길드 사무소",
-      "sub": "15% 할인 (정가 14,000원)",
-      "value": "11,900원",
-      "url": "https://store.steampowered.com/app/3208930/"
-    },
-    {
-      "name": "붉은사막 Enhanced",
+      "name": "Graveyard Keeper 2",
       "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/3321460/"
+      "value": "26,500원",
+      "url": "https://store.steampowered.com/app/4358690/"
     },
     {
-      "name": "딤레이스",
+      "name": "Total War: WARHAMMER III - Nagash – Lords of the End Times",
       "sub": "",
-      "value": "23,320원",
-      "url": "https://store.steampowered.com/app/2402680/"
-    },
-    {
-      "name": "라이프가드 홀릭",
-      "sub": "10% 할인 (정가 18,000원)",
-      "value": "16,200원",
-      "url": "https://store.steampowered.com/app/4090260/"
+      "value": "9,000원",
+      "url": "https://store.steampowered.com/app/3589650/"
     }
   ],
   "refresh": {

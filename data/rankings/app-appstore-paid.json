@@ -9,7 +9,7 @@
   "value_label": "앱스토어 유료 앱 구매 순위",
   "source": "Apple App Store 공식 차트 — 유료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-paid/20/apps.json",
-  "collected_date": "2026-09-24",
+  "collected_date": "2026-09-25",
   "related": [
     "app-appstore-kr"
   ],
@@ -19,11 +19,6 @@
     "유료 차트는 무료 차트보다 순위 변동이 느립니다. 구매는 설치보다 결정을 오래 하는 행동이라 순위가 며칠에 걸쳐 천천히 움직이고, 한번 자리를 잡은 앱이 오래 남는 경향이 있습니다. 급격한 변동이 보인다면 대개 할인 행사나 미디어 노출 같은 외부 계기가 있었다는 뜻입니다."
   ],
   "items": [
-    {
-      "name": "영뽀또 - 감성 구도 카메라",
-      "sub": "Seungyun Kim",
-      "url": "https://apps.apple.com/kr/app/%EC%98%81%EB%BD%80%EB%98%90-%EA%B0%90%EC%84%B1-%EA%B5%AC%EB%8F%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6763737180"
-    },
     {
       "name": "올디 Oldi - Phone Camera",
       "sub": "Sean Cho",
@@ -40,9 +35,19 @@
       "url": "https://apps.apple.com/kr/app/daypic-%EB%8D%B0%EC%9D%B4%ED%94%BD-%ED%95%98%EB%A3%A8-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%A7%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id6770772768"
     },
     {
+      "name": "영뽀또 - 감성 구도 카메라",
+      "sub": "Seungyun Kim",
+      "url": "https://apps.apple.com/kr/app/%EC%98%81%EB%BD%80%EB%98%90-%EA%B0%90%EC%84%B1-%EA%B5%AC%EB%8F%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6763737180"
+    },
+    {
       "name": "GIKA 기카 - 독보적인 올드폰 감성 카메라",
       "sub": "Noahproject Inc.",
       "url": "https://apps.apple.com/kr/app/gika-%EA%B8%B0%EC%B9%B4-%EB%8F%85%EB%B3%B4%EC%A0%81%EC%9D%B8-%EC%98%AC%EB%93%9C%ED%8F%B0-%EA%B0%90%EC%84%B1-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6755822636"
+    },
+    {
+      "name": "iY2K",
+      "sub": "SANGSANGLYEOG",
+      "url": "https://apps.apple.com/kr/app/iy2k/id6801799964"
     },
     {
       "name": "Analog Wedding",
@@ -55,19 +60,14 @@
       "url": "https://apps.apple.com/kr/app/filmhwa-%ED%95%84%EB%A6%84%ED%99%94-%ED%99%94%EB%AF%BC-%ED%95%84%ED%84%B0/id6443723657"
     },
     {
-      "name": "iY2K",
-      "sub": "SANGSANGLYEOG",
-      "url": "https://apps.apple.com/kr/app/iy2k/id6801799964"
+      "name": "Dashcam Viewer: for Tesla",
+      "sub": "Daily Prompt",
+      "url": "https://apps.apple.com/kr/app/dashcam-viewer-for-tesla/id6758488182"
     },
     {
-      "name": "공군 PTSD 알람",
-      "sub": "SANGSANGLYEOG",
-      "url": "https://apps.apple.com/kr/app/%EA%B3%B5%EA%B5%B0-ptsd-%EC%95%8C%EB%9E%8C/id6812858705"
-    },
-    {
-      "name": "해군PTSD알람",
-      "sub": "Dong Chul Lee",
-      "url": "https://apps.apple.com/kr/app/%ED%95%B4%EA%B5%B0ptsd%EC%95%8C%EB%9E%8C/id6803308114"
+      "name": "한국사 능력",
+      "sub": "별책",
+      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%82%AC-%EB%8A%A5%EB%A0%A5/id1445502301"
     },
     {
       "name": "회독JLPT",
@@ -75,14 +75,9 @@
       "url": "https://apps.apple.com/kr/app/%ED%9A%8C%EB%8F%85jlpt/id1455054515"
     },
     {
-      "name": "DayGrid: 데일리스케줄·시간표·플래너·일정관리",
-      "sub": "ho young moon",
-      "url": "https://apps.apple.com/kr/app/daygrid-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%8B%9C%EA%B0%84%ED%91%9C-%ED%94%8C%EB%9E%98%EB%84%88-%EC%9D%BC%EC%A0%95%EA%B4%80%EB%A6%AC/id6762279908"
-    },
-    {
-      "name": "한국사 능력",
-      "sub": "별책",
-      "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EC%82%AC-%EB%8A%A5%EB%A0%A5/id1445502301"
+      "name": "해군PTSD알람",
+      "sub": "Dong Chul Lee",
+      "url": "https://apps.apple.com/kr/app/%ED%95%B4%EA%B5%B0ptsd%EC%95%8C%EB%9E%8C/id6803308114"
     },
     {
       "name": "애드제로: 광고 없이 쾌적한 웹",
@@ -93,6 +88,11 @@
       "name": "AnkiMobile Flashcards",
       "sub": "Anki Software, LLC",
       "url": "https://apps.apple.com/kr/app/ankimobile-flashcards/id373493387"
+    },
+    {
+      "name": "DayGrid: 데일리스케줄·시간표·플래너·일정관리",
+      "sub": "ho young moon",
+      "url": "https://apps.apple.com/kr/app/daygrid-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%8B%9C%EA%B0%84%ED%91%9C-%ED%94%8C%EB%9E%98%EB%84%88-%EC%9D%BC%EC%A0%95%EA%B4%80%EB%A6%AC/id6762279908"
     }
   ],
   "refresh": {

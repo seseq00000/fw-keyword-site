@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-25",
+  "collected_date": "2026-09-26",
   "related": [
     "game-steam",
     "game-popular"
@@ -41,22 +41,10 @@
       "url": "https://store.steampowered.com/app/3020510/"
     },
     {
-      "name": "Total War: WARHAMMER III – Lords of the End Times",
+      "name": "BOMBANANA!",
       "sub": "",
-      "value": "30,600원",
-      "url": "https://store.steampowered.com/app/80339/"
-    },
-    {
-      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
-      "sub": "",
-      "value": "89,800원",
-      "url": "https://store.steampowered.com/app/2288340/"
-    },
-    {
-      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
-      "sub": "70% 할인 (정가 139,600원)",
-      "value": "37,700원",
-      "url": "https://store.steampowered.com/app/43918/"
+      "value": "8,700원",
+      "url": "https://store.steampowered.com/app/4656000/"
     },
     {
       "name": "페르소나3 리로드",
@@ -65,22 +53,34 @@
       "url": "https://store.steampowered.com/app/2161700/"
     },
     {
+      "name": "Total War: WARHAMMER III – Lords of the End Times",
+      "sub": "",
+      "value": "30,600원",
+      "url": "https://store.steampowered.com/app/80339/"
+    },
+    {
       "name": "The Last of Us™ Part II Remastered",
       "sub": "33% 할인 (정가 52,800원)",
       "value": "35,380원",
       "url": "https://store.steampowered.com/app/2531310/"
     },
     {
-      "name": "페르소나 5 더 로열",
-      "sub": "70% 할인 (정가 69,800원)",
-      "value": "20,940원",
-      "url": "https://store.steampowered.com/app/1687950/"
+      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "sub": "",
+      "value": "89,800원",
+      "url": "https://store.steampowered.com/app/2288340/"
     },
     {
-      "name": "Graveyard Keeper 2",
-      "sub": "",
-      "value": "26,500원",
-      "url": "https://store.steampowered.com/app/4358690/"
+      "name": "더 위쳐 3: 와일드 헌트 - 컴플리트 에디션",
+      "sub": "50% 할인 (정가 54,900원)",
+      "value": "27,450원",
+      "url": "https://store.steampowered.com/app/292030/"
+    },
+    {
+      "name": "생존! 무인도 서바이벌 생활♡",
+      "sub": "20% 할인 (정가 10,500원)",
+      "value": "8,400원",
+      "url": "https://store.steampowered.com/app/4260270/"
     }
   ],
   "refresh": {

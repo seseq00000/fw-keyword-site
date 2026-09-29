@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W40",
+  "year": 2026,
+  "week": 40,
+  "period": null,
+  "collected_date": "2026-09-29",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 134.7만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 90.6만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 71.2만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 11만 명"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "최고 동시접속 33.3만 명"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 25만 명"
+    },
+    {
+      "name": "Valheim",
+      "sub": "최고 동시접속 25.9만 명"
+    },
+    {
+      "name": "Grand Theft Auto V 레거시",
+      "sub": "최고 동시접속 7.2만 명"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "sub": "최고 동시접속 9.8만 명 · 직전 주 13위"
+    },
+    {
+      "name": "애니모",
+      "sub": "최고 동시접속 15.9만 명"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 2개: 9위 Slay the Spire 2, 10위 애니모",
+    "순위 이탈 2개: 마블 라이벌즈, FiveM"
+  ]
+}

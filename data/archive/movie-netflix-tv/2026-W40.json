@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W40",
+  "year": 2026,
+  "week": 40,
+  "period": "2026-09-20 주간",
+  "collected_date": "2026-09-29",
+  "items": [
+    {
+      "name": "The Perfect Lie",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "700만 회"
+    },
+    {
+      "name": "Not a Stranger",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "460만 회"
+    },
+    {
+      "name": "The Doll",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "Physical 100: Mexico",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "Plastic Beauty",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Physical 100: Italy",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "The Scandal",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "190만 회"
+    },
+    {
+      "name": "The Early Spring",
+      "sub": "시즌 1 · 차트 4주차",
+      "value": "160만 회"
+    },
+    {
+      "name": "Fauda",
+      "sub": "시즌 5 · 차트 2주차",
+      "value": "160만 회"
+    },
+    {
+      "name": "Four Hands, Two Sonatas",
+      "sub": "리미티드 시리즈 · 차트 3주차",
+      "value": "140만 회"
+    }
+  ],
+  "changes": [
+    "1위 The Perfect Lie — 자리 유지",
+    "신규 진입 5개: 2위 Not a Stranger, 3위 The Doll, 4위 Physical 100: Mexico, 5위 Plastic Beauty, 7위 The Scandal",
+    "순위 이탈 5개: Lovesick, Mousetrap, Stolen Heartbeats, Blood Sacrifice, Badly in Love"
+  ]
+}

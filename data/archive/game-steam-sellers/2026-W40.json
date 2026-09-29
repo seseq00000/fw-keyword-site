@@ -1,0 +1,75 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W40",
+  "year": 2026,
+  "week": 40,
+  "period": null,
+  "collected_date": "2026-09-29",
+  "items": [
+    {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
+      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "sub": "",
+      "value": "89,800원",
+      "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "sub": "",
+      "value": "89,800원",
+      "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "더 위쳐 3: 와일드 헌트 - 컴플리트 에디션",
+      "sub": "50% 할인 (정가 54,900원)",
+      "value": "27,450원",
+      "url": "https://store.steampowered.com/app/292030/"
+    },
+    {
+      "name": "Dressmaker",
+      "sub": "",
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/4019220/"
+    },
+    {
+      "name": "Minecraft Dungeons II",
+      "sub": "",
+      "value": "34,800원",
+      "url": "https://store.steampowered.com/app/1912410/"
+    },
+    {
+      "name": "Heroes' Vow: Three Kingdoms",
+      "sub": "10% 할인 (정가 21,500원)",
+      "value": "19,350원",
+      "url": "https://store.steampowered.com/app/3020510/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Wanderburg 완더버그",
+      "sub": "",
+      "value": "15,000원",
+      "url": "https://store.steampowered.com/app/3624140/"
+    }
+  ],
+  "changes": [
+    "1위 교체 — WARDOGS → 귀무자 Way of the Sword",
+    "신규 진입 9개: 1위 귀무자 Way of the Sword, 3위 에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE), 3위 에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE), 5위 더 위쳐 3: 와일드 헌트 - 컴플리트 에디션, 6위 Dressmaker",
+    "순위 이탈 9개: 하늘의 궤적 the 1st, 창세기전 외전: 서풍의 광시곡 리마스터, Baldur's Gate 3, Monster Hunter Wilds, 딤레이스"
+  ]
+}

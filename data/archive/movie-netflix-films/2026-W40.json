@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W40",
+  "year": 2026,
+  "week": 40,
+  "period": "2026-09-20 주간",
+  "collected_date": "2026-09-29",
+  "items": [
+    {
+      "name": "Why Did I Get Married Again?",
+      "sub": "차트 2주차",
+      "value": "970만 회"
+    },
+    {
+      "name": "The Whisper Man",
+      "sub": "차트 4주차",
+      "value": "620만 회"
+    },
+    {
+      "name": "Riot",
+      "sub": "차트 1주차",
+      "value": "520만 회"
+    },
+    {
+      "name": "The Seemingly Perfect Family",
+      "sub": "차트 1주차",
+      "value": "460만 회"
+    },
+    {
+      "name": "Best of the Best",
+      "sub": "차트 1주차",
+      "value": "430만 회"
+    },
+    {
+      "name": "The Ministry of Ungentlemanly Warfare",
+      "sub": "차트 1주차",
+      "value": "340만 회"
+    },
+    {
+      "name": "Puss in Boots: The Last Wish",
+      "sub": "차트 7주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 65주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "A Minecraft Movie",
+      "sub": "차트 1주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "Shrek",
+      "sub": "차트 19주차",
+      "value": "220만 회"
+    }
+  ],
+  "changes": [
+    "1위 Why Did I Get Married Again? — 자리 유지",
+    "신규 진입 6개: 3위 Riot, 4위 The Seemingly Perfect Family, 5위 Best of the Best, 6위 The Ministry of Ungentlemanly Warfare, 7위 Puss in Boots: The Last Wish",
+    "순위 이탈 6개: Turning Point: Generation 9/11, The Little Things, Those Who Wish Me Dead, The Hard Corps, Untold Mr. T: I Pity The Fool"
+  ]
+}

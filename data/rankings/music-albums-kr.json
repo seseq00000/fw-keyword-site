@@ -20,11 +20,6 @@
   ],
   "items": [
     {
-      "name": "TUNE & PLAY - EP",
-      "sub": "튜이드",
-      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
-    },
-    {
       "name": "CRASH - EP",
       "sub": "ALLDAY PROJECT",
       "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
@@ -35,9 +30,14 @@
       "url": "https://music.apple.com/kr/album/home-deluxe/6806965442"
     },
     {
-      "name": "Koh Larn",
-      "sub": "jisokuryClub",
-      "url": "https://music.apple.com/kr/album/koh-larn/6813421524"
+      "name": "TUNE & PLAY - EP",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
       "name": "오보에",
@@ -50,9 +50,14 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
-      "name": "The Life of a Showgirl",
+      "name": "Koh Larn",
+      "sub": "jisokuryClub",
+      "url": "https://music.apple.com/kr/album/koh-larn/6813421524"
+    },
+    {
+      "name": "The Life of a Showgirl: The Encore",
       "sub": "Taylor Swift",
-      "url": "https://music.apple.com/kr/album/the-life-of-a-showgirl/1838810949"
+      "url": "https://music.apple.com/kr/album/the-life-of-a-showgirl-the-encore/6814997249"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -60,14 +65,14 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "Ballad of You",
-      "sub": "실리카겔",
-      "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
-    },
-    {
       "name": "Memory - EP",
       "sub": "리도어",
       "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
+    },
+    {
+      "name": "Ballad of You",
+      "sub": "실리카겔",
+      "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
     },
     {
       "name": "SS-POP 3",
@@ -75,24 +80,19 @@
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
-    },
-    {
       "name": "아름8",
       "sub": "반타01 & MPT",
       "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
+      "name": "POPS",
+      "sub": "Mrs. Green Apple",
+      "url": "https://music.apple.com/kr/album/pops/6808172946"
+    },
+    {
       "name": "i love u",
       "sub": "The Volunteers",
       "url": "https://music.apple.com/kr/album/i-love-u/6810594209"
-    },
-    {
-      "name": "SCENEDROME - EP",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     }
   ],
   "refresh": {

@@ -39,14 +39,14 @@
       "url": "https://music.apple.com/kr/album/deja-vu/1822439985"
     },
     {
-      "name": "REDRED",
-      "sub": "코르티스",
-      "url": "https://music.apple.com/kr/album/redred/1887671065"
-    },
-    {
       "name": "Love Options",
       "sub": "베스티",
       "url": "https://music.apple.com/kr/album/love-options/913802950"
+    },
+    {
+      "name": "REDRED",
+      "sub": "코르티스",
+      "url": "https://music.apple.com/kr/album/redred/1887671065"
     },
     {
       "name": "Pop Off Pop Off",
@@ -54,14 +54,14 @@
       "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
     },
     {
-      "name": "퇴사할게여 (Narr. 기안84)",
-      "sub": "소연",
-      "url": "https://music.apple.com/kr/album/%ED%87%B4%EC%82%AC%ED%95%A0%EA%B2%8C%EC%97%AC-narr-%EA%B8%B0%EC%95%8884/6802901370"
-    },
-    {
       "name": "GRLS",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/grls/6795782851"
+    },
+    {
+      "name": "퇴사할게여 (Narr. 기안84)",
+      "sub": "소연",
+      "url": "https://music.apple.com/kr/album/%ED%87%B4%EC%82%AC%ED%95%A0%EA%B2%8C%EC%97%AC-narr-%EA%B8%B0%EC%95%8884/6802901370"
     },
     {
       "name": "Lemon Tang",
@@ -84,14 +84,19 @@
       "url": "https://music.apple.com/kr/album/dear-my-crazy-soulmate/6808583617"
     },
     {
-      "name": "BAD",
-      "sub": "에이티즈",
-      "url": "https://music.apple.com/kr/album/bad/6770401924"
+      "name": "CRASH",
+      "sub": "ALLDAY PROJECT",
+      "url": "https://music.apple.com/kr/album/crash/6813395912"
     },
     {
       "name": "영원은 그렇듯",
       "sub": "리도어",
       "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
+    },
+    {
+      "name": "BAD",
+      "sub": "에이티즈",
+      "url": "https://music.apple.com/kr/album/bad/6770401924"
     },
     {
       "name": "Pinball",
@@ -107,11 +112,6 @@
       "name": "Rose (feat. Skinny Brown & Homeboy)",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/rose-feat-skinny-brown-homeboy/1453379457"
-    },
-    {
-      "name": "Ling Ling",
-      "sub": "검정치마",
-      "url": "https://music.apple.com/kr/album/ling-ling/1644821406"
     },
     {
       "name": "It's Me",

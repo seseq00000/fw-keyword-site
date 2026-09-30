@@ -23,12 +23,6 @@
   ],
   "items": [
     {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
-    },
-    {
       "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
       "sub": "",
       "value": "89,800원",
@@ -39,24 +33,24 @@
       "sub": "",
       "value": "89,800원",
       "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt — Remastered",
+      "sub": "50% 할인 (정가 54,900원)",
+      "value": "27,450원",
+      "url": "https://store.steampowered.com/app/292030/"
+    },
+    {
+      "name": "American Truck Simulator - Road Trip: Ford",
+      "sub": "",
+      "value": "9,900원",
+      "url": "https://store.steampowered.com/app/3793200/"
     },
     {
       "name": "WARDOGS",
       "sub": "",
       "value": "47,270원",
       "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
-      "name": "더 위쳐 3: 와일드 헌트 - 컴플리트 에디션",
-      "sub": "50% 할인 (정가 54,900원)",
-      "value": "27,450원",
-      "url": "https://store.steampowered.com/app/292030/"
-    },
-    {
-      "name": "Dressmaker",
-      "sub": "",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/4019220/"
     },
     {
       "name": "Minecraft Dungeons II",
@@ -71,16 +65,22 @@
       "url": "https://store.steampowered.com/app/3020510/"
     },
     {
+      "name": "Dressmaker",
+      "sub": "",
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/4019220/"
+    },
+    {
+      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
+      "sub": "70% 할인 (정가 139,600원)",
+      "value": "37,700원",
+      "url": "https://store.steampowered.com/app/43918/"
+    },
+    {
       "name": "EA SPORTS FC™ 27",
       "sub": "",
       "value": "80,000원",
       "url": "https://store.steampowered.com/app/4080220/"
-    },
-    {
-      "name": "Wanderburg 완더버그",
-      "sub": "",
-      "value": "15,000원",
-      "url": "https://store.steampowered.com/app/3624140/"
     }
   ],
   "refresh": {

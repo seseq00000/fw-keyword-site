@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-09-29",
+  "collected_date": "2026-10-01",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,28 +23,46 @@
   ],
   "items": [
     {
-      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "name": "귀무자 Way of the Sword",
       "sub": "",
-      "value": "89,800원",
-      "url": "https://store.steampowered.com/app/2288340/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
     },
     {
       "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
       "sub": "",
       "value": "89,800원",
       "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "프린세스 메이커 : 예언의 아이들",
+      "sub": "20% 할인 (정가 39,000원)",
+      "value": "31,200원",
+      "url": "https://store.steampowered.com/app/3438810/"
+    },
+    {
+      "name": "진・삼국무쌍２ with 맹장전 Remastered",
+      "sub": "",
+      "value": "49,800원",
+      "url": "https://store.steampowered.com/app/3841510/"
+    },
+    {
+      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "sub": "",
+      "value": "89,800원",
+      "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "진・삼국무쌍２ with 맹장전 Remastered",
+      "sub": "",
+      "value": "49,800원",
+      "url": "https://store.steampowered.com/app/3841510/"
     },
     {
       "name": "The Witcher 3: Wild Hunt — Remastered",
       "sub": "50% 할인 (정가 54,900원)",
       "value": "27,450원",
       "url": "https://store.steampowered.com/app/292030/"
-    },
-    {
-      "name": "American Truck Simulator - Road Trip: Ford",
-      "sub": "",
-      "value": "9,900원",
-      "url": "https://store.steampowered.com/app/3793200/"
     },
     {
       "name": "WARDOGS",
@@ -57,24 +75,6 @@
       "sub": "",
       "value": "34,800원",
       "url": "https://store.steampowered.com/app/1912410/"
-    },
-    {
-      "name": "Heroes' Vow: Three Kingdoms",
-      "sub": "10% 할인 (정가 21,500원)",
-      "value": "19,350원",
-      "url": "https://store.steampowered.com/app/3020510/"
-    },
-    {
-      "name": "Dressmaker",
-      "sub": "",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/4019220/"
-    },
-    {
-      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
-      "sub": "70% 할인 (정가 139,600원)",
-      "value": "37,700원",
-      "url": "https://store.steampowered.com/app/43918/"
     },
     {
       "name": "EA SPORTS FC™ 27",

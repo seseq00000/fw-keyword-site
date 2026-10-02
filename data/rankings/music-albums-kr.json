@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-01",
+  "collected_date": "2026-10-02",
   "related": [
     "music-applemusic-kr"
   ],
@@ -20,14 +20,14 @@
   ],
   "items": [
     {
+      "name": "MONOLITH",
+      "sub": "창모",
+      "url": "https://music.apple.com/kr/album/monolith/6817677768"
+    },
+    {
       "name": "CRASH - EP",
       "sub": "ALLDAY PROJECT",
       "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
-    },
-    {
-      "name": "HOME: DELUXE",
-      "sub": "보이넥스트도어",
-      "url": "https://music.apple.com/kr/album/home-deluxe/6806965442"
     },
     {
       "name": "TUNE & PLAY - EP",
@@ -35,19 +35,29 @@
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
+      "name": "HOME: DELUXE",
+      "sub": "보이넥스트도어",
+      "url": "https://music.apple.com/kr/album/home-deluxe/6806965442"
+    },
+    {
+      "name": "Popstar",
+      "sub": "Tinashe",
+      "url": "https://music.apple.com/kr/album/popstar/6789739137"
+    },
+    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
-    },
-    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
       "name": "POPS",
@@ -65,9 +75,9 @@
       "url": "https://music.apple.com/kr/album/the-life-of-a-showgirl-the-encore/6814997249"
     },
     {
-      "name": "Koh Larn",
-      "sub": "jisokuryClub",
-      "url": "https://music.apple.com/kr/album/koh-larn/6813421524"
+      "name": "아름8",
+      "sub": "반타01 & MPT",
+      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
       "name": "SS-POP 3",
@@ -75,24 +85,14 @@
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
-      "name": "아름8",
-      "sub": "반타01 & MPT",
-      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
-    },
-    {
       "name": "Memory - EP",
       "sub": "리도어",
       "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
     },
     {
-      "name": "Ballad of You",
-      "sub": "실리카겔",
-      "url": "https://music.apple.com/kr/album/ballad-of-you/6790843994"
-    },
-    {
-      "name": "SCENEDROME - EP",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+      "sub": "Shugo Tokumaru",
+      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     }
   ],
   "refresh": {

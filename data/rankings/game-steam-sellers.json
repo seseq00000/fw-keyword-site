@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-01",
+  "collected_date": "2026-10-02",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,16 +23,16 @@
   ],
   "items": [
     {
-      "name": "귀무자 Way of the Sword",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/2638890/"
-    },
-    {
       "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
       "sub": "",
       "value": "89,800원",
       "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "사이버펑크 2077: 얼티밋 에디션",
+      "sub": "60% 할인 (정가 100,900원)",
+      "value": "37,480원",
+      "url": "https://store.steampowered.com/app/32470/"
     },
     {
       "name": "프린세스 메이커 : 예언의 아이들",
@@ -41,46 +41,46 @@
       "url": "https://store.steampowered.com/app/3438810/"
     },
     {
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "마블 스파이더맨 2",
+      "sub": "33% 할인 (정가 62,800원)",
+      "value": "42,080원",
+      "url": "https://store.steampowered.com/app/2651280/"
+    },
+    {
+      "name": "라스트 에포크",
+      "sub": "30% 할인 (정가 37,500원)",
+      "value": "26,250원",
+      "url": "https://store.steampowered.com/app/899770/"
+    },
+    {
+      "name": "사이버펑크 2077: 팬텀 리버티",
+      "sub": "40% 할인 (정가 34,900원)",
+      "value": "20,940원",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "Warhammer 40,000: Space Marine 2 - Season Pass 3",
+      "sub": "",
+      "value": "44,800원",
+      "url": "https://store.steampowered.com/app/4997770/"
+    },
+    {
       "name": "진・삼국무쌍２ with 맹장전 Remastered",
       "sub": "",
       "value": "49,800원",
       "url": "https://store.steampowered.com/app/3841510/"
     },
     {
-      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "name": "Warhammer 40,000: Space Marine 2 - Season Pass 1 + 2 + 3",
       "sub": "",
-      "value": "89,800원",
-      "url": "https://store.steampowered.com/app/2288340/"
-    },
-    {
-      "name": "진・삼국무쌍２ with 맹장전 Remastered",
-      "sub": "",
-      "value": "49,800원",
-      "url": "https://store.steampowered.com/app/3841510/"
-    },
-    {
-      "name": "The Witcher 3: Wild Hunt — Remastered",
-      "sub": "50% 할인 (정가 54,900원)",
-      "value": "27,450원",
-      "url": "https://store.steampowered.com/app/292030/"
-    },
-    {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
-      "name": "Minecraft Dungeons II",
-      "sub": "",
-      "value": "34,800원",
-      "url": "https://store.steampowered.com/app/1912410/"
-    },
-    {
-      "name": "EA SPORTS FC™ 27",
-      "sub": "",
-      "value": "80,000원",
-      "url": "https://store.steampowered.com/app/4080220/"
+      "value": "111,540원",
+      "url": "https://store.steampowered.com/app/57645/"
     }
   ],
   "refresh": {

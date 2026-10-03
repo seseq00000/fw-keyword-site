@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-02",
+  "collected_date": "2026-10-03",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,12 +35,6 @@
       "url": "https://store.steampowered.com/app/32470/"
     },
     {
-      "name": "프린세스 메이커 : 예언의 아이들",
-      "sub": "20% 할인 (정가 39,000원)",
-      "value": "31,200원",
-      "url": "https://store.steampowered.com/app/3438810/"
-    },
-    {
       "name": "Cyberpunk 2077",
       "sub": "70% 할인 (정가 66,000원)",
       "value": "19,800원",
@@ -53,10 +47,10 @@
       "url": "https://store.steampowered.com/app/2651280/"
     },
     {
-      "name": "라스트 에포크",
-      "sub": "30% 할인 (정가 37,500원)",
-      "value": "26,250원",
-      "url": "https://store.steampowered.com/app/899770/"
+      "name": "Baldur's Gate 3",
+      "sub": "30% 할인 (정가 66,000원)",
+      "value": "46,200원",
+      "url": "https://store.steampowered.com/app/1086940/"
     },
     {
       "name": "사이버펑크 2077: 팬텀 리버티",
@@ -65,22 +59,28 @@
       "url": "https://store.steampowered.com/app/2138330/"
     },
     {
-      "name": "Warhammer 40,000: Space Marine 2 - Season Pass 3",
+      "name": "WARDOGS",
       "sub": "",
-      "value": "44,800원",
-      "url": "https://store.steampowered.com/app/4997770/"
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "진・삼국무쌍２ with 맹장전 Remastered",
-      "sub": "",
-      "value": "49,800원",
-      "url": "https://store.steampowered.com/app/3841510/"
+      "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "sub": "50% 할인 (정가 75,000원)",
+      "value": "37,500원",
+      "url": "https://store.steampowered.com/app/814380/"
     },
     {
-      "name": "Warhammer 40,000: Space Marine 2 - Season Pass 1 + 2 + 3",
-      "sub": "",
-      "value": "111,540원",
-      "url": "https://store.steampowered.com/app/57645/"
+      "name": "프린세스 메이커 : 예언의 아이들",
+      "sub": "20% 할인 (정가 39,000원)",
+      "value": "31,200원",
+      "url": "https://store.steampowered.com/app/3438810/"
+    },
+    {
+      "name": "Ghost of Tsushima 디렉터스 컷",
+      "sub": "40% 할인 (정가 62,800원)",
+      "value": "37,680원",
+      "url": "https://store.steampowered.com/app/2215430/"
     }
   ],
   "refresh": {

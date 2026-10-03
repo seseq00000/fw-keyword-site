@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-02",
+  "collected_date": "2026-10-03",
   "related": [
     "music-applemusic-kr"
   ],
@@ -40,11 +40,6 @@
       "url": "https://music.apple.com/kr/album/home-deluxe/6806965442"
     },
     {
-      "name": "Popstar",
-      "sub": "Tinashe",
-      "url": "https://music.apple.com/kr/album/popstar/6789739137"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
@@ -53,6 +48,11 @@
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "Popstar",
+      "sub": "Tinashe",
+      "url": "https://music.apple.com/kr/album/popstar/6789739137"
     },
     {
       "name": "킁",
@@ -70,14 +70,14 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
+      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+      "sub": "Shugo Tokumaru",
+      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
+    },
+    {
       "name": "The Life of a Showgirl: The Encore",
       "sub": "Taylor Swift",
       "url": "https://music.apple.com/kr/album/the-life-of-a-showgirl-the-encore/6814997249"
-    },
-    {
-      "name": "아름8",
-      "sub": "반타01 & MPT",
-      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
       "name": "SS-POP 3",
@@ -85,14 +85,14 @@
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     },
     {
-      "name": "Memory - EP",
-      "sub": "리도어",
-      "url": "https://music.apple.com/kr/album/memory-ep/6811812370"
+      "name": "아름8",
+      "sub": "반타01 & MPT",
+      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     },
     {
-      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
-      "sub": "Shugo Tokumaru",
-      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
+      "name": "SCENEDROME - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     }
   ],
   "refresh": {

@@ -18,43 +18,43 @@
   "items": [
     {
       "name": "Counter-Strike 2",
-      "sub": "최고 동시접속 117.8만 명"
+      "sub": "최고 동시접속 116.1만 명"
     },
     {
       "name": "Dota 2",
-      "sub": "최고 동시접속 81.1만 명"
+      "sub": "최고 동시접속 79.1만 명"
     },
     {
       "name": "PUBG: BATTLEGROUNDS",
-      "sub": "최고 동시접속 61.5만 명"
+      "sub": "최고 동시접속 60.6만 명"
     },
     {
       "name": "Wallpaper Engine",
-      "sub": "최고 동시접속 10.7만 명"
+      "sub": "최고 동시접속 10.9만 명"
     },
     {
       "name": "Apex 레전드™",
-      "sub": "최고 동시접속 20.1만 명 · 직전 주 6위"
+      "sub": "최고 동시접속 20.6만 명 · 직전 주 6위"
     },
     {
       "name": "WARDOGS",
-      "sub": "최고 동시접속 21.5만 명 · 직전 주 5위"
-    },
-    {
-      "name": "The Witcher 3: Wild Hunt — Remastered",
-      "sub": "최고 동시접속 10.3만 명 · 직전 주 105위"
+      "sub": "최고 동시접속 23.2만 명 · 직전 주 5위"
     },
     {
       "name": "Deadlock",
-      "sub": "최고 동시접속 14만 명 · 직전 주 22위"
+      "sub": "최고 동시접속 22.8만 명 · 직전 주 22위"
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt — Remastered",
+      "sub": "최고 동시접속 10.3만 명 · 직전 주 109위"
     },
     {
       "name": "Valheim",
-      "sub": "최고 동시접속 17.1만 명 · 직전 주 7위"
+      "sub": "최고 동시접속 18.1만 명 · 직전 주 7위"
     },
     {
       "name": "Grand Theft Auto V 레거시",
-      "sub": "최고 동시접속 6.2만 명 · 직전 주 8위"
+      "sub": "최고 동시접속 6.7만 명 · 직전 주 8위"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-03",
+  "collected_date": "2026-10-04",
   "related": [
     "music-applemusic-kr"
   ],
@@ -30,19 +30,19 @@
       "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
     },
     {
+      "name": "FREE THE MANE 4",
+      "sub": "비프리 & FREE THE MANE",
+      "url": "https://music.apple.com/kr/album/free-the-mane-4/6816865767"
+    },
+    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
-      "name": "HOME: DELUXE",
-      "sub": "보이넥스트도어",
-      "url": "https://music.apple.com/kr/album/home-deluxe/6806965442"
-    },
-    {
-      "name": "오보에",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+      "sub": "Shugo Tokumaru",
+      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
       "name": "TEAM BABY",
@@ -50,14 +50,19 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
       "name": "Popstar",
       "sub": "Tinashe",
       "url": "https://music.apple.com/kr/album/popstar/6789739137"
     },
     {
-      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
-      "sub": "Shugo Tokumaru",
-      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
+      "name": "HOME: DELUXE",
+      "sub": "보이넥스트도어",
+      "url": "https://music.apple.com/kr/album/home-deluxe/6806965442"
     },
     {
       "name": "킁",
@@ -75,6 +80,11 @@
       "url": "https://music.apple.com/kr/album/habibti-fomo/6818209777"
     },
     {
+      "name": "SCENEDROME - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+    },
+    {
       "name": "POPS",
       "sub": "Mrs. Green Apple",
       "url": "https://music.apple.com/kr/album/pops/6808172946"
@@ -83,16 +93,6 @@
       "name": "SS-POP 3",
       "sub": "SYSTEM SEOUL",
       "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
-    },
-    {
-      "name": "SCENEDROME - EP",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
-    },
-    {
-      "name": "아름8",
-      "sub": "반타01 & MPT",
-      "url": "https://music.apple.com/kr/album/arrm8/6779159591"
     }
   ],
   "refresh": {

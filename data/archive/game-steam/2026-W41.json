@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W41",
+  "year": 2026,
+  "week": 41,
+  "period": null,
+  "collected_date": "2026-10-06",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 114.1만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 82.6만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 61.3만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 10.9만 명"
+    },
+    {
+      "name": "AION 2",
+      "sub": "최고 동시접속 39.8만 명 · 직전 주 -1위"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 19.7만 명"
+    },
+    {
+      "name": "Deadlock",
+      "sub": "최고 동시접속 15.6만 명 · 직전 주 20위"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "최고 동시접속 19.5만 명 · 직전 주 5위"
+    },
+    {
+      "name": "Valheim",
+      "sub": "최고 동시접속 16.5만 명 · 직전 주 7위"
+    },
+    {
+      "name": "Grand Theft Auto V 레거시",
+      "sub": "최고 동시접속 6.4만 명"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 2개: 5위 AION 2, 7위 Deadlock",
+    "순위 이탈 2개: Slay the Spire 2, 애니모"
+  ]
+}

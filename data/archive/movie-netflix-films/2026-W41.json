@@ -1,0 +1,66 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W41",
+  "year": 2026,
+  "week": 41,
+  "period": "2026-09-27 주간",
+  "collected_date": "2026-10-06",
+  "items": [
+    {
+      "name": "UNABOMBER",
+      "sub": "차트 1주차",
+      "value": "1,640만 회"
+    },
+    {
+      "name": "Best of the Best",
+      "sub": "차트 2주차",
+      "value": "730만 회"
+    },
+    {
+      "name": "A Minecraft Movie",
+      "sub": "차트 2주차",
+      "value": "700만 회"
+    },
+    {
+      "name": "Riot",
+      "sub": "차트 2주차",
+      "value": "440만 회"
+    },
+    {
+      "name": "The Whisper Man",
+      "sub": "차트 5주차",
+      "value": "400만 회"
+    },
+    {
+      "name": "Black Adam",
+      "sub": "차트 2주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "The Ministry of Ungentlemanly Warfare",
+      "sub": "차트 2주차",
+      "value": "340만 회"
+    },
+    {
+      "name": "Why Did I Get Married Again?",
+      "sub": "차트 3주차",
+      "value": "310만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 66주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "Top Gun: Maverick",
+      "sub": "차트 3주차",
+      "value": "250만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Why Did I Get Married Again? → UNABOMBER",
+    "신규 진입 3개: 1위 UNABOMBER, 6위 Black Adam, 10위 Top Gun: Maverick",
+    "순위 이탈 3개: The Seemingly Perfect Family, Puss in Boots: The Last Wish, Shrek",
+    "최대 상승 — A Minecraft Movie (9위 → 3위)"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W41",
+  "year": 2026,
+  "week": 41,
+  "period": null,
+  "collected_date": "2026-10-06",
+  "items": [
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "사이버펑크 2077: 얼티밋 에디션",
+      "sub": "60% 할인 (정가 100,900원)",
+      "value": "37,480원",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "sub": "",
+      "value": "89,800원",
+      "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "sub": "30% 할인 (정가 66,000원)",
+      "value": "46,200원",
+      "url": "https://store.steampowered.com/app/1086940/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "마블 스파이더맨 2",
+      "sub": "33% 할인 (정가 62,800원)",
+      "value": "42,080원",
+      "url": "https://store.steampowered.com/app/2651280/"
+    },
+    {
+      "name": "Project Zomboid",
+      "sub": "33% 할인 (정가 26,500원)",
+      "value": "17,750원",
+      "url": "https://store.steampowered.com/app/108600/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "30% 할인 (정가 32,000원)",
+      "value": "22,400원",
+      "url": "https://store.steampowered.com/app/1623730/"
+    },
+    {
+      "name": "사이버펑크 2077: 팬텀 리버티",
+      "sub": "40% 할인 (정가 34,900원)",
+      "value": "20,940원",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "낚시 방법",
+      "sub": "38% 할인 (정가 8,400원)",
+      "value": "5,210원",
+      "url": "https://store.steampowered.com/app/4001890/"
+    }
+  ],
+  "changes": [
+    "1위 교체 — 귀무자 Way of the Sword → Cyberpunk 2077",
+    "신규 진입 8개: 1위 Cyberpunk 2077, 2위 사이버펑크 2077: 얼티밋 에디션, 4위 Baldur's Gate 3, 6위 마블 스파이더맨 2, 7위 Project Zomboid",
+    "순위 이탈 7개: 귀무자 Way of the Sword, 더 위쳐 3: 와일드 헌트 - 컴플리트 에디션, Dressmaker, Minecraft Dungeons II, Heroes' Vow: Three Kingdoms"
+  ]
+}

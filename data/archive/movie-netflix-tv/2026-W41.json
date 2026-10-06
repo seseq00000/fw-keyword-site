@@ -1,0 +1,66 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W41",
+  "year": 2026,
+  "week": 41,
+  "period": "2026-09-27 주간",
+  "collected_date": "2026-10-06",
+  "items": [
+    {
+      "name": "Not a Stranger",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "970만 회"
+    },
+    {
+      "name": "Plastic Beauty",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "510만 회"
+    },
+    {
+      "name": "The Scandal",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "280만 회"
+    },
+    {
+      "name": "Shaque: Trust No One",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "The Final Problem",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "The Perfect Lie",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "The Doll",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Minerva Academy",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Physical 100: Mexico",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "220만 회"
+    },
+    {
+      "name": "Habeas Corpus",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "160만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — The Perfect Lie → Not a Stranger",
+    "신규 진입 4개: 4위 Shaque: Trust No One, 5위 The Final Problem, 8위 Minerva Academy, 10위 Habeas Corpus",
+    "순위 이탈 4개: Physical 100: Italy, The Early Spring, Fauda, Four Hands, Two Sonatas",
+    "최대 상승 — The Scandal (7위 → 3위)"
+  ]
+}

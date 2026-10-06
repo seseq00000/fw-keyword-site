@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv-en",
+  "week_id": "2026-W41",
+  "year": 2026,
+  "week": 41,
+  "period": "2026-09-27 주간",
+  "collected_date": "2026-10-06",
+  "items": [
+    {
+      "name": "Monster: The Lizzie Borden Story",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "1,450만 회"
+    },
+    {
+      "name": "Wonka's The Golden Ticket",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "460만 회"
+    },
+    {
+      "name": "Crew Girl",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "450만 회"
+    },
+    {
+      "name": "A Different World",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "420만 회"
+    },
+    {
+      "name": "The Gentlemen",
+      "sub": "시즌 2 · 차트 4주차",
+      "value": "420만 회"
+    },
+    {
+      "name": "Gabby's Dollhouse",
+      "sub": "시즌 14 · 차트 2주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Raw",
+      "sub": "September 21, 2026 · 차트 1주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "The Gentlemen",
+      "sub": "시즌 1 · 차트 14주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "The Great British Baking Show",
+      "sub": "Collection 14 · 차트 1주차",
+      "value": "170만 회"
+    },
+    {
+      "name": "Danny Go!",
+      "sub": "시즌 2 · 차트 4주차",
+      "value": "170만 회"
+    }
+  ],
+  "changes": [
+    "1위 Monster: The Lizzie Borden Story — 자리 유지",
+    "신규 진입 4개: 2위 Wonka's The Golden Ticket, 4위 A Different World, 9위 The Great British Baking Show, 10위 Danny Go!",
+    "순위 이탈 4개: Death of the Pastor's Wife, Jo Koy: Blue in the Face, Mark Rober's CrunchLabs, Beauty in Black"
+  ]
+}

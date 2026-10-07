@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-06",
+  "collected_date": "2026-10-07",
   "related": [
     "music-applemusic-kr"
   ],
@@ -25,14 +25,14 @@
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
-      "name": "CRASH - EP",
-      "sub": "ALLDAY PROJECT",
-      "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
-    },
-    {
       "name": "SINS",
       "sub": "키드밀리 & TRADE L",
       "url": "https://music.apple.com/kr/album/sins/6818468023"
+    },
+    {
+      "name": "CRASH - EP",
+      "sub": "ALLDAY PROJECT",
+      "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -50,14 +50,14 @@
       "url": "https://music.apple.com/kr/album/free-the-mane-4/6816865767"
     },
     {
-      "name": "TEAM BABY",
-      "sub": "검정치마",
-      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
+      "name": "TEAM BABY",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
       "name": "킁",
@@ -70,9 +70,9 @@
       "url": "https://music.apple.com/kr/album/popstar/6789739137"
     },
     {
-      "name": "HOME: DELUXE",
+      "name": "HOME",
       "sub": "보이넥스트도어",
-      "url": "https://music.apple.com/kr/album/home-deluxe/6806965442"
+      "url": "https://music.apple.com/kr/album/home/1896255247"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -85,14 +85,14 @@
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     },
     {
+      "name": "KICK OFF THE WALL Pt. 1",
+      "sub": "KickFlip",
+      "url": "https://music.apple.com/kr/album/kick-off-the-wall-pt-1/6813409800"
+    },
+    {
       "name": "OCTANE",
       "sub": "Don Toliver",
       "url": "https://music.apple.com/kr/album/octane/1871258329"
-    },
-    {
-      "name": "SS-POP 3",
-      "sub": "SYSTEM SEOUL",
-      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     }
   ],
   "refresh": {

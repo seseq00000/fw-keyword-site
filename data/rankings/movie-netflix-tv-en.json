@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-09-29",
+  "collected_date": "2026-10-07",
   "related": [
     "movie-netflix-tv",
     "movie-netflix-films"
@@ -21,53 +21,53 @@
   ],
   "items": [
     {
+      "name": "East of Eden",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "650만 회"
+    },
+    {
       "name": "Monster: The Lizzie Borden Story",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "1,450만 회"
-    },
-    {
-      "name": "Wonka's The Golden Ticket",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "460만 회"
-    },
-    {
-      "name": "Crew Girl",
       "sub": "시즌 1 · 차트 3주차",
-      "value": "450만 회"
+      "value": "570만 회"
     },
     {
       "name": "A Different World",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "510만 회"
+    },
+    {
+      "name": "Wonka's The Golden Ticket",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "430만 회"
+    },
+    {
+      "name": "LEGO ONE PIECE",
       "sub": "시즌 1 · 차트 1주차",
-      "value": "420만 회"
+      "value": "380만 회"
     },
     {
       "name": "The Gentlemen",
-      "sub": "시즌 2 · 차트 4주차",
-      "value": "420만 회"
+      "sub": "시즌 2 · 차트 5주차",
+      "value": "290만 회"
     },
     {
-      "name": "Gabby's Dollhouse",
-      "sub": "시즌 14 · 차트 2주차",
-      "value": "270만 회"
+      "name": "Crew Girl",
+      "sub": "시즌 1 · 차트 4주차",
+      "value": "260만 회"
     },
     {
       "name": "Raw",
-      "sub": "September 21, 2026 · 차트 1주차",
+      "sub": "September 28, 2026 · 차트 1주차",
       "value": "250만 회"
     },
     {
       "name": "The Gentlemen",
-      "sub": "시즌 1 · 차트 14주차",
-      "value": "240만 회"
-    },
-    {
-      "name": "The Great British Baking Show",
-      "sub": "Collection 14 · 차트 1주차",
+      "sub": "시즌 1 · 차트 15주차",
       "value": "170만 회"
     },
     {
-      "name": "Danny Go!",
-      "sub": "시즌 2 · 차트 4주차",
+      "name": "Gabby's Dollhouse",
+      "sub": "시즌 14 · 차트 3주차",
       "value": "170만 회"
     }
   ],

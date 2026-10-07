@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수 (2026-07-20 ~ 07-26)",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-09-29",
+  "collected_date": "2026-10-07",
   "related": [
     "movie-netflix-films",
     "movie-netflix"
@@ -22,53 +22,53 @@
   "items": [
     {
       "name": "Not a Stranger",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "970만 회"
-    },
-    {
-      "name": "Plastic Beauty",
-      "sub": "시즌 1 · 차트 2주차",
+      "sub": "시즌 1 · 차트 3주차",
       "value": "510만 회"
     },
     {
-      "name": "The Scandal",
-      "sub": "리미티드 시리즈 · 차트 2주차",
-      "value": "280만 회"
-    },
-    {
       "name": "Shaque: Trust No One",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "270만 회"
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "420만 회"
     },
     {
       "name": "The Final Problem",
-      "sub": "리미티드 시리즈 · 차트 1주차",
-      "value": "260만 회"
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "320만 회"
     },
     {
-      "name": "The Perfect Lie",
+      "name": "Minerva Academy",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Plastic Beauty",
       "sub": "시즌 1 · 차트 3주차",
       "value": "250만 회"
     },
     {
-      "name": "The Doll",
-      "sub": "리미티드 시리즈 · 차트 2주차",
-      "value": "240만 회"
-    },
-    {
-      "name": "Minerva Academy",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "240만 회"
-    },
-    {
-      "name": "Physical 100: Mexico",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "220만 회"
-    },
-    {
       "name": "Habeas Corpus",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Irreplaceable",
       "sub": "시즌 1 · 차트 1주차",
-      "value": "160만 회"
+      "value": "200만 회"
+    },
+    {
+      "name": "STEEL BALL RUN JoJo’s Bizarre Adventure",
+      "sub": "2nd-3rd STAGE · 차트 1주차",
+      "value": "200만 회"
+    },
+    {
+      "name": "The Great Indian Kapil Show",
+      "sub": "시즌 5 · 차트 1주차",
+      "value": "140만 회"
+    },
+    {
+      "name": "The Perfect Lie",
+      "sub": "시즌 1 · 차트 4주차",
+      "value": "140만 회"
     }
   ],
   "refresh": {

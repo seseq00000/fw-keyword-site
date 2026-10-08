@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-07",
+  "collected_date": "2026-10-08",
   "related": [
     "game-steam",
     "game-popular"
@@ -22,18 +22,6 @@
     "할인율은 순위를 끌어올리는 가장 강력한 변수입니다. 출시된 지 몇 년 지난 게임이 상위권에 있다면 대개 큰 폭의 할인이 걸려 있고, 반대로 정가 그대로인 게임이 1위에 있다면 신작이라는 뜻입니다. 가격 옆의 할인 표시를 함께 보면 그 게임이 왜 지금 팔리는지 대체로 설명이 됩니다."
   ],
   "items": [
-    {
-      "name": "Cyberpunk 2077",
-      "sub": "70% 할인 (정가 66,000원)",
-      "value": "19,800원",
-      "url": "https://store.steampowered.com/app/1091500/"
-    },
-    {
-      "name": "Gears of War: E-Day",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/3010850/"
-    },
     {
       "name": "WARDOGS",
       "sub": "",
@@ -47,16 +35,10 @@
       "url": "https://store.steampowered.com/app/32470/"
     },
     {
-      "name": "사이버펑크 2077: 팬텀 리버티",
-      "sub": "40% 할인 (정가 34,900원)",
-      "value": "20,940원",
-      "url": "https://store.steampowered.com/app/2138330/"
-    },
-    {
-      "name": "Project Zomboid",
-      "sub": "33% 할인 (정가 26,500원)",
-      "value": "17,750원",
-      "url": "https://store.steampowered.com/app/108600/"
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
     },
     {
       "name": "Baldur's Gate 3",
@@ -65,22 +47,40 @@
       "url": "https://store.steampowered.com/app/1086940/"
     },
     {
+      "name": "Project Zomboid",
+      "sub": "33% 할인 (정가 26,500원)",
+      "value": "17,750원",
+      "url": "https://store.steampowered.com/app/108600/"
+    },
+    {
+      "name": "Gears of War: E-Day",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3010850/"
+    },
+    {
+      "name": "사이버펑크 2077: 팬텀 리버티",
+      "sub": "40% 할인 (정가 34,900원)",
+      "value": "20,940원",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "마블 스파이더맨 2",
+      "sub": "33% 할인 (정가 62,800원)",
+      "value": "42,080원",
+      "url": "https://store.steampowered.com/app/2651280/"
+    },
+    {
+      "name": "Monster Hunter Wilds",
+      "sub": "25% 할인 (정가 45,800원)",
+      "value": "34,350원",
+      "url": "https://store.steampowered.com/app/2246340/"
+    },
+    {
       "name": "Palworld / 팰월드",
       "sub": "30% 할인 (정가 32,000원)",
       "value": "22,400원",
       "url": "https://store.steampowered.com/app/1623730/"
-    },
-    {
-      "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "sub": "50% 할인 (정가 75,000원)",
-      "value": "37,500원",
-      "url": "https://store.steampowered.com/app/814380/"
-    },
-    {
-      "name": "낚시 방법",
-      "sub": "38% 할인 (정가 8,400원)",
-      "value": "5,210원",
-      "url": "https://store.steampowered.com/app/4001890/"
     }
   ],
   "refresh": {

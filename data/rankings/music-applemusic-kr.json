@@ -11,7 +11,7 @@
   "value_label": "애플 뮤직 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기곡(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json",
-  "collected_date": "2026-10-08",
+  "collected_date": "2026-10-09",
   "analysis": [
     "애플 뮤직 한국 차트는 국내 이용자의 재생량만 집계하기 때문에, 스포티파이 같은 글로벌 차트와 달리 한국 청취 취향이 거의 그대로 드러납니다. 실제로 이 차트는 대부분 K-POP으로 채워지며, 해외 곡이 상위권에 오르는 경우는 드뭅니다.",
     "한 팀의 곡이 여러 개 동시에 차트에 오르는 장면이 자주 나타납니다. 이는 팬덤이 타이틀곡만이 아니라 앨범 수록곡까지 반복 재생할 때 생기는 패턴으로, 컴백 직후 특히 두드러집니다. 같은 서비스의 앨범 차트와 나란히 놓고 보면 소비 방식의 차이가 더 분명해집니다.",
@@ -19,14 +19,14 @@
   ],
   "items": [
     {
-      "name": "CRASH",
-      "sub": "ALLDAY PROJECT",
-      "url": "https://music.apple.com/kr/album/crash/6813395912"
-    },
-    {
       "name": "SUN KISS",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/sun-kiss/6795782851"
+    },
+    {
+      "name": "CRASH",
+      "sub": "ALLDAY PROJECT",
+      "url": "https://music.apple.com/kr/album/crash/6813395912"
     },
     {
       "name": "LOVE ATTACK",
@@ -44,14 +44,14 @@
       "url": "https://music.apple.com/kr/album/%EB%85%B8%EC%8A%A4%ED%83%88%EC%A7%80%EC%95%84/6805367597"
     },
     {
-      "name": "Love Options",
-      "sub": "베스티",
-      "url": "https://music.apple.com/kr/album/love-options/913802950"
-    },
-    {
       "name": "REDRED",
       "sub": "코르티스",
       "url": "https://music.apple.com/kr/album/redred/1887671065"
+    },
+    {
+      "name": "Love Options",
+      "sub": "베스티",
+      "url": "https://music.apple.com/kr/album/love-options/913802950"
     },
     {
       "name": "Pop Off Pop Off",
@@ -59,9 +59,9 @@
       "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
     },
     {
-      "name": "GRLS",
-      "sub": "튜이드",
-      "url": "https://music.apple.com/kr/album/grls/6795782851"
+      "name": "Pinball",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/pinball/1764485168"
     },
     {
       "name": "퇴사할게여 (Narr. 기안84)",
@@ -69,9 +69,9 @@
       "url": "https://music.apple.com/kr/album/%ED%87%B4%EC%82%AC%ED%95%A0%EA%B2%8C%EC%97%AC-narr-%EA%B8%B0%EC%95%8884/6802901370"
     },
     {
-      "name": "Pinball",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/pinball/1764485168"
+      "name": "GRLS",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/grls/6795782851"
     },
     {
       "name": "Lemon Tang",
@@ -79,14 +79,14 @@
       "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
     },
     {
-      "name": "영원은 그렇듯",
-      "sub": "리도어",
-      "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
-    },
-    {
       "name": "RUDE!",
       "sub": "Hearts2Hearts",
       "url": "https://music.apple.com/kr/album/rude/1875146814"
+    },
+    {
+      "name": "영원은 그렇듯",
+      "sub": "리도어",
+      "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
     },
     {
       "name": "LEMONADE",
@@ -99,9 +99,9 @@
       "url": "https://music.apple.com/kr/album/rose-feat-skinny-brown-homeboy/1453379457"
     },
     {
-      "name": "보기 드문 여자 (feat. 나우아임영)",
-      "sub": "최예나",
-      "url": "https://music.apple.com/kr/album/%EB%B3%B4%EA%B8%B0-%EB%93%9C%EB%AC%B8-%EC%97%AC%EC%9E%90-feat-%EB%82%98%EC%9A%B0%EC%95%84%EC%9E%84%EC%98%81/6814694660"
+      "name": "Die For You",
+      "sub": "The Weeknd",
+      "url": "https://music.apple.com/kr/album/die-for-you/1440871397"
     },
     {
       "name": "BAD",
@@ -109,14 +109,14 @@
       "url": "https://music.apple.com/kr/album/bad/6770401924"
     },
     {
-      "name": "Pretty Girl",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/pretty-girl/6786111944"
-    },
-    {
       "name": "Ling Ling",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/ling-ling/1644821406"
+    },
+    {
+      "name": "Pretty Girl",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/pretty-girl/6786111944"
     }
   ],
   "refresh": {

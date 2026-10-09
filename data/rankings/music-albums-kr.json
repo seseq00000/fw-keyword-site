@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-08",
+  "collected_date": "2026-10-09",
   "related": [
     "music-applemusic-kr"
   ],
@@ -25,6 +25,11 @@
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
+      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+      "sub": "Shugo Tokumaru",
+      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
+    },
+    {
       "name": "SINS",
       "sub": "키드밀리 & TRADE L",
       "url": "https://music.apple.com/kr/album/sins/6818468023"
@@ -33,11 +38,6 @@
       "name": "KICK OFF THE WALL Pt. 1",
       "sub": "KickFlip",
       "url": "https://music.apple.com/kr/album/kick-off-the-wall-pt-1/6813409800"
-    },
-    {
-      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
-      "sub": "Shugo Tokumaru",
-      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
       "name": "CRASH - EP",
@@ -60,9 +60,9 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
-      "name": "FREE THE MANE 4",
-      "sub": "비프리 & FREE THE MANE",
-      "url": "https://music.apple.com/kr/album/free-the-mane-4/6816865767"
+      "name": "Hurry Up Tomorrow (Video Album)",
+      "sub": "The Weeknd",
+      "url": "https://music.apple.com/kr/album/hurry-up-tomorrow-video-album/1795692220"
     },
     {
       "name": "킁",
@@ -70,29 +70,29 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
+      "name": "Dawn FM",
+      "sub": "The Weeknd",
+      "url": "https://music.apple.com/kr/album/dawn-fm/1603171516"
+    },
+    {
+      "name": "FREE THE MANE 4",
+      "sub": "비프리 & FREE THE MANE",
+      "url": "https://music.apple.com/kr/album/free-the-mane-4/6816865767"
+    },
+    {
       "name": "WhyKiiiKiii - EP",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "Popstar",
-      "sub": "Tinashe",
-      "url": "https://music.apple.com/kr/album/popstar/6789739137"
-    },
-    {
-      "name": "Hurry Up Tomorrow (Video Album)",
+      "name": "Starboy",
       "sub": "The Weeknd",
-      "url": "https://music.apple.com/kr/album/hurry-up-tomorrow-video-album/1795692220"
+      "url": "https://music.apple.com/kr/album/starboy/1440871397"
     },
     {
-      "name": "HOME",
-      "sub": "보이넥스트도어",
-      "url": "https://music.apple.com/kr/album/home/1896255247"
-    },
-    {
-      "name": "SCENEDROME - EP",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+      "name": "Still",
+      "sub": "엔플라잉",
+      "url": "https://music.apple.com/kr/album/still/6814323072"
     }
   ],
   "refresh": {

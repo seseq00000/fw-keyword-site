@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-09",
+  "collected_date": "2026-10-10",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,10 +23,10 @@
   ],
   "items": [
     {
-      "name": "리스크 오브 레인 2: 성스러운 개념들",
+      "name": "Dragon's Dogma 2: Dark Arisen Expansion",
       "sub": "",
-      "value": "15,000원",
-      "url": "https://store.steampowered.com/app/3055670/"
+      "value": "33,800원",
+      "url": "https://store.steampowered.com/app/2593290/"
     },
     {
       "name": "WARDOGS",
@@ -35,16 +35,10 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "Dragon's Dogma 2: Dark Arisen Expansion",
-      "sub": "",
-      "value": "33,800원",
-      "url": "https://store.steampowered.com/app/2593290/"
-    },
-    {
-      "name": "Project Zomboid",
-      "sub": "",
-      "value": "26,500원",
-      "url": "https://store.steampowered.com/app/108600/"
+      "name": "Permafrost",
+      "sub": "20% 할인 (정가 24,000원)",
+      "value": "19,200원",
+      "url": "https://store.steampowered.com/app/2254990/"
     },
     {
       "name": "Gears of War: E-Day",
@@ -53,22 +47,10 @@
       "url": "https://store.steampowered.com/app/3010850/"
     },
     {
-      "name": "Order of the Sinking Star",
+      "name": "Dragon's Dogma 2: Dark Arisen",
       "sub": "",
-      "value": "31,000원",
-      "url": "https://store.steampowered.com/app/499170/"
-    },
-    {
-      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
-      "sub": "",
-      "value": "89,800원",
-      "url": "https://store.steampowered.com/app/2288340/"
-    },
-    {
-      "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "sub": "50% 할인 (정가 75,000원)",
-      "value": "37,500원",
-      "url": "https://store.steampowered.com/app/814380/"
+      "value": "56,800원",
+      "url": "https://store.steampowered.com/app/1686532/"
     },
     {
       "name": "EA SPORTS FC™ 27",
@@ -77,10 +59,28 @@
       "url": "https://store.steampowered.com/app/4080220/"
     },
     {
-      "name": "Cyberpunk 2077",
+      "name": "리스크 오브 레인 2: 성스러운 개념들",
       "sub": "",
-      "value": "66,000원",
-      "url": "https://store.steampowered.com/app/1091500/"
+      "value": "15,000원",
+      "url": "https://store.steampowered.com/app/3055670/"
+    },
+    {
+      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "sub": "",
+      "value": "89,800원",
+      "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "Japanese Ramen Simulator",
+      "sub": "15% 할인 (정가 16,000원)",
+      "value": "13,600원",
+      "url": "https://store.steampowered.com/app/4968640/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "30% 할인 (정가 32,000원)",
+      "value": "22,400원",
+      "url": "https://store.steampowered.com/app/1623730/"
     }
   ],
   "refresh": {

@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W42",
+  "year": 2026,
+  "week": 42,
+  "period": "2026-10-04 주간",
+  "collected_date": "2026-10-12",
+  "items": [
+    {
+      "name": "UNABOMBER",
+      "sub": "차트 2주차",
+      "value": "2,490만 회"
+    },
+    {
+      "name": "The Widower: 'Til Death Do Us Part",
+      "sub": "차트 1주차",
+      "value": "1,160만 회"
+    },
+    {
+      "name": "Doing Life",
+      "sub": "차트 1주차",
+      "value": "930만 회"
+    },
+    {
+      "name": "The Breadwinner",
+      "sub": "차트 1주차",
+      "value": "530만 회"
+    },
+    {
+      "name": "The Equalizer 3",
+      "sub": "차트 5주차",
+      "value": "500만 회"
+    },
+    {
+      "name": "The Mummy",
+      "sub": "차트 1주차",
+      "value": "310만 회"
+    },
+    {
+      "name": "The Whisper Man",
+      "sub": "차트 6주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "What's Your Number?",
+      "sub": "차트 1주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "A Minecraft Movie",
+      "sub": "차트 3주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 67주차",
+      "value": "240만 회"
+    }
+  ],
+  "changes": [
+    "1위 UNABOMBER — 자리 유지",
+    "신규 진입 6개: 2위 The Widower: 'Til Death Do Us Part, 3위 Doing Life, 4위 The Breadwinner, 5위 The Equalizer 3, 6위 The Mummy",
+    "순위 이탈 6개: Best of the Best, Riot, Black Adam, The Ministry of Ungentlemanly Warfare, Why Did I Get Married Again?"
+  ]
+}

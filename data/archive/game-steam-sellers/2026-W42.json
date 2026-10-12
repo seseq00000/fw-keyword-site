@@ -1,0 +1,76 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W42",
+  "year": 2026,
+  "week": 42,
+  "period": null,
+  "collected_date": "2026-10-12",
+  "items": [
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "Dragon's Dogma 2: Dark Arisen Expansion",
+      "sub": "",
+      "value": "33,800원",
+      "url": "https://store.steampowered.com/app/2593290/"
+    },
+    {
+      "name": "Escape from Tarkov - The Unheard Steam Edition",
+      "sub": "15% 할인 (정가 265,000원)",
+      "value": "224,140원",
+      "url": "https://store.steampowered.com/app/74190/"
+    },
+    {
+      "name": "BOMBANANA!",
+      "sub": "40% 할인 (정가 8,700원)",
+      "value": "5,220원",
+      "url": "https://store.steampowered.com/app/4656000/"
+    },
+    {
+      "name": "Eslabong",
+      "sub": "",
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/4560660/"
+    },
+    {
+      "name": "Dressmaker",
+      "sub": "",
+      "value": "16,000원",
+      "url": "https://store.steampowered.com/app/4019220/"
+    },
+    {
+      "name": "Dragon's Dogma 2: Dark Arisen",
+      "sub": "",
+      "value": "56,800원",
+      "url": "https://store.steampowered.com/app/1686532/"
+    },
+    {
+      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "sub": "",
+      "value": "89,800원",
+      "url": "https://store.steampowered.com/app/2288340/"
+    },
+    {
+      "name": "Palworld / 팰월드",
+      "sub": "30% 할인 (정가 32,000원)",
+      "value": "22,400원",
+      "url": "https://store.steampowered.com/app/1623730/"
+    },
+    {
+      "name": "EA SPORTS FC™ 26 및 27 번들",
+      "sub": "",
+      "value": "71,400원",
+      "url": "https://store.steampowered.com/app/85334/"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Cyberpunk 2077 → WARDOGS",
+    "신규 진입 7개: 2위 Dragon's Dogma 2: Dark Arisen Expansion, 3위 Escape from Tarkov - The Unheard Steam Edition, 4위 BOMBANANA!, 5위 Eslabong, 6위 Dressmaker",
+    "순위 이탈 7개: Cyberpunk 2077, 사이버펑크 2077: 얼티밋 에디션, Baldur's Gate 3, 마블 스파이더맨 2, Project Zomboid",
+    "최대 상승 — WARDOGS (5위 → 1위)"
+  ]
+}

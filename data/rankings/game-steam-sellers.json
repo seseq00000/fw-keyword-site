@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-12",
+  "collected_date": "2026-10-13",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,52 +29,52 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "Dragon's Dogma 2: Dark Arisen Expansion",
+      "name": "플래닛 주 2",
       "sub": "",
-      "value": "33,800원",
-      "url": "https://store.steampowered.com/app/2593290/"
+      "value": "51,500원",
+      "url": "https://store.steampowered.com/app/3219030/"
     },
     {
-      "name": "Escape from Tarkov - The Unheard Steam Edition",
-      "sub": "15% 할인 (정가 265,000원)",
-      "value": "224,140원",
-      "url": "https://store.steampowered.com/app/74190/"
+      "name": "Core Keeper",
+      "sub": "40% 할인 (정가 21,500원)",
+      "value": "12,900원",
+      "url": "https://store.steampowered.com/app/1621690/"
     },
     {
-      "name": "BOMBANANA!",
-      "sub": "40% 할인 (정가 8,700원)",
-      "value": "5,220원",
-      "url": "https://store.steampowered.com/app/4656000/"
-    },
-    {
-      "name": "Eslabong",
+      "name": "콜 오브 듀티®: 모던 워페어 4",
       "sub": "",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/4560660/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "Dressmaker",
+      "name": "콜 오브 듀티®: 모던 워페어 4",
       "sub": "",
-      "value": "16,000원",
-      "url": "https://store.steampowered.com/app/4019220/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "Dragon's Dogma 2: Dark Arisen",
+      "name": "ARC Raiders",
+      "sub": "50% 할인 (정가 60,900원)",
+      "value": "30,450원",
+      "url": "https://store.steampowered.com/app/1808500/"
+    },
+    {
+      "name": "EA SPORTS FC™ 27",
       "sub": "",
-      "value": "56,800원",
-      "url": "https://store.steampowered.com/app/1686532/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4080220/"
     },
     {
-      "name": "에이스 컴뱃 8: 시브의 날개 (ACE COMBAT 8: WINGS OF THEVE)",
+      "name": "WARDOGS - Supporter Edition",
       "sub": "",
-      "value": "89,800원",
-      "url": "https://store.steampowered.com/app/2288340/"
+      "value": "58,000원",
+      "url": "https://store.steampowered.com/app/1746527/"
     },
     {
-      "name": "Palworld / 팰월드",
-      "sub": "30% 할인 (정가 32,000원)",
-      "value": "22,400원",
-      "url": "https://store.steampowered.com/app/1623730/"
+      "name": "Red Dead Redemption 2",
+      "sub": "75% 할인 (정가 73,000원)",
+      "value": "18,250원",
+      "url": "https://store.steampowered.com/app/1174180/"
     },
     {
       "name": "EA SPORTS FC™ 26 및 27 번들",

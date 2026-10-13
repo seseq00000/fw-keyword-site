@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-12",
+  "collected_date": "2026-10-13",
   "related": [
     "music-applemusic-kr"
   ],
@@ -20,9 +20,19 @@
   ],
   "items": [
     {
+      "name": "I SPY - The 4th Mini Album - EP",
+      "sub": "NCT WISH",
+      "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
+    },
+    {
       "name": "MONOLITH",
       "sub": "창모",
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
+    },
+    {
+      "name": "IMPULSE",
+      "sub": "Xdinary Heroes",
+      "url": "https://music.apple.com/kr/album/impulse/6813069661"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -75,24 +85,14 @@
       "url": "https://music.apple.com/kr/album/dawn-fm/1603171516"
     },
     {
-      "name": "개화",
-      "sub": "악뮤",
-      "url": "https://music.apple.com/kr/album/flowering/1887773334"
-    },
-    {
-      "name": "Starboy",
-      "sub": "The Weeknd",
-      "url": "https://music.apple.com/kr/album/starboy/1440871397"
-    },
-    {
       "name": "새천년",
       "sub": "Unofficialboyy",
       "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
     },
     {
-      "name": "SINS",
-      "sub": "키드밀리 & TRADE L",
-      "url": "https://music.apple.com/kr/album/sins/6818468023"
+      "name": "WhyKiiiKiii - EP",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     }
   ],
   "refresh": {

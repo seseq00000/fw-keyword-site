@@ -34,11 +34,6 @@
       "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%B0%B8%EC%9E%98%ED%95%98%EB%8A%94%EC%A7%91/id6798938676"
     },
     {
-      "name": "NOL : 야놀자와 인터파크의 새로운 이름",
-      "sub": "YANOLJA CO.,LTD",
-      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843"
-    },
-    {
       "name": "Claude by Anthropic",
       "sub": "Anthropic PBC",
       "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
@@ -49,9 +44,14 @@
       "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739"
     },
     {
-      "name": "NetShort - 인기 드라마 및 TV 프로그램",
-      "sub": "NETSTORY PTE. LTD.",
-      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169"
+      "name": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "sub": "YANOLJA CO.,LTD",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843"
+    },
+    {
+      "name": "Mnet Plus",
+      "sub": "CJ ENM Co., Ltd.",
+      "url": "https://apps.apple.com/kr/app/mnet-plus/id6443405421"
     },
     {
       "name": "Google Gemini",
@@ -59,24 +59,24 @@
       "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729"
     },
     {
-      "name": "101cam - 필름 & 디지털 카메라",
-      "sub": "SNOW Corporation",
-      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623"
+      "name": "포켓CU",
+      "sub": "BGFretail Co., Ltd.",
+      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133"
+    },
+    {
+      "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
+      "sub": "FLEXTECH INC.",
+      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185"
+    },
+    {
+      "name": "NetShort - 인기 드라마 및 TV 프로그램",
+      "sub": "NETSTORY PTE. LTD. · 엔터테인먼트",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169"
     },
     {
       "name": "Trip.com 트립닷컴 - 여행 할인 예약",
-      "sub": "Trip.com Travel Singapore Pte. Ltd.",
+      "sub": "Trip.com Travel Singapore Pte. Ltd. · 여행",
       "url": "https://apps.apple.com/kr/app/trip-com-%ED%8A%B8%EB%A6%BD%EB%8B%B7%EC%BB%B4-%EC%97%AC%ED%96%89-%ED%95%A0%EC%9D%B8-%EC%98%88%EC%95%BD/id681752345"
-    },
-    {
-      "name": "ChatGPT",
-      "sub": "OpenAI OpCo, LLC · 생산성",
-      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069"
-    },
-    {
-      "name": "듀오링고(Duolingo): 언어 학습",
-      "sub": "Duolingo · 교육",
-      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128"
     },
     {
       "name": "실손24",
@@ -84,14 +84,24 @@
       "url": "https://apps.apple.com/kr/app/%EC%8B%A4%EC%86%9024/id6553966660"
     },
     {
-      "name": "Vigloo - 숏폼드라마",
-      "sub": "Spoonlabs, Inc. · 엔터테인먼트",
-      "url": "https://apps.apple.com/kr/app/vigloo-%EC%88%8F%ED%8F%BC%EB%93%9C%EB%9D%BC%EB%A7%88/id6503421271"
+      "name": "우리동네GS (GS25, GS더프레시, 와인25플러스)",
+      "sub": "GS Retail Co., Ltd. · 라이프스타일",
+      "url": "https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4gs-gs25-gs%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C-%EC%99%80%EC%9D%B825%ED%94%8C%EB%9F%AC%EC%8A%A4/id426644449"
     },
     {
-      "name": "포켓CU",
-      "sub": "BGFretail Co., Ltd. · 라이프스타일",
-      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133"
+      "name": "ChatGPT",
+      "sub": "OpenAI OpCo, LLC · 생산성",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069"
+    },
+    {
+      "name": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+      "sub": "SHINHAN BANK · 금융",
+      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932"
+    },
+    {
+      "name": "듀오링고(Duolingo): 언어 학습",
+      "sub": "Duolingo · 교육",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128"
     },
     {
       "name": "Threads",
@@ -99,24 +109,14 @@
       "url": "https://apps.apple.com/kr/app/threads/id6446901002"
     },
     {
-      "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
-      "sub": "FLEXTECH INC. · 생산성",
-      "url": "https://apps.apple.com/kr/app/terabox-1tb-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%80%EC%9E%A5%EC%86%8C-ai-%EA%B3%B5%EA%B0%84/id1509453185"
-    },
-    {
       "name": "淘宝-万能的淘宝！",
       "sub": "浙江淘宝网络有限公司 · 쇼핑",
       "url": "https://apps.apple.com/kr/app/%E6%B7%98%E5%AE%9D-%E4%B8%87%E8%83%BD%E7%9A%84%E6%B7%98%E5%AE%9D/id387682726"
     },
     {
-      "name": "대한민국 모바일 신분증",
-      "sub": "행정안전부 · 유틸리티",
-      "url": "https://apps.apple.com/kr/app/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A0%EB%B6%84%EC%A6%9D/id1599450372"
-    },
-    {
-      "name": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-      "sub": "SHINHAN BANK · 금융",
-      "url": "https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-%EC%8A%88%ED%8D%BCsol-%EC%8B%A0%ED%95%9C-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EA%B8%88%EC%9C%B5-%EC%95%B1/id357484932"
+      "name": "101cam - 필름 & 디지털 카메라",
+      "sub": "SNOW Corporation · 사진 및 비디오",
+      "url": "https://apps.apple.com/kr/app/101cam-%ED%95%84%EB%A6%84-%EB%94%94%EC%A7%80%ED%84%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6781998623"
     }
   ],
   "refresh": {

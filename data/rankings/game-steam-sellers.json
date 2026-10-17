@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-16",
+  "collected_date": "2026-10-17",
   "related": [
     "game-steam",
     "game-popular"
@@ -41,6 +41,18 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
+      "name": "사이버펑크 2077: 얼티밋 에디션",
+      "sub": "60% 할인 (정가 100,900원)",
+      "value": "37,480원",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "70% 할인 (정가 66,000원)",
+      "value": "19,800원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
       "name": "Enshrouded",
       "sub": "10% 할인 (정가 42,900원)",
       "value": "38,610원",
@@ -53,34 +65,22 @@
       "url": "https://store.steampowered.com/app/3768760/"
     },
     {
-      "name": "Cyberpunk 2077",
-      "sub": "70% 할인 (정가 66,000원)",
-      "value": "19,800원",
-      "url": "https://store.steampowered.com/app/1091500/"
-    },
-    {
-      "name": "사이버펑크 2077: 얼티밋 에디션",
-      "sub": "60% 할인 (정가 100,900원)",
-      "value": "37,480원",
-      "url": "https://store.steampowered.com/app/32470/"
-    },
-    {
       "name": "사이버펑크 2077: 팬텀 리버티",
       "sub": "40% 할인 (정가 34,900원)",
       "value": "20,940원",
       "url": "https://store.steampowered.com/app/2138330/"
     },
     {
-      "name": "Futa Slug EX",
-      "sub": "10% 할인 (정가 11,000원)",
-      "value": "9,900원",
-      "url": "https://store.steampowered.com/app/3962420/"
-    },
-    {
       "name": "Palworld + Enshrouded",
       "sub": "19% 할인 (정가 74,900원)",
       "value": "54,910원",
       "url": "https://store.steampowered.com/app/68744/"
+    },
+    {
+      "name": "BOMBANANA!",
+      "sub": "40% 할인 (정가 8,700원)",
+      "value": "5,220원",
+      "url": "https://store.steampowered.com/app/4656000/"
     }
   ],
   "refresh": {

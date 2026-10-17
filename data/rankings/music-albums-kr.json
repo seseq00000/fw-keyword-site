@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-16",
+  "collected_date": "2026-10-17",
   "related": [
     "music-applemusic-kr"
   ],
@@ -25,14 +25,14 @@
       "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
     },
     {
-      "name": "IMPULSE",
-      "sub": "Xdinary Heroes",
-      "url": "https://music.apple.com/kr/album/impulse/6813069661"
-    },
-    {
       "name": "MONOLITH",
       "sub": "창모",
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
+    },
+    {
+      "name": "IMPULSE",
+      "sub": "Xdinary Heroes",
+      "url": "https://music.apple.com/kr/album/impulse/6813069661"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -45,11 +45,6 @@
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
@@ -60,14 +55,14 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
+    },
+    {
       "name": "CRASH - EP",
       "sub": "ALLDAY PROJECT",
       "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
-    },
-    {
-      "name": "극야",
-      "sub": "터치드",
-      "url": "https://music.apple.com/kr/album/kaamos/6820471175"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -80,19 +75,24 @@
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     },
     {
+      "name": "극야",
+      "sub": "터치드",
+      "url": "https://music.apple.com/kr/album/kaamos/6820471175"
+    },
+    {
       "name": "Still",
       "sub": "엔플라잉",
       "url": "https://music.apple.com/kr/album/still/6814323072"
     },
     {
-      "name": "HYPERDRIVE - EP",
-      "sub": "PLAVE",
-      "url": "https://music.apple.com/kr/album/hyperdrive-ep/6818034174"
+      "name": "TEEN TROUBLES",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
     },
     {
-      "name": "Dawn FM",
-      "sub": "The Weeknd",
-      "url": "https://music.apple.com/kr/album/dawn-fm/1603171516"
+      "name": "SS-POP 3",
+      "sub": "SYSTEM SEOUL",
+      "url": "https://music.apple.com/kr/album/ss-pop-3/6786626161"
     }
   ],
   "refresh": {

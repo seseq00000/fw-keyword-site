@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-17",
+  "collected_date": "2026-10-18",
   "related": [
     "music-applemusic-kr"
   ],
@@ -25,14 +25,14 @@
       "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
     },
     {
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
       "name": "MONOLITH",
       "sub": "창모",
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
-    },
-    {
-      "name": "IMPULSE",
-      "sub": "Xdinary Heroes",
-      "url": "https://music.apple.com/kr/album/impulse/6813069661"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -40,19 +40,19 @@
       "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
-      "name": "TUNE & PLAY - EP",
-      "sub": "튜이드",
-      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
-    },
-    {
-      "name": "오보에",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
-    },
-    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "IMPULSE",
+      "sub": "Xdinary Heroes",
+      "url": "https://music.apple.com/kr/album/impulse/6813069661"
+    },
+    {
+      "name": "TUNE & PLAY - EP",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
       "name": "킁",
@@ -75,9 +75,9 @@
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     },
     {
-      "name": "극야",
-      "sub": "터치드",
-      "url": "https://music.apple.com/kr/album/kaamos/6820471175"
+      "name": "TEEN TROUBLES",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
     },
     {
       "name": "Still",
@@ -85,9 +85,9 @@
       "url": "https://music.apple.com/kr/album/still/6814323072"
     },
     {
-      "name": "TEEN TROUBLES",
-      "sub": "검정치마",
-      "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
+      "name": "극야",
+      "sub": "터치드",
+      "url": "https://music.apple.com/kr/album/kaamos/6820471175"
     },
     {
       "name": "SS-POP 3",

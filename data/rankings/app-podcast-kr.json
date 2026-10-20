@@ -22,34 +22,19 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EC%86%90%EC%97%90-%EC%9E%A1%ED%9E%88%EB%8A%94-%EA%B2%BD%EC%A0%9C/id437788220"
     },
     {
-      "name": "송은이 김숙의 비밀보장",
-      "sub": "컨텐츠랩비보 · 코미디",
-      "url": "https://podcasts.apple.com/kr/podcast/%EC%86%A1%EC%9D%80%EC%9D%B4-%EA%B9%80%EC%88%99%EC%9D%98-%EB%B9%84%EB%B0%80%EB%B3%B4%EC%9E%A5/id1171603832"
-    },
-    {
       "name": "Hey Tablo",
       "sub": "Team Epikase · 사회 및 문화",
       "url": "https://podcasts.apple.com/kr/podcast/hey-tablo/id1866347260"
     },
     {
+      "name": "송은이 김숙의 비밀보장",
+      "sub": "컨텐츠랩비보 · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%86%A1%EC%9D%80%EC%9D%B4-%EA%B9%80%EC%88%99%EC%9D%98-%EB%B9%84%EB%B0%80%EB%B3%B4%EC%9E%A5/id1171603832"
+    },
+    {
       "name": "6 Minute English",
       "sub": "BBC Radio · 교육",
       "url": "https://podcasts.apple.com/kr/podcast/6-minute-english/id262026947"
-    },
-    {
-      "name": "컬투쇼 레전드 사연",
-      "sub": "SBS · 코미디",
-      "url": "https://podcasts.apple.com/kr/podcast/%EC%BB%AC%ED%88%AC%EC%87%BC-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%82%AC%EC%97%B0/id526278703"
-    },
-    {
-      "name": "All Ears English Podcast",
-      "sub": "Lindsay McMahon and Michelle Kaplan · 교육",
-      "url": "https://podcasts.apple.com/kr/podcast/all-ears-english-podcast/id751574016"
-    },
-    {
-      "name": "손석희의 12시",
-      "sub": "MBC · 코미디",
-      "url": "https://podcasts.apple.com/kr/podcast/%EC%86%90%EC%84%9D%ED%9D%AC%EC%9D%98-12%EC%8B%9C/id6785714672"
     },
     {
       "name": "민음사 라디오",
@@ -62,6 +47,21 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EC%97%AC%EB%91%98%ED%86%A1/id1617974770"
     },
     {
+      "name": "All Ears English Podcast",
+      "sub": "Lindsay McMahon and Michelle Kaplan · 교육",
+      "url": "https://podcasts.apple.com/kr/podcast/all-ears-english-podcast/id751574016"
+    },
+    {
+      "name": "컬투쇼 레전드 사연",
+      "sub": "SBS · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%BB%AC%ED%88%AC%EC%87%BC-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%82%AC%EC%97%B0/id526278703"
+    },
+    {
+      "name": "손석희의 12시",
+      "sub": "MBC · 코미디",
+      "url": "https://podcasts.apple.com/kr/podcast/%EC%86%90%EC%84%9D%ED%9D%AC%EC%9D%98-12%EC%8B%9C/id6785714672"
+    },
+    {
       "name": "Culips Everyday English Podcast",
       "sub": "Culips English Podcast · 교육",
       "url": "https://podcasts.apple.com/kr/podcast/culips-everyday-english-podcast/id279999557"
@@ -72,6 +72,16 @@
       "url": "https://podcasts.apple.com/kr/podcast/%EC%9D%B4%EA%B0%95%EB%AF%BC%EC%9D%98-%EC%9E%A1%EC%A7%80%EC%82%AC/id1648226549"
     },
     {
+      "name": "CBS 박성태의 뉴스쇼",
+      "sub": "CBS · 뉴스",
+      "url": "https://podcasts.apple.com/kr/podcast/cbs-%EB%B0%95%EC%84%B1%ED%83%9C%EC%9D%98-%EB%89%B4%EC%8A%A4%EC%87%BC/id401814716"
+    },
+    {
+      "name": "Learning Easy English",
+      "sub": "BBC · 교육",
+      "url": "https://podcasts.apple.com/kr/podcast/learning-easy-english/id1742967932"
+    },
+    {
       "name": "JTBC 뉴스룸",
       "sub": "JTBC · 뉴스",
       "url": "https://podcasts.apple.com/kr/podcast/jtbc-%EB%89%B4%EC%8A%A4%EB%A3%B8/id807339352"
@@ -80,16 +90,6 @@
       "name": "두시탈출 컬투쇼",
       "sub": "SBS · 코미디",
       "url": "https://podcasts.apple.com/kr/podcast/%EB%91%90%EC%8B%9C%ED%83%88%EC%B6%9C-%EC%BB%AC%ED%88%AC%EC%87%BC/id419024758"
-    },
-    {
-      "name": "영혼의 노숙자",
-      "sub": "셀럽 맷 · 코미디",
-      "url": "https://podcasts.apple.com/kr/podcast/%EC%98%81%ED%98%BC%EC%9D%98-%EB%85%B8%EC%88%99%EC%9E%90/id1271031489"
-    },
-    {
-      "name": "Learning Easy English",
-      "sub": "BBC · 교육",
-      "url": "https://podcasts.apple.com/kr/podcast/learning-easy-english/id1742967932"
     }
   ],
   "refresh": {

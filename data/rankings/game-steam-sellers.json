@@ -35,16 +35,16 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
       "name": "사이버펑크 2077: 얼티밋 에디션",
       "sub": "60% 할인 (정가 100,900원)",
       "value": "37,480원",
       "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
     },
     {
       "name": "Cyberpunk 2077",
@@ -59,10 +59,10 @@
       "url": "https://store.steampowered.com/app/2138330/"
     },
     {
-      "name": "Enshrouded",
-      "sub": "10% 할인 (정가 42,900원)",
-      "value": "38,610원",
-      "url": "https://store.steampowered.com/app/1203620/"
+      "name": "우리는 여기에 있었다 투모로우",
+      "sub": "10% 할인 (정가 21,000원)",
+      "value": "18,900원",
+      "url": "https://store.steampowered.com/app/2315050/"
     },
     {
       "name": "FINAL FANTASY RESONANCE",
@@ -71,16 +71,16 @@
       "url": "https://store.steampowered.com/app/3259780/"
     },
     {
-      "name": "호그와트 레거시",
-      "sub": "90% 할인 (정가 79,800원)",
-      "value": "7,980원",
-      "url": "https://store.steampowered.com/app/990080/"
+      "name": "FINAL FANTASY RESONANCE",
+      "sub": "",
+      "value": "62,800원",
+      "url": "https://store.steampowered.com/app/3259780/"
     },
     {
-      "name": "Palworld / 팰월드",
-      "sub": "30% 할인 (정가 32,000원)",
-      "value": "22,400원",
-      "url": "https://store.steampowered.com/app/1623730/"
+      "name": "We Were Here Series",
+      "sub": "31% 할인 (정가 70,500원)",
+      "value": "43,110원",
+      "url": "https://store.steampowered.com/app/12260/"
     }
   ],
   "refresh": {

@@ -29,14 +29,14 @@
       "url": "https://music.apple.com/kr/album/sun-kiss/6795782851"
     },
     {
-      "name": "I SPY",
-      "sub": "NCT WISH",
-      "url": "https://music.apple.com/kr/album/i-spy/6816842802"
-    },
-    {
       "name": "CRASH",
       "sub": "ALLDAY PROJECT",
       "url": "https://music.apple.com/kr/album/crash/6813395912"
+    },
+    {
+      "name": "I SPY",
+      "sub": "NCT WISH",
+      "url": "https://music.apple.com/kr/album/i-spy/6816842802"
     },
     {
       "name": "노스탈지아",
@@ -54,14 +54,14 @@
       "url": "https://music.apple.com/kr/album/deja-vu/1822439985"
     },
     {
-      "name": "Pop Off Pop Off",
-      "sub": "키키",
-      "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
-    },
-    {
       "name": "꿈꾸던 어른이 되었나요?",
       "sub": "머무르",
       "url": "https://music.apple.com/kr/album/%EA%BF%88%EA%BE%B8%EB%8D%98-%EC%96%B4%EB%A5%B8%EC%9D%B4-%EB%90%98%EC%97%88%EB%82%98%EC%9A%94/6781521706"
+    },
+    {
+      "name": "Pop Off Pop Off",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
     },
     {
       "name": "REDRED",
@@ -69,14 +69,9 @@
       "url": "https://music.apple.com/kr/album/redred/1887671065"
     },
     {
-      "name": "영원은 그렇듯",
-      "sub": "리도어",
-      "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
-    },
-    {
-      "name": "Pinball",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/pinball/1764485168"
+      "name": "Rose (feat. Skinny Brown & Homeboy)",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/rose-feat-skinny-brown-homeboy/1453379457"
     },
     {
       "name": "Vancouver",
@@ -84,19 +79,14 @@
       "url": "https://music.apple.com/kr/album/vancouver/1622167330"
     },
     {
-      "name": "Rose (feat. Skinny Brown & Homeboy)",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/rose-feat-skinny-brown-homeboy/1453379457"
+      "name": "Pinball",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/pinball/1764485168"
     },
     {
-      "name": "Love Options",
-      "sub": "베스티",
-      "url": "https://music.apple.com/kr/album/love-options/913802950"
-    },
-    {
-      "name": "LEMONADE",
-      "sub": "aespa",
-      "url": "https://music.apple.com/kr/album/lemonade/6772115182"
+      "name": "영원은 그렇듯",
+      "sub": "리도어",
+      "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
     },
     {
       "name": "GO HARD",
@@ -104,14 +94,24 @@
       "url": "https://music.apple.com/kr/album/go-hard/6818480773"
     },
     {
+      "name": "LEMONADE",
+      "sub": "aespa",
+      "url": "https://music.apple.com/kr/album/lemonade/6772115182"
+    },
+    {
+      "name": "Love Options",
+      "sub": "베스티",
+      "url": "https://music.apple.com/kr/album/love-options/913802950"
+    },
+    {
+      "name": "Looks Can Kill",
+      "sub": "아이브",
+      "url": "https://music.apple.com/kr/album/looks-can-kill/6820421860"
+    },
+    {
       "name": "Lemon Tang",
       "sub": "Hearts2Hearts",
       "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
-    },
-    {
-      "name": "RUDE!",
-      "sub": "Hearts2Hearts",
-      "url": "https://music.apple.com/kr/album/rude/1875146814"
     },
     {
       "name": "퇴사할게여 (Narr. 기안84)",

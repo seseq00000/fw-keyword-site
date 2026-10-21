@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-20",
+  "collected_date": "2026-10-21",
   "related": [
     "game-steam",
     "game-popular"
@@ -41,16 +41,16 @@
       "url": "https://store.steampowered.com/app/32470/"
     },
     {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
       "name": "Cyberpunk 2077",
       "sub": "70% 할인 (정가 66,000원)",
       "value": "19,800원",
       "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
     },
     {
       "name": "사이버펑크 2077: 팬텀 리버티",
@@ -59,10 +59,10 @@
       "url": "https://store.steampowered.com/app/2138330/"
     },
     {
-      "name": "우리는 여기에 있었다 투모로우",
-      "sub": "10% 할인 (정가 21,000원)",
-      "value": "18,900원",
-      "url": "https://store.steampowered.com/app/2315050/"
+      "name": "붉은사막 Enhanced: 미지의 여정",
+      "sub": "",
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
     },
     {
       "name": "FINAL FANTASY RESONANCE",
@@ -77,10 +77,10 @@
       "url": "https://store.steampowered.com/app/3259780/"
     },
     {
-      "name": "We Were Here Series",
-      "sub": "31% 할인 (정가 70,500원)",
-      "value": "43,110원",
-      "url": "https://store.steampowered.com/app/12260/"
+      "name": "붉은사막 Enhanced",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3321460/"
     }
   ],
   "refresh": {

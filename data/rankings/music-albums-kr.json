@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-21",
+  "collected_date": "2026-10-22",
   "related": [
     "music-applemusic-kr"
   ],
@@ -40,19 +40,24 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
-      "name": "MONOLITH",
-      "sub": "창모",
-      "url": "https://music.apple.com/kr/album/monolith/6817677768"
-    },
-    {
       "name": "킁",
       "sub": "씨잼",
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
+      "name": "MONOLITH",
+      "sub": "창모",
+      "url": "https://music.apple.com/kr/album/monolith/6817677768"
+    },
+    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
+    },
+    {
+      "name": "새천년",
+      "sub": "Unofficialboyy",
+      "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -65,14 +70,9 @@
       "url": "https://music.apple.com/kr/album/impulse/6813069661"
     },
     {
-      "name": "새천년",
-      "sub": "Unofficialboyy",
-      "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
-    },
-    {
-      "name": "CRASH - EP",
-      "sub": "ALLDAY PROJECT",
-      "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
+      "name": "PRIMA",
+      "sub": "ADÉLA",
+      "url": "https://music.apple.com/kr/album/prima/6792883860"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -80,9 +80,9 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "PRIMA",
-      "sub": "ADÉLA",
-      "url": "https://music.apple.com/kr/album/prima/6792883860"
+      "name": "CRASH - EP",
+      "sub": "ALLDAY PROJECT",
+      "url": "https://music.apple.com/kr/album/crash-ep/6813395912"
     },
     {
       "name": "SCENEDROME - EP",
@@ -90,9 +90,9 @@
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     },
     {
-      "name": "DREAMSCAPE",
-      "sub": "정한 & 조슈아",
-      "url": "https://music.apple.com/kr/album/dreamscape/6818441016"
+      "name": "TEEN TROUBLES",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/teen-troubles/1644821406"
     }
   ],
   "refresh": {

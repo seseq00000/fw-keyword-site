@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-23",
+  "collected_date": "2026-10-24",
   "related": [
     "music-applemusic-kr"
   ],
@@ -25,24 +25,24 @@
       "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
     },
     {
-      "name": "Strange Muse - EP",
-      "sub": "NMIXX",
-      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
-    },
-    {
       "name": "TEAM BABY",
       "sub": "검정치마",
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "Strange Muse - EP",
+      "sub": "NMIXX",
+      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
       "name": "새천년",
@@ -70,11 +70,6 @@
       "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
-      "name": "IMPULSE",
-      "sub": "Xdinary Heroes",
-      "url": "https://music.apple.com/kr/album/impulse/6813069661"
-    },
-    {
       "name": "SWAG II",
       "sub": "Justin Bieber",
       "url": "https://music.apple.com/kr/album/swag-ii/1837867200"
@@ -85,9 +80,14 @@
       "url": "https://music.apple.com/kr/album/prima/6792883860"
     },
     {
-      "name": "여기, 까치산입니다.",
-      "sub": "까치산",
-      "url": "https://music.apple.com/kr/album/here-we-are-kachisan/6814883545"
+      "name": "IMPULSE",
+      "sub": "Xdinary Heroes",
+      "url": "https://music.apple.com/kr/album/impulse/6813069661"
+    },
+    {
+      "name": "SCENEDROME - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     },
     {
       "name": "CRASH - EP",

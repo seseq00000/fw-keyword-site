@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-24",
+  "collected_date": "2026-10-25",
   "related": [
     "game-steam",
     "game-popular"
@@ -47,16 +47,16 @@
       "url": "https://store.steampowered.com/app/1091500/"
     },
     {
-      "name": "FINAL FANTASY RESONANCE",
-      "sub": "",
-      "value": "62,800원",
-      "url": "https://store.steampowered.com/app/3259780/"
-    },
-    {
       "name": "사이버펑크 2077: 팬텀 리버티",
       "sub": "40% 할인 (정가 34,900원)",
       "value": "20,940원",
       "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "FINAL FANTASY RESONANCE",
+      "sub": "",
+      "value": "62,800원",
+      "url": "https://store.steampowered.com/app/3259780/"
     },
     {
       "name": "WARDOGS",
@@ -65,22 +65,22 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "Uninitialized",
-      "sub": "무료",
-      "value": "무료",
-      "url": "https://store.steampowered.com/app/4435640/"
-    },
-    {
       "name": "붉은사막 Enhanced: 미지의 여정",
       "sub": "",
       "value": "27,800원",
       "url": "https://store.steampowered.com/app/5001840/"
     },
     {
-      "name": "Moon Sweepers",
-      "sub": "15% 할인 (정가 9,650원)",
-      "value": "8,200원",
-      "url": "https://store.steampowered.com/app/5335510/"
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Uninitialized",
+      "sub": "무료",
+      "value": "무료",
+      "url": "https://store.steampowered.com/app/4435640/"
     }
   ],
   "refresh": {

@@ -11,7 +11,7 @@
   "value_label": "애플 뮤직 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기곡(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/20/songs.json",
-  "collected_date": "2026-10-24",
+  "collected_date": "2026-10-25",
   "analysis": [
     "애플 뮤직 한국 차트는 국내 이용자의 재생량만 집계하기 때문에, 스포티파이 같은 글로벌 차트와 달리 한국 청취 취향이 거의 그대로 드러납니다. 실제로 이 차트는 대부분 K-POP으로 채워지며, 해외 곡이 상위권에 오르는 경우는 드뭅니다.",
     "한 팀의 곡이 여러 개 동시에 차트에 오르는 장면이 자주 나타납니다. 이는 팬덤이 타이틀곡만이 아니라 앨범 수록곡까지 반복 재생할 때 생기는 패턴으로, 컴백 직후 특히 두드러집니다. 같은 서비스의 앨범 차트와 나란히 놓고 보면 소비 방식의 차이가 더 분명해집니다.",
@@ -34,6 +34,11 @@
       "url": "https://music.apple.com/kr/album/sun-kiss/6795782851"
     },
     {
+      "name": "Rose (feat. Skinny Brown & Homeboy)",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/rose-feat-skinny-brown-homeboy/1453379457"
+    },
+    {
       "name": "CRASH",
       "sub": "ALLDAY PROJECT",
       "url": "https://music.apple.com/kr/album/crash/6813395912"
@@ -49,19 +54,14 @@
       "url": "https://music.apple.com/kr/album/love-attack/1764485168"
     },
     {
-      "name": "Rose (feat. Skinny Brown & Homeboy)",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/rose-feat-skinny-brown-homeboy/1453379457"
+      "name": "꿈꾸던 어른이 되었나요?",
+      "sub": "머무르",
+      "url": "https://music.apple.com/kr/album/%EA%BF%88%EA%BE%B8%EB%8D%98-%EC%96%B4%EB%A5%B8%EC%9D%B4-%EB%90%98%EC%97%88%EB%82%98%EC%9A%94/6781521706"
     },
     {
       "name": "I SPY",
       "sub": "NCT WISH",
       "url": "https://music.apple.com/kr/album/i-spy/6816842802"
-    },
-    {
-      "name": "꿈꾸던 어른이 되었나요?",
-      "sub": "머무르",
-      "url": "https://music.apple.com/kr/album/%EA%BF%88%EA%BE%B8%EB%8D%98-%EC%96%B4%EB%A5%B8%EC%9D%B4-%EB%90%98%EC%97%88%EB%82%98%EC%9A%94/6781521706"
     },
     {
       "name": "Deja Vu",
@@ -84,6 +84,11 @@
       "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
     },
     {
+      "name": "RUDE!",
+      "sub": "Hearts2Hearts",
+      "url": "https://music.apple.com/kr/album/rude/1875146814"
+    },
+    {
       "name": "LEMONADE",
       "sub": "aespa",
       "url": "https://music.apple.com/kr/album/lemonade/6772115182"
@@ -94,14 +99,9 @@
       "url": "https://music.apple.com/kr/album/pinball/1764485168"
     },
     {
-      "name": "RUDE!",
+      "name": "Lemon Tang",
       "sub": "Hearts2Hearts",
-      "url": "https://music.apple.com/kr/album/rude/1875146814"
-    },
-    {
-      "name": "GO HARD",
-      "sub": "MEOVV",
-      "url": "https://music.apple.com/kr/album/go-hard/6818480773"
+      "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
     },
     {
       "name": "Vancouver",
@@ -109,14 +109,14 @@
       "url": "https://music.apple.com/kr/album/vancouver/1622167330"
     },
     {
-      "name": "Lemon Tang",
-      "sub": "Hearts2Hearts",
-      "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
+      "name": "삐그덕 (feat. 아이유)",
+      "sub": "Crush",
+      "url": "https://music.apple.com/kr/album/%EC%82%90%EA%B7%B8%EB%8D%95-feat-%EC%95%84%EC%9D%B4%EC%9C%A0/6822679187"
     },
     {
-      "name": "Love Options",
-      "sub": "베스티",
-      "url": "https://music.apple.com/kr/album/love-options/913802950"
+      "name": "GO HARD",
+      "sub": "MEOVV",
+      "url": "https://music.apple.com/kr/album/go-hard/6818480773"
     }
   ],
   "refresh": {

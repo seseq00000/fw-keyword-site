@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv-en",
+  "week_id": "2026-W44",
+  "year": 2026,
+  "week": 44,
+  "period": "2026-10-18 주간",
+  "collected_date": "2026-10-27",
+  "items": [
+    {
+      "name": "Below",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "2,120만 회"
+    },
+    {
+      "name": "East of Eden",
+      "sub": "리미티드 시리즈 · 차트 3주차",
+      "value": "620만 회"
+    },
+    {
+      "name": "Instadocs: AI Gone Wild",
+      "sub": "차트 1주차",
+      "value": "510만 회"
+    },
+    {
+      "name": "TYSON",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "510만 회"
+    },
+    {
+      "name": "The Diplomat",
+      "sub": "시즌 4 · 차트 1주차",
+      "value": "480만 회"
+    },
+    {
+      "name": "Love Is Blind",
+      "sub": "S11: Boston · 차트 1주차",
+      "value": "360만 회"
+    },
+    {
+      "name": "Spike",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "280만 회"
+    },
+    {
+      "name": "Is It Cake? Halloween",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Haunted Hotel",
+      "sub": "시즌 2 · 차트 1주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Raw",
+      "sub": "October 12, 2026 · 차트 1주차",
+      "value": "250만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — East of Eden → Below",
+    "신규 진입 8개: 1위 Below, 3위 Instadocs: AI Gone Wild, 4위 TYSON, 5위 The Diplomat, 6위 Love Is Blind",
+    "순위 이탈 8개: Monster: The Lizzie Borden Story, A Different World, Wonka's The Golden Ticket, LEGO ONE PIECE, The Gentlemen"
+  ]
+}

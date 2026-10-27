@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W44",
+  "year": 2026,
+  "week": 44,
+  "period": "2026-10-18 주간",
+  "collected_date": "2026-10-27",
+  "items": [
+    {
+      "name": "Animals",
+      "sub": "차트 2주차",
+      "value": "3,080만 회"
+    },
+    {
+      "name": "Doing Life",
+      "sub": "차트 3주차",
+      "value": "730만 회"
+    },
+    {
+      "name": "Ice Age: Collision Course",
+      "sub": "차트 5주차",
+      "value": "630만 회"
+    },
+    {
+      "name": "Ice Age: Dawn of the Dinosaurs",
+      "sub": "차트 5주차",
+      "value": "490만 회"
+    },
+    {
+      "name": "Ice Age",
+      "sub": "차트 2주차",
+      "value": "480만 회"
+    },
+    {
+      "name": "Corpse Bride",
+      "sub": "차트 1주차",
+      "value": "460만 회"
+    },
+    {
+      "name": "Anyone But You",
+      "sub": "차트 4주차",
+      "value": "440만 회"
+    },
+    {
+      "name": "Ice Age: Continental Drift",
+      "sub": "차트 2주차",
+      "value": "430만 회"
+    },
+    {
+      "name": "UNABOMBER",
+      "sub": "차트 4주차",
+      "value": "420만 회"
+    },
+    {
+      "name": "Ice Age: The Meltdown",
+      "sub": "차트 2주차",
+      "value": "360만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — UNABOMBER → Animals",
+    "신규 진입 8개: 1위 Animals, 3위 Ice Age: Collision Course, 4위 Ice Age: Dawn of the Dinosaurs, 5위 Ice Age, 6위 Corpse Bride",
+    "순위 이탈 8개: The Widower: 'Til Death Do Us Part, The Breadwinner, The Equalizer 3, The Mummy, The Whisper Man"
+  ]
+}

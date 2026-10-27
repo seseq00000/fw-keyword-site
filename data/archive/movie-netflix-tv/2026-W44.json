@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W44",
+  "year": 2026,
+  "week": 44,
+  "period": "2026-10-18 주간",
+  "collected_date": "2026-10-27",
+  "items": [
+    {
+      "name": "Doctor X: Mafia in White",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "710만 회"
+    },
+    {
+      "name": "Take Charge of My Heart",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "640만 회"
+    },
+    {
+      "name": "The Trap",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "540만 회"
+    },
+    {
+      "name": "100 Days of Deception",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "280만 회"
+    },
+    {
+      "name": "Not a Stranger",
+      "sub": "시즌 1 · 차트 5주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Inside The Circle",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "200만 회"
+    },
+    {
+      "name": "Where the Mask Ends",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "160만 회"
+    },
+    {
+      "name": "STEEL BALL RUN JoJo’s Bizarre Adventure",
+      "sub": "2nd-3rd STAGE · 차트 3주차",
+      "value": "120만 회"
+    },
+    {
+      "name": "The Apothecary Diaries",
+      "sub": "시즌 3 · 차트 2주차",
+      "value": "120만 회"
+    },
+    {
+      "name": "The Ramparts of Ice",
+      "sub": "시즌 2 · 차트 2주차",
+      "value": "120만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Not a Stranger → Doctor X: Mafia in White",
+    "신규 진입 8개: 1위 Doctor X: Mafia in White, 2위 Take Charge of My Heart, 3위 The Trap, 4위 100 Days of Deception, 6위 Inside The Circle",
+    "순위 이탈 8개: Shaque: Trust No One, The Final Problem, Minerva Academy, Plastic Beauty, Habeas Corpus"
+  ]
+}

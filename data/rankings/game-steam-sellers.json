@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-25",
+  "collected_date": "2026-10-27",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,46 +29,16 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
+      "name": "귀무자 Way of the Sword",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
+    },
+    {
       "name": "Call of Duty®: Modern Warfare® 4",
       "sub": "",
       "value": "80,000원",
       "url": "https://store.steampowered.com/app/4435490/"
-    },
-    {
-      "name": "사이버펑크 2077: 얼티밋 에디션",
-      "sub": "60% 할인 (정가 100,900원)",
-      "value": "37,480원",
-      "url": "https://store.steampowered.com/app/32470/"
-    },
-    {
-      "name": "Cyberpunk 2077",
-      "sub": "70% 할인 (정가 66,000원)",
-      "value": "19,800원",
-      "url": "https://store.steampowered.com/app/1091500/"
-    },
-    {
-      "name": "사이버펑크 2077: 팬텀 리버티",
-      "sub": "40% 할인 (정가 34,900원)",
-      "value": "20,940원",
-      "url": "https://store.steampowered.com/app/2138330/"
-    },
-    {
-      "name": "FINAL FANTASY RESONANCE",
-      "sub": "",
-      "value": "62,800원",
-      "url": "https://store.steampowered.com/app/3259780/"
-    },
-    {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
-      "name": "붉은사막 Enhanced: 미지의 여정",
-      "sub": "",
-      "value": "27,800원",
-      "url": "https://store.steampowered.com/app/5001840/"
     },
     {
       "name": "Phantom Blade Zero",
@@ -77,10 +47,40 @@
       "url": "https://store.steampowered.com/app/4115450/"
     },
     {
-      "name": "Uninitialized",
-      "sub": "무료",
-      "value": "무료",
-      "url": "https://store.steampowered.com/app/4435640/"
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "사이버펑크 2077: 얼티밋 에디션",
+      "sub": "",
+      "value": "92,830원",
+      "url": "https://store.steampowered.com/app/32470/"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "",
+      "value": "66,000원",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    {
+      "name": "사이버펑크 2077: 팬텀 리버티",
+      "sub": "",
+      "value": "34,900원",
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "붉은사막 Enhanced: 미지의 여정",
+      "sub": "",
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "퍼즐버블 에브리버블!",
+      "sub": "",
+      "value": "52,800원",
+      "url": "https://store.steampowered.com/app/3990960/"
     }
   ],
   "refresh": {

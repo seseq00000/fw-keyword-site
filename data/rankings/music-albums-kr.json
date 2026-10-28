@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-27",
+  "collected_date": "2026-10-28",
   "related": [
     "music-applemusic-kr"
   ],
@@ -50,9 +50,9 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
-      "name": "Strange Muse - EP",
-      "sub": "NMIXX",
-      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
+      "name": "Looks Can Kill - EP",
+      "sub": "아이브",
+      "url": "https://music.apple.com/kr/album/looks-can-kill-ep/6825602551"
     },
     {
       "name": "TUNE & PLAY - EP",
@@ -60,14 +60,14 @@
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
+      "name": "Strange Muse - EP",
+      "sub": "NMIXX",
+      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
+    },
+    {
       "name": "MONOLITH",
       "sub": "창모",
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
-    },
-    {
-      "name": "SWAG II",
-      "sub": "Justin Bieber",
-      "url": "https://music.apple.com/kr/album/swag-ii/1837867200"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -75,14 +75,14 @@
       "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
+      "name": "SWAG II",
+      "sub": "Justin Bieber",
+      "url": "https://music.apple.com/kr/album/swag-ii/1837867200"
+    },
+    {
       "name": "PRIMA",
       "sub": "ADÉLA",
       "url": "https://music.apple.com/kr/album/prima/6792883860"
-    },
-    {
-      "name": "WhyKiiiKiii - EP",
-      "sub": "키키",
-      "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
       "name": "Stranger",
@@ -90,9 +90,9 @@
       "url": "https://music.apple.com/kr/album/stranger/1453379457"
     },
     {
-      "name": "SCENEDROME - EP",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+      "name": "WhyKiiiKiii - EP",
+      "sub": "키키",
+      "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     }
   ],
   "refresh": {

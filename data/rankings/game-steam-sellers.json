@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-28",
+  "collected_date": "2026-10-29",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,10 +29,10 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "Call of Duty®: Modern Warfare® 4",
+      "name": "Phantom Blade Zero",
       "sub": "",
-      "value": "80,000원",
-      "url": "https://store.steampowered.com/app/4435490/"
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
     },
     {
       "name": "Phantom Blade Zero",
@@ -47,34 +47,34 @@
       "url": "https://store.steampowered.com/app/5001840/"
     },
     {
-      "name": "Phantom Blade Zero",
+      "name": "Call of Duty®: Modern Warfare® 4",
       "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4115450/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "Culdcept BEGINS",
-      "sub": "10% 할인 (정가 59,800원)",
-      "value": "53,820원",
-      "url": "https://store.steampowered.com/app/3322630/"
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "sub": "10% 할인 (정가 19,900원)",
+      "value": "17,910원",
+      "url": "https://store.steampowered.com/app/4348910/"
     },
     {
-      "name": "FINAL FANTASY RESONANCE",
+      "name": "귀무자 Way of the Sword",
       "sub": "",
-      "value": "62,800원",
-      "url": "https://store.steampowered.com/app/3259780/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/2638890/"
     },
     {
-      "name": "Project Exhibitionist",
-      "sub": "10% 할인 (정가 35,500원)",
-      "value": "31,950원",
-      "url": "https://store.steampowered.com/app/4688700/"
+      "name": "아노말리스／ANOMALITH",
+      "sub": "10% 할인 (정가 66,700원)",
+      "value": "60,030원",
+      "url": "https://store.steampowered.com/app/4017880/"
     },
     {
-      "name": "The Long Dark: Iron Road",
-      "sub": "10% 할인 (정가 28,000원)",
-      "value": "25,200원",
-      "url": "https://store.steampowered.com/app/4922630/"
+      "name": "Moon Sweepers",
+      "sub": "15% 할인 (정가 9,650원)",
+      "value": "8,200원",
+      "url": "https://store.steampowered.com/app/5335510/"
     },
     {
       "name": "WARDOGS",

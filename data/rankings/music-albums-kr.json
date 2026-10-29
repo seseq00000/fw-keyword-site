@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-28",
+  "collected_date": "2026-10-29",
   "related": [
     "music-applemusic-kr"
   ],
@@ -25,14 +25,14 @@
       "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
     },
     {
-      "name": "I SPY - The 4th Mini Album - EP",
-      "sub": "NCT WISH",
-      "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
-    },
-    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
+      "name": "I SPY - The 4th Mini Album - EP",
+      "sub": "NCT WISH",
+      "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
     },
     {
       "name": "새천년",
@@ -50,19 +50,14 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
-      "name": "Looks Can Kill - EP",
-      "sub": "아이브",
-      "url": "https://music.apple.com/kr/album/looks-can-kill-ep/6825602551"
-    },
-    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
-      "name": "Strange Muse - EP",
-      "sub": "NMIXX",
-      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
+      "name": "Looks Can Kill - EP",
+      "sub": "아이브",
+      "url": "https://music.apple.com/kr/album/looks-can-kill-ep/6825602551"
     },
     {
       "name": "MONOLITH",
@@ -75,9 +70,9 @@
       "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
-      "name": "SWAG II",
-      "sub": "Justin Bieber",
-      "url": "https://music.apple.com/kr/album/swag-ii/1837867200"
+      "name": "Strange Muse - EP",
+      "sub": "NMIXX",
+      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
     },
     {
       "name": "PRIMA",
@@ -85,14 +80,19 @@
       "url": "https://music.apple.com/kr/album/prima/6792883860"
     },
     {
-      "name": "Stranger",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/stranger/1453379457"
+      "name": "SWAG II",
+      "sub": "Justin Bieber",
+      "url": "https://music.apple.com/kr/album/swag-ii/1837867200"
     },
     {
       "name": "WhyKiiiKiii - EP",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
+    },
+    {
+      "name": "Stranger",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/stranger/1453379457"
     }
   ],
   "refresh": {

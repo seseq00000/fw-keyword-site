@@ -9,7 +9,7 @@
   "value_label": "앱스토어 유료 앱 구매 순위",
   "source": "Apple App Store 공식 차트 — 유료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-paid/20/apps.json",
-  "collected_date": "2026-10-29",
+  "collected_date": "2026-10-30",
   "related": [
     "app-appstore-kr"
   ],
@@ -40,24 +40,19 @@
       "url": "https://apps.apple.com/kr/app/analog-wedding/id992047786"
     },
     {
-      "name": "filmhwa (필름화) - 화민 필터",
-      "sub": "ARTTIC CO., LTD.",
-      "url": "https://apps.apple.com/kr/app/filmhwa-%ED%95%84%EB%A6%84%ED%99%94-%ED%99%94%EB%AF%BC-%ED%95%84%ED%84%B0/id6443723657"
-    },
-    {
       "name": "영뽀또 - 감성 구도 카메라",
       "sub": "Seungyun Kim",
       "url": "https://apps.apple.com/kr/app/%EC%98%81%EB%BD%80%EB%98%90-%EA%B0%90%EC%84%B1-%EA%B5%AC%EB%8F%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6763737180"
     },
     {
-      "name": "GIKA 기카 - 독보적인 올드폰 감성 카메라",
-      "sub": "Noahproject Inc.",
-      "url": "https://apps.apple.com/kr/app/gika-%EA%B8%B0%EC%B9%B4-%EB%8F%85%EB%B3%B4%EC%A0%81%EC%9D%B8-%EC%98%AC%EB%93%9C%ED%8F%B0-%EA%B0%90%EC%84%B1-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6755822636"
+      "name": "filmhwa (필름화) - 화민 필터",
+      "sub": "ARTTIC CO., LTD.",
+      "url": "https://apps.apple.com/kr/app/filmhwa-%ED%95%84%EB%A6%84%ED%99%94-%ED%99%94%EB%AF%BC-%ED%95%84%ED%84%B0/id6443723657"
     },
     {
-      "name": "iY2K",
-      "sub": "SANGSANGLYEOG",
-      "url": "https://apps.apple.com/kr/app/iy2k/id6801799964"
+      "name": "DayPic(데이픽) - 하루 기록 사진 일기장",
+      "sub": "노바링크",
+      "url": "https://apps.apple.com/kr/app/daypic-%EB%8D%B0%EC%9D%B4%ED%94%BD-%ED%95%98%EB%A3%A8-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%A7%84-%EC%9D%BC%EA%B8%B0%EC%9E%A5/id6770772768"
     },
     {
       "name": "AnkiMobile Flashcards",
@@ -65,19 +60,24 @@
       "url": "https://apps.apple.com/kr/app/ankimobile-flashcards/id373493387"
     },
     {
+      "name": "GIKA 기카 - 독보적인 올드폰 감성 카메라",
+      "sub": "Noahproject Inc.",
+      "url": "https://apps.apple.com/kr/app/gika-%EA%B8%B0%EC%B9%B4-%EB%8F%85%EB%B3%B4%EC%A0%81%EC%9D%B8-%EC%98%AC%EB%93%9C%ED%8F%B0-%EA%B0%90%EC%84%B1-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6755822636"
+    },
+    {
+      "name": "Chromagraph Camera",
+      "sub": "Chromatic Applications LLC",
+      "url": "https://apps.apple.com/kr/app/chromagraph-camera/id6803329435"
+    },
+    {
       "name": "Procreate Pocket",
       "sub": "Savage Interactive Pty Ltd",
       "url": "https://apps.apple.com/kr/app/procreate-pocket/id916366645"
     },
     {
-      "name": "회독JLPT",
-      "sub": "LEE YONGHEE",
-      "url": "https://apps.apple.com/kr/app/%ED%9A%8C%EB%8F%85jlpt/id1455054515"
-    },
-    {
-      "name": "DayGrid: 데일리스케줄, 하루 계획표",
-      "sub": "ho young moon",
-      "url": "https://apps.apple.com/kr/app/daygrid-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%8A%A4%EC%BC%80%EC%A4%84-%ED%95%98%EB%A3%A8-%EA%B3%84%ED%9A%8D%ED%91%9C/id6762279908"
+      "name": "iY2K",
+      "sub": "SANGSANGLYEOG",
+      "url": "https://apps.apple.com/kr/app/iy2k/id6801799964"
     },
     {
       "name": "Shadowrocket",
@@ -85,14 +85,14 @@
       "url": "https://apps.apple.com/kr/app/shadowrocket/id932747118"
     },
     {
-      "name": "UnTrap for YouTube",
-      "sub": "Yevhen Tretiakov",
-      "url": "https://apps.apple.com/kr/app/untrap-for-youtube/id1637438059"
+      "name": "회독JLPT",
+      "sub": "LEE YONGHEE",
+      "url": "https://apps.apple.com/kr/app/%ED%9A%8C%EB%8F%85jlpt/id1455054515"
     },
     {
-      "name": "유니콘:Safari 광고 차단",
-      "sub": "OH NAM KWON",
-      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%EC%BD%98-safari-%EA%B4%91%EA%B3%A0-%EC%B0%A8%EB%8B%A8/id1046714401"
+      "name": "无锐化相机",
+      "sub": "北北 宋",
+      "url": "https://apps.apple.com/kr/app/%E6%97%A0%E9%94%90%E5%8C%96%E7%9B%B8%E6%9C%BA/id6504206143"
     }
   ],
   "refresh": {

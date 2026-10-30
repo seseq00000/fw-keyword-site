@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-29",
+  "collected_date": "2026-10-30",
   "related": [
     "music-applemusic-kr"
   ],
@@ -30,14 +30,14 @@
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "I SPY - The 4th Mini Album - EP",
-      "sub": "NCT WISH",
-      "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
-    },
-    {
       "name": "새천년",
       "sub": "Unofficialboyy",
       "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
+    },
+    {
+      "name": "I SPY - The 4th Mini Album - EP",
+      "sub": "NCT WISH",
+      "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
     },
     {
       "name": "TEAM BABY",
@@ -55,19 +55,14 @@
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
-      "name": "Looks Can Kill - EP",
-      "sub": "아이브",
-      "url": "https://music.apple.com/kr/album/looks-can-kill-ep/6825602551"
-    },
-    {
       "name": "MONOLITH",
       "sub": "창모",
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
-      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
-      "sub": "Shugo Tokumaru",
-      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
+      "name": "PRIMA",
+      "sub": "ADÉLA",
+      "url": "https://music.apple.com/kr/album/prima/6792883860"
     },
     {
       "name": "Strange Muse - EP",
@@ -75,9 +70,14 @@
       "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
     },
     {
-      "name": "PRIMA",
-      "sub": "ADÉLA",
-      "url": "https://music.apple.com/kr/album/prima/6792883860"
+      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+      "sub": "Shugo Tokumaru",
+      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
+    },
+    {
+      "name": "Looks Can Kill - EP",
+      "sub": "아이브",
+      "url": "https://music.apple.com/kr/album/looks-can-kill-ep/6825602551"
     },
     {
       "name": "SWAG II",

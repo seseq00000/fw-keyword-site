@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-10-30",
+  "collected_date": "2026-10-31",
   "related": [
     "music-applemusic-kr"
   ],
@@ -23,6 +23,11 @@
       "name": "BREAK EVEN - EP",
       "sub": "아일릿",
       "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
+    },
+    {
+      "name": "808 Ceremony",
+      "sub": "닥스후드 & 양홍원",
+      "url": "https://music.apple.com/kr/album/808-ceremony/6827430298"
     },
     {
       "name": "오보에",
@@ -60,14 +65,14 @@
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
+      "name": "HOW TO QUIT SMOKING",
+      "sub": "Dominic Fike",
+      "url": "https://music.apple.com/kr/album/how-to-quit-smoking/6805707169"
+    },
+    {
       "name": "PRIMA",
       "sub": "ADÉLA",
       "url": "https://music.apple.com/kr/album/prima/6792883860"
-    },
-    {
-      "name": "Strange Muse - EP",
-      "sub": "NMIXX",
-      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -75,24 +80,19 @@
       "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
-      "name": "Looks Can Kill - EP",
-      "sub": "아이브",
-      "url": "https://music.apple.com/kr/album/looks-can-kill-ep/6825602551"
-    },
-    {
-      "name": "SWAG II",
-      "sub": "Justin Bieber",
-      "url": "https://music.apple.com/kr/album/swag-ii/1837867200"
-    },
-    {
       "name": "WhyKiiiKiii - EP",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "Stranger",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/stranger/1453379457"
+      "name": "Strange Muse - EP",
+      "sub": "NMIXX",
+      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
+    },
+    {
+      "name": "SCENEDROME - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
     }
   ],
   "refresh": {

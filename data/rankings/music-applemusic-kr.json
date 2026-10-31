@@ -74,11 +74,6 @@
       "url": "https://music.apple.com/kr/album/deja-vu/1822439985"
     },
     {
-      "name": "I SPY",
-      "sub": "NCT WISH",
-      "url": "https://music.apple.com/kr/album/i-spy/6816842802"
-    },
-    {
       "name": "REDRED",
       "sub": "코르티스",
       "url": "https://music.apple.com/kr/album/redred/1887671065"
@@ -89,14 +84,14 @@
       "url": "https://music.apple.com/kr/album/%EC%82%90%EA%B7%B8%EB%8D%95-feat-%EC%95%84%EC%9D%B4%EC%9C%A0/6822679187"
     },
     {
+      "name": "I SPY",
+      "sub": "NCT WISH",
+      "url": "https://music.apple.com/kr/album/i-spy/6816842802"
+    },
+    {
       "name": "Pop Off Pop Off",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/pop-off-pop-off/6797773845"
-    },
-    {
-      "name": "영원은 그렇듯",
-      "sub": "리도어",
-      "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
     },
     {
       "name": "RUDE!",
@@ -104,19 +99,24 @@
       "url": "https://music.apple.com/kr/album/rude/1875146814"
     },
     {
+      "name": "영원은 그렇듯",
+      "sub": "리도어",
+      "url": "https://music.apple.com/kr/album/%EC%98%81%EC%9B%90%EC%9D%80-%EA%B7%B8%EB%A0%87%EB%93%AF/1733432313"
+    },
+    {
       "name": "Nicole Kidman",
       "sub": "ADÉLA",
       "url": "https://music.apple.com/kr/album/nicole-kidman/6807192580"
     },
     {
-      "name": "Lemon Tang",
-      "sub": "Hearts2Hearts",
-      "url": "https://music.apple.com/kr/album/lemon-tang/6779521284"
-    },
-    {
       "name": "BAD",
       "sub": "에이티즈",
       "url": "https://music.apple.com/kr/album/bad/6770401924"
+    },
+    {
+      "name": "It's Me",
+      "sub": "아일릿",
+      "url": "https://music.apple.com/kr/album/its-me/1887194024"
     }
   ],
   "refresh": {

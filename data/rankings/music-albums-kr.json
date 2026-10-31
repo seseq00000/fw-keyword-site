@@ -60,19 +60,14 @@
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     },
     {
-      "name": "MONOLITH",
-      "sub": "창모",
-      "url": "https://music.apple.com/kr/album/monolith/6817677768"
-    },
-    {
       "name": "HOW TO QUIT SMOKING",
       "sub": "Dominic Fike",
       "url": "https://music.apple.com/kr/album/how-to-quit-smoking/6805707169"
     },
     {
-      "name": "PRIMA",
-      "sub": "ADÉLA",
-      "url": "https://music.apple.com/kr/album/prima/6792883860"
+      "name": "MONOLITH",
+      "sub": "창모",
+      "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
@@ -80,19 +75,24 @@
       "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
+      "name": "PRIMA",
+      "sub": "ADÉLA",
+      "url": "https://music.apple.com/kr/album/prima/6792883860"
+    },
+    {
       "name": "WhyKiiiKiii - EP",
       "sub": "키키",
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "Strange Muse - EP",
-      "sub": "NMIXX",
-      "url": "https://music.apple.com/kr/album/strange-muse-ep/6813810255"
-    },
-    {
       "name": "SCENEDROME - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
+    },
+    {
+      "name": "Popstar",
+      "sub": "Tinashe",
+      "url": "https://music.apple.com/kr/album/popstar/6789739137"
     }
   ],
   "refresh": {

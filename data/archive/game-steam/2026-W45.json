@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W45",
+  "year": 2026,
+  "week": 45,
+  "period": null,
+  "collected_date": "2026-11-02",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 127.1만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 77.4만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 78.1만 명"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 12.3만 명"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "sub": "최고 동시접속 77.6만 명 · 직전 주 -1위"
+    },
+    {
+      "name": "Deadlock",
+      "sub": "최고 동시접속 23.9만 명 · 직전 주 5위"
+    },
+    {
+      "name": "콜 오브 듀티®",
+      "sub": "최고 동시접속 18.6만 명 · 직전 주 6위"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 20.4만 명 · 직전 주 7위"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "sub": "최고 동시접속 16.7만 명 · 직전 주 8위"
+    },
+    {
+      "name": "Grand Theft Auto V 레거시",
+      "sub": "최고 동시접속 7.4만 명 · 직전 주 11위"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 2개: 5위 Phantom Blade Zero, 10위 Grand Theft Auto V 레거시",
+    "순위 이탈 2개: WARDOGS, AION 2"
+  ]
+}

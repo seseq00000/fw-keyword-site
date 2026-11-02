@@ -1,0 +1,116 @@
+{
+  "slug": "app-appstore-kr",
+  "week_id": "2026-W45",
+  "year": 2026,
+  "week": 45,
+  "period": null,
+  "collected_date": "2026-11-02",
+  "items": [
+    {
+      "name": "네이버플러스 스토어",
+      "sub": "NAVER Corp.",
+      "url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154"
+    },
+    {
+      "name": "NetShort - 인기 드라마 및 TV 프로그램",
+      "sub": "NETSTORY PTE. LTD.",
+      "url": "https://apps.apple.com/kr/app/netshort-%EC%9D%B8%EA%B8%B0-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B0%8F-tv-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/id6504849169"
+    },
+    {
+      "name": "Claude by Anthropic",
+      "sub": "Anthropic PBC",
+      "url": "https://apps.apple.com/kr/app/claude-by-anthropic/id6473753684"
+    },
+    {
+      "name": "올리브영",
+      "sub": "CJ Olive Young Corporation",
+      "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010"
+    },
+    {
+      "name": "스파오 SPAO - 온라인 공식몰",
+      "sub": "ELAND WORLD LIMITED CO., LTD",
+      "url": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%8C%8C%EC%98%A4-spao-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B3%B5%EC%8B%9D%EB%AA%B0/id1527037287"
+    },
+    {
+      "name": "TOPTEN10",
+      "sub": "신성통상㈜",
+      "url": "https://apps.apple.com/kr/app/topten10/id6450069980"
+    },
+    {
+      "name": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+      "sub": "Hana Bank",
+      "url": "https://apps.apple.com/kr/app/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%95%98%EB%82%98%EC%9B%90%ED%81%90%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94/id6743190232"
+    },
+    {
+      "name": "Google Gemini",
+      "sub": "Google",
+      "url": "https://apps.apple.com/kr/app/google-gemini/id6477489729"
+    },
+    {
+      "name": "포켓CU",
+      "sub": "BGFretail Co., Ltd.",
+      "url": "https://apps.apple.com/kr/app/%ED%8F%AC%EC%BC%93cu/id573144133"
+    },
+    {
+      "name": "유니클로 UNIQLO - 쇼핑",
+      "sub": "UNIQLO CO., LTD.",
+      "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C-uniqlo-%EC%87%BC%ED%95%91/id730814188"
+    },
+    {
+      "name": "세븐일레븐",
+      "sub": "Korea Seven Co., Ltd. · 라이프스타일",
+      "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90/id1253773772"
+    },
+    {
+      "name": "이마트 - 매장쇼핑 전 필수!",
+      "sub": "SHINSEGAE EMART · 라이프스타일",
+      "url": "https://apps.apple.com/kr/app/%EC%9D%B4%EB%A7%88%ED%8A%B8-%EB%A7%A4%EC%9E%A5%EC%87%BC%ED%95%91-%EC%A0%84-%ED%95%84%EC%88%98/id397728319"
+    },
+    {
+      "name": "듀오링고(Duolingo): 언어 학습",
+      "sub": "Duolingo · 교육",
+      "url": "https://apps.apple.com/kr/app/%EB%93%80%EC%98%A4%EB%A7%81%EA%B3%A0-duolingo-%EC%96%B8%EC%96%B4-%ED%95%99%EC%8A%B5/id570060128"
+    },
+    {
+      "name": "NOL : 야놀자와 인터파크의 새로운 이름",
+      "sub": "YANOLJA CO.,LTD · 여행",
+      "url": "https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843"
+    },
+    {
+      "name": "피클: 나만의 AI 에이전트",
+      "sub": "Pickle Company · 생산성",
+      "url": "https://apps.apple.com/kr/app/%ED%94%BC%ED%81%B4-%EB%82%98%EB%A7%8C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/id6795790129"
+    },
+    {
+      "name": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
+      "sub": "ironpig Inc. · 사진 및 비디오",
+      "url": "https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%82%AC%EB%9E%91%ED%95%A0-%EB%95%8C-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%88%9C%EA%B0%84%EB%93%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%95%B1/id6783366739"
+    },
+    {
+      "name": "FoxPeek - 기기 사양 확인",
+      "sub": "Xiamen Infinity Starway Technology Co., Ltd. · 유틸리티",
+      "url": "https://apps.apple.com/kr/app/foxpeek-%EA%B8%B0%EA%B8%B0-%EC%82%AC%EC%96%91-%ED%99%95%EC%9D%B8/id6786934374"
+    },
+    {
+      "name": "ChatGPT",
+      "sub": "OpenAI OpCo, LLC · 생산성",
+      "url": "https://apps.apple.com/kr/app/chatgpt/id6448311069"
+    },
+    {
+      "name": "우리동네GS (GS25, GS더프레시, 와인25플러스)",
+      "sub": "GS Retail Co., Ltd. · 라이프스타일",
+      "url": "https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4gs-gs25-gs%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C-%EC%99%80%EC%9D%B825%ED%94%8C%EB%9F%AC%EC%8A%A4/id426644449"
+    },
+    {
+      "name": "캐치테이블",
+      "sub": "WADcorp · 음식 및 음료",
+      "url": "https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566"
+    }
+  ],
+  "changes": [
+    "1위 네이버플러스 스토어 — 자리 유지",
+    "신규 진입 8개: 4위 올리브영, 10위 유니클로 UNIQLO - 쇼핑, 11위 세븐일레븐, 12위 이마트 - 매장쇼핑 전 필수!, 14위 NOL : 야놀자와 인터파크의 새로운 이름",
+    "순위 이탈 8개: 실손24, For Reel 포릴 - 알아서 만드는 Vlog 영상, Trip.com 트립닷컴 - 여행 할인 예약, 淘宝-万能的淘宝！, Vigloo - 숏폼드라마",
+    "최대 상승 — 포켓CU (19위 → 9위)"
+  ]
+}

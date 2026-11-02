@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-10-31",
+  "collected_date": "2026-11-02",
   "related": [
     "game-steam",
     "game-popular"
@@ -53,22 +53,16 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "sub": "10% 할인 (정가 19,900원)",
-      "value": "17,910원",
-      "url": "https://store.steampowered.com/app/4348910/"
-    },
-    {
       "name": "붉은사막 Enhanced",
       "sub": "",
       "value": "79,800원",
       "url": "https://store.steampowered.com/app/3321460/"
     },
     {
-      "name": "EZ2ON REBOOT : R - PUMP IT UP RISE Collaboration DLC",
-      "sub": "10% 할인 (정가 26,500원)",
-      "value": "23,850원",
-      "url": "https://store.steampowered.com/app/5445520/"
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "sub": "10% 할인 (정가 19,900원)",
+      "value": "17,910원",
+      "url": "https://store.steampowered.com/app/4348910/"
     },
     {
       "name": "WARDOGS",
@@ -77,10 +71,16 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "FINAL FANTASY RESONANCE",
-      "sub": "",
-      "value": "62,800원",
-      "url": "https://store.steampowered.com/app/3259780/"
+      "name": "Uninitialized",
+      "sub": "무료",
+      "value": "무료",
+      "url": "https://store.steampowered.com/app/4435640/"
+    },
+    {
+      "name": "EZ2ON REBOOT : R - PUMP IT UP RISE Collaboration DLC",
+      "sub": "10% 할인 (정가 26,500원)",
+      "value": "23,850원",
+      "url": "https://store.steampowered.com/app/5445520/"
     }
   ],
   "refresh": {

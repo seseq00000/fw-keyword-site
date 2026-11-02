@@ -1,0 +1,76 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W45",
+  "year": 2026,
+  "week": 45,
+  "period": null,
+  "collected_date": "2026-11-02",
+  "items": [
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "sub": "10% 할인 (정가 69,800원)",
+      "value": "62,820원",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "붉은사막 Enhanced: 미지의 여정",
+      "sub": "",
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "붉은사막 Enhanced",
+      "sub": "",
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3321460/"
+    },
+    {
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "sub": "10% 할인 (정가 19,900원)",
+      "value": "17,910원",
+      "url": "https://store.steampowered.com/app/4348910/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "Uninitialized",
+      "sub": "무료",
+      "value": "무료",
+      "url": "https://store.steampowered.com/app/4435640/"
+    },
+    {
+      "name": "EZ2ON REBOOT : R - PUMP IT UP RISE Collaboration DLC",
+      "sub": "10% 할인 (정가 26,500원)",
+      "value": "23,850원",
+      "url": "https://store.steampowered.com/app/5445520/"
+    }
+  ],
+  "changes": [
+    "1위 Call of Duty®: Modern Warfare® 4 — 자리 유지",
+    "신규 진입 6개: 2위 Football Manager 27, 6위 붉은사막 Enhanced, 7위 Probably Stolen - Cyberpunk Shopkeeper Sim, 8위 WARDOGS, 9위 Uninitialized",
+    "순위 이탈 5개: 귀무자 Way of the Sword, 사이버펑크 2077: 얼티밋 에디션, Cyberpunk 2077, 사이버펑크 2077: 팬텀 리버티, 퍼즐버블 에브리버블!",
+    "최대 상승 — 붉은사막 Enhanced: 미지의 여정 (9위 → 4위)"
+  ]
+}

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-02",
+  "collected_date": "2026-11-03",
   "related": [
     "game-steam",
     "game-popular"
@@ -39,6 +39,12 @@
       "sub": "",
       "value": "69,800원",
       "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "아키에이지 크로니클",
+      "sub": "",
+      "value": "36,000원",
+      "url": "https://store.steampowered.com/app/3218230/"
     },
     {
       "name": "붉은사막 Enhanced: 미지의 여정",
@@ -71,16 +77,10 @@
       "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "Uninitialized",
-      "sub": "무료",
-      "value": "무료",
-      "url": "https://store.steampowered.com/app/4435640/"
-    },
-    {
-      "name": "EZ2ON REBOOT : R - PUMP IT UP RISE Collaboration DLC",
-      "sub": "10% 할인 (정가 26,500원)",
-      "value": "23,850원",
-      "url": "https://store.steampowered.com/app/5445520/"
+      "name": "Moon Sweepers",
+      "sub": "",
+      "value": "9,650원",
+      "url": "https://store.steampowered.com/app/5335510/"
     }
   ],
   "refresh": {

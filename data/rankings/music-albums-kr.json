@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-02",
+  "collected_date": "2026-11-03",
   "related": [
     "music-applemusic-kr"
   ],
@@ -40,11 +40,6 @@
       "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
     },
     {
-      "name": "808 Ceremony",
-      "sub": "닥스후드 & 양홍원",
-      "url": "https://music.apple.com/kr/album/808-ceremony/6827430298"
-    },
-    {
       "name": "I SPY - The 4th Mini Album - EP",
       "sub": "NCT WISH",
       "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
@@ -55,14 +50,14 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
+      "name": "808 Ceremony",
+      "sub": "닥스후드 & 양홍원",
+      "url": "https://music.apple.com/kr/album/808-ceremony/6827430298"
+    },
+    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
-    },
-    {
-      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
-      "sub": "Shugo Tokumaru",
-      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
       "name": "MONOLITH",
@@ -70,14 +65,24 @@
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
+      "name": "PRIMA",
+      "sub": "ADÉLA",
+      "url": "https://music.apple.com/kr/album/prima/6792883860"
+    },
+    {
+      "name": ":D",
+      "sub": "viceversa & 피캐시디",
+      "url": "https://music.apple.com/kr/album/d/6825705551"
+    },
+    {
       "name": "HOW TO QUIT SMOKING",
       "sub": "Dominic Fike",
       "url": "https://music.apple.com/kr/album/how-to-quit-smoking/6805707169"
     },
     {
-      "name": "PRIMA",
-      "sub": "ADÉLA",
-      "url": "https://music.apple.com/kr/album/prima/6792883860"
+      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+      "sub": "Shugo Tokumaru",
+      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -85,14 +90,9 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "SCENEDROME - EP",
-      "sub": "리센느",
-      "url": "https://music.apple.com/kr/album/scenedrome-ep/1764485168"
-    },
-    {
-      "name": "rosie",
-      "sub": "로제",
-      "url": "https://music.apple.com/kr/album/rosie/1783280221"
+      "name": "개화",
+      "sub": "악뮤",
+      "url": "https://music.apple.com/kr/album/flowering/1887773334"
     }
   ],
   "refresh": {

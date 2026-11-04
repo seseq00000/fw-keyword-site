@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-03",
+  "collected_date": "2026-11-04",
   "related": [
     "music-applemusic-kr"
   ],
@@ -19,6 +19,11 @@
     "앨범 차트는 인기곡 차트보다 변동이 느린 편입니다. 곡 하나를 듣는 것보다 앨범을 듣는 데 시간이 더 들기 때문에 순위가 하루 만에 뒤집히는 일은 상대적으로 적습니다. 두 차트를 함께 보면 '지금 뜨는 곡'과 '지금 오래 듣는 음악'을 나눠서 읽을 수 있습니다."
   ],
   "items": [
+    {
+      "name": "PULSE - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/pulse-ep/6828335122"
+    },
     {
       "name": "BREAK EVEN - EP",
       "sub": "아일릿",
@@ -50,19 +55,9 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
-      "name": "808 Ceremony",
-      "sub": "닥스후드 & 양홍원",
-      "url": "https://music.apple.com/kr/album/808-ceremony/6827430298"
-    },
-    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
-    },
-    {
-      "name": "MONOLITH",
-      "sub": "창모",
-      "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
       "name": "PRIMA",
@@ -70,19 +65,9 @@
       "url": "https://music.apple.com/kr/album/prima/6792883860"
     },
     {
-      "name": ":D",
-      "sub": "viceversa & 피캐시디",
-      "url": "https://music.apple.com/kr/album/d/6825705551"
-    },
-    {
-      "name": "HOW TO QUIT SMOKING",
-      "sub": "Dominic Fike",
-      "url": "https://music.apple.com/kr/album/how-to-quit-smoking/6805707169"
-    },
-    {
-      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
-      "sub": "Shugo Tokumaru",
-      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
+      "name": "MONOLITH",
+      "sub": "창모",
+      "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -90,9 +75,24 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
+      "name": "808 Ceremony",
+      "sub": "닥스후드 & 양홍원",
+      "url": "https://music.apple.com/kr/album/808-ceremony/6827430298"
+    },
+    {
+      "name": ":D",
+      "sub": "viceversa & 피캐시디",
+      "url": "https://music.apple.com/kr/album/d/6825705551"
+    },
+    {
       "name": "개화",
       "sub": "악뮤",
       "url": "https://music.apple.com/kr/album/flowering/1887773334"
+    },
+    {
+      "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
+      "sub": "Shugo Tokumaru",
+      "url": "https://music.apple.com/kr/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755"
     }
   ],
   "refresh": {

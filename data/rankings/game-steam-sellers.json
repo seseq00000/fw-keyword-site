@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-03",
+  "collected_date": "2026-11-04",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,22 +35,10 @@
       "url": "https://store.steampowered.com/app/4530370/"
     },
     {
-      "name": "Phantom Blade Zero",
-      "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4115450/"
-    },
-    {
       "name": "아키에이지 크로니클",
       "sub": "",
       "value": "36,000원",
       "url": "https://store.steampowered.com/app/3218230/"
-    },
-    {
-      "name": "붉은사막 Enhanced: 미지의 여정",
-      "sub": "",
-      "value": "27,800원",
-      "url": "https://store.steampowered.com/app/5001840/"
     },
     {
       "name": "Call of Duty®: Modern Warfare® 4",
@@ -59,28 +47,40 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "붉은사막 Enhanced: 미지의 여정",
+      "sub": "",
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "최고의 유부녀가  바로 내 곁에",
+      "sub": "10% 할인 (정가 12,000원)",
+      "value": "10,800원",
+      "url": "https://store.steampowered.com/app/4733590/"
+    },
+    {
       "name": "붉은사막 Enhanced",
       "sub": "",
       "value": "79,800원",
       "url": "https://store.steampowered.com/app/3321460/"
     },
     {
-      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "sub": "10% 할인 (정가 19,900원)",
-      "value": "17,910원",
-      "url": "https://store.steampowered.com/app/4348910/"
+      "name": "Uninitialized",
+      "sub": "무료",
+      "value": "무료",
+      "url": "https://store.steampowered.com/app/4435640/"
     },
     {
       "name": "WARDOGS",
       "sub": "",
       "value": "47,270원",
       "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
-      "name": "Moon Sweepers",
-      "sub": "",
-      "value": "9,650원",
-      "url": "https://store.steampowered.com/app/5335510/"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수 (2026-07-20 ~ 07-26)",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-10-20",
+  "collected_date": "2026-11-04",
   "related": [
     "movie-netflix-films",
     "movie-netflix"
@@ -21,54 +21,54 @@
   ],
   "items": [
     {
+      "name": "Lupin",
+      "sub": "파트 4 · 차트 2주차",
+      "value": "1,080만 회"
+    },
+    {
+      "name": "Lupin",
+      "sub": "파트 1 · 차트 7주차",
+      "value": "520만 회"
+    },
+    {
+      "name": "The Fall of El Mayo",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "520만 회"
+    },
+    {
+      "name": "Dead-End Job",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "500만 회"
+    },
+    {
       "name": "Doctor X: Mafia in White",
-      "sub": "리미티드 시리즈 · 차트 2주차",
-      "value": "710만 회"
+      "sub": "리미티드 시리즈 · 차트 4주차",
+      "value": "440만 회"
     },
     {
-      "name": "Take Charge of My Heart",
-      "sub": "리미티드 시리즈 · 차트 2주차",
-      "value": "640만 회"
+      "name": "Lupin",
+      "sub": "파트 2 · 차트 9주차",
+      "value": "320만 회"
     },
     {
-      "name": "The Trap",
+      "name": "A Couple of Lies",
       "sub": "리미티드 시리즈 · 차트 1주차",
-      "value": "540만 회"
+      "value": "320만 회"
     },
     {
-      "name": "100 Days of Deception",
-      "sub": "리미티드 시리즈 · 차트 1주차",
-      "value": "280만 회"
-    },
-    {
-      "name": "Not a Stranger",
-      "sub": "시즌 1 · 차트 5주차",
-      "value": "210만 회"
-    },
-    {
-      "name": "Inside The Circle",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "200만 회"
+      "name": "Lupin",
+      "sub": "파트 3 · 차트 8주차",
+      "value": "300만 회"
     },
     {
       "name": "Where the Mask Ends",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "The Gift of Deceit",
       "sub": "시즌 1 · 차트 1주차",
-      "value": "160만 회"
-    },
-    {
-      "name": "STEEL BALL RUN JoJo’s Bizarre Adventure",
-      "sub": "2nd-3rd STAGE · 차트 3주차",
-      "value": "120만 회"
-    },
-    {
-      "name": "The Apothecary Diaries",
-      "sub": "시즌 3 · 차트 2주차",
-      "value": "120만 회"
-    },
-    {
-      "name": "The Ramparts of Ice",
-      "sub": "시즌 2 · 차트 2주차",
-      "value": "120만 회"
+      "value": "230만 회"
     }
   ],
   "refresh": {

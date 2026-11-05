@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-04",
+  "collected_date": "2026-11-05",
   "related": [
     "music-applemusic-kr"
   ],
@@ -23,6 +23,11 @@
       "name": "PULSE - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/pulse-ep/6828335122"
+    },
+    {
+      "name": "asdf - EP",
+      "sub": "기리보이, 씨잼 & 블랙넛",
+      "url": "https://music.apple.com/kr/album/asdf-ep/6828306035"
     },
     {
       "name": "BREAK EVEN - EP",
@@ -40,6 +45,11 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
+    },
+    {
       "name": "새천년",
       "sub": "Unofficialboyy",
       "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
@@ -48,11 +58,6 @@
       "name": "I SPY - The 4th Mini Album - EP",
       "sub": "NCT WISH",
       "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
-    },
-    {
-      "name": "킁",
-      "sub": "씨잼",
-      "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
       "name": "TUNE & PLAY - EP",
@@ -65,9 +70,9 @@
       "url": "https://music.apple.com/kr/album/prima/6792883860"
     },
     {
-      "name": "MONOLITH",
-      "sub": "창모",
-      "url": "https://music.apple.com/kr/album/monolith/6817677768"
+      "name": "개화",
+      "sub": "악뮤",
+      "url": "https://music.apple.com/kr/album/flowering/1887773334"
     },
     {
       "name": "WhyKiiiKiii - EP",
@@ -75,19 +80,14 @@
       "url": "https://music.apple.com/kr/album/whykiiikiii-ep/6797773845"
     },
     {
-      "name": "808 Ceremony",
-      "sub": "닥스후드 & 양홍원",
-      "url": "https://music.apple.com/kr/album/808-ceremony/6827430298"
+      "name": "도모 - EP",
+      "sub": "희대의, 블랙넛 & 씨잼",
+      "url": "https://music.apple.com/kr/album/domo-ep/6791085675"
     },
     {
-      "name": ":D",
-      "sub": "viceversa & 피캐시디",
-      "url": "https://music.apple.com/kr/album/d/6825705551"
-    },
-    {
-      "name": "개화",
-      "sub": "악뮤",
-      "url": "https://music.apple.com/kr/album/flowering/1887773334"
+      "name": "MONOLITH",
+      "sub": "창모",
+      "url": "https://music.apple.com/kr/album/monolith/6817677768"
     },
     {
       "name": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",

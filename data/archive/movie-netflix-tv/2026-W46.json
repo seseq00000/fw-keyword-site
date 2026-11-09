@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv",
+  "week_id": "2026-W46",
+  "year": 2026,
+  "week": 46,
+  "period": "2026-11-01 주간",
+  "collected_date": "2026-11-09",
+  "items": [
+    {
+      "name": "Lupin",
+      "sub": "파트 4 · 차트 2주차",
+      "value": "1,080만 회"
+    },
+    {
+      "name": "Lupin",
+      "sub": "파트 1 · 차트 7주차",
+      "value": "520만 회"
+    },
+    {
+      "name": "The Fall of El Mayo",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "520만 회"
+    },
+    {
+      "name": "Dead-End Job",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "500만 회"
+    },
+    {
+      "name": "Doctor X: Mafia in White",
+      "sub": "리미티드 시리즈 · 차트 4주차",
+      "value": "440만 회"
+    },
+    {
+      "name": "Lupin",
+      "sub": "파트 2 · 차트 9주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "A Couple of Lies",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "Lupin",
+      "sub": "파트 3 · 차트 8주차",
+      "value": "300만 회"
+    },
+    {
+      "name": "Where the Mask Ends",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "The Gift of Deceit",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "230만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Doctor X: Mafia in White → Lupin",
+    "신규 진입 8개: 8위 Lupin, 8위 Lupin, 3위 The Fall of El Mayo, 4위 Dead-End Job, 8위 Lupin",
+    "순위 이탈 8개: Take Charge of My Heart, The Trap, 100 Days of Deception, Not a Stranger, Inside The Circle"
+  ]
+}

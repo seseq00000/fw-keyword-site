@@ -1,0 +1,66 @@
+{
+  "slug": "movie-netflix-tv-en",
+  "week_id": "2026-W46",
+  "year": 2026,
+  "week": 46,
+  "period": "2026-11-01 주간",
+  "collected_date": "2026-11-09",
+  "items": [
+    {
+      "name": "The One About Matthew Perry",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "950만 회"
+    },
+    {
+      "name": "Nobody Wants This",
+      "sub": "시즌 3 · 차트 2주차",
+      "value": "720만 회"
+    },
+    {
+      "name": "Below",
+      "sub": "리미티드 시리즈 · 차트 4주차",
+      "value": "380만 회"
+    },
+    {
+      "name": "The Diplomat",
+      "sub": "시즌 4 · 차트 3주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "Love Is Blind",
+      "sub": "S11: Boston · 차트 3주차",
+      "value": "280만 회"
+    },
+    {
+      "name": "Minimum Wage",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Raw",
+      "sub": "October 26, 2026 · 차트 1주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "From",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "220만 회"
+    },
+    {
+      "name": "East of Eden",
+      "sub": "리미티드 시리즈 · 차트 5주차",
+      "value": "220만 회"
+    },
+    {
+      "name": "Instadocs: Jane Doe v. Cornell",
+      "sub": "차트 1주차",
+      "value": "200만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — Below → The One About Matthew Perry",
+    "신규 진입 5개: 1위 The One About Matthew Perry, 2위 Nobody Wants This, 6위 Minimum Wage, 8위 From, 10위 Instadocs: Jane Doe v. Cornell",
+    "순위 이탈 5개: Instadocs: AI Gone Wild, TYSON, Spike, Is It Cake? Halloween, Haunted Hotel",
+    "최대 상승 — Raw (10위 → 7위)"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W46",
+  "year": 2026,
+  "week": 46,
+  "period": "2026-11-01 주간",
+  "collected_date": "2026-11-09",
+  "items": [
+    {
+      "name": "Animals",
+      "sub": "차트 4주차",
+      "value": "470만 회"
+    },
+    {
+      "name": "Return to Sender",
+      "sub": "차트 1주차",
+      "value": "360만 회"
+    },
+    {
+      "name": "KPop Demon Hunters",
+      "sub": "차트 68주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
+      "sub": "차트 2주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Ice Age 4: Continental Drift",
+      "sub": "차트 3주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Ice Age: Dawn of the Dinosaurs",
+      "sub": "차트 7주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Ice Age 5: Collision Course",
+      "sub": "차트 7주차",
+      "value": "220만 회"
+    },
+    {
+      "name": "This Is Not a Test",
+      "sub": "차트 1주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Ice Age",
+      "sub": "차트 4주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Aliens in the Attic",
+      "sub": "차트 1주차",
+      "value": "210만 회"
+    }
+  ],
+  "changes": [
+    "1위 Animals — 자리 유지",
+    "신규 진입 7개: 2위 Return to Sender, 3위 KPop Demon Hunters, 4위 Hot Wheels Let's Race: Attack of the T-Rex, 5위 Ice Age 4: Continental Drift, 7위 Ice Age 5: Collision Course",
+    "순위 이탈 7개: Doing Life, Ice Age: Collision Course, Corpse Bride, Anyone But You, Ice Age: Continental Drift"
+  ]
+}

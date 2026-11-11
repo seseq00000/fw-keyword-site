@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-11-04",
+  "collected_date": "2026-11-11",
   "related": [
     "movie-netflix-tv",
     "movie-netflix-films"
@@ -21,54 +21,54 @@
   ],
   "items": [
     {
-      "name": "The One About Matthew Perry",
+      "name": "Taken: Natalee Holloway",
       "sub": "시즌 1 · 차트 1주차",
-      "value": "950만 회"
+      "value": "1,290만 회"
+    },
+    {
+      "name": "The One About Matthew Perry",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "440만 회"
     },
     {
       "name": "Nobody Wants This",
-      "sub": "시즌 3 · 차트 2주차",
-      "value": "720만 회"
+      "sub": "시즌 3 · 차트 3주차",
+      "value": "400만 회"
     },
     {
-      "name": "Below",
-      "sub": "리미티드 시리즈 · 차트 4주차",
+      "name": "Black Doves",
+      "sub": "시즌 2 · 차트 1주차",
       "value": "380만 회"
     },
     {
-      "name": "The Diplomat",
-      "sub": "시즌 4 · 차트 3주차",
-      "value": "290만 회"
-    },
-    {
-      "name": "Love Is Blind",
-      "sub": "S11: Boston · 차트 3주차",
-      "value": "280만 회"
-    },
-    {
-      "name": "Minimum Wage",
-      "sub": "시즌 1 · 차트 1주차",
-      "value": "240만 회"
-    },
-    {
       "name": "Raw",
-      "sub": "October 26, 2026 · 차트 1주차",
+      "sub": "November 2, 2026 · 차트 1주차",
       "value": "230만 회"
     },
     {
-      "name": "From",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "220만 회"
-    },
-    {
-      "name": "East of Eden",
+      "name": "Below",
       "sub": "리미티드 시리즈 · 차트 5주차",
       "value": "220만 회"
     },
     {
-      "name": "Instadocs: Jane Doe v. Cornell",
-      "sub": "차트 1주차",
+      "name": "Love Is Blind",
+      "sub": "S11: Boston · 차트 4주차",
       "value": "200만 회"
+    },
+    {
+      "name": "Will Trent",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "190만 회"
+    },
+    {
+      "name": "The Diplomat",
+      "sub": "시즌 4 · 차트 4주차",
+      "value": "190만 회"
+    },
+    {
+      "name": "East of Eden",
+      "sub": "리미티드 시리즈 · 차트 6주차",
+      "value": "170만 회"
     }
   ],
   "refresh": {

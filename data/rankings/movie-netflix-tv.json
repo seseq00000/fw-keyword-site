@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수 (2026-07-20 ~ 07-26)",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-11-04",
+  "collected_date": "2026-11-11",
   "related": [
     "movie-netflix-films",
     "movie-netflix"
@@ -21,54 +21,54 @@
   ],
   "items": [
     {
-      "name": "Lupin",
-      "sub": "파트 4 · 차트 2주차",
-      "value": "1,080만 회"
-    },
-    {
-      "name": "Lupin",
-      "sub": "파트 1 · 차트 7주차",
-      "value": "520만 회"
-    },
-    {
-      "name": "The Fall of El Mayo",
-      "sub": "리미티드 시리즈 · 차트 1주차",
-      "value": "520만 회"
-    },
-    {
       "name": "Dead-End Job",
-      "sub": "리미티드 시리즈 · 차트 1주차",
-      "value": "500만 회"
-    },
-    {
-      "name": "Doctor X: Mafia in White",
-      "sub": "리미티드 시리즈 · 차트 4주차",
-      "value": "440만 회"
-    },
-    {
-      "name": "Lupin",
-      "sub": "파트 2 · 차트 9주차",
-      "value": "320만 회"
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "870만 회"
     },
     {
       "name": "A Couple of Lies",
-      "sub": "리미티드 시리즈 · 차트 1주차",
-      "value": "320만 회"
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "720만 회"
     },
     {
       "name": "Lupin",
-      "sub": "파트 3 · 차트 8주차",
-      "value": "300만 회"
+      "sub": "파트 4 · 차트 3주차",
+      "value": "610만 회"
     },
     {
-      "name": "Where the Mask Ends",
-      "sub": "시즌 1 · 차트 3주차",
-      "value": "260만 회"
+      "name": "Doctor X: Mafia in White",
+      "sub": "리미티드 시리즈 · 차트 5주차",
+      "value": "370만 회"
     },
     {
-      "name": "The Gift of Deceit",
+      "name": "Anaesthesia",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Lupin",
+      "sub": "파트 1 · 차트 8주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "The Fall of El Mayo",
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "270만 회"
+    },
+    {
+      "name": "Lupin",
+      "sub": "파트 3 · 차트 9주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Akka: The Protectors",
       "sub": "시즌 1 · 차트 1주차",
       "value": "230만 회"
+    },
+    {
+      "name": "Lupin",
+      "sub": "파트 2 · 차트 10주차",
+      "value": "220만 회"
     }
   ],
   "refresh": {

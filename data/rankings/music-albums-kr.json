@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-11",
+  "collected_date": "2026-11-12",
   "related": [
     "music-applemusic-kr"
   ],
@@ -30,9 +30,9 @@
       "url": "https://music.apple.com/kr/album/pulse-ep/6828335122"
     },
     {
-      "name": "asdf - EP",
-      "sub": "기리보이, 씨잼 & 블랙넛",
-      "url": "https://music.apple.com/kr/album/asdf-ep/6828306035"
+      "name": "S.W.I.S.H. - EP",
+      "sub": "LNGSHOT",
+      "url": "https://music.apple.com/kr/album/s-w-i-s-h-ep/6821311332"
     },
     {
       "name": "킁",
@@ -40,14 +40,14 @@
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
       "name": "SUPERSTAR - EP",
       "sub": "A2O & A2O SOUL",
       "url": "https://music.apple.com/kr/album/superstar-ep/6830057356"
-    },
-    {
-      "name": "S.W.I.S.H. - EP",
-      "sub": "LNGSHOT",
-      "url": "https://music.apple.com/kr/album/s-w-i-s-h-ep/6821311332"
     },
     {
       "name": "BREAK EVEN - EP",
@@ -55,9 +55,9 @@
       "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
     },
     {
-      "name": "오보에",
-      "sub": "양홍원",
-      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+      "name": "asdf - EP",
+      "sub": "기리보이, 씨잼 & 블랙넛",
+      "url": "https://music.apple.com/kr/album/asdf-ep/6828306035"
     },
     {
       "name": "TEAM BABY",
@@ -70,19 +70,19 @@
       "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
     },
     {
-      "name": "SLUMPED",
-      "sub": "MATTHEW & Wuuslime (우슬라임)",
-      "url": "https://music.apple.com/kr/album/slumped/6828371500"
-    },
-    {
-      "name": "BLOW UP",
-      "sub": "P1Harmony",
-      "url": "https://music.apple.com/kr/album/blow-up/6827384345"
-    },
-    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
+    },
+    {
+      "name": "The Art of Loving",
+      "sub": "Olivia Dean",
+      "url": "https://music.apple.com/kr/album/the-art-of-loving/1817609404"
+    },
+    {
+      "name": "I SPY - The 4th Mini Album - EP",
+      "sub": "NCT WISH",
+      "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
     },
     {
       "name": "PRIMA",
@@ -90,9 +90,9 @@
       "url": "https://music.apple.com/kr/album/prima/6792883860"
     },
     {
-      "name": "I SPY - The 4th Mini Album - EP",
-      "sub": "NCT WISH",
-      "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
+      "name": "BLOW UP",
+      "sub": "P1Harmony",
+      "url": "https://music.apple.com/kr/album/blow-up/6827384345"
     }
   ],
   "refresh": {

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-11",
+  "collected_date": "2026-11-12",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,16 +35,22 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
       "name": "Football Manager 27 게임 내 에디터",
       "sub": "",
       "value": "10,800원",
       "url": "https://store.steampowered.com/app/4530440/"
     },
     {
-      "name": "Euro Truck Simulator 2 - Iceland",
-      "sub": "",
-      "value": "14,900원",
-      "url": "https://store.steampowered.com/app/3796990/"
+      "name": "디아블로 II 레저렉션 - 지옥불 에디션",
+      "sub": "35% 할인 (정가 44,900원)",
+      "value": "29,180원",
+      "url": "https://store.steampowered.com/app/2536520/"
     },
     {
       "name": "Potato Please",
@@ -53,10 +59,16 @@
       "url": "https://store.steampowered.com/app/5266240/"
     },
     {
-      "name": "Warhammer Survivors",
-      "sub": "10% 할인 (정가 8,700원)",
-      "value": "7,830원",
-      "url": "https://store.steampowered.com/app/3669620/"
+      "name": "Euro Truck Simulator 2 - Iceland",
+      "sub": "",
+      "value": "14,900원",
+      "url": "https://store.steampowered.com/app/3796990/"
+    },
+    {
+      "name": "Uninitialized",
+      "sub": "무료",
+      "value": "무료",
+      "url": "https://store.steampowered.com/app/4435640/"
     },
     {
       "name": "Call of Duty®: Modern Warfare® 4",
@@ -65,22 +77,10 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "Phantom Blade Zero",
+      "name": "붉은사막 Enhanced: 미지의 여정",
       "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4115450/"
-    },
-    {
-      "name": "부스터 팩 히어로즈",
-      "sub": "30% 할인 (정가 11,000원)",
-      "value": "7,700원",
-      "url": "https://store.steampowered.com/app/4618570/"
-    },
-    {
-      "name": "Uninitialized",
-      "sub": "무료",
-      "value": "무료",
-      "url": "https://store.steampowered.com/app/4435640/"
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
     }
   ],
   "refresh": {

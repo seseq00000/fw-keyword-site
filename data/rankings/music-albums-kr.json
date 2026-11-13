@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-12",
+  "collected_date": "2026-11-13",
   "related": [
     "music-applemusic-kr"
   ],
@@ -35,9 +35,19 @@
       "url": "https://music.apple.com/kr/album/s-w-i-s-h-ep/6821311332"
     },
     {
+      "name": "i+em",
+      "sub": "김하온",
+      "url": "https://music.apple.com/kr/album/i-em/6832870685"
+    },
+    {
       "name": "킁",
       "sub": "씨잼",
       "url": "https://music.apple.com/kr/album/keung/1463936919"
+    },
+    {
+      "name": "BREAK EVEN - EP",
+      "sub": "아일릿",
+      "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
     },
     {
       "name": "오보에",
@@ -50,9 +60,9 @@
       "url": "https://music.apple.com/kr/album/superstar-ep/6830057356"
     },
     {
-      "name": "BREAK EVEN - EP",
-      "sub": "아일릿",
-      "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
+      "name": "TEAM BABY",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
       "name": "asdf - EP",
@@ -60,9 +70,14 @@
       "url": "https://music.apple.com/kr/album/asdf-ep/6828306035"
     },
     {
-      "name": "TEAM BABY",
-      "sub": "검정치마",
-      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+      "name": "Pirouette",
+      "sub": "2hollis",
+      "url": "https://music.apple.com/kr/album/pirouette/6812861964"
+    },
+    {
+      "name": "J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
+      "sub": "임윤찬",
+      "url": "https://music.apple.com/kr/album/j-s-bach-goldberg-variations-deluxe-live-at-carnegie/6831706961"
     },
     {
       "name": "새천년",
@@ -70,29 +85,14 @@
       "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
     },
     {
-      "name": "TUNE & PLAY - EP",
-      "sub": "튜이드",
-      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
-    },
-    {
-      "name": "The Art of Loving",
-      "sub": "Olivia Dean",
-      "url": "https://music.apple.com/kr/album/the-art-of-loving/1817609404"
-    },
-    {
       "name": "I SPY - The 4th Mini Album - EP",
       "sub": "NCT WISH",
       "url": "https://music.apple.com/kr/album/i-spy-the-4th-mini-album-ep/6816842802"
     },
     {
-      "name": "PRIMA",
-      "sub": "ADÉLA",
-      "url": "https://music.apple.com/kr/album/prima/6792883860"
-    },
-    {
-      "name": "BLOW UP",
-      "sub": "P1Harmony",
-      "url": "https://music.apple.com/kr/album/blow-up/6827384345"
+      "name": "TUNE & PLAY - EP",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     }
   ],
   "refresh": {

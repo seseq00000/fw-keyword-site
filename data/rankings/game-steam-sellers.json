@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-12",
+  "collected_date": "2026-11-13",
   "related": [
     "game-steam",
     "game-popular"
@@ -23,10 +23,10 @@
   ],
   "items": [
     {
-      "name": "Football Manager 27",
+      "name": "Euro Truck Simulator 2 - Coaches",
       "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4530370/"
+      "value": "19,860원",
+      "url": "https://store.steampowered.com/app/3809270/"
     },
     {
       "name": "Call of Duty®: Modern Warfare® 4",
@@ -35,28 +35,16 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "Phantom Blade Zero",
+      "name": "Football Manager 27",
       "sub": "",
       "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4115450/"
+      "url": "https://store.steampowered.com/app/4530370/"
     },
     {
-      "name": "Football Manager 27 게임 내 에디터",
-      "sub": "",
-      "value": "10,800원",
-      "url": "https://store.steampowered.com/app/4530440/"
-    },
-    {
-      "name": "디아블로 II 레저렉션 - 지옥불 에디션",
-      "sub": "35% 할인 (정가 44,900원)",
-      "value": "29,180원",
-      "url": "https://store.steampowered.com/app/2536520/"
-    },
-    {
-      "name": "Potato Please",
-      "sub": "10% 할인 (정가 11,000원)",
-      "value": "9,900원",
-      "url": "https://store.steampowered.com/app/5266240/"
+      "name": "Slay the Spire 2",
+      "sub": "20% 할인 (정가 27,000원)",
+      "value": "21,600원",
+      "url": "https://store.steampowered.com/app/2868840/"
     },
     {
       "name": "Euro Truck Simulator 2 - Iceland",
@@ -65,22 +53,34 @@
       "url": "https://store.steampowered.com/app/3796990/"
     },
     {
-      "name": "Uninitialized",
-      "sub": "무료",
-      "value": "무료",
-      "url": "https://store.steampowered.com/app/4435640/"
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
     },
     {
-      "name": "Call of Duty®: Modern Warfare® 4",
+      "name": "Phantom Blade Zero",
       "sub": "",
-      "value": "80,000원",
-      "url": "https://store.steampowered.com/app/4435490/"
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
     },
     {
-      "name": "붉은사막 Enhanced: 미지의 여정",
+      "name": "Slay the Spire Collection",
+      "sub": "10% 할인 (정가 54,000원)",
+      "value": "43,740원",
+      "url": "https://store.steampowered.com/app/68595/"
+    },
+    {
+      "name": "붉은사막 Enhanced",
       "sub": "",
-      "value": "27,800원",
-      "url": "https://store.steampowered.com/app/5001840/"
+      "value": "79,800원",
+      "url": "https://store.steampowered.com/app/3321460/"
+    },
+    {
+      "name": "CelSector",
+      "sub": "10% 할인 (정가 17,000원)",
+      "value": "15,300원",
+      "url": "https://store.steampowered.com/app/4651080/"
     }
   ],
   "refresh": {

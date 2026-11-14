@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-13",
+  "collected_date": "2026-11-14",
   "related": [
     "game-steam",
     "game-popular"
@@ -22,12 +22,6 @@
     "할인율은 순위를 끌어올리는 가장 강력한 변수입니다. 출시된 지 몇 년 지난 게임이 상위권에 있다면 대개 큰 폭의 할인이 걸려 있고, 반대로 정가 그대로인 게임이 1위에 있다면 신작이라는 뜻입니다. 가격 옆의 할인 표시를 함께 보면 그 게임이 왜 지금 팔리는지 대체로 설명이 됩니다."
   ],
   "items": [
-    {
-      "name": "Euro Truck Simulator 2 - Coaches",
-      "sub": "",
-      "value": "19,860원",
-      "url": "https://store.steampowered.com/app/3809270/"
-    },
     {
       "name": "Call of Duty®: Modern Warfare® 4",
       "sub": "",
@@ -41,22 +35,10 @@
       "url": "https://store.steampowered.com/app/4530370/"
     },
     {
-      "name": "Slay the Spire 2",
-      "sub": "20% 할인 (정가 27,000원)",
-      "value": "21,600원",
-      "url": "https://store.steampowered.com/app/2868840/"
-    },
-    {
-      "name": "Euro Truck Simulator 2 - Iceland",
+      "name": "Euro Truck Simulator 2 - Coaches",
       "sub": "",
-      "value": "14,900원",
-      "url": "https://store.steampowered.com/app/3796990/"
-    },
-    {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
+      "value": "19,860원",
+      "url": "https://store.steampowered.com/app/3809270/"
     },
     {
       "name": "Phantom Blade Zero",
@@ -65,22 +47,40 @@
       "url": "https://store.steampowered.com/app/4115450/"
     },
     {
-      "name": "Slay the Spire Collection",
-      "sub": "10% 할인 (정가 54,000원)",
-      "value": "43,740원",
-      "url": "https://store.steampowered.com/app/68595/"
+      "name": "Slay the Spire 2",
+      "sub": "20% 할인 (정가 27,000원)",
+      "value": "21,600원",
+      "url": "https://store.steampowered.com/app/2868840/"
     },
     {
-      "name": "붉은사막 Enhanced",
+      "name": "Call of Duty®: Modern Warfare® 4",
       "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/3321460/"
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "슬롯바운드 - Slotbound",
+      "sub": "10% 할인 (정가 12,000원)",
+      "value": "10,800원",
+      "url": "https://store.steampowered.com/app/4459590/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
     },
     {
       "name": "CelSector",
       "sub": "10% 할인 (정가 17,000원)",
       "value": "15,300원",
       "url": "https://store.steampowered.com/app/4651080/"
+    },
+    {
+      "name": "Uninitialized",
+      "sub": "무료",
+      "value": "무료",
+      "url": "https://store.steampowered.com/app/4435640/"
     }
   ],
   "refresh": {

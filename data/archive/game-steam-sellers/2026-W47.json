@@ -1,0 +1,75 @@
+{
+  "slug": "game-steam-sellers",
+  "week_id": "2026-W47",
+  "year": 2026,
+  "week": 47,
+  "period": null,
+  "collected_date": "2026-11-16",
+  "items": [
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
+    },
+    {
+      "name": "Football Manager 27",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4530370/"
+    },
+    {
+      "name": "슬롯바운드 - Slotbound",
+      "sub": "10% 할인 (정가 12,000원)",
+      "value": "10,800원",
+      "url": "https://store.steampowered.com/app/4459590/"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "sub": "20% 할인 (정가 27,000원)",
+      "value": "21,600원",
+      "url": "https://store.steampowered.com/app/2868840/"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
+    },
+    {
+      "name": "Potato Please",
+      "sub": "",
+      "value": "11,000원",
+      "url": "https://store.steampowered.com/app/5266240/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "sub": "",
+      "value": "19,860원",
+      "url": "https://store.steampowered.com/app/3809270/"
+    },
+    {
+      "name": "Uninitialized",
+      "sub": "무료",
+      "value": "무료",
+      "url": "https://store.steampowered.com/app/4435640/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
+    }
+  ],
+  "changes": [
+    "1위 Call of Duty®: Modern Warfare® 4 — 자리 유지",
+    "신규 진입 4개: 3위 슬롯바운드 - Slotbound, 4위 Slay the Spire 2, 7위 WARDOGS, 8위 Euro Truck Simulator 2 - Coaches",
+    "순위 이탈 4개: 붉은사막 Enhanced: 미지의 여정, 붉은사막 Enhanced, Probably Stolen - Cyberpunk Shopkeeper Sim, ZED ZONE"
+  ]
+}

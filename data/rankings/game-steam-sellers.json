@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-15",
+  "collected_date": "2026-11-16",
   "related": [
     "game-steam",
     "game-popular"
@@ -35,28 +35,10 @@
       "url": "https://store.steampowered.com/app/4530370/"
     },
     {
-      "name": "Euro Truck Simulator 2 - Coaches",
-      "sub": "",
-      "value": "19,860원",
-      "url": "https://store.steampowered.com/app/3809270/"
-    },
-    {
-      "name": "Phantom Blade Zero",
-      "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4115450/"
-    },
-    {
-      "name": "WARDOGS",
-      "sub": "",
-      "value": "47,270원",
-      "url": "https://store.steampowered.com/app/1867240/"
-    },
-    {
-      "name": "붉은사막 Enhanced",
-      "sub": "",
-      "value": "79,800원",
-      "url": "https://store.steampowered.com/app/3321460/"
+      "name": "슬롯바운드 - Slotbound",
+      "sub": "10% 할인 (정가 12,000원)",
+      "value": "10,800원",
+      "url": "https://store.steampowered.com/app/4459590/"
     },
     {
       "name": "Slay the Spire 2",
@@ -65,22 +47,40 @@
       "url": "https://store.steampowered.com/app/2868840/"
     },
     {
-      "name": "슬롯바운드 - Slotbound",
-      "sub": "10% 할인 (정가 12,000원)",
-      "value": "10,800원",
-      "url": "https://store.steampowered.com/app/4459590/"
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
     },
     {
-      "name": "Bodycam",
-      "sub": "20% 할인 (정가 37,500원)",
-      "value": "30,000원",
-      "url": "https://store.steampowered.com/app/2406770/"
+      "name": "Potato Please",
+      "sub": "",
+      "value": "11,000원",
+      "url": "https://store.steampowered.com/app/5266240/"
+    },
+    {
+      "name": "WARDOGS",
+      "sub": "",
+      "value": "47,270원",
+      "url": "https://store.steampowered.com/app/1867240/"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - Coaches",
+      "sub": "",
+      "value": "19,860원",
+      "url": "https://store.steampowered.com/app/3809270/"
     },
     {
       "name": "Uninitialized",
       "sub": "무료",
       "value": "무료",
       "url": "https://store.steampowered.com/app/4435640/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "sub": "",
+      "value": "80,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
     }
   ],
   "refresh": {

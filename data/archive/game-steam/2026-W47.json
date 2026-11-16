@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W47",
+  "year": 2026,
+  "week": 47,
+  "period": null,
+  "collected_date": "2026-11-16",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 130.4만 명"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 85.5만 명 · 직전 주 3위"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 73.9만 명 · 직전 주 2위"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 12.3만 명"
+    },
+    {
+      "name": "ROB RUN",
+      "sub": "최고 동시접속 41.8만 명 · 직전 주 28위"
+    },
+    {
+      "name": "Deadlock",
+      "sub": "최고 동시접속 21.8만 명"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "sub": "최고 동시접속 33.3만 명 · 직전 주 5위"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "sub": "최고 동시접속 20만 명 · 직전 주 11위"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 25.4만 명 · 직전 주 7위"
+    },
+    {
+      "name": "콜 오브 듀티®",
+      "sub": "최고 동시접속 17만 명 · 직전 주 8위"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 2개: 5위 ROB RUN, 8위 Slay the Spire 2",
+    "순위 이탈 2개: Cyberpunk 2077, War Thunder"
+  ]
+}

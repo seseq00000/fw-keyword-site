@@ -1,0 +1,90 @@
+{
+  "slug": "music-albums-kr",
+  "week_id": "2026-W47",
+  "year": 2026,
+  "week": 47,
+  "period": null,
+  "collected_date": "2026-11-16",
+  "items": [
+    {
+      "name": "The Ship Of Theseus",
+      "sub": "Various Artists",
+      "url": "https://music.apple.com/kr/album/the-ship-of-theseus/6831544902"
+    },
+    {
+      "name": "DREAM AFTER DREAM",
+      "sub": "NCT DREAM",
+      "url": "https://music.apple.com/kr/album/dream-after-dream/6827483714"
+    },
+    {
+      "name": "PULSE - EP",
+      "sub": "리센느",
+      "url": "https://music.apple.com/kr/album/pulse-ep/6828335122"
+    },
+    {
+      "name": "킁",
+      "sub": "씨잼",
+      "url": "https://music.apple.com/kr/album/keung/1463936919"
+    },
+    {
+      "name": "S.W.I.S.H. - EP",
+      "sub": "LNGSHOT",
+      "url": "https://music.apple.com/kr/album/s-w-i-s-h-ep/6821311332"
+    },
+    {
+      "name": "TEAM BABY",
+      "sub": "검정치마",
+      "url": "https://music.apple.com/kr/album/team-baby/1242154383"
+    },
+    {
+      "name": "BREAK EVEN - EP",
+      "sub": "아일릿",
+      "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
+    },
+    {
+      "name": "오보에",
+      "sub": "양홍원",
+      "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
+      "name": "i+em",
+      "sub": "김하온",
+      "url": "https://music.apple.com/kr/album/i-em/6832870685"
+    },
+    {
+      "name": "J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
+      "sub": "임윤찬",
+      "url": "https://music.apple.com/kr/album/j-s-bach-goldberg-variations-deluxe-live-at-carnegie/6831706961"
+    },
+    {
+      "name": "SUPERSTAR - EP",
+      "sub": "A2O & A2O SOUL",
+      "url": "https://music.apple.com/kr/album/superstar-ep/6830057356"
+    },
+    {
+      "name": "MONOLITH",
+      "sub": "창모",
+      "url": "https://music.apple.com/kr/album/monolith/6817677768"
+    },
+    {
+      "name": "새천년",
+      "sub": "Unofficialboyy",
+      "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
+    },
+    {
+      "name": "Pirouette",
+      "sub": "2hollis",
+      "url": "https://music.apple.com/kr/album/pirouette/6812861964"
+    },
+    {
+      "name": "TUNE & PLAY - EP",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
+    }
+  ],
+  "changes": [
+    "1위 교체 — PULSE - EP → The Ship Of Theseus",
+    "신규 진입 7개: 1위 The Ship Of Theseus, 2위 DREAM AFTER DREAM, 5위 S.W.I.S.H. - EP, 9위 i+em, 10위 J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
+    "순위 이탈 7개: asdf - EP, BLOW UP, SLUMPED, 개화, I SPY - The 4th Mini Album - EP"
+  ]
+}

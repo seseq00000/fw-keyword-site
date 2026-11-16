@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-15",
+  "collected_date": "2026-11-16",
   "related": [
     "music-applemusic-kr"
   ],
@@ -35,24 +35,14 @@
       "url": "https://music.apple.com/kr/album/pulse-ep/6828335122"
     },
     {
-      "name": "S.W.I.S.H. - EP",
-      "sub": "LNGSHOT",
-      "url": "https://music.apple.com/kr/album/s-w-i-s-h-ep/6821311332"
-    },
-    {
-      "name": "i+em",
-      "sub": "김하온",
-      "url": "https://music.apple.com/kr/album/i-em/6832870685"
-    },
-    {
       "name": "킁",
       "sub": "씨잼",
       "url": "https://music.apple.com/kr/album/keung/1463936919"
     },
     {
-      "name": "BREAK EVEN - EP",
-      "sub": "아일릿",
-      "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
+      "name": "S.W.I.S.H. - EP",
+      "sub": "LNGSHOT",
+      "url": "https://music.apple.com/kr/album/s-w-i-s-h-ep/6821311332"
     },
     {
       "name": "TEAM BABY",
@@ -60,9 +50,19 @@
       "url": "https://music.apple.com/kr/album/team-baby/1242154383"
     },
     {
+      "name": "BREAK EVEN - EP",
+      "sub": "아일릿",
+      "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
+    },
+    {
       "name": "오보에",
       "sub": "양홍원",
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
+    },
+    {
+      "name": "i+em",
+      "sub": "김하온",
+      "url": "https://music.apple.com/kr/album/i-em/6832870685"
     },
     {
       "name": "J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
@@ -75,14 +75,14 @@
       "url": "https://music.apple.com/kr/album/superstar-ep/6830057356"
     },
     {
-      "name": "GOLDEN HOUR : Part.6 - EP",
-      "sub": "에이티즈",
-      "url": "https://music.apple.com/kr/album/golden-hour-part-6-ep/6819932396"
-    },
-    {
       "name": "MONOLITH",
       "sub": "창모",
       "url": "https://music.apple.com/kr/album/monolith/6817677768"
+    },
+    {
+      "name": "새천년",
+      "sub": "Unofficialboyy",
+      "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
     },
     {
       "name": "Pirouette",
@@ -90,9 +90,9 @@
       "url": "https://music.apple.com/kr/album/pirouette/6812861964"
     },
     {
-      "name": "새천년",
-      "sub": "Unofficialboyy",
-      "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
+      "name": "TUNE & PLAY - EP",
+      "sub": "튜이드",
+      "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
     }
   ],
   "refresh": {

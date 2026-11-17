@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-16",
+  "collected_date": "2026-11-17",
   "related": [
     "music-applemusic-kr"
   ],
@@ -33,6 +33,11 @@
       "name": "PULSE - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/pulse-ep/6828335122"
+    },
+    {
+      "name": "PERFECT STORM - EP",
+      "sub": "투모로우바이투게더",
+      "url": "https://music.apple.com/kr/album/perfect-storm-ep/6815062084"
     },
     {
       "name": "킁",
@@ -60,9 +65,9 @@
       "url": "https://music.apple.com/kr/album/3-steps-forward-2-steps-back/1573192793"
     },
     {
-      "name": "i+em",
-      "sub": "김하온",
-      "url": "https://music.apple.com/kr/album/i-em/6832870685"
+      "name": "새천년",
+      "sub": "Unofficialboyy",
+      "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
     },
     {
       "name": "J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
@@ -75,24 +80,19 @@
       "url": "https://music.apple.com/kr/album/superstar-ep/6830057356"
     },
     {
-      "name": "MONOLITH",
-      "sub": "창모",
-      "url": "https://music.apple.com/kr/album/monolith/6817677768"
-    },
-    {
-      "name": "새천년",
-      "sub": "Unofficialboyy",
-      "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
-    },
-    {
-      "name": "Pirouette",
-      "sub": "2hollis",
-      "url": "https://music.apple.com/kr/album/pirouette/6812861964"
-    },
-    {
       "name": "TUNE & PLAY - EP",
       "sub": "튜이드",
       "url": "https://music.apple.com/kr/album/tune-play-ep/6795782851"
+    },
+    {
+      "name": "i+em",
+      "sub": "김하온",
+      "url": "https://music.apple.com/kr/album/i-em/6832870685"
+    },
+    {
+      "name": "MONOLITH",
+      "sub": "창모",
+      "url": "https://music.apple.com/kr/album/monolith/6817677768"
     }
   ],
   "refresh": {

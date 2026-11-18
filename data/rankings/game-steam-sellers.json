@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-17",
+  "collected_date": "2026-11-18",
   "related": [
     "game-steam",
     "game-popular"
@@ -41,28 +41,10 @@
       "url": "https://store.steampowered.com/app/4530370/"
     },
     {
-      "name": "페르소나3 리로드",
-      "sub": "65% 할인 (정가 69,800원)",
-      "value": "24,430원",
-      "url": "https://store.steampowered.com/app/2161700/"
-    },
-    {
-      "name": "『페르소나3 리로드』&『페르소나5 더 로열』 번들",
-      "sub": "67% 할인 (정가 139,600원)",
-      "value": "40,840원",
-      "url": "https://store.steampowered.com/app/43918/"
-    },
-    {
-      "name": "페르소나 5 더 로열",
-      "sub": "70% 할인 (정가 69,800원)",
-      "value": "20,940원",
-      "url": "https://store.steampowered.com/app/1687950/"
-    },
-    {
-      "name": "붉은사막 Enhanced: 미지의 여정",
-      "sub": "",
-      "value": "27,800원",
-      "url": "https://store.steampowered.com/app/5001840/"
+      "name": "P의 거짓 (Lies of P)",
+      "sub": "50% 할인 (정가 64,800원)",
+      "value": "32,400원",
+      "url": "https://store.steampowered.com/app/1627720/"
     },
     {
       "name": "Slay the Spire 2",
@@ -71,16 +53,34 @@
       "url": "https://store.steampowered.com/app/2868840/"
     },
     {
-      "name": "Phantom Blade Zero",
+      "name": "붉은사막 Enhanced: 미지의 여정",
       "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4115450/"
+      "value": "27,800원",
+      "url": "https://store.steampowered.com/app/5001840/"
+    },
+    {
+      "name": "슬롯바운드 - Slotbound",
+      "sub": "10% 할인 (정가 12,000원)",
+      "value": "10,800원",
+      "url": "https://store.steampowered.com/app/4459590/"
     },
     {
       "name": "Kingdom Come: Deliverance II",
       "sub": "67% 할인 (정가 60,800원)",
       "value": "20,060원",
       "url": "https://store.steampowered.com/app/1771300/"
+    },
+    {
+      "name": "Crusader Kings III: Silk & Silver",
+      "sub": "",
+      "value": "33,000원",
+      "url": "https://store.steampowered.com/app/4232910/"
+    },
+    {
+      "name": "군단 전선",
+      "sub": "10% 할인 (정가 20,500원)",
+      "value": "18,450원",
+      "url": "https://store.steampowered.com/app/2781660/"
     }
   ],
   "refresh": {

@@ -9,7 +9,7 @@
   "value_label": "앱스토어 유료 앱 구매 순위",
   "source": "Apple App Store 공식 차트 — 유료 앱 순위(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/apps/top-paid/20/apps.json",
-  "collected_date": "2026-11-18",
+  "collected_date": "2026-11-19",
   "related": [
     "app-appstore-kr"
   ],
@@ -25,6 +25,11 @@
       "url": "https://apps.apple.com/kr/app/%EB%B2%A0%EB%A6%AC%ED%95%84%EB%A6%84-berryfilm-60%EB%A7%8C-%ED%8C%AC%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%ED%95%84%ED%84%B0/id6741474933"
     },
     {
+      "name": "Analog Wedding",
+      "sub": "ordinaryfactory Inc.",
+      "url": "https://apps.apple.com/kr/app/analog-wedding/id992047786"
+    },
+    {
       "name": "영뽀또 - 감성 구도 카메라",
       "sub": "Seungyun Kim",
       "url": "https://apps.apple.com/kr/app/%EC%98%81%EB%BD%80%EB%98%90-%EA%B0%90%EC%84%B1-%EA%B5%AC%EB%8F%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6763737180"
@@ -33,11 +38,6 @@
       "name": "올디 Oldi - Phone Camera",
       "sub": "Sean Cho",
       "url": "https://apps.apple.com/kr/app/%EC%98%AC%EB%94%94-oldi-phone-camera/id6760838876"
-    },
-    {
-      "name": "Analog Wedding",
-      "sub": "ordinaryfactory Inc.",
-      "url": "https://apps.apple.com/kr/app/analog-wedding/id992047786"
     },
     {
       "name": "filmhwa (필름화) - 화민 필터",
@@ -55,9 +55,9 @@
       "url": "https://apps.apple.com/kr/app/%ED%9A%8C%EB%8F%85jlpt-vip/id1455054515"
     },
     {
-      "name": "Shadowrocket",
-      "sub": "Shadow Launch Technology Limited",
-      "url": "https://apps.apple.com/kr/app/shadowrocket/id932747118"
+      "name": "AnkiMobile Flashcards",
+      "sub": "Anki Software, LLC",
+      "url": "https://apps.apple.com/kr/app/ankimobile-flashcards/id373493387"
     },
     {
       "name": "Face Witness",
@@ -65,24 +65,9 @@
       "url": "https://apps.apple.com/kr/app/face-witness/id6822738484"
     },
     {
-      "name": "AnkiMobile Flashcards",
-      "sub": "Anki Software, LLC",
-      "url": "https://apps.apple.com/kr/app/ankimobile-flashcards/id373493387"
-    },
-    {
-      "name": "Widezilla Browser",
-      "sub": "Matteo Dall'Ombra",
-      "url": "https://apps.apple.com/kr/app/widezilla-browser/id6827308965"
-    },
-    {
-      "name": "롤리즈: 감성 필름 카메라",
-      "sub": "마야크루",
-      "url": "https://apps.apple.com/kr/app/%EB%A1%A4%EB%A6%AC%EC%A6%88-%EA%B0%90%EC%84%B1-%ED%95%84%EB%A6%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6805318319"
-    },
-    {
-      "name": "Procreate Pocket",
-      "sub": "Savage Interactive Pty Ltd",
-      "url": "https://apps.apple.com/kr/app/procreate-pocket/id916366645"
+      "name": "Shadowrocket",
+      "sub": "Shadow Launch Technology Limited",
+      "url": "https://apps.apple.com/kr/app/shadowrocket/id932747118"
     },
     {
       "name": "iY2K - 올인원 카메라 어플",
@@ -90,9 +75,24 @@
       "url": "https://apps.apple.com/kr/app/iy2k-%EC%98%AC%EC%9D%B8%EC%9B%90-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%96%B4%ED%94%8C/id6801799964"
     },
     {
-      "name": "Sidefill: Safari용 화면 끝까지 브라우징",
-      "sub": "Seokyong Kim",
-      "url": "https://apps.apple.com/kr/app/sidefill-safari%EC%9A%A9-%ED%99%94%EB%A9%B4-%EB%81%9D%EA%B9%8C%EC%A7%80-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95/id6830004679"
+      "name": "Procreate Pocket",
+      "sub": "Savage Interactive Pty Ltd",
+      "url": "https://apps.apple.com/kr/app/procreate-pocket/id916366645"
+    },
+    {
+      "name": "Jump Desktop (RDP, VNC, Fluid)",
+      "sub": "Phase Five Systems",
+      "url": "https://apps.apple.com/kr/app/jump-desktop-rdp-vnc-fluid/id364876095"
+    },
+    {
+      "name": "롤리즈: 감성 필름 카메라",
+      "sub": "마야크루",
+      "url": "https://apps.apple.com/kr/app/%EB%A1%A4%EB%A6%AC%EC%A6%88-%EA%B0%90%EC%84%B1-%ED%95%84%EB%A6%84-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6805318319"
+    },
+    {
+      "name": "UnTrap for YouTube",
+      "sub": "Yevhen Tretiakov",
+      "url": "https://apps.apple.com/kr/app/untrap-for-youtube/id1637438059"
     }
   ],
   "refresh": {

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-21",
+  "collected_date": "2026-11-22",
   "related": [
     "game-steam",
     "game-popular"
@@ -47,22 +47,22 @@
       "url": "https://store.steampowered.com/app/2215430/"
     },
     {
-      "name": "EA SPORTS FC™ 27",
-      "sub": "50% 할인 (정가 80,000원)",
-      "value": "40,000원",
-      "url": "https://store.steampowered.com/app/4080220/"
-    },
-    {
       "name": "마블 스파이더맨 2",
       "sub": "33% 할인 (정가 62,800원)",
       "value": "42,080원",
       "url": "https://store.steampowered.com/app/2651280/"
     },
     {
-      "name": "FINAL FANTASY VII REBIRTH",
-      "sub": "85% 할인 (정가 62,800원)",
-      "value": "9,420원",
-      "url": "https://store.steampowered.com/app/2909400/"
+      "name": "EA SPORTS FC™ 27",
+      "sub": "50% 할인 (정가 80,000원)",
+      "value": "40,000원",
+      "url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "name": "Marvel’s Spider-Man Remastered",
+      "sub": "60% 할인 (정가 62,800원)",
+      "value": "25,120원",
+      "url": "https://store.steampowered.com/app/1817070/"
     },
     {
       "name": "DEATH STRANDING 2: ON THE BEACH",
@@ -71,16 +71,16 @@
       "url": "https://store.steampowered.com/app/3280350/"
     },
     {
-      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "sub": "82% 할인 (정가 49,800원)",
-      "value": "8,960원",
-      "url": "https://store.steampowered.com/app/1462040/"
+      "name": "Phantom Blade Zero",
+      "sub": "",
+      "value": "69,800원",
+      "url": "https://store.steampowered.com/app/4115450/"
     },
     {
-      "name": "Marvel’s Spider-Man Remastered",
-      "sub": "60% 할인 (정가 62,800원)",
-      "value": "25,120원",
-      "url": "https://store.steampowered.com/app/1817070/"
+      "name": "FINAL FANTASY VII REBIRTH",
+      "sub": "85% 할인 (정가 62,800원)",
+      "value": "9,420원",
+      "url": "https://store.steampowered.com/app/2909400/"
     }
   ],
   "refresh": {

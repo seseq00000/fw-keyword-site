@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-22",
+  "collected_date": "2026-11-23",
   "related": [
     "game-steam",
     "game-popular"
@@ -41,16 +41,10 @@
       "url": "https://store.steampowered.com/app/4530370/"
     },
     {
-      "name": "Ghost of Tsushima 디렉터스 컷",
-      "sub": "50% 할인 (정가 62,800원)",
-      "value": "31,400원",
-      "url": "https://store.steampowered.com/app/2215430/"
-    },
-    {
-      "name": "마블 스파이더맨 2",
-      "sub": "33% 할인 (정가 62,800원)",
-      "value": "42,080원",
-      "url": "https://store.steampowered.com/app/2651280/"
+      "name": "슬롯바운드 - Slotbound",
+      "sub": "10% 할인 (정가 12,000원)",
+      "value": "10,800원",
+      "url": "https://store.steampowered.com/app/4459590/"
     },
     {
       "name": "EA SPORTS FC™ 27",
@@ -59,28 +53,34 @@
       "url": "https://store.steampowered.com/app/4080220/"
     },
     {
+      "name": "Ghost of Tsushima 디렉터스 컷",
+      "sub": "50% 할인 (정가 62,800원)",
+      "value": "31,400원",
+      "url": "https://store.steampowered.com/app/2215430/"
+    },
+    {
+      "name": "Grand Theft Auto V 인핸스드",
+      "sub": "",
+      "value": "36,790원",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "Grand Theft Auto V 인핸스드",
+      "sub": "",
+      "value": "36,790원",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "마블 스파이더맨 2",
+      "sub": "33% 할인 (정가 62,800원)",
+      "value": "42,080원",
+      "url": "https://store.steampowered.com/app/2651280/"
+    },
+    {
       "name": "Marvel’s Spider-Man Remastered",
       "sub": "60% 할인 (정가 62,800원)",
       "value": "25,120원",
       "url": "https://store.steampowered.com/app/1817070/"
-    },
-    {
-      "name": "DEATH STRANDING 2: ON THE BEACH",
-      "sub": "33% 할인 (정가 79,800원)",
-      "value": "53,470원",
-      "url": "https://store.steampowered.com/app/3280350/"
-    },
-    {
-      "name": "Phantom Blade Zero",
-      "sub": "",
-      "value": "69,800원",
-      "url": "https://store.steampowered.com/app/4115450/"
-    },
-    {
-      "name": "FINAL FANTASY VII REBIRTH",
-      "sub": "85% 할인 (정가 62,800원)",
-      "value": "9,420원",
-      "url": "https://store.steampowered.com/app/2909400/"
     }
   ],
   "refresh": {

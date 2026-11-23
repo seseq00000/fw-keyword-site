@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-films",
+  "week_id": "2026-W48",
+  "year": 2026,
+  "week": 48,
+  "period": "2026-11-15 주간",
+  "collected_date": "2026-11-23",
+  "items": [
+    {
+      "name": "Heartland",
+      "sub": "차트 1주차",
+      "value": "730만 회"
+    },
+    {
+      "name": "A Dog's Perfect Christmas",
+      "sub": "차트 2주차",
+      "value": "720만 회"
+    },
+    {
+      "name": "The Gospel of Christmas",
+      "sub": "차트 1주차",
+      "value": "610만 회"
+    },
+    {
+      "name": "Reminders of Him",
+      "sub": "차트 1주차",
+      "value": "440만 회"
+    },
+    {
+      "name": "Allen",
+      "sub": "차트 1주차",
+      "value": "350만 회"
+    },
+    {
+      "name": "Sing 2",
+      "sub": "차트 15주차",
+      "value": "320만 회"
+    },
+    {
+      "name": "How the Grinch Stole Christmas",
+      "sub": "차트 9주차",
+      "value": "310만 회"
+    },
+    {
+      "name": "Funny Money: The Dane Cook Story",
+      "sub": "차트 1주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "All the Pretty Horses",
+      "sub": "차트 1주차",
+      "value": "260만 회"
+    },
+    {
+      "name": "Sing",
+      "sub": "차트 19주차",
+      "value": "240만 회"
+    }
+  ],
+  "changes": [
+    "1위 교체 — A Dog's Perfect Christmas → Heartland",
+    "신규 진입 7개: 1위 Heartland, 3위 The Gospel of Christmas, 4위 Reminders of Him, 5위 Allen, 7위 How the Grinch Stole Christmas",
+    "순위 이탈 7개: Heist, Final Destination: Bloodlines, The Day After Tomorrow, Sniper: The Last Stand, Thanksgiving"
+  ]
+}

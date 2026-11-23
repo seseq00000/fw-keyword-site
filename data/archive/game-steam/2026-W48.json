@@ -1,0 +1,55 @@
+{
+  "slug": "game-steam",
+  "week_id": "2026-W48",
+  "year": 2026,
+  "week": 48,
+  "period": null,
+  "collected_date": "2026-11-23",
+  "items": [
+    {
+      "name": "Counter-Strike 2",
+      "sub": "최고 동시접속 126만 명"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "sub": "최고 동시접속 77만 명 · 직전 주 3위"
+    },
+    {
+      "name": "Dota 2",
+      "sub": "최고 동시접속 86.1만 명 · 직전 주 2위"
+    },
+    {
+      "name": "Wallpaper Engine",
+      "sub": "최고 동시접속 12.2만 명"
+    },
+    {
+      "name": "ROB RUN",
+      "sub": "최고 동시접속 49.6만 명"
+    },
+    {
+      "name": "Deadlock",
+      "sub": "최고 동시접속 20.7만 명"
+    },
+    {
+      "name": "Apex 레전드™",
+      "sub": "최고 동시접속 23.8만 명 · 직전 주 9위"
+    },
+    {
+      "name": "Slay the Spire 2",
+      "sub": "최고 동시접속 15.8만 명"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "sub": "최고 동시접속 21.7만 명 · 직전 주 7위"
+    },
+    {
+      "name": "Grand Theft Auto V 인핸스드",
+      "sub": "최고 동시접속 12.9만 명 · 직전 주 20위"
+    }
+  ],
+  "changes": [
+    "1위 Counter-Strike 2 — 자리 유지",
+    "신규 진입 1개: 10위 Grand Theft Auto V 인핸스드",
+    "순위 이탈 1개: 콜 오브 듀티®"
+  ]
+}

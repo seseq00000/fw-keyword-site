@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-22",
+  "collected_date": "2026-11-23",
   "related": [
     "music-applemusic-kr"
   ],
@@ -30,6 +30,11 @@
       "url": "https://music.apple.com/kr/album/perfect-storm-ep/6815062084"
     },
     {
+      "name": "Grand Theft Auto VI: The Album",
+      "sub": "Various Artists",
+      "url": "https://music.apple.com/kr/album/grand-theft-auto-vi-the-album/6812476961"
+    },
+    {
       "name": "The Ship Of Theseus",
       "sub": "Various Artists",
       "url": "https://music.apple.com/kr/album/the-ship-of-theseus/6831544902"
@@ -38,11 +43,6 @@
       "name": "DREAM AFTER DREAM",
       "sub": "NCT DREAM",
       "url": "https://music.apple.com/kr/album/dream-after-dream/6827483714"
-    },
-    {
-      "name": "Grand Theft Auto VI: The Album",
-      "sub": "Various Artists",
-      "url": "https://music.apple.com/kr/album/grand-theft-auto-vi-the-album/6812476961"
     },
     {
       "name": "킁",

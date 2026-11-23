@@ -1,0 +1,65 @@
+{
+  "slug": "movie-netflix-tv-en",
+  "week_id": "2026-W48",
+  "year": 2026,
+  "week": 48,
+  "period": "2026-11-15 주간",
+  "collected_date": "2026-11-23",
+  "items": [
+    {
+      "name": "Taken: Natalee Holloway",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "720만 회"
+    },
+    {
+      "name": "Black Doves",
+      "sub": "시즌 2 · 차트 2주차",
+      "value": "660만 회"
+    },
+    {
+      "name": "The Body",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "510만 회"
+    },
+    {
+      "name": "Doozie's Doghouse",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "500만 회"
+    },
+    {
+      "name": "Black Doves",
+      "sub": "시즌 1 · 차트 7주차",
+      "value": "370만 회"
+    },
+    {
+      "name": "Power",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "290만 회"
+    },
+    {
+      "name": "Raw",
+      "sub": "November 9, 2026 · 차트 1주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "Nobody Wants This",
+      "sub": "시즌 3 · 차트 4주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "The One About Matthew Perry",
+      "sub": "시즌 1 · 차트 3주차",
+      "value": "170만 회"
+    },
+    {
+      "name": "Danny Go!",
+      "sub": "시즌 2 · 차트 5주차",
+      "value": "150만 회"
+    }
+  ],
+  "changes": [
+    "1위 Taken: Natalee Holloway — 자리 유지",
+    "신규 진입 4개: 3위 The Body, 4위 Doozie's Doghouse, 6위 Power, 10위 Danny Go!",
+    "순위 이탈 5개: Below, Love Is Blind, Will Trent, The Diplomat, East of Eden"
+  ]
+}

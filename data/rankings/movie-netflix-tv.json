@@ -9,7 +9,7 @@
   "value_label": "주간 시청 수 (2026-07-20 ~ 07-26)",
   "source": "Netflix Top 10 공식 데이터 (top10.netflix.com)",
   "source_url": "https://top10.netflix.com/data/all-weeks-global.tsv",
-  "collected_date": "2026-11-18",
+  "collected_date": "2026-11-25",
   "related": [
     "movie-netflix-films",
     "movie-netflix"
@@ -21,53 +21,53 @@
   ],
   "items": [
     {
-      "name": "Anaesthesia",
-      "sub": "시즌 1 · 차트 2주차",
-      "value": "430만 회"
-    },
-    {
-      "name": "The Empress",
-      "sub": "시즌 3 · 차트 1주차",
-      "value": "390만 회"
-    },
-    {
-      "name": "Lupin",
-      "sub": "파트 4 · 차트 4주차",
-      "value": "390만 회"
-    },
-    {
-      "name": "Dead-End Job",
-      "sub": "리미티드 시리즈 · 차트 3주차",
-      "value": "370만 회"
-    },
-    {
-      "name": "Doctor X: Mafia in White",
-      "sub": "리미티드 시리즈 · 차트 6주차",
-      "value": "340만 회"
-    },
-    {
-      "name": "Alicia's Law",
+      "name": "The Law of Beasts",
       "sub": "시즌 1 · 차트 1주차",
-      "value": "330만 회"
+      "value": "580만 회"
     },
     {
       "name": "Murder in Galicia",
-      "sub": "리미티드 시리즈 · 차트 1주차",
-      "value": "280만 회"
+      "sub": "리미티드 시리즈 · 차트 2주차",
+      "value": "440만 회"
     },
     {
-      "name": "A Couple of Lies",
-      "sub": "리미티드 시리즈 · 차트 3주차",
-      "value": "210만 회"
+      "name": "The Empress",
+      "sub": "시즌 3 · 차트 2주차",
+      "value": "430만 회"
     },
     {
-      "name": "The Devil's Plan",
-      "sub": "시즌 3 · 차트 1주차",
-      "value": "200만 회"
+      "name": "Alicia's Law",
+      "sub": "시즌 1 · 차트 2주차",
+      "value": "360만 회"
     },
     {
       "name": "Lupin",
-      "sub": "파트 1 · 차트 9주차",
+      "sub": "파트 4 · 차트 5주차",
+      "value": "250만 회"
+    },
+    {
+      "name": "ChiaroScuro",
+      "sub": "시즌 1 · 차트 1주차",
+      "value": "240만 회"
+    },
+    {
+      "name": "The Blue Road",
+      "sub": "리미티드 시리즈 · 차트 1주차",
+      "value": "230만 회"
+    },
+    {
+      "name": "Dead-End Job",
+      "sub": "리미티드 시리즈 · 차트 4주차",
+      "value": "220만 회"
+    },
+    {
+      "name": "Doctor X: Mafia in White",
+      "sub": "리미티드 시리즈 · 차트 7주차",
+      "value": "210만 회"
+    },
+    {
+      "name": "Anaesthesia",
+      "sub": "시즌 1 · 차트 3주차",
       "value": "190만 회"
     }
   ],

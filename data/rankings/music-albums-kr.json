@@ -9,7 +9,7 @@
   "value_label": "애플 뮤직 앨범 재생량 순위 (대한민국)",
   "source": "Apple Music 공식 차트 — 인기 앨범(대한민국)",
   "source_url": "https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/15/albums.json",
-  "collected_date": "2026-11-25",
+  "collected_date": "2026-11-26",
   "related": [
     "music-applemusic-kr"
   ],
@@ -20,19 +20,24 @@
   ],
   "items": [
     {
+      "name": "33",
+      "sub": "혁오",
+      "url": "https://music.apple.com/kr/album/33/6830586251"
+    },
+    {
       "name": "PULSE - EP",
       "sub": "리센느",
       "url": "https://music.apple.com/kr/album/pulse-ep/6828335122"
     },
     {
-      "name": "Grand Theft Auto VI: The Album",
-      "sub": "Various Artists",
-      "url": "https://music.apple.com/kr/album/grand-theft-auto-vi-the-album/6812476961"
-    },
-    {
       "name": "PERFECT STORM - EP",
       "sub": "투모로우바이투게더",
       "url": "https://music.apple.com/kr/album/perfect-storm-ep/6815062084"
+    },
+    {
+      "name": "Grand Theft Auto VI: The Album",
+      "sub": "Various Artists",
+      "url": "https://music.apple.com/kr/album/grand-theft-auto-vi-the-album/6812476961"
     },
     {
       "name": "DREAM AFTER DREAM",
@@ -65,24 +70,19 @@
       "url": "https://music.apple.com/kr/album/break-even-ep/6818511623"
     },
     {
-      "name": "風流苦生 - EP",
-      "sub": "술탄 오브 더 디스코",
-      "url": "https://music.apple.com/kr/album/the-art-of-suffering-ep/6837136776"
-    },
-    {
       "name": "S.W.I.S.H. - EP",
       "sub": "LNGSHOT",
       "url": "https://music.apple.com/kr/album/s-w-i-s-h-ep/6821311332"
     },
     {
+      "name": "風流苦生 - EP",
+      "sub": "술탄 오브 더 디스코",
+      "url": "https://music.apple.com/kr/album/the-art-of-suffering-ep/6837136776"
+    },
+    {
       "name": "새천년",
       "sub": "Unofficialboyy",
       "url": "https://music.apple.com/kr/album/saecheonnyeon/6811808019"
-    },
-    {
-      "name": "Gleam Hour - EP",
-      "sub": "웬디",
-      "url": "https://music.apple.com/kr/album/gleam-hour-ep/6835801718"
     },
     {
       "name": "TUNE & PLAY - EP",

@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-25",
+  "collected_date": "2026-11-26",
   "related": [
     "game-steam",
     "game-popular"
@@ -27,12 +27,6 @@
       "sub": "15% 할인 (정가 80,000원)",
       "value": "68,000원",
       "url": "https://store.steampowered.com/app/4435490/"
-    },
-    {
-      "name": "Dead by Daylight: Terrifier",
-      "sub": "",
-      "value": "8,500원",
-      "url": "https://store.steampowered.com/app/5510420/"
     },
     {
       "name": "Football Manager 27",
@@ -59,28 +53,34 @@
       "url": "https://store.steampowered.com/app/1174180/"
     },
     {
-      "name": "Grand Theft Auto V 인핸스드",
-      "sub": "56% 할인 (정가 55,000원)",
-      "value": "24,200원",
-      "url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
-      "name": "Grand Theft Auto V 인핸스드",
-      "sub": "56% 할인 (정가 55,000원)",
-      "value": "24,200원",
-      "url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
       "name": "007 퍼스트 라이트",
       "sub": "50% 할인 (정가 79,000원)",
       "value": "39,500원",
       "url": "https://store.steampowered.com/app/3768760/"
     },
     {
-      "name": "Hades II",
-      "sub": "30% 할인 (정가 32,000원)",
-      "value": "22,400원",
-      "url": "https://store.steampowered.com/app/1145350/"
+      "name": "Grand Theft Auto V 인핸스드",
+      "sub": "56% 할인 (정가 55,000원)",
+      "value": "24,200원",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "Grand Theft Auto V 인핸스드",
+      "sub": "56% 할인 (정가 55,000원)",
+      "value": "24,200원",
+      "url": "https://store.steampowered.com/app/3240220/"
+    },
+    {
+      "name": "Company of Heroes 3: Operation Torch",
+      "sub": "",
+      "value": "22,800원",
+      "url": "https://store.steampowered.com/app/5210790/"
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "sub": "15% 할인 (정가 80,000원)",
+      "value": "68,000원",
+      "url": "https://store.steampowered.com/app/4435490/"
     }
   ],
   "refresh": {

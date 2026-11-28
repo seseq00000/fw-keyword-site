@@ -11,7 +11,7 @@
   "value_label": "스팀 한국 스토어 판매가",
   "source": "Steam 스토어 공식 API — 인기 판매(한국)",
   "source_url": "https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean",
-  "collected_date": "2026-11-27",
+  "collected_date": "2026-11-28",
   "related": [
     "game-steam",
     "game-popular"
@@ -29,12 +29,6 @@
       "url": "https://store.steampowered.com/app/4435490/"
     },
     {
-      "name": "붉은사막 Enhanced",
-      "sub": "20% 할인 (정가 79,800원)",
-      "value": "63,840원",
-      "url": "https://store.steampowered.com/app/3321460/"
-    },
-    {
       "name": "사이버펑크 2077: 얼티밋 에디션",
       "sub": "60% 할인 (정가 100,900원)",
       "value": "37,480원",
@@ -47,16 +41,22 @@
       "url": "https://store.steampowered.com/app/1091500/"
     },
     {
-      "name": "Baldur's Gate 3",
-      "sub": "30% 할인 (정가 66,000원)",
-      "value": "46,200원",
-      "url": "https://store.steampowered.com/app/1086940/"
-    },
-    {
       "name": "사이버펑크 2077: 팬텀 리버티",
       "sub": "40% 할인 (정가 34,900원)",
       "value": "20,940원",
       "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "name": "붉은사막 Enhanced",
+      "sub": "20% 할인 (정가 79,800원)",
+      "value": "63,840원",
+      "url": "https://store.steampowered.com/app/3321460/"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "sub": "30% 할인 (정가 66,000원)",
+      "value": "46,200원",
+      "url": "https://store.steampowered.com/app/1086940/"
     },
     {
       "name": "Football Manager 27",
